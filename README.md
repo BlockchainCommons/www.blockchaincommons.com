@@ -1,5 +1,7 @@
 ---
 layout: home
+title: #SmartCustody Home Page
+permalink: /index.html
 ---
 
 ## Welcome to GitHub Pages

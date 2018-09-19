@@ -1,6 +1,6 @@
 ---
 layout: home
-title: #SmartCustody Home Page
+title: \#SmartCustody Home Page
 toc: true
 bare: true
 permalink: /index.html

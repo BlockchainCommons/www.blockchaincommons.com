@@ -32,8 +32,8 @@ plugins:
   - jekyll-titles-from-headings
 
 locale: en-US
-# baseurl: # the subpath of your site, e.g. "/blog"
-# url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/"
+url: "https://www.BlockchainCommons.com"
 logo: images/Borromean-rings_minimal-overlap(256x256).png
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true

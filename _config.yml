@@ -1,10 +1,11 @@
+
 # Config
 # ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://www.BlockchainCommons.com
+url:                  https://www.BlockchainCommons.com
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -23,32 +24,30 @@ title:                 Blockchain Commons
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  "Blockchain Commons".
-  Supporting Blockchain and Internet Security & Infrastructure
+description:             "Blockchain Commons". Supporting Blockchain and Internet Security & Infrastructure
 
 # A shorter description for the sidebar.
-tagline:               >
-  "Blockchain Commons".
-  Supporting Blockchain and Internet Security & Infrastructure
+tagline:                 "Blockchain Commons". Supporting Blockchain and Internet Security & Infrastructure
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [blockchain, commons, infrastructure, research, cryptography, bitcoin, ethereum]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  transparent-lock-icon.svg
 
 # This should be the same author as first entry in `_data/authors.yml`.
-author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
-  # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+author:                 Blockchain Commons
+#  name:                <firstname> <lastname>
+email:                  <info@BlockchainCommons.com>
+
+# Used by `jekyll-seo-tag`:
+twitter:             BlockchainCommons
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2018. All rights reserved.
+copyright:             >
+  © 2019. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -59,18 +58,17 @@ copyright:             © 2018. All rights reserved.
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-permalink:             /blog/:categories/:year-:month-:day-:title/
+permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
-paginate_path:         /blog/page-:num/
-
+paginate_path:         /page-:num/
 
 # Customizaton
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          none
+accent_image:          sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -99,24 +97,6 @@ defaults:
         background:    rgb(32,32,32)
         overlay:       false
 
-  # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
-  # but we want them to be `WebPage`s:
-  - scope:
-      type:            projects
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_categories
-    values:
-      seo:
-        type:          WebPage
-  - scope:
-      type:            featured_tags
-    values:
-      seo:
-        type:          WebPage
-
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
@@ -130,7 +110,7 @@ defaults:
 # disqus:                <disqus_shortname>
 
 # Setting a tinyletter username will enable the newsletter subscription box.
-# tinyletter:            <tinyletter_username>
+tinyletter:            BlockchainCommons
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
@@ -138,7 +118,7 @@ defaults:
 
 hydejack:
   # Configure the order of complementary content on blog posts
-  post_addons:         [about, newsletter, related, random]
+  post_addons:         [about, newsletter, related]
 
   # Configure the order of complementary content on project pages
   project_addons:      [about, newsletter, other]
@@ -205,13 +185,12 @@ hydejack:
     enabled:           false
     cache_version:     1
 
-
 # Collections
 # ========================================================================================
 
 collections:
   featured_categories:
-    permalink:         /blog/:name/
+    permalink:         /:name/
     output:            true
 
   featured_tags:
@@ -246,6 +225,7 @@ include:
 # ========================================================================================
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-optional-front-matter
@@ -261,7 +241,7 @@ plugins:
 # ---------------------------------------------------------------------------------------
 
 # theme: jekyll-theme-hydejack
-# remote_theme: qwtel/hydejack
+remote_theme: qwtel/hydejack@gem
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
@@ -276,8 +256,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for Twitter cards
-# twitter:
-#   username:            <shortname>
+twitter:
+  username:            BlockchainCommons
 
 # Used for Facebook open graph
 # facebook:
@@ -287,11 +267,9 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
-
+  name:                BlockchainCommons
+  links:
+    - https://twitter.com/BlockchainCommons
 
 # Other Plugins
 # ---------------------------------------------------------------------------------------

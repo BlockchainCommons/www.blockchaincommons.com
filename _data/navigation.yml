@@ -4,13 +4,13 @@
   url: /
 - title: Posts
   url: /posts/
-- title: Categories
-  url: /categories/
-- title: Tags
-  url: /tags/
-- title: Recipes
-  url: /recipes/
-- title: Search
-  url: /search/
+# - title: Categories
+#   url: /categories/
+# - title: Tags
+#   url: /tags/
+# - title: Recipes
+#   url: /recipes/
+# - title: Search
+#   url: /search/
 - title: Smart Custody
   url: https://www.SmartCustody.com

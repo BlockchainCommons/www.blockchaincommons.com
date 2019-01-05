@@ -12,5 +12,21 @@ kramdown:
   hard_wrap: false
 future: true
 jailed: false
-theme: jekyll-theme-primer
+remote_theme: poole/hyde
 gfm_quirks: paragraph_end
+
+# Plugins
+# ========================================================================================
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings

@@ -95,13 +95,12 @@ $2,000 includes the workshop, handouts, and other self-custody related materials
 
 ## Hosted by
 
-[![blockchain-commons-logo](../images/blockchain-commons-logo.png)](https://www.BlockchainCommons.com)
+[![blockchain-commons-logo](/images/blockchain-commons-logo.png)](https://www.BlockchainCommons.com)
 
 ## Sponsored by
 
-[![blockstream-logo](../images/blockstream-logo.png)](https:blockstream.com)
+[![blockstream-logo](/images/blockstream-logo.png)](https:blockstream.com)
 
-[![cryptoasset-inheritance-planning-cover](../images/cryptoasset-inheritance-planning-cover.png)](https://t.co/hsLxiZdQya)
+[![cryptoasset-inheritance-planning-cover](/images/cryptoasset-inheritance-planning-cover.png)](https://t.co/hsLxiZdQya)
 
-[![ledger-logo](../images/ledger-logo.png)](https://www.ledger.com/)
-
+[![ledger-logo](/images/ledger-logo.png)](https://www.ledger.com/)

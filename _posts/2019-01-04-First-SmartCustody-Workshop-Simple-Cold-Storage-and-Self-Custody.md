@@ -44,12 +44,19 @@ The day will conclude with an open salon to discuss open questions and options f
 
 ### Christopher Allen
 
-#### Founder, Blockchain Commons
+#### Founder, Executive Director, Blockchain Commons
 
 - Co-author of TLS, widest deployed security standard
-- Executive Director, Blockchain Commons
+- Founder #RebootingWebOfTrust
 - Previously Principal Architect of Blockstream
 - Former CTO of Certicom
+
+### Bryan Bishop
+
+#### Digital Asset Consultant
+
+- Bitcoin Core Contributor
+- Former Chief Architect, Custody, LedgerX
 
 ### Angus Champion De Crespigny
 
@@ -85,3 +92,16 @@ The day will conclude with an open salon to discuss open questions and options f
 ## Price
 
 $2,000 includes the workshop, handouts, and other self-custody related materials. There are a couple $1,000 tickets for registered non-profits that accept or manage cryptocurrency. Contact [Christopher Allen](mailto:ChristopherA@LifeWithAlacrity.com) if you wish to pay via cryptocurrency.
+
+## Hosted by
+
+[![blockchain-commons-logo](../images/blockchain-commons-logo.png)](https://www.BlockchainCommons.com)
+
+## Sponsored by
+
+[![blockstream-logo](../images/blockstream-logo.png)](https:blockstream.com)
+
+[![cryptoasset-inheritance-planning-cover](../images/cryptoasset-inheritance-planning-cover.png)](https://t.co/hsLxiZdQya)
+
+[![ledger-logo](../images/ledger-logo.png)](https://www.ledger.com/)
+

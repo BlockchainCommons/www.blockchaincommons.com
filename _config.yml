@@ -3,7 +3,7 @@ project: "Blockchain Commons"
 description: "Supporting Blockchain Infrastructure, Internet Security & Cryptographic Research"
 author: Blockchain Commons
 email: info@BlockchainCommons.com
-twitter_username: BlockchainCommons
+twitter_username: BlockchainComns
 github_username:  BlockchainCommons
 show_downloads: false
 encoding: UTF-8
@@ -48,7 +48,7 @@ google_fonts:
 # disqus:
 #   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: BlockchainCommons
+  username: BlockchainComns
 
 # Liquid
 liquid:
@@ -106,6 +106,12 @@ author:
 
 # Footer Links
 footer_links:
+  - title: Twitter
+    url: https://twitter.com/BlockchainComns
+    icon: fas fa-github-square
+  - title: Github
+    url: https://twitter.com/BlockchainComns
+    icon: fas fa-twitter-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

@@ -108,10 +108,10 @@ author:
 footer_links:
   - title: Twitter
     url: https://twitter.com/BlockchainComns
-    icon: fas fa-github-square
+    icon: fab fa-github-square
   - title: Github
     url: https://twitter.com/BlockchainComns
-    icon: fas fa-twitter-square
+    icon: fab fa-twitter-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square

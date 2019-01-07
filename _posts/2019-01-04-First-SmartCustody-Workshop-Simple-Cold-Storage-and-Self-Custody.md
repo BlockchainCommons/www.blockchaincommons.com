@@ -93,13 +93,17 @@ The day will conclude with an open salon to discuss open questions and options f
 
 $2,000 includes the workshop, handouts, and other self-custody related materials. There are a couple $1,000 tickets for registered non-profits that accept or manage cryptocurrency. Contact [Christopher Allen](mailto:ChristopherA@LifeWithAlacrity.com) if you wish to pay via cryptocurrency.
 
-## Hosted by
+## Hosted By
 
 [![blockchain-commons-logo](/images/blockchain-commons-logo.png)](https://www.BlockchainCommons.com)
 
 [Blockchain Commons](https://www.blockchaincommons.com/): "Supporting Blockchain Infrastructure, Internet Security & Cryptographic Research"
 
 ## Sponsored by
+
+[![adamant-capital-logo-with-background](/images/adamant-capital-logo-with-background.png)](https://www.adamantcapitalfund.com/)
+
+[Adamant Capital](https://www.adamantcapitalfund.com/): Bitcoin Alpha Fund. Responsibly outperform Bitcoin in a tax-efficient manner.
 
 [![blockstream-logo](/images/blockstream-logo.png)](https:blockstream.com)
 
@@ -109,8 +113,9 @@ $2,000 includes the workshop, handouts, and other self-custody related materials
 
 [Cryptoasset Inheritance Planning](https://t.co/hsLxiZdQya): by Pamela Morgan "What happens to my bitcoin, ether, or other cryptoassets when I die?"
 
+[![crypto-tag-logo](/images/crypto-tag-logo.png)](https://cryptotag.io/)
+
+[CryptoTag](https://cryptotag.io/): We got your backup. Your crypto recovery seed and private keys forever stored in pure Titanium.
+
 [![ledger-logo](/images/ledger-logo.png)](https://www.ledger.com/)
-
 [Ledger](https://www.ledger.com/): "Developing security and infrastructure solutions for cryptocurrencies"
-
-## 

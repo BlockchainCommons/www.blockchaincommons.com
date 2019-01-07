@@ -26,7 +26,7 @@ This is the first of three different #SmartCustody workshops. This workshop is d
 
 This is the first of three different kinds of #SmartCustody workshops. This one is focused on individual holders of digital assets, in particular cryptocurrency traders and those high net-worth individuals who are already familiar & working with digital assets, but are are seeking to learn best practices for protecting themselves and their business from theft, fraud, or loss.
 
-Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, and those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
+Future workshops will be focused on holders of digital assets that have fiduciary responsibility to others, such as small investment funds & family firms, or those who are required to use third-party qualified custodians for management of digital assets due to the amount of funds held.
 
 ## What you can expect to learn
 

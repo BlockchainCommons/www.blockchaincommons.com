@@ -13,11 +13,11 @@ tags:
 
 The goal of social key recovery is for the user to specify groups of individuals that together possess the ability to recover the root secret of a wallet. A good social key recovery protocol should not just reflect what cryptographic primitives happen to be available for use, but rather instead should be designed to correspond with the structure of trust in the user's social network, while balancing the technical tradeoffs involved under the hood.
 
-The most popular social key recovery algorithm, [Shamir Secret Sharing](https://dl.acm.org/citation.cfm?doid=359168.359176) is considered information-theoretically secure. That is, individual shares contain absolutely no semantic information about the secret. However, all secrets are equal and once a sufficient threshold is compromised the secret is revealed. In social contexts this can cause a number of problems in common real-world scenarios. In addition, Shamir Secret Sharing has a history of being [naively implemented](https://crypto.stackexchange.com/questions/41994/why-is-shamir-secret-sharing-not-secure-against-active-adversaries-out-of-the-bo) including a number of serious [vulnerabilities](https://github.com/spesmilo/electrum-docs/blob/master/cve.rst).
+The most popular social key recovery algorithm, [Shamir Secret Sharing](https://dl.acm.org/citation.cfm?doid=359168.359176) is considered information-theoretically secure. That is, any combination of shares less than the necessary threshold convey absolutely no information about the secret. However, all secrets have equal weight and once a sufficient threshold is achieved the secret can be reconstructed. In social contexts this can cause a number of problems in common real-world scenarios. In addition, Shamir Secret Sharing has a history of being [naively implemented](https://crypto.stackexchange.com/questions/41994/why-is-shamir-secret-sharing-not-secure-against-active-adversaries-out-of-the-bo) including a number of serious [vulnerabilities](https://github.com/spesmilo/electrum-docs/blob/master/cve.rst).
 
 To quote Bitcoin Core Developer [Greg Maxwell](https://github.com/gmaxwell):
 
->I think Shamir Secret Sharing (and a number of other things, RNGs for example), suffer from a property where they are just complex enough that people are excited to implement them often for little good reason, and then they are complex enough (or have few enough reasons to invest significant time) they implement them poorly”.
+>I think Shamir Secret Sharing (and a number of other things, RNGs for example), suffer from a property where they are just complex enough that people are excited to implement them often for little good reason, and then they are complex enough (or have few enough reasons to invest significant time) they implement them poorly.”
 
 Ideally an implementation of social key recovery should balancing numerous competing goals:
 
@@ -25,9 +25,9 @@ Ideally an implementation of social key recovery should balancing numerous compe
 
  * Key recovery should require approval of many individuals so as to minimize potential for theft or deliberate key compromise by a small malicious subset of users.
 
- * Key recovery should require the smallest acceptable threshold so as to prevent loss of funds from destroyed/loss/inaccessible shares.
+ * Key recovery should require the smallest acceptable threshold so as to prevent loss of funds from destroyed/lost/inaccessible shares.
 
- * Key recovery requiring interaction with too many individuals is undesirable, as each interaction must involve re-authentication at the inconvenience of both users.
+ * Key recovery requiring interaction with too many individuals is undesirable, as each interaction must involve re-authentication at the inconvenience of all involved.
 
  * Social trust is not uniformly distributed among different social circles, such as friends, business acquaintances, and family.  Individuals may be fungible within a certain circle of trust, but not more broadly.  A "family member" is not the same as a "business partner."
 
@@ -37,7 +37,7 @@ One solution for Alice is to require 3 individuals for social key recovery, b
 
 This can be accomplished by constructing a three-way linear key split with shares X, Y, and Z. X is given to family members, Y is given to friends, and Z is further split using 3-of-N Shamir secret sharing, with unique shares given to each family member, friend, and trusted business partner.  Thus each family member knows X and one share of Z, each friend knows Y and one share of Z, and business partners only know their share of Z.  As the original key is constructed as X+Y+Z, all three must be reconstructed, which requires the assistance of at least one family member, at least one friend, and a total of three individuals drawn from all three sets.
 
-We suggest calling these separate groups of individuals "circles", and we suggest designing a social key recovery system where users are allowed to specify participation thresholds for the recovery of the subway associated with each circle (3 "friends" are required, 2 "business partners", etc.), and then also specify which circle thresholds are required in disjunctive normal form--e.g. "Friends AND Family" OR "Family AND Coworkers".  Under the hood this is translated into a set of linear key splits and Shamir secret shares that are encrypted and transmitted to each participant.
+We suggest calling these separate groups of individuals "circles," and we suggest designing a social key recovery system where users are allowed to specify participation thresholds for the recovery of the key split associated with each circle (3 "friends" are required, 2 "business partners", etc.), and then also specify which circle thresholds are required in disjunctive normal form--e.g. "Friends AND Family" OR "Family AND Coworkers".  Under the hood this is translated into a set of linear key splits and Shamir secret shares that are encrypted and transmitted to each participant.
 
 Longer term on the hardware side, an HSM with secure I/O for user authentication could be used to perform the social key recovery — a potential early place to implement this is the HTC Exodus cryptocurrency phone.  When a user attempts key recovery, they present a fresh set of identity keys to their friend/family/coworker/etc. and authenticate themselves to the individual.  If the individual is convinced to participate, they authorize their device to reveal their shares, which is done by decrypting on the HSM and then re-encrypting to the temporary identity keys of the user's new or wiped device. When a user does this with enough shares to reconstruct the original key, their device automatically does so and retires the temporary identity, replacing with the recovered master key.
 

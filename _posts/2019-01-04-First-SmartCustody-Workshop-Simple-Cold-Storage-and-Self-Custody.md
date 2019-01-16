@@ -124,3 +124,7 @@ If you wish to be notified about future #SmartCustody workshops, events, guides,
 [![ledger-logo](/images/ledger-logo.png)](https://www.ledger.com/)
 
 [Ledger](https://www.ledger.com/): "Developing security and infrastructure solutions for cryptocurrencies"
+
+[![winstead-logo](/images/winstead-logo.png)](https://www.winstead.com/Industries/Investment-Management-Private-Funds)
+
+[Winstead](https://www.winstead.com/Industries/Investment-Management-Private-Funds): "We counsel investment funds and entrepreneurs on digital assets"

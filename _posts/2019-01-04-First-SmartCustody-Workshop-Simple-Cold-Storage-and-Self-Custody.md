@@ -121,6 +121,10 @@ If you wish to be notified about future #SmartCustody workshops, events, guides,
 
 [CRYPTOTAG](https://cryptotag.io/): We got your backup. Your crypto recovery seed and private keys forever stored in pure Titanium.
 
+[![dcd-logo](/images/dcd-logo.png)](<https://contract.design>)
+
+[Digital Contract Design](https://contract.design): Contracts with trust minimization.
+
 [![ledger-logo](/images/ledger-logo.png)](https://www.ledger.com/)
 
 [Ledger](https://www.ledger.com/): "Developing security and infrastructure solutions for cryptocurrencies"

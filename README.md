@@ -3,7 +3,7 @@ cover: false
 hide_description: true
 permalink: /index.html
 ---
-Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our goal is ti support blockchain infrastructure and the broader security industry through cryptographic research, cryptographic & privacy protocol implementations, architecture & code reviews, industry standards, and documentation. In particular, we seek to improve the blockchain ecosystem by focusing on infrastructure and solutions that are decentralized, platform-neutral, blockchain-neutral, and vendor-independent.
+Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our goal is to support blockchain infrastructure and the broader security industry through cryptographic research, cryptographic & privacy protocol implementations, architecture & code reviews, industry standards, and documentation. In particular, we seek to improve the blockchain ecosystem by focusing on infrastructure and solutions that are decentralized, platform-neutral, blockchain-neutral, and vendor-independent.
 
 Our current projects include:
 

@@ -12,6 +12,8 @@
 #   url: /recipes/
 # - title: Search
 #   url: /search/
+- title: Sponsors
+url: sponsors.html
 - title: "Project: #SmartCustody"
   url: https://www.SmartCustody.com
 - title: "Github"

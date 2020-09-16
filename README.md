@@ -32,7 +32,7 @@ For more information, see our [Posts](https://www.blockchaincommons.com/posts/) 
 
 ## Sustaining Sponsors
 
-Thank you to the following sponsors who are offering [sustaining support](https://github.com/sponsors/BlockchainCommons) for Blockchain Commons.
+Thank you to the following sponsors who have become [sustaining sponsors](https://github.com/sponsors/BlockchainCommons) of Blockchain Commons.
 
 [<img src="images/sponsors/bitmark-logo.svg" width="30%" align="center">](https://bitmark.com/)
 [<img src="images/sponsors/blockchainbird.png" width="30%" align="center">](https://github.com/blockchainbird/bird)

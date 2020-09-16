@@ -20,7 +20,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 <img src="images/sponsors/bitmark-logo.png" width=500>
 
-**[Bitmark](https://bitmark.com/)** was founded in 2014 to fix and restore trust in the Internet. They wanted to show the world that being able to trust data would lead to a better future for all. Today, Bitmark builds not only the protocol to restore trust in data but also consumer apps that empower humans in the digital age. Bitmark believes the faster the world moves to an Internet where data can be trusted, the better.
+**[Bitmark](https://bitmark.com/)** is a technology company focused on establishing and protecting your rights. It was founded in 2014 to fix and restore trust in the Internet. They wanted to show the world that being able to trust data would lead to a better future for all. Today, Bitmark builds not only the protocol to restore trust in data but also consumer apps that empower humans in the digital age. Bitmark believes the faster the world moves to an Internet where data can be trusted, the better.
 
 <img src="images/sponsors/blockchainbird.png" width=500>
 

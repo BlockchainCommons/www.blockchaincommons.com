@@ -3,11 +3,11 @@ cover: false
 hide_description: true
 permalink: /sponsors.html
 ---
-# Sustaining Sponsors
+# Sponsoring Blockchain Commons
 
 ## Why Sponsor?
 
-BLockchain Commons' mission is to support open blockchain infrastructure and the broader security industry. We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. 
+Blockchain Commons' mission is to support open blockchain infrastructure and the broader security industry. We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. 
 
 Our mission is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web. 
 

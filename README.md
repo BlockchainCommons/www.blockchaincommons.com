@@ -5,6 +5,8 @@ permalink: /index.html
 ---
 Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to open infrastructure.  Our goal to create low-cost, best-quality, proven infrastructure that is decentralized, platform-neutral, blockchain-neutral, and vendor-independent. Anyone can use or improve our tools, and no one can take away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
 
+## Projects
+
 Our current projects include:
 
 * [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — integrated wallet and node technology that creates a self-sovereign infrastructure for Bitcoin  using Tor and QuickConnect.
@@ -24,6 +26,8 @@ We also offer services to the community improve the security of the web's open i
 These are just the beginning! Blockchain Commons is also working on other cryptographic research, cryptographic & privacy protocol implementations, architecture & code reviews, industry standards, and documentation, including identity wallets, social-recovery techniques, zero-knowledge curve-operation proofs, advanced cryptographic primitives such as Schnorr, MuSig, and scriptless scripts, and in general establishing multi- and cross-blockchain standards.
 
 If you support the goals and projects of Blockchain Commons, please consider becoming a [Sponsor](https://www.blockchaincommons.com/sponsors.html).
+
+## More Info
 
 For more information, see our [Posts](https://www.blockchaincommons.com/posts/) and [GitHub](https://github.com/BlockchainCommons), including the following discussions areas:
 * [Gordian System Discussions](https://github.com/BlockchainCommons/Gordian/discussions) — for users and developers of the Gordian system, including the Gordian Server, Bitcoin Standup technology, QuickConnect, and the Gordian Wallet. If you want to talk about our linked full-node and wallet technology, suggest new additions to our Bitcoin Standup standards, or discuss the implementation our standalone wallet, the Discussions area of the [main Gordian repo](https://github.com/BlockchainCommons/Gordian) is the place.

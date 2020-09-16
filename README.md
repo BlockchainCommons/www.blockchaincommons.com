@@ -38,4 +38,4 @@ Thank you to the following sponsors who have become [sustaining sponsors](https:
 [<img src="images/sponsors/blockchainbird.png" width="30%" align="center">](https://github.com/blockchainbird/bird)
 [<img src="images/sponsors/unchained-capital.png" width="30%" align="center">](https://unchained-capital.com/)
 
-<br clear="all">[*Learn More about Them*](sponsors)
+<br clear="all">[*Learn more about them.*](sponsors)

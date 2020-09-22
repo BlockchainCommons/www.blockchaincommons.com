@@ -5,6 +5,10 @@ permalink: /index.html
 ---
 Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to open infrastructure.  Our goal to create low-cost, best-quality, proven infrastructure that is decentralized, platform-neutral, blockchain-neutral, and vendor-independent. Anyone can use or improve our tools, and no one can take away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
 
+## News
+
+* [Sign up for our Fall 2020 Virtual Intern Program by September 23rd](https://github.com/BlockchainCommons/Community/issues/17)
+
 ## Projects
 
 Our current projects include:

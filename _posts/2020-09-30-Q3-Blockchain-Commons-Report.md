@@ -24,7 +24,6 @@ In summary, this quarter we:
 * neared completion of Learning Bitcoin from the Command Line v2 and LetheKit v2;
 * supported open development & infrastructure;
 * and testified about legislation and regulations.
-<!--more-->
 
 Here's more information on some of our biggest successes this summer:
 

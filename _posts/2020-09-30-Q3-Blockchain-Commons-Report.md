@@ -2,9 +2,9 @@
 title: "Q3 Blockchain Commons Report"
 excerpt_separator: "<!--more-->"
 categories:
-  - Report
+  - Projects
 tags:
-  - Goals
+  - Report
   - 2020
   - Projects
 ---

@@ -85,3 +85,4 @@ We're determined to expand on these and other projects, to make Bitcoin and the 
 Of course, this all requires support, so we encourage you to spread the word, to use your business and community contacts to bring in other people as [Patrons](https://github.com/sponsors/BlockchainCommons) at any level. We know that we're offering important work here, and we want to be able to continue that work for the community.
 
 Christopher Allen, Executive Director, Blockchain Commons
+

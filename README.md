@@ -43,16 +43,16 @@ For more information, see our [Posts](https://www.blockchaincommons.com/posts/) 
 
 We are a member of [COPA](https://open-patent.org/), the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
 
-<br clear="all">
-
 ## Sustaining Sponsors
 
 Thank you to the following sponsors who have become [sustaining sponsors](https://github.com/sponsors/BlockchainCommons) of Blockchain Commons.
 
 <center>
+  
 [<img src="images/sponsors/bitmark-logo.png" width="33%" align="center">](https://bitmark.com/)
 [<img src="images/sponsors/blockchainbird.png" width="33%" align="center">](https://github.com/blockchainbird/bird)
 [<img src="images/sponsors/unchained-capital.png" width="33%" align="center">](https://unchained-capital.com/)
+
 </center>
 
 <br clear="all">[*Learn more about them.*](sponsors)

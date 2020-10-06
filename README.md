@@ -43,7 +43,7 @@ For more information, see our [Posts](https://www.blockchaincommons.com/posts/) 
 We are a member of [COPA](https://open-patent.org/), the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
 
 <p align="center">
-[<img src="images/copa-logo.png" width="33%" align="center">](https://open-patent.org/)
+  <a href="https://open-patent.org/"><img src="images/copa-logo.png" width="33%" align="center"></a>
 </p>
 
 ## Sustaining Sponsors

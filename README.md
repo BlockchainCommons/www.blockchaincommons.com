@@ -7,7 +7,7 @@ Blockchain Commons is proudly a "not-for-profit" social benefit corporation comm
 
 ## News
 
-* [Sign up for our Fall 2020 Virtual Intern Program by September 23rd (now extended to September 28th)](https://github.com/BlockchainCommons/Community/issues/17)
+* [Read our 2020 Q3 report](https://www.blockchaincommons.com/quarterlies/2020-Q3-Report/)
 
 ## Projects
 

@@ -45,7 +45,7 @@ _Education projects consist of books, tutorials, or courses, intended to teach t
 ### Learning Bitcoin from the Command Line
 <hr>
 
-<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" width="300"></a>
+<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" width="200"></a>
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
 **Status:** v2.0 Complete (2020-10-20)
 

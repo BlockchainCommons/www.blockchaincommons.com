@@ -52,7 +52,7 @@ This is a complete nineteen-chapter course intended to teach system administrato
 
 ### #SmartCustody
 
-<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" width="300"></a>
+<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" width="200"></a>
 **PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)
 **Repo:** [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
 **Status:** v1.01 Complete (2019-09-16)

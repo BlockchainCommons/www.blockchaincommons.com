@@ -43,6 +43,7 @@ _Developer projects create resources for use by engineers and programmers._
 _Education projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
 
 ### Learning Bitcoin from the Command Line
+<hr>
 
 <a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" width="300"></a>
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
@@ -51,6 +52,7 @@ _Education projects consist of books, tutorials, or courses, intended to teach t
 This is a complete nineteen-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. 
 
 ### #SmartCustody
+<hr>
 
 <a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" width="200"></a>
 **PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)

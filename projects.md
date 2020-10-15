@@ -12,7 +12,7 @@ _Open infrastructure projects create resources that can be used by the entire in
 
 ### Spotbit Server
 
-**Onion Address:** h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion
+**Onion Address:** h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion<br>
 **Related Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)
 
 A instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, available for public usage.
@@ -33,7 +33,7 @@ _Self-sovereign Bitcoin projects give users more agency in their interactions wi
 
 ### Spotbit
 
-**Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)
+**Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)<br>
 **Status:** Late Alpha
 
 Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
@@ -63,7 +63,7 @@ This is a complete nineteen-chapter course intended to teach system administrato
 ### #SmartCustody
 
 <a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" width="200"></a>
-**PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)
+**PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>
 **Repo:** [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
 **Status:** v1.01 Complete (2019-09-16)
 

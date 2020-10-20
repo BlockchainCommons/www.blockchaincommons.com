@@ -99,7 +99,7 @@ _Educational projects consist of books, tutorials, or courses, intended to teach
 
 ### Learning Bitcoin from the Command Line
 
-<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" width="150"></a>
+<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="center" width="500"></a>
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
 **Status:** v2.0 Complete (2020-10-20)
 
@@ -107,7 +107,7 @@ This is a complete nineteen-chapter course intended to teach system administrato
 
 ### #SmartCustody
 
-<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" width="150"></a>
+<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="center" width="500"></a>
 **PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>
 **Repo:** [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
 **Status:** v1.01 Complete (2019-09-16)

@@ -27,7 +27,7 @@ _Self-sovereign Bitcoin projects give users more agency in their interactions wi
 
 ### The Gordian System
 
-**Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)
+**Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Status:** Varied
 
 The Gordian system is a suite of powerful open-source tools that offers a self-sovereign solution for Bitcoin by using Tor and QuickConnect technology to link a protected GordianServer with a mobile GordianWallet so that you access full-node capabilities from a mobile device. (It's meant to cut through a traditionally knotty problem in Bitcoin development.)
@@ -37,7 +37,7 @@ Elements of the Gordian System include [GordianWallet-iOS](https://github.com/Bl
 ### LetheKit
 
 <a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" width="150"></a>
-**Repo:** [bc-lethekit](https://github.com/BlockchainCommons/bc-lethekit)
+**Repo:** [bc-lethekit](https://github.com/BlockchainCommons/bc-lethekit)<br>
 **Status:** Late Alpha
 
 LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the mythological river of forgetfulness and oblivion.

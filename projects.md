@@ -62,6 +62,8 @@ LetheKit is a do-it-youself platform for performing various sensitive cryptograp
 
 Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
 
+<hr>
+
 ## Developer Projects
 
 _Developer projects create resources for use by engineers and programmers._
@@ -88,6 +90,8 @@ keytool is a command-line tool that implements a data flow graph for deriving cr
 **Status:** Feature-complete beta
 
 seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
+
+<hr>
 
 ## Educational Projects
 

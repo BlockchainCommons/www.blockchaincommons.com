@@ -14,8 +14,10 @@
 #   url: /search/
 - title: Sponsors
   url: sponsors.html
-- title: "Project: #SmartCustody"
-  url: https://www.SmartCustody.com
+#- title: "Project: #SmartCustody"
+#  url: https://www.SmartCustody.com
+- title: "Projects"
+  url: /projects.html
 - title: "Github"
   url: https://github.com/BlockchainCommons
   

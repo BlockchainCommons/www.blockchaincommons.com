@@ -27,9 +27,20 @@ _Self-sovereign Bitcoin projects give users more agency in their interactions wi
 
 ### The Gordian System
 
-### Gordian Signer
+**Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)
+**Status:** Varied
+
+The Gordian system is a suite of powerful open-source tools that offers a self-sovereign solution for Bitcoin by using Tor and QuickConnect technology to link a protected GordianServer with a mobile GordianWallet so that you access full-node capabilities from a mobile device. (It's meant to cut through a traditionally knotty problem in Bitcoin development.)
+
+Elements of the Gordian System include [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS), [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS), and the alternative [Bitcoin Standup Linux Scripts](https://github.com/BlockchainCommons/Bitcoin-StandUp-Scripts), as well as the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md) that links them all together. The newest member of the Gordian System is GordianSigner, which support PSBT signing and multisignatures. It's available for [Android](https://github.com/BlockchainCommons/GordianSigner-Android), [Catalyst](https://github.com/BlockchainCommons/GordianSigner-Catalyst), and [macOS](https://github.com/BlockchainCommons/GordianSigner-macOS).
 
 ### LetheKit
+
+<a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" width="200"></a>
+**Repo:** [bc-lethekit](https://github.com/BlockchainCommons/bc-lethekit)
+**Status:** Late Alpha
+
+LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the mythological river of forgetfulness and oblivion.
 
 ### Spotbit
 
@@ -50,7 +61,7 @@ _Developer projects create resources for use by engineers and programmers._
 
 ## Educational Projects
 
-_Education projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
+_Educational projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
 
 ### Learning Bitcoin from the Command Line
 

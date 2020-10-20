@@ -55,4 +55,3 @@ We are a member of [COPA](https://open-patent.org/), the Crypto Open Patent Alli
 <p align="center">
   <a href="https://open-patent.org/"><img src="images/copa-logo.png" width="33%" align="center"></a>
 </p>
-

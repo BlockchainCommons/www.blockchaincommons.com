@@ -49,7 +49,8 @@ Elements of the Gordian System include [GordianWallet-iOS](https://github.com/Bl
 
 ### LetheKit
 
-<a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" width="150"></a>
+<a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" width="200"></a>
+
 **Repo:** [bc-lethekit](https://github.com/BlockchainCommons/bc-lethekit)<br>
 **Status:** Late Alpha
 
@@ -78,7 +79,9 @@ reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip
 
 ### Keytool
 
-<a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" width="150"></a>
+<center>
+<a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" width="500"></a>
+</center>
 **Repo:** [bc-keytool-cli](https://github.com/BlockchainCommons/bc-keytool-cli)<br>
 **Status:** Feature-complete beta
 
@@ -99,7 +102,10 @@ _Educational projects consist of books, tutorials, or courses, intended to teach
 
 ### Learning Bitcoin from the Command Line
 
+<center>
 <a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="center" width="500"></a>
+  </center>
+
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
 **Status:** v2.0 Complete (2020-10-20)
 
@@ -107,7 +113,7 @@ This is a complete nineteen-chapter course intended to teach system administrato
 
 ### #SmartCustody
 
-<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="center" width="500"></a>
+<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" width="200"></a>  
 **PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>
 **Repo:** [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
 **Status:** v1.01 Complete (2019-09-16)

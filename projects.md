@@ -20,7 +20,16 @@ A instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, avai
 
 ### Testnet Public Node
 
+**Testnet Node:**<br>
+**Related Repo:** [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
+
+Blockchain Commons maintains a public Bitcoin testnet node, primarily for use as an optional server for use with GordianWallet.
+
 ### Tor Exit Node
+
+**Tor Node:**<br> [644074F47257F9A906F9AA5C6B8926C1540A1DA8](https://metrics.torproject.org/rs.html#details/644074F47257F9A906F9AA5C6B8926C1540A1DA8)
+
+Blockchain Commons supports the open infrastructure of Tor by running its own exit node.
 
 <hr>
 ## Self-sovereign Bitcoin Projects

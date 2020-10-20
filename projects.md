@@ -6,6 +6,7 @@ permalink: /projects.html
 
 Blockchain Commons is working on a large variety of projects all intended to improve the entirety of the community who is using blockchain technology and developing it.
 
+<hr>
 ## Open Infrastructure Projects
 
 _Open infrastructure projects create resources that can be used by the entire internet community._
@@ -21,6 +22,7 @@ A instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, avai
 
 ### Tor Exit Node
 
+<hr>
 ## Self-sovereign Bitcoin Projects
 
 _Self-sovereign Bitcoin projects give users more agency in their interactions with the Bitcoin blockchain, so that they're not dependent on anyone else._

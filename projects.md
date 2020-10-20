@@ -55,6 +55,12 @@ _Developer projects create resources for use by engineers and programmers._
 
 ### C Libraries
 
+**Repos:** [bc-crypto-base](https://github.com/BlockchainCommons/bc-crypto-base), [bc-shamir](https://github.com/blockchainCommons/bc-shamir/), [bc-sskr](https://github.com/BlockchainCommons/bc-sskr), [bc-bip39](https://github.com/BlockchainCommons/bc-bip39), and [bc-ur](https://github.com/BlockchainCommons/bc-ur)<br>
+**Status:** Feature-complete beta
+
+Blockchain Commons offers a variety of C-language cryptographic libraries focuses largely on wallet design, which can be used in your own projects. The currently libraries include 
+reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur). The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/bc-keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/bc-seedtool-cli).
+
 ### Keytool
 
 ### Seedtool

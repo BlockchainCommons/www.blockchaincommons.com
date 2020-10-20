@@ -8,32 +8,6 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 
 <hr>
 
-## Open Infrastructure Projects
-
-_Open infrastructure projects create resources that can be used by the entire internet community._
-
-### Spotbit Server
-
-**Onion Address:** h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion<br>
-**Related Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)
-
-A instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, available for public usage.
-
-### Testnet Public Node
-
-**Testnet Node:**<br>
-**Related Repo:** [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
-
-Blockchain Commons maintains a public Bitcoin testnet node, primarily for use as an optional server for use with GordianWallet.
-
-### Tor Exit Node
-
-**Tor Node:**<br> [644074F47257F9A906F9AA5C6B8926C1540A1DA8](https://metrics.torproject.org/rs.html#details/644074F47257F9A906F9AA5C6B8926C1540A1DA8)
-
-Blockchain Commons supports the open infrastructure of Tor by running its own exit node.
-
-<hr>
-
 ## Self-sovereign Bitcoin Projects
 
 _Self-sovereign Bitcoin projects give users more agency in their interactions with the Bitcoin blockchain, so that they're not dependent on anyone else._
@@ -61,6 +35,32 @@ LetheKit is a do-it-youself platform for performing various sensitive cryptograp
 **Status:** Late Alpha
 
 Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
+
+<hr>
+
+## Educational Projects
+
+_Educational projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
+
+### Learning Bitcoin from the Command Line
+
+<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" border="1" width="500"></a>
+**Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
+**Status:** v2.0 Complete (2020-10-20)
+
+This is a complete nineteen-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. 
+
+### #SmartCustody
+
+<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" border="1" width="200"></a>  
+**PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>
+**Book Site:** [WWW Site](https://www.smartcustody.com/)
+**Repo:** [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
+**Status:** v1.01 Complete (2019-09-16)
+
+_The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
+
+A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios.
 
 <hr>
 
@@ -93,25 +93,26 @@ seedtool is a command-line tool for creating and transforming cryptographic seed
 
 <hr>
 
-## Educational Projects
+## Open Infrastructure Projects
 
-_Educational projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
+_Open infrastructure projects create resources that can be used by the entire internet community._
 
-### Learning Bitcoin from the Command Line
+### Spotbit Server
 
-<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" border="1" width="500"></a>
-**Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
-**Status:** v2.0 Complete (2020-10-20)
+**Onion Address:** h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion<br>
+**Related Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)
 
-This is a complete nineteen-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. 
+A instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, available for public usage.
 
-### #SmartCustody
+### Testnet Public Node
 
-<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" border="1" width="200"></a>  
-**PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>
-**Repo:** [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
-**Status:** v1.01 Complete (2019-09-16)
+**Testnet Node:**<br>
+**Related Repo:** [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
 
-_The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
+Blockchain Commons maintains a public Bitcoin testnet node, primarily for use as an optional server for use with GordianWallet.
 
-A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios.
+### Tor Exit Node
+
+**Tor Node:**<br> [644074F47257F9A906F9AA5C6B8926C1540A1DA8](https://metrics.torproject.org/rs.html#details/644074F47257F9A906F9AA5C6B8926C1540A1DA8)
+
+Blockchain Commons supports the open infrastructure of Tor by running its own exit node.

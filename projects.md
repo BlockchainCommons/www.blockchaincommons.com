@@ -7,6 +7,7 @@ permalink: /projects.html
 Blockchain Commons is working on a large variety of projects all intended to improve the entirety of the community who is using blockchain technology and developing it.
 
 <hr>
+
 ## Open Infrastructure Projects
 
 _Open infrastructure projects create resources that can be used by the entire internet community._
@@ -32,6 +33,7 @@ Blockchain Commons maintains a public Bitcoin testnet node, primarily for use as
 Blockchain Commons supports the open infrastructure of Tor by running its own exit node.
 
 <hr>
+
 ## Self-sovereign Bitcoin Projects
 
 _Self-sovereign Bitcoin projects give users more agency in their interactions with the Bitcoin blockchain, so that they're not dependent on anyone else._
@@ -75,14 +77,14 @@ reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip
 ### Keytool
 
 <a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" width="150"></a>
-**Repo:** [bc-keytool-cli](https://github.com/BlockchainCommons/bc-keytool-cli)
+**Repo:** [bc-keytool-cli](https://github.com/BlockchainCommons/bc-keytool-cli)<br>
 **Status:** Feature-complete beta
 
 keytool is a command-line tool that implements a data flow graph for deriving cryptocurrency keys and addresses. Any of the nodes in the graph can be assigned and any set of nodes can be derived as long as their dependencies are met. It also acts as a shocase for Blockchain Commons' C libraries, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
 
 ### Seedtool
 
-**Repo:** [bc-seedtool-cli](https://github.com/BlockchainCommons/bc-seedtool-cli)
+**Repo:** [bc-seedtool-cli](https://github.com/BlockchainCommons/bc-seedtool-cli)<br>
 **Status:** Feature-complete beta
 
 seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).

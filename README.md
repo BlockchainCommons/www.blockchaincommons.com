@@ -7,7 +7,7 @@ Blockchain Commons is proudly a "not-for-profit" social benefit corporation comm
 
 ## News
 
-* [Read our 2020 Q3 report to our Patrons](https://www.blockchaincommons.com/quarterlies/2020-Q3-Report/)
+<!--posts-->
 
 ## Projects
 

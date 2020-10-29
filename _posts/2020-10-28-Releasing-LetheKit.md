@@ -21,7 +21,10 @@ Because you build LetheKit yourself and use open-source software, you know every
 
 <!--more-->
 
-<img src="https://www.blockchaincommons.com/images/projects/lethekit.jpg" align="right" width=250>
+<center>
+  <img src="https://www.blockchaincommons.com/images/projects/lethekit.jpg" align="center">
+</center>
+
 To show how easy it is to use the LetheKit to generate seeds for use in Bitcoin, LetheKit maintainer Gorazd Kovacic has recently released a short video. As it demonstrates, all you need to do is roll dice or generate hardware entropy, and the LetheKit will use that to generate truly random seeds. You can then display a Uniform Resource (UR) or a QR code, export HD keys, or convert your seed into BIP39 mnemonics or SSKR shards. The LetheKit is very versatile!
 
 Whenever you turn off LetheKit, it safely erases its memory, just like the river Lethe. You can then restore from an external source. Our suggestion is that you maintain #SmartCustody of your new keys by engraving them into stainless steel. This will ensure their resilience, and that they can't be easily lost.

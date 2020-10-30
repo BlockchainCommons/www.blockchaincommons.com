@@ -9,7 +9,7 @@ Blockchain Commons is proudly a "not-for-profit" social benefit corporation comm
 
 * **10/30:** [Learning Bitcoin Upgrades to v2](https://www.blockchaincommons.com/projects/Learning-Bitcoin-Upgrades-to-v2/)
 * **10/28:** [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/projects/Releasing-LetheKit/)
-* **10/6:** [Q3 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/2020-Q3-Report/)
+* **10/06:** [Q3 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/2020-Q3-Report/)
 
 ## Projects
 

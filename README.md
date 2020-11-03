@@ -50,6 +50,8 @@ Thank you to the following sponsors who have become [sustaining sponsors](https:
 
 <br clear="all">[*Learn more about them.*](sponsors)
 
+Please support Blockchain Commons by becoming a [sustaining sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/).
+
 ## Organization Membership
 
 We are a member of [COPA](https://open-patent.org/), the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.

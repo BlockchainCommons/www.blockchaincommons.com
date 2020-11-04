@@ -13,6 +13,7 @@ tags:
 
 # Blog Post: Blockchain Commons Joins COPA
 
+<img src="https://www.blockchaincommons.com/images/copa-logo-small.png" width=350 align="right">
 To fulfill its commitment to open source and to a defensive patent strategy, Blockchain Commons has joined COPA, the Cryptocurrency Open Patent Alliance. 
 
 COPA is a non-profit community that was formed by Square out of concern that misguided and offensive use of patents can stifle innovation, and that companies not focused on patent creation themselves would be unable to defend themselves from aggressive (often non-practicing) patent holders. Members of COPA pledge not to use their patents offensively and instead pool their crypto-patents to form a shared patent library.

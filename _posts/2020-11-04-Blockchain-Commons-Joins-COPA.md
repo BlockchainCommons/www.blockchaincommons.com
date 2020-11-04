@@ -11,8 +11,6 @@ tags:
 
 # Blockchain Commons Joins COPA
 
-# Blog Post: Blockchain Commons Joins COPA
-
 <img src="https://www.blockchaincommons.com/images/copa-logo-small.png" width=350 align="right">
 To fulfill its commitment to open source and to a defensive patent strategy, Blockchain Commons has joined COPA, the Cryptocurrency Open Patent Alliance. 
 

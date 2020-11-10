@@ -9,6 +9,8 @@ tags:
   - COPA
 ---
 
+<link rel="image_src" href="https://www.blockchaincommons.com/images/copa-logo-small.png" />
+
 # Blockchain Commons Joins COPA
 
 <img src="https://www.blockchaincommons.com/images/copa-logo-small.png" width=350 align="right">

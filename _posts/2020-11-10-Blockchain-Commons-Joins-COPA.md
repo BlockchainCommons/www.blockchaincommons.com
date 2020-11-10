@@ -1,5 +1,5 @@
 ---
-title: "Learning Bitcoin Upgrades to v2.0"
+title: "Blockchain Commons Joins COPA"
 excerpt_separator: "<!--more-->"
 categories:
   - Partnerships

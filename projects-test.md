@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Collection
 layout: collection
-permalink: /projects-test/
-collection: projects
+permalink: /collections/
+collection: collections
 entries_layout: grid
 ---

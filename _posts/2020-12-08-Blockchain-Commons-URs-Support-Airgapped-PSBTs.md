@@ -31,7 +31,15 @@ As a creator of open infrastructure, Blockchain Commons is working to support wa
 * Dominik Spicher has created a [rust implementation](https://github.com/dspicher/ur-rs).
 We expect to see URs deployed in more commercial wallets in the near future.
 
-<img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png" align="left">
-<img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-small.png" align="right">
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png" align="center">
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-small.png" align="center">
+    </td>
+  </tr>
+</table>
 
 If you'd like to learn more about URs, please read our [research paper, BCR-2020-005](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), and our [growing library of UR type definitions](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md). If you'd like to support Blockchain Commons' open infrastructure development, please become a [GitHub sponsor](https://github.com/sponsors/BlockchainCommons) or make a donation to our [BTCPay server](https://btcpay.blockchaincommons.com/). Blockchain Commons is funded entirely by patronage, donations, and collaborative partnerships with people like you. 

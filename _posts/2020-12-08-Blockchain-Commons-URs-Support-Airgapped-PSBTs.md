@@ -38,7 +38,9 @@ We expect to see URs deployed in more commercial wallets in the near future.
       <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png" align="right">
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-sm.png" align="left">
+      <center>
+        <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-sm.png" align="left">
+      </center>
     </td>
   </tr>
 </table>

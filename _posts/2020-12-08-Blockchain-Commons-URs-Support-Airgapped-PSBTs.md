@@ -9,8 +9,6 @@ tags:
   - Projects
 ---
 
-# Blockchain Commons' Uniform Resources (URs) Support Airgapped PSBTs & More
-
 The [Uniform Resources specification](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md) is one of Blockchain Commons' most notable wallet enhancements of 2020: it enables airgapped PSBTs and is supported through a variety of reference libraries, including C++ and Swift implementations. Third parties have already ported the UR encoder to Python, Java, and Rust.
 
 Uniform Resources, or URs, are a method for encoding binary data in plain text strings that are also well-formed URIs. They are simultaneously intended to address the challenges of QR codes, which are the main way that Bitcoin wallets transmit  data across airgaps. While QR codes themselves are standard, the data encoded within QR codes is not, resulting in inconsistent usage among developers.

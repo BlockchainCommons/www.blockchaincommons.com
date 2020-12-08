@@ -34,10 +34,10 @@ We expect to see URs deployed in more commercial wallets in the near future.
 <table style="border:0px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png">
+      [<img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png">](https://foundationdevices.com/)
     </td>
     <td>
-        <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-sm.png">
+      [<img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-sm.png">](https://sparrowwallet.com/)
     </td>
   </tr>
 </table>

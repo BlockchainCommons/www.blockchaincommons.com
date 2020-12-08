@@ -15,6 +15,8 @@ Uniform Resources, or URs, are a method for encoding binary data in plain text s
 
 URs were created to resolve these interoperability issues by creating a standardized method for encoding binary data. They're built on CBOR, the Concise Binary Object Representation described in [IETF RFC 7049](https://tools.ietf.org/html/rfc7049). The CBOR data is encoded in a typed UR object, which creates a self-describing, structured binary representation. URs can be transmitted as text or encoded via other means, including QR codes. Once received, URs can be decoded by different apps on different machines without having to guess about the contents or the encoding methods.
 
+<!--more-->
+
 The tight size limitations of QRs, where version 40 QR codes max out at 2,953 bytes, are also resolved in the UR specification. The CBOR foundation supports sizes up to 2^32-1 bytes; the UR specification then describes how to sequence those large binary encodings into a multipart UR, which can be displayed across multiple QR codes.
 
 <img src="https://raw.githubusercontent.com/BlockchainCommons/URDemo/master/Images/urdemo-animated.gif" align="right">

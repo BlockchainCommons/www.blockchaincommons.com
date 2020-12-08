@@ -32,13 +32,13 @@ As a creator of open infrastructure, Blockchain Commons is working to support wa
 We expect to see URs deployed in more commercial wallets in the near future.
 
 <center>
-<table border=0>
+<table width="100%" border=0>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png" align="center">
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png" align="right">
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-sm.png" align="center">
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-sm.png" align="left">
     </td>
   </tr>
 </table>

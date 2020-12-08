@@ -31,7 +31,7 @@ As a creator of open infrastructure, Blockchain Commons is working to support wa
 * Dominik Spicher has created a [rust implementation](https://github.com/dspicher/ur-rs).
 We expect to see URs deployed in more commercial wallets in the near future.
 
-<table border=0 cellspacing=0 cellpadding=0 style="margin-left: auto; margin-right: auto">
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png">

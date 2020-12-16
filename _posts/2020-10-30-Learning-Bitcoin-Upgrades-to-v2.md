@@ -9,8 +9,6 @@ tags:
   - Projects
 ---
 
-# Learning Bitcoin Upgrades to v2.0
-
 <img src="https://www.blockchaincommons.com/images/projects/lbtc-screen.png" width=350 align="right">
 Blockchain Commons has recently released v2.0 of our Learning Bitcoin from the Command Line course. 
 

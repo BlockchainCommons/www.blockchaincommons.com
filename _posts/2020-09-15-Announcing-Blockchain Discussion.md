@@ -1,5 +1,5 @@
 ---
-title: "Announcing Blockchain Discussion"
+title: "Announcing Blockchain Discussion FOrum"
 excerpt_separator: "<!--more-->"
 categories:
   - Discussion
@@ -8,8 +8,6 @@ tags:
   - Philosophies
   - Projects
 ---
-
-# Announcing Blockchain Commons' Discussion Forums
 
 Blockchain Commons has been accepted into the new GitHub discussion program, allowing for more freeform discussions within the context of our GitHub repos. As we are a GitHub-centric organization, we are now using this as the main venue for discussions about philosophies, goals, standards, and projects. Please join us!
 

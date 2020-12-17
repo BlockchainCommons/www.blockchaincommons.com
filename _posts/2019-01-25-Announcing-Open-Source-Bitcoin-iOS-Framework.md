@@ -10,8 +10,6 @@ tags:
   - BTCR
 ---
 
-# Announcing Open Source Bitcoin Framework for iOS
-
 ### Building on Libbitcoin
 
 Today we are announcing the availability of the open source [Bitcoin framework for iOS](https://github.com/BlockchainCommons/iOS-Bitcoin). We have been working with veteran iOS developer [Wolf McNally](https://wolfmcnally.com/125/announcing-open-source-bitcoin-framework-for-ios/) on wallet apps for iOS that will support airgapped transaction signing and [BTCR Decentralized Identity (DID)](https://w3c-ccg.github.io/didm-btcr/). As part of this effort we chose to build on the open source [libbitcoin](https://libbitcoin.org/) library.

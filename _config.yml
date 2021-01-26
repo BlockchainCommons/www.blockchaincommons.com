@@ -12,7 +12,7 @@ kramdown:
   hard_wrap: false
 future: true
 jailed: false
-remote_theme: mmistakes/so-simple-theme
+remote_theme: blockchaincommons/so-simple-theme
 gfm_quirks: paragraph_end
 
 # Plugins

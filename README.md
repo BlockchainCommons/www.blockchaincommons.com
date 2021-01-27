@@ -1,12 +1,13 @@
-<meta property="og:title" content="Blockchain Commons">
-<meta property="og:description" content="Creating open infrastructure for blockchains.">
-<meta property="og:image" content="https://github.com/BlockchainCommons/Community/blob/master/images/logos/bcc-community-screen.jpg">
-
 ---
 cover: false
 hide_description: true
 permalink: /index.html
 ---
+
+<meta property="og:title" content="Blockchain Commons">
+<meta property="og:description" content="Creating open infrastructure for blockchains.">
+<meta property="og:image" content="https://github.com/BlockchainCommons/Community/blob/master/images/logos/bcc-community-screen.jpg">
+
 Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to open infrastructure.  Our goal to create low-cost, best-quality, proven infrastructure that is decentralized, platform-neutral, blockchain-neutral, and vendor-independent. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
 
 ## News

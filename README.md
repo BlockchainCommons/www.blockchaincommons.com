@@ -1,3 +1,7 @@
+<meta property="og:title" content="Blockchain Commons">
+<meta property="og:description" content="Creating open infrastructure for blockchains.">
+<meta property="og:image" content="https://github.com/BlockchainCommons/Community/blob/master/images/logos/bcc-community-screen.jpg">
+
 ---
 cover: false
 hide_description: true

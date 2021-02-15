@@ -57,7 +57,7 @@ Please support Blockchain Commons by becoming a [sustaining sponsor](https://git
 
 ## Organization Membership
 
-We are a member of [COPA](https://open-patent.org/), the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
+We are a member of [COPA](https://open-patent.org/) , the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
 
 <p align="center">
   <a href="https://open-patent.org/"><img src="images/copa-logo.png" width="33%" align="center"></a>

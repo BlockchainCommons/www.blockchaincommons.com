@@ -39,6 +39,10 @@ date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
+image:
+  path: images/Borromean-rings_minimal-overlap(256x256).png
+  height: 256
+  width: 256
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
@@ -54,6 +58,8 @@ twitter:
 liquid:
   error_mode: strict
 
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
@@ -68,8 +74,8 @@ feed:
 search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -92,6 +98,7 @@ defaults:
     values:
       layout: post
       share: true
+      is_post: true
 
 # Site Author
 author:

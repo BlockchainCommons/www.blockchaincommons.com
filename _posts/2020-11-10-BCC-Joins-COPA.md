@@ -7,6 +7,7 @@ tags:
   - Philosophies
   - Patents
   - COPA
+# image: images/copa-logo-small.png
 ---
 
 <link rel="image_src" href="https://www.blockchaincommons.com/images/copa-logo-small.png" />
@@ -18,7 +19,9 @@ COPA is a non-profit community that was formed by Square out of concern that mis
 
 Blockchain Commons was resolute in joining COPA because it addresses problems and resolves frustrations that Commons Founder Christopher Allen has long observed with the American patent system.
 
+<div class="bold--excerpt--node">Read More</div>
 <!--more-->
+ 
 
 The issues with crypto patents date back to the early days of the cryptography industry, when companies were unable to engage in public-key cryptography without an RSA patent license, which was expensive and difficult to obtain. RSA was a practicing owner of its patents, and it did promise FRAND (fair, reasonable, and non-discriminatory) licenses, but these licenses were still too expensive for open-source projects. In order to support the SSL standard, as well as the TLS standard that he was then coauthoring, Allen created the RSAREF license, which sublicensed RSA's patents in a way that met FRAND standards, and which was royalty-free for the first $50,000 — enabling open-source projects, which tended to be revenue-free. This resulted in RSAREF licensees like PGP and Red Hat being able to innovate with public-key cryptography.
 

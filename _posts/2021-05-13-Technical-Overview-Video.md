@@ -24,7 +24,7 @@ As the video notes, our work is built on a considerable volume of existing liter
 
 This results in a number of core Blockchain Commons technologies:
 <img width="30%" src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-2.png" style="border:1px solid black;" align="right">
-* [Bytewords](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=16m13s) are a text-encoding method for binary data.
+* [Bytewords](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=16m21s) are a text-encoding method for binary data.
 * [Uniform Resources](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=19m58s) support self-describing data that can be used interoperably.
 * [LifeHash](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=24m55s) allows for graphical recognition of seeds, keys, and other data.
 * [SSKR](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=26m52s) provides new libraries and methodologies for sharding secrets.

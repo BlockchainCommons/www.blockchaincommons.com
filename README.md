@@ -8,7 +8,7 @@ Blockchain Commons is proudly a "not-for-profit" social benefit corporation comm
 
 ## News
 
-* **5/13:** [Everything You Always Wanted to Know about Blockchain Commons (Overview Video)](https://www.blockchaincommons.com/introduction//2021-05-13-Technical-Overview-Video.md)
+* **5/13:** [Everything You Always Wanted to Know about Blockchain Commons (Overview Video)](https://www.blockchaincommons.com/introduction/Technical-Overview-Video/)
 * **4/14:** [Q1 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q1-2021-Report/)
 * **1/6:** [Q4 2020 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/2020-Q4-Report/)
 * **12/8:** [Blockchain Commons' URs Support Airgapped PSBTs & More](https://www.blockchaincommons.com/projects/Blockchain-Commons-URs-Support-Airgapped-PSBTs/)

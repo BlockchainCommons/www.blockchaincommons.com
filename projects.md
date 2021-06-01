@@ -153,3 +153,7 @@ Blockchain Commons maintains a public Bitcoin testnet node, primarily for use as
 **Tor Node:**<br> [644074F47257F9A906F9AA5C6B8926C1540A1DA8](https://metrics.torproject.org/rs.html#details/644074F47257F9A906F9AA5C6B8926C1540A1DA8)
 
 Blockchain Commons supports the open infrastructure of Tor by running its own exit node.
+
+<center>
+<img align="center" src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/tor-graph.png" width="100%">
+  </center>

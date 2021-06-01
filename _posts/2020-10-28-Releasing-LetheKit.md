@@ -11,7 +11,7 @@ tags:
 
 Blockchain Commons has released a feature-complete version of LetheKit, a do-it-yourself hardware platform that allows you to conduct cryptographic operations on an airgapped device. Complete information for creating your own LetheKit and downloading its software can be found in Blockchain Commons' LetheKit repo.
 
-* [Visit LetheKit Repo](https://github.com/BlockchainCommons/bc-lethekit)
+* [Visit LetheKit Repo](https://github.com/BlockchainCommons/lethekit)
 * [View LetheKit Video](https://www.youtube.com/watch?v=OSTQthcxsh0)
 * [Support LetheKit](https://github.com/sponsors/BlockchainCommons)
 

@@ -24,7 +24,7 @@ Elements of the Gordian System include [GordianWallet-iOS](https://github.com/Bl
 ### LetheKit
 
 <a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
-**Repo:** [bc-lethekit](https://github.com/BlockchainCommons/bc-lethekit)<br>
+**Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
 **Status:** Late Alpha<br>
 **Blog:** 10/28/20: [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/projects/Releasing-LetheKit/)
 
@@ -78,19 +78,19 @@ _Developer projects create resources for use by engineers and programmers._
 **Status:** Feature-complete beta
 
 Blockchain Commons offers a variety of C-language cryptographic libraries focuses largely on wallet design, which can be used in your own projects. The currently libraries include 
-reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur). The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/bc-keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/bc-seedtool-cli).
+reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur). The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
 
 ### Keytool
 
 <a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" border="1" width="500"></a>
-**Repo:** [bc-keytool-cli](https://github.com/BlockchainCommons/bc-keytool-cli)<br>
+**Repo:** [keytool-cli](https://github.com/BlockchainCommons/keytool-cli)<br>
 **Status:** Feature-complete beta
 
 keytool is a command-line tool that implements a data flow graph for deriving cryptocurrency keys and addresses. Any of the nodes in the graph can be assigned and any set of nodes can be derived as long as their dependencies are met. It also acts as a showcase for Blockchain Commons' C libraries, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
 
 ### Seedtool
 
-**Repo:** [bc-seedtool-cli](https://github.com/BlockchainCommons/bc-seedtool-cli)<br>
+**Repo:** [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)<br>
 **Status:** Feature-complete beta
 
 seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).

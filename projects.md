@@ -8,20 +8,39 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 
 <hr>
 
-## Self-sovereign Bitcoin Projects
+## Gordian Reference Projects
 
-_Self-sovereign Bitcoin projects give users more agency in their interactions with the Bitcoin blockchain, so that they're not dependent on anyone else._
+_Reference projects demonstrate the self-sovereign approach of the Gordian principles, highlighting Independence, Privacy, Resilience, and Openness._
 
-### The Gordian System
+### The Core Gordian System (web + iOS)
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Status:** Varied
 
-The Gordian system is a suite of powerful open-source tools that offers a self-sovereign solution for Bitcoin by using Tor and QuickConnect technology to link a protected GordianServer with a mobile GordianWallet so that you access full-node capabilities from a mobile device. (It's meant to cut through a traditionally knotty problem in Bitcoin development.)
+The Gordian system is a suite of powerful open-source tools that demonstrate a self-sovereign solution for Bitcoin embodied in the Gordian principles. It does so by using [Torgap](https://github.com/BlockchainCommons/torgap) and [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md) technology to link a protected [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS) (or the alternative [Bitcoin Standup Linux Scripts](https://github.com/BlockchainCommons/Bitcoin-StandUp-Scripts)) with a mobile [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) so that you access full-node capabilities from a mobile device. (It's meant to cut through a traditionally knotty problem in Bitcoin development.) 
 
-Elements of the Gordian System include [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS), [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS), and the alternative [Bitcoin Standup Linux Scripts](https://github.com/BlockchainCommons/Bitcoin-StandUp-Scripts), as well as the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md) that links them all together. The newest member of the Gordian System is GordianSigner, which support PSBT signing and multisignatures. It's available for [Android](https://github.com/BlockchainCommons/GordianSigner-Android), [Catalyst](https://github.com/BlockchainCommons/GordianSigner-Catalyst), and [macOS](https://github.com/BlockchainCommons/GordianSigner-macOS).
+### Gordian CoSigner (Android, iOS, MacOS)
 
-### LetheKit
+**Repo:** [CoSigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [CoSigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [CoSigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
+**Status:* Varied
+
+Gordian CoSigner is an offline signing tool that transmit PSBTs through QR Codes across an Airgap that improves seed security.
+
+### Gordian QR Tool (iOS)
+
+**Repo:** [QR Tool](https://github.com/BlockchainCommons/GordianQRTool-iOS)<br>
+**Status:* Testflight Release
+
+QR Tool is an airgapped vault for containing secure QRs such as 2FAs, Bitcoin addresses, and URs.
+
+### Gordian Seed Tool (iOS)
+
+**Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
+**Status:* Testflight Release
+
+Seed Tool is a cryptographic seed manager for iOS that acts as a secure, airgapped vault.
+
+### LetheKit (kit)
 
 <a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
 **Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
@@ -30,7 +49,7 @@ Elements of the Gordian System include [GordianWallet-iOS](https://github.com/Bl
 
 LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the mythological river of forgetfulness and oblivion.
 
-### Spotbit
+### Spotbit (web)
 
 **Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)<br>
 **Status:** Late Alpha
@@ -64,13 +83,13 @@ This is a complete nineteen-chapter course intended to teach system administrato
 
 _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
 
-A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios.
+A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md) is our first content for that update.
 
 <hr>
 
 ## Developer Projects
 
-_Developer projects create resources for use by engineers and programmers._
+_Developer projects create resources for use by engineers and programmers, including libraries and CLIs._
 
 ### C Libraries
 
@@ -80,7 +99,14 @@ _Developer projects create resources for use by engineers and programmers._
 Blockchain Commons offers a variety of C-language cryptographic libraries focuses largely on wallet design, which can be used in your own projects. The currently libraries include 
 reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur). The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
 
-### Keytool
+### Bytewords-CLI
+
+**Repo:** [bytewords-cli](https://github.com/BlockchainCommons/bytewords-cli)
+**Status:** Feature-complete beta
+
+Bytewords is a command-line tool that can be used to translate to and from various [Bytewords](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-012-bytewords.md) formats, exercising the [Bytewords library](https://github.com/blockchaincommons/bc-bytewords).
+
+### Keytool-CLI
 
 <a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" border="1" width="500"></a>
 **Repo:** [keytool-cli](https://github.com/BlockchainCommons/keytool-cli)<br>
@@ -88,7 +114,14 @@ reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip
 
 keytool is a command-line tool that implements a data flow graph for deriving cryptocurrency keys and addresses. Any of the nodes in the graph can be assigned and any set of nodes can be derived as long as their dependencies are met. It also acts as a showcase for Blockchain Commons' C libraries, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
 
-### Seedtool
+### LifeHashTool-CLI
+
+**Repo:** [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool)
+**Status:** Late Alpha
+
+LifeHashTool can be used to generate lifehashes from the command line, based on the [LifeHash format](https://github.com/BlockchainCommons/LifeHash).
+
+### Seedtool-CLI
 
 **Repo:** [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)<br>
 **Status:** Feature-complete beta

@@ -26,6 +26,10 @@ Our current projects include:
 * [Spotbit](https://github.com/BlockchainCommons/spotbit) — self-sovereign cryptocurrency price discovery tool.
 * Cryptographic Libraries — C-based implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/BlockchainCommons/bc-shamir), [SLIP39](https://github.com/BlockchainCommons/bc-slip39), and more.
 
+This video overviews many of our specifications and other initiatives:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RYgOFSdUqWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We also offer services to the community improve the security of the web's open infrastructure.
 
 * Security Reviews — risk-based assessments of custody methodologies, operational security procedures, and layer-2 protocols such as payment channels.

@@ -10,7 +10,7 @@ tags:
   - Projects
 ---
 
-The state of California recently [announced their Digital COVID-19 Vaccine Record system](https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/). It allows Californians to access a digital copy of their vaccine records, rather than having to depend entirely on their physical copy. The main entry point is a QR code containing a rudimentary Verifiable Claim (VC), which makes for great ease of use. However, Blockchain Commons has concerns over how the user experience (UX) design might negatively affect both privacy and security; we are working to address these with our new [Gordian QR Tool](), Blockchain Commons' first Apple appstore release.
+The state of California recently [announced their Digital COVID-19 Vaccine Record system](https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/). It allows Californians to access a digital copy of their vaccine records, rather than having to depend entirely on their physical copy. The main entry point is a QR code containing a rudimentary Verifiable Claim (VC), which makes for great ease of use. However, Blockchain Commons has concerns over how the user experience (UX) design might negatively affect both privacy and security; we are working to address these with our new [Gordian QR Tool](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070), Blockchain Commons' first Apple appstore release.
 
 <div class="bold--excerpt--node">Read More</div>
 
@@ -30,7 +30,7 @@ That's in large part due to the fact that photos are built to be shared. It's ve
 Photos also aren't built to be searched and their categorization systems are usually rudimentary. Even if your QR code was safe, you might not be able to easily find it.
 
 <img src="https://raw.githubusercontent.com/BlockchainCommons/GordianQRTool-iOS/master/images/qr-list-2.jpeg" align="right" width=250>
-That's were Blockchain Commons' [Gordian QR Tool]() comes in. Though we can only make sure that our own uses of QR codes are architecturally secure, we can definitely provide better ways to store QR codes, and that's what QR Tool does.
+That's were Blockchain Commons' [Gordian QR Tool](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070) comes in. Though we can only make sure that our own uses of QR codes are architecturally secure, we can definitely provide better ways to store QR codes, and that's what QR Tool does.
 
 QR Tool lets you scan any QR code into an encrypted vault. It then protects your code with two-factor authentication: you initilally log in with your Apple login and password, and then anytime you want to view your codes, you additionally must use a biometric authentication, such as a fingerprint. Unlike your semi-porous camera roll, QR Tool was built to keep confidential information secure.
 
@@ -40,30 +40,4 @@ Finally, QR Tool resolves the problem of categorization by automatically recogni
 
 If the future we hope to see more fully featured [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/), but there's no doubt that QRs are with us for the moment, and we need to make sure that they remain secure and easy to use. This is why we released QR Tool. It's a reference implementation for the Gordian Principles, demonstrating how to store confidential data in a way that's independent, private, resilient, and open: QR Tool ensures that you hold your own QRs, that they're safe, and that you can easily transmit them to other services.
 
-If you've got QRs of your own to secure, you can purchase QR Tool from the [Apple Store]() or you can compile it directly from the source code found at the [QR Tool repo](https://github.com/BlockchainCommons/GordianQRTool-iOS) on GitHub.
-
----
-
-# Tweetstorm for Article Release
-
-Did you know that the state of California recently released digital COVID-19 vaccination records using QR codes? [1/10] https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/)
-
-But, is it safe? As the saying goes: we've got an app for that. [2/10] LINKTO:QRTOOL-URL
-
-The full answer is more complex than that. California is suggesting that you save your vaccine QRs to your camera roll, which isn't entirely insecure, but which has usability problems because it can be shared way too easily. [3/10]
-
-So we've created Q RTool, an iPhone app built as a vault for QR codes, using two-factor authentication of a password to leverage your phone's biometrics and ensure that no one but you can access this personal information. [4/10] LINKTO:QRTOOL-URL
-
-It's also good for a lot of other sorts of QRs, such as crypto-seeds, crypto-keys, and 2FA-seeds. (Ever had to reset all of your 2FAs after you lost a phone? It's a pain. QR Tool would allow you to restore directly from the 2FA QRs.) [5/10]
-
-The security of QR Tool extends to ensuring that your QR codes haven't been changed. It uses Lifehashes to create unique, but evocative full-color graphics of each QR, allowing you to recognize them at a glance. [6/10]
-
-IMAGE: https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/Art/detailed.jpg
-
-Finally, QR Tool solves problems of usability by automatically categorizing many QRs, allowing you to categorize the rest, and supporting QR sorting by a variety of means. You can find what you need in seconds. [7/10]
-
-Overall, QR Tool is meant to demonstrate the core principles of Blockchain Commons' Gordian architecture: independence, privacy, resilience, and openness. [8/10] https://github.com/BlockchainCommons/Gordian#gordian-principles
-
-Though QR Tool is available through the Apple App Store, if you prefer you can compile it directly from the source code. [9/10] https://github.com/BlockchainCommons/GordianQRTool-iOS
-
-This is one of many projects at Blockchain Commons, meant to demonstrate new ways to store and use keys and other critical information (such as QRs!). You can support our work by becoming a patron. [10/10] https://github.com/sponsors/BlockchainCommons
+If you've got QRs of your own to secure, you can purchase QR Tool from the [Apple Store](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070) or you can compile it directly from the source code found at the [QR Tool repo](https://github.com/BlockchainCommons/GordianQRTool-iOS) on GitHub.

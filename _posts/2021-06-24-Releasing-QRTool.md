@@ -10,7 +10,7 @@ tags:
   - Projects
 ---
 
-The state of California recently [announced their Digital COVID-19 Vaccine Record system](https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/). It allows Californians to access a digital copy of their vaccine records, rather than having to depend entirely on their physical copy. The main entry point is a QR code containing a rudimentary Verifiable Claim (VC), which makes for great ease of use. However, Blockchain Commons has concerns over how the user experience (UX) design might negatively affect both privacy and security; we are working to address these with our new [Gordian QR Tool](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070), Blockchain Commons' first Apple appstore release.
+The state of California recently [announced their Digital COVID-19 Vaccine Record system](https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/). It allows Californians to access a digital copy of their vaccine records, rather than having to depend entirely on their physical copy. The main entry point is a QR code containing a rudimentary Verifiable Claim (VC), which makes for great ease of use. However, Blockchain Commons has concerns over how the user experience (UX) design might negatively affect both privacy and security; we are working to address these with our new [Gordian QR Tool](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070) for the iPhone, Blockchain Commons' first Apple appstore release.
 
 <div class="bold--excerpt--node">Read More</div>
 
@@ -30,7 +30,7 @@ That's in large part due to the fact that photos are built to be shared. It's ve
 Photos also aren't built to be searched and their categorization systems are usually rudimentary. Even if your QR code was safe, you might not be able to easily find it.
 
 <img src="https://raw.githubusercontent.com/BlockchainCommons/GordianQRTool-iOS/master/images/qr-list-2.jpeg" align="right" width=250>
-That's were Blockchain Commons' [Gordian QR Tool](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070) comes in. Though we can only make sure that our own uses of QR codes are architecturally secure, we can definitely provide better ways to store QR codes, and that's what QR Tool does.
+That's where Blockchain Commons' [Gordian QR Tool](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070) for the iPhone comes in. Though we can only make sure that our own uses of QR codes are architecturally secure, we can definitely provide better ways to store QR codes, and that's what QR Tool does.
 
 QR Tool lets you scan any QR code into an encrypted vault. It then protects your code with two-factor authentication: you initilally log in with your Apple login and password, and then anytime you want to view your codes, you additionally must use a biometric authentication, such as a fingerprint. Unlike your semi-porous camera roll, QR Tool was built to keep confidential information secure.
 

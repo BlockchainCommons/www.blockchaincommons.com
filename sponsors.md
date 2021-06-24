@@ -32,9 +32,9 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 ## Additional Sponsors
 
-Thanks also to our ongoing [Github Sponsors](https://github.com/sponsors/BlockchainCommons): Adrian Gropper ([@agropper](https://github.com/agropper)), Mark S. Miller ([@erights](https://github.com/erights)), Glenn Willen ([@gwillen](https://github.com/gwillen)), Alexandre Linhares ([@Alex-Linhares](https://github.com/Alex-Linhares)), Trent McConaghy ([@trentmc](https://github.com/trentmc)), Eric Kuhn ([@erickuhn19](https://github.com/erickuhn19)), Zach Herbert ([@zachherbert](https://github.com/zachherbert)), Dario ([@mytwocentimes](https://github.com/mytwocentimes)), [@modl21](https://github.com/modl21), Protocol Labs ([@protocol](https://github.com/protocol)), and four additional sponsors.
-
+{% include sponsors.html %}
 
 ## Become a Sponsor!
 
 Please support Blockchain Commons by becoming a [sustaining sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/).
+

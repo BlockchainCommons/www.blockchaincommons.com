@@ -35,6 +35,8 @@ Temporary Items
 
 ### Jekyll ###
 _site/
+.bundle/
+vendor/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata

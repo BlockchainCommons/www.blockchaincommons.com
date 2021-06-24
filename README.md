@@ -7,12 +7,11 @@ permalink: /index.html
 Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to open infrastructure.  Our goal to create low-cost, best-quality, proven infrastructure that is decentralized, platform-neutral, blockchain-neutral, and vendor-independent. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
 
 ## News
-
+* **6/24:** [Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More](https://www.blockchaincommons.com/projects/Releasing-QRTool/)
 * **5/13:** [Everything You Always Wanted to Know about Blockchain Commons (Overview Video)](https://www.blockchaincommons.com/introduction/Technical-Overview-Video/)
 * **4/14:** [Q1 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q1-2021-Report/)
 * **1/6:** [Q4 2020 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/2020-Q4-Report/)
 * **12/8:** [Blockchain Commons' URs Support Airgapped PSBTs & More](https://www.blockchaincommons.com/projects/Blockchain-Commons-URs-Support-Airgapped-PSBTs/)
-* **11/10:** [Blockchain Commons Joins COPA](https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA/)
 
 ## Projects
 

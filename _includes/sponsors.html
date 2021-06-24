@@ -1,0 +1,87 @@
+<head>
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+        @media (prefers-color-scheme: dark) {
+            body {
+                background: #2e2e2e !important;
+                color: #e4e4e4 !important;
+            }
+
+            a {
+                color: #e4e4e4 !important;
+            }
+        }
+
+        ul.sponsors {
+            list-style-type: none;
+            overflow: hidden;
+            border: 1px solid rgb(255, 255, 255);
+            border-width: 3px;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        ul li {
+            display: inline;
+            display: inline-block;
+            padding: 10px;
+        }
+
+        a {
+            color: black;
+            text-decoration: none;
+        }
+
+        a img {
+            border-radius: 50px;
+        }
+
+        .sponsors li {
+            margin: 20px
+        }
+
+        .sponsors li img {
+            margin-top: 1.05rem;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <center>
+            <ul id="sponsor-list" class="sponsors" style="margin-bottom: 50px;">
+            </ul>
+        </center>
+    </main>
+    <script>
+        const sponsorsData = document.getElementById("sponsor-list");
+
+        const user = "BlockchainCommons";
+        index = 0;
+
+        function getSponsorList() {
+            const xhr = new XMLHttpRequest();
+
+            function reqListener() {
+                sponsorsCount = JSON.parse(this.responseText).sponsors;
+                for (const t of sponsorsCount) {
+                    sponsorsData.innerHTML += `
+       <li class="sponsor"> <a href="${t.profile}">
+       ${t.handle}
+         <br>
+           <img src="https://trnck.dev/proxy?url=${t.avatar}" width="60">
+       </a>
+       </li>
+       `;
+                }
+            }
+            xhr.addEventListener("load", reqListener);
+            xhr.open("GET", `https://sponsors.trnck.dev/sponsors/${user}`);
+            xhr.send();
+        }
+        getSponsorList();
+    </script>
+</body>

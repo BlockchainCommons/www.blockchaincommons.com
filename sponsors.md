@@ -33,6 +33,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 ## Additional Sponsors
 
 {% include sponsors.html %}
+(plus 4 anonymous GitHub sponsors)
 
 ## Become a Sponsor!
 

@@ -36,5 +36,5 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 ## Become a Sponsor!
 
-Please support Blockchain Commons by becoming a [sustaining sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/).
+Please support Blockchain Commons by becoming a [sustaining sponsor](https://github.com/sponsors/BlockchainCommons) or make a [BTCPay donation](https://btcpay.blockchaincommons.com/), or become a monthly [GitHub sponsor](https://github.com/sponsors/blockchaincommons.com).
 

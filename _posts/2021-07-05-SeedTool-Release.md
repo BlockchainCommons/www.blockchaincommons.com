@@ -20,7 +20,9 @@ Gordian Seed Tool is a new iOS app from Blockchain Commons that allows for the c
 
 Though many people are familiar with the private keys used to unlock their cryptocurrency transactions, Gordian Seedtool takes a step back and allows you to manage the fundamentals upon which private keys are built: entropy and seeds. You can coin flips, die rolls, card draws, or iOS randomness as the entropy to generate the seeds, or you can import them. Afterward, you'll have the foundation of a whole hierarchy of private and public keys.
 
-The fundamental goal of Gordian Seedtool is to protect your seeds. It does so by using Apple's trusted encryption routines to protect your cryptographic seeds on your closely held mobile device. Further resilience is added through integration with iCloud. If your mobile iOS device has a network connection, its seeds are stored in iCloud using end-to-end encryption. If you lose your device, you can then retrieve them on a replacement.
+The fundamental goal of Gordian Seedtool is to protect your seeds. It does so by using Apple's trusted encryption routines to protect your cryptographic seeds on your closely held mobile device. Further resilience is added through integration with iCloud. If your mobile iOS device has a network connection, its seeds are stored in iCloud using end-to-end encryption. If you lose your device, you can then retrieve them with a replacement device logged into the same Apple account.
+
+You'll also be able to easily identify your seeds, using the Blockchain Commons [object identity block](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-002-digest.md#object-identity-block), which includes a visual lifehash, a human-readable name, an icon, and an abbrviated digest. Put them together and you should be able to recognize each seed at a glance.
 
 <img src="https://github.com/BlockchainCommons/GordianSeedTool-iOS/blob/master/images/gg-list.jpg" align=right width=250>
 

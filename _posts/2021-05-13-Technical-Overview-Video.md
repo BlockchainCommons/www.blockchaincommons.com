@@ -1,5 +1,5 @@
 ---
-title: "Everything You Wanted to Know About Blockchain Commons (But Were Afraid to Ask)"
+title: "Blockchain Commons Overviews Its Technology in New Video"
 excerpt_separator: "<!--more-->"
 categories:
   - Introduction

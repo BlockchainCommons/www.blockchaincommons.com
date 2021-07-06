@@ -29,14 +29,14 @@ Gordian CoSigner is an offline signing tool that transmit PSBTs through QR Codes
 ### Gordian QR Tool (iOS)
 
 **Repo:** [QR Tool](https://github.com/BlockchainCommons/GordianQRTool-iOS)<br>
-**Status:* Testflight Release
+**Status:** [Apple Appstore Release](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070)
 
 QR Tool is an airgapped vault for containing secure QRs such as 2FAs, Bitcoin addresses, and URs.
 
 ### Gordian Seed Tool (iOS)
 
 **Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
-**Status:* Testflight Release
+**Status:* [Apple Appstore Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)
 
 Seed Tool is a cryptographic seed manager for iOS that acts as a secure, airgapped vault.
 

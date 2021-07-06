@@ -22,7 +22,7 @@ The Gordian system is a suite of powerful open-source tools that demonstrate a s
 ### Gordian CoSigner (Android, iOS, MacOS)
 
 **Repo:** [CoSigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [CoSigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [CoSigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
-**Status:* Varied
+**Status:** Varied
 
 Gordian CoSigner is an offline signing tool that transmit PSBTs through QR Codes across an Airgap that improves seed security.
 
@@ -36,7 +36,7 @@ QR Tool is an airgapped vault for containing secure QRs such as 2FAs, Bitcoin ad
 ### Gordian Seed Tool (iOS)
 
 **Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
-**Status:* [Apple Appstore Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)
+**Status:** [Apple Appstore Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)
 
 Seed Tool is a cryptographic seed manager for iOS that acts as a secure, airgapped vault.
 

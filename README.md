@@ -8,7 +8,7 @@ Blockchain Commons is proudly a "not-for-profit" social benefit corporation comm
 
 ## News
 
-* **7/15:** [Gordian Seed Tool Reveals the Foundations of Cryptography](https://www.blockchaincommons.com/projects/2021-07-05-SeedTool-Release/)
+* **7/15:** [Gordian Seed Tool Reveals the Foundations of Cryptography](https://www.blockchaincommons.com/projects/2021-07-15-SeedTool-Release/)
 * **6/24:** [Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More](https://www.blockchaincommons.com/projects/Releasing-QRTool/)
 * **5/13:** [Blockchain Commons Overviews Its Technology in New Video](https://www.blockchaincommons.com/introduction/Technical-Overview-Video/)
 * **4/14:** [Q1 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q1-2021-Report/)

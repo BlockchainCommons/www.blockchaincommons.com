@@ -12,7 +12,7 @@ tags:
 
 <img src="https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/master/images/logos/gordian-seedtool-logo-white.jpg" align=right width=250>
 
-Blockchain Commons has released Gordian Seed Tool, a new iOS app that allows for the creation, storage, backup, and transformation of cryptographic seeds is now available on the [Apple appstore](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229). It is independent, private, and resilient vault, which can protect the most important underlying secret used by most cryptocurrencies — the cryptographic seed.
+Blockchain Commons has released Gordian Seed Tool, a new iOS app that allows for the creation, storage, backup, and transformation of cryptographic seeds is now available on the [Apple appstore](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229). It is an independent, private, and resilient vault, which can protect the most important underlying secret used by most cryptocurrencies: the cryptographic seed.
 
 <div class="bold--excerpt--node">Read More</div>
 
@@ -22,7 +22,7 @@ Though most wallets focus on the private keys used to unlock their cryptocurrenc
 
 <img src="https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/master/images/gg-list.jpg" align=right width=250>
 
-The focus of Gordian Seed Tool is to protect your seeds. It does so by supporting new approaches to security such as QR-based airgaps, where you store your secrets on a closely held device that isn't fully networked, such as an offline device in airplane mode, or a strongly protected device like the sure enclave in Apple's iPhone and more modern Macinotoshes. You then communicate with that device primarily through QR codes or text that can easily be transmitted across that gap of air. Your seeds are thus protected by modern mobile-device security such as data encryption, trusted hardware, and biometric access protection. 
+The focus of Gordian Seed Tool is to protect your seeds. It does so by supporting new approaches to security such as QR-based airgaps, where you store your secrets on a closely held device that isn't fully networked, such as an offline device in airplane mode, or a strongly protected device like the secure enclave in Apple's iPhone and more modern Macinotoshes. You then communicate with that device primarily through QR codes or text that can easily be transmitted across that gap of air. Your seeds are thus protected by modern mobile-device security such as data encryption, trusted hardware, and biometric access protection. 
 
 That data encryption comes about through Apple's trusted encryption routines. Seed Tool then adds resilience through integration with iCloud. If your choose for your mobile iOS device to have a network connection, its seeds will be stored in iCloud using end-to-end encryption. If you lose your device, you can retrieve those seeds with a replacement device logged into the same Apple account. (If you prefer, you can also use a cellular networked device, such as an iPod Touch or wifi-only iPad, leveraging airplane mode, to entirely ensure that your seeds never leave your device.)
 

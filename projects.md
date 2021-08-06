@@ -128,6 +128,13 @@ LifeHashTool is a command line tool written in Swift that generates [LifeHash](h
 
 Seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
 
+### UR Demo
+
+**Repo:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
+**Status:** Late Alpha
+
+URDemo is an app to demonstrate sending and receiving of URs using URKit written in Swift using SwiftUI. It demonstrates the use of [URKit](https://github.com/BlockchainCommons/URKit) to send and receive single-part and multi-part [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md) via QR codes. Multi-part QR codes are generated using [Luby Transform code](https://en.wikipedia.org/wiki/Luby_transform_code) (fountain codes).
+
 <hr>
 
 ## Open Infrastructure Projects

@@ -22,7 +22,7 @@ The Gordian system is a suite of powerful open-source tools that demonstrate a s
 
 ### Gordian Cosigner (Android, iOS, MacOS)
 
-<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" align="right" border="1" width="200"></a>
+<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" align="left" border="1" width="100"></a>
 **Repo:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
 **Status:** Varied
 

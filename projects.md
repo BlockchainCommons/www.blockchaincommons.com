@@ -14,6 +14,7 @@ _Reference projects demonstrate the self-sovereign approach of the Gordian princ
 
 ### The Core Gordian System (web + iOS)
 
+<a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Status:** Varied
 
@@ -21,6 +22,7 @@ The Gordian system is a suite of powerful open-source tools that demonstrate a s
 
 ### Gordian Cosigner (Android, iOS, MacOS)
 
+<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" align="right" border="1" width="200"></a>
 **Repo:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
 **Status:** Varied
 
@@ -28,6 +30,7 @@ Gordian Cosigner allows users to participate in a multisig by adding a signature
 
 ### Gordian QR Tool (iOS)
 
+<a href="images/projects/QRTool.png"><img src="images/projects/QRTool.png" align="right" border="1" width="200"></a>
 **Repo:** [QR Tool](https://github.com/BlockchainCommons/GordianQRTool-iOS)<br>
 **Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070)
 
@@ -35,6 +38,7 @@ Gordian QR Tool is a reference tool that acts as a secure place to store and bac
 
 ### Gordian Seed Tool (iOS)
 
+<a href="images/projects/SeedTool.png"><img src="images/projects/SeedTool.png" align="right" border="1" width="200"></a>
 **Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
 **Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)
 

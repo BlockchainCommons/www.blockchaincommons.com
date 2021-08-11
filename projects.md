@@ -14,31 +14,35 @@ _Reference projects demonstrate the self-sovereign approach of the Gordian princ
 
 ### The Core Gordian System (web + iOS)
 
+<a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Status:** Varied
 
-The Gordian system is a suite of powerful open-source tools that demonstrate a self-sovereign solution for Bitcoin embodied in the Gordian principles. It does so by using [Torgap](https://github.com/BlockchainCommons/torgap) and [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md) technology to link a protected [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS) (or the alternative [Bitcoin Standup Linux Scripts](https://github.com/BlockchainCommons/Bitcoin-StandUp-Scripts)) with a mobile [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) so that you access full-node capabilities from a mobile device. (It's meant to cut through a traditionally knotty problem in Bitcoin development.) 
+The Gordian system is a suite of powerful open-source tools that demonstrate a self-sovereign solution for Bitcoin embodied in the Gordian principles. It does so by using [Torgap](https://github.com/BlockchainCommons/torgap) and [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md) technology to link a protected [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS) (or the alternative [Bitcoin Standup Linux Scripts](https://github.com/BlockchainCommons/Bitcoin-StandUp-Scripts)) with a mobile [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) so that you access full-node capabilities from a mobile device. ([It's meant to cut through a traditionally knotty problem in Bitcoin development.](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Why-Gordian.md)) 
 
-### Gordian CoSigner (Android, iOS, MacOS)
+### Gordian Cosigner (Android, iOS, MacOS)
 
-**Repo:** [CoSigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [CoSigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [CoSigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
+<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" align="right" border="1" width="200"></a>
+**Repo:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
 **Status:** Varied
 
-Gordian CoSigner is an offline signing tool that transmit PSBTs through QR Codes across an Airgap that improves seed security.
+Gordian Cosigner allows users to participate in a multisig by adding a signature to an otherwise unsigned or partially signed PSBT that was created on another device. It's largely intended as an offline signing tool, which allows signing without a direct connection to a full node: a wallet that can create PSBTs or another transaction coordinator service is needed to initiate a transaction –– such as the [Gordian system.](https://github.com/BlockchainCommons/Gordian)
 
 ### Gordian QR Tool (iOS)
 
+<a href="images/projects/QRTool.png"><img src="images/projects/QRTool.png" align="right" border="1" width="200"></a>
 **Repo:** [QR Tool](https://github.com/BlockchainCommons/GordianQRTool-iOS)<br>
-**Status:** [Apple Appstore Release](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070)
+**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070)
 
-QR Tool is an airgapped vault for containing secure QRs such as 2FAs, Bitcoin addresses, and URs.
+Gordian QR Tool is a reference tool that acts as a secure place to store and backup sensitive data that is encoded into QRs. Powered by [Uniform Resource](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), it was built to store SSKRs, PSBTs, and seeds encoded using [URs](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), however it can also be used to store other sorts of sensitive data such as 2FAs. Data is always stored with multiple layers of encryption using your device's keychain. A quick overview on using Gordian QR Tool is available in its [Manual.](https://github.com/BlockchainCommons/GordianQRTool-iOS/blob/master/Docs/MANUAL.md)
 
 ### Gordian Seed Tool (iOS)
 
+<a href="images/projects/SeedTool.png"><img src="images/projects/SeedTool.png" align="right" border="1" width="200"></a>
 **Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
-**Status:** [Apple Appstore Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)
+**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)
 
-Seed Tool is a cryptographic seed manager for iOS that acts as a secure, airgapped vault.
+Gordian Seed Tool protects your cryptographic seeds while also making them available for easy use. Using Seed Tool, you can generate seeds and store them securely on your device. You can then derive and share multi-signature signing and verification keys from those seeds. Sophisticated backup procedures include printed pages and Sharded Secret Key Reconstruction ([SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md#sharded-secret-key-reconstruction-sskr)) — which lets you split your seed into pieces and send them to trusted parties, who can send them back to you in an emergency for seed recovery. You can even use an entirely offline device (no internet access) to store your seeds and use QR codes to exchange necessary information with online devices running compatible wallet or signing software.
 
 ### LetheKit (kit)
 
@@ -47,7 +51,7 @@ Seed Tool is a cryptographic seed manager for iOS that acts as a secure, airgapp
 **Status:** Late Alpha<br>
 **Blog:** 10/28/20: [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/projects/Releasing-LetheKit/)
 
-LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the mythological river of forgetfulness and oblivion.
+LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the [mythological river](https://en.wikipedia.org/wiki/Lethe) of forgetfulness and oblivion.
 
 ### Spotbit (web)
 
@@ -69,7 +73,7 @@ _Educational projects consist of books, tutorials, or courses, intended to teach
 **Status:** v2.0 Complete (2020-10-20)<br>
 **Blog:** 10/30/20: [Learning Bitcoin Upgrades to v2](https://www.blockchaincommons.com/projects/Learning-Bitcoin-Upgrades-to-v2/)
 
-This is a complete nineteen-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. 
+This is a complete twenty-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. 
 
 ### #SmartCustody
 
@@ -79,7 +83,7 @@ This is a complete nineteen-chapter course intended to teach system administrato
 **Repo:** [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
 **Status:** v1.01 Complete (2019-09-16)<br>
 **Future:** [Outline for v2.0](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md)<br>
-**Blog:** 1/4/19: [First #SmartCustody Workshop: Simple Cold Storage & Self-Custody](https://www.blockchaincommons.com/projects/First-SmartCustody-Workshop-Simple-Cold-Storage-and-Self-Custody/)
+**Blog:** 6/3/20: [June TweetStorms on #SmartCustody Adversaries, 1-on-1 Advice, Supporting Smart Custody Book v2](https://www.smartcustody.com/2020-06-03-June-Tweetstorm/)
 
 _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
 
@@ -89,14 +93,14 @@ A v2.0 of this book is in the planning stage, to improve the accessibility of th
 
 ## Developer Projects
 
-_Developer projects create resources for use by engineers and programmers, including libraries and CLIs._
+_Developer projects create resources for use by engineers and programmers, including libraries and CLIs. The [Crypto Commons repository](https://github.com/BlockchainCommons/crypto-commons) collects together all of Blockchain Commons' wallet libraries and the utilities (reference implementations) built from them, as well as demos and tools which exercise and exemplify those wallet libraries._
 
 ### C Libraries
 
-**Repos:** [bc-crypto-base](https://github.com/BlockchainCommons/bc-crypto-base), [bc-shamir](https://github.com/blockchainCommons/bc-shamir/), [bc-sskr](https://github.com/BlockchainCommons/bc-sskr), [bc-bip39](https://github.com/BlockchainCommons/bc-bip39), and [bc-ur](https://github.com/BlockchainCommons/bc-ur)<br>
+**Repos:** [bc-crypto-base](https://github.com/BlockchainCommons/bc-crypto-base), [bc-shamir](https://github.com/blockchainCommons/bc-shamir/), [bc-sskr](https://github.com/BlockchainCommons/bc-sskr), [bc-bip39](https://github.com/BlockchainCommons/bc-bip39), [bc-ur](https://github.com/BlockchainCommons/bc-ur), and [bc-bytewords](https://github.com/BlockchainCommons/bc-bytewords)<br>
 **Status:** Feature-complete beta
 
-Blockchain Commons offers a variety of C-language cryptographic libraries focuses largely on wallet design, which can be used in your own projects. The currently libraries include 
+Blockchain Commons offers a variety of C-language cryptographic libraries focused largely on wallet design, which can be used in your own projects. The current libraries include 
 reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur). The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
 
 ### Bytewords-CLI
@@ -104,7 +108,7 @@ reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip
 **Repo:** [bytewords-cli](https://github.com/BlockchainCommons/bytewords-cli)
 **Status:** Feature-complete beta
 
-Bytewords is a command-line tool that can be used to translate to and from various [Bytewords](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-012-bytewords.md) formats, exercising the [Bytewords library](https://github.com/blockchaincommons/bc-bytewords).
+Bytewords is a command-line tool that can be used to translate to and from various [Bytewords](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-012-bytewords.md) formats, exercising the [bc-bytewords C library](https://github.com/blockchaincommons/bc-bytewords).
 
 ### Keytool-CLI
 
@@ -112,21 +116,28 @@ Bytewords is a command-line tool that can be used to translate to and from vario
 **Repo:** [keytool-cli](https://github.com/BlockchainCommons/keytool-cli)<br>
 **Status:** Feature-complete beta
 
-keytool is a command-line tool that implements a data flow graph for deriving cryptocurrency keys and addresses. Any of the nodes in the graph can be assigned and any set of nodes can be derived as long as their dependencies are met. It also acts as a showcase for Blockchain Commons' C libraries, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
+Keytool is a command-line tool that implements a data flow graph for deriving cryptocurrency keys and addresses. Any of the nodes in the graph can be assigned and any set of nodes can be derived as long as their dependencies are met. It also acts as a showcase for Blockchain Commons' C libraries, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
 
 ### LifeHashTool-CLI
 
 **Repo:** [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool)
 **Status:** Late Alpha
 
-LifeHashTool can be used to generate lifehashes from the command line, based on the [LifeHash format](https://github.com/BlockchainCommons/LifeHash).
+LifeHashTool is a command line tool written in Swift that generates [LifeHash](https://github.com/BlockchainCommons/LifeHash) images as PNG files and is distributed as a Swift package.
 
 ### Seedtool-CLI
 
 **Repo:** [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)<br>
 **Status:** Feature-complete beta
 
-seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
+Seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
+
+### UR Demo
+
+**Repo:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
+**Status:** Late Alpha
+
+URDemo is an app to demonstrate sending and receiving of URs using URKit written in Swift using SwiftUI. It demonstrates the use of [URKit](https://github.com/BlockchainCommons/URKit) to send and receive single-part and multi-part [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md) via QR codes. Multi-part QR codes are generated using [Luby Transform code](https://en.wikipedia.org/wiki/Luby_transform_code) (fountain codes).
 
 <hr>
 
@@ -143,7 +154,8 @@ A instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, avai
 
 ### Testnet Public Node
 
-**Testnet Node:**<br>
+**Testnet Node IP Address:** 45.56.94.106:18333<br>
+**Testnet Node Onion Address:** 71e355f8e097857c932cc315f321eb4a@ftemeyifladknw3cpdhilomt7fhb3cquebzczjb7hslia77khc7cnwid.onion:1309<br>
 **Related Repo:** [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
 
 Blockchain Commons maintains a public Bitcoin testnet node, primarily for use as an optional server for use with GordianWallet.

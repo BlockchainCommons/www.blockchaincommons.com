@@ -150,7 +150,8 @@ A instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, avai
 
 ### Testnet Public Node
 
-**Testnet Node:**<br>
+**Testnet Node IP Address:** 45.56.94.106:18333<br>
+**Testnet Node Onion Address:** 71e355f8e097857c932cc315f321eb4a@ftemeyifladknw3cpdhilomt7fhb3cquebzczjb7hslia77khc7cnwid.onion:1309<br>
 **Related Repo:** [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
 
 Blockchain Commons maintains a public Bitcoin testnet node, primarily for use as an optional server for use with GordianWallet.

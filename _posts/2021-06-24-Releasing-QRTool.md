@@ -23,9 +23,9 @@ Some possible architectural issues arise from using QR codes for confidential da
 
 However, there are also security & privacy UX issues related to the storage of QR codes that need to be resolved no matter what is encoded. The state of California itself demonstrated the bad habits that we're already developing when they said in [their official press release](https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/): "individuals are encouraged to screenshot the information and save it to their phone files or camera roll".
 
-Now, storing QRs as photos on a phone does meet some minimal security requirements. Most phones are closely held and protected by  a PIN, a thumbprint, or a faceprint. They're often backed up to a cloud service and that cloud data is mostly secured as well. Still, there are numerous opportunities for problems. 
+Now, storing QRs as photos on a phone does meet some minimal security requirements. Most phones are closely held and protected by a PIN, a thumbprint, or a faceprint. They're often backed up to a cloud service and that cloud data is mostly secured as well. Still, there are numerous opportunities for problems.
 
-That's in large part due to the fact that photos are built to be shared. It's very easy to send a photo to a friend or a social network, which is great for photos, but less so for your QR codes. In addition, photos are built to be synced. Though your data might be relatively safe if it's synced to the cloud, it's not that secure when synced to your desktop computer, which is vulnerable to malware and other attacks. 
+That's in large part due to the fact that photos are built to be shared. It's very easy to send a photo to a friend or a social network, which is great for photos, but less so for your QR codes. In addition, photos are built to be synced. Though your data might be relatively safe if it's synced to the cloud, it's not that secure when synced to your desktop computer, which is vulnerable to malware and other attacks.
 
 Photos also aren't built to be searched and their categorization systems are usually rudimentary. Even if your QR code was safe, you might not be able to easily find it.
 
@@ -36,7 +36,7 @@ QR Tool lets you scan any QR code into an encrypted vault. It then protects your
 
 QR Tool also provides proof that your codes weren't changed. Using [Lifehash](https://github.com/BlockchainCommons/LifeHash) technology, QR Tool links each code to a unique, evocative, and unchanging graphical color representation. This will prove particularly useful when the Lifehash specification is adopted by other companies, so that you can transfer a QR code between applications and verify immediately that it's the same — something that's difficult with the QR code alone.
 
-Finally, QR Tool resolves the problem of categorization by automatically recognizing a wide variety of QR codes and giving you the opportunity to change those categorizations as you see fit. 
+Finally, QR Tool resolves the problem of categorization by automatically recognizing a wide variety of QR codes and giving you the opportunity to change those categorizations as you see fit.
 
 If the future we hope to see more fully featured [Verifiable Credentials](https://www.w3.org/TR/vc-data-model/), but there's no doubt that QRs are with us for the moment, and we need to make sure that they remain secure and easy to use. This is why we released QR Tool. It's a reference implementation for the Gordian Principles, demonstrating how to store confidential data in a way that's independent, private, resilient, and open: QR Tool ensures that you hold your own QRs, that they're safe, and that you can easily transmit them to other services.
 

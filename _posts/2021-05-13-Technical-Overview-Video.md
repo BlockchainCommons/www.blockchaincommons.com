@@ -6,13 +6,11 @@ categories:
 tags:
   - Video
   - Overview
-
 ---
 
 In the last year, Blockchain Commons has produced a large collection of specifications, reference libraries, architectures, and reference utilities meant to improve blockchain infrastructure by enabling interoperability among Bitcoin wallets — and in the future, other cryptocurrency applications, such as Ethereum wallets, and other cryptography programs, such as chat systems, key management programs, and more.
 
 So, _what do Blockchain Commons' technologies do?_ We've just released [a Technology Overview video](https://www.youtube.com/watch?v=RYgOFSdUqWY) that discuses the concepts and foundations underlying our work and also highlights many of our most important technological releases.
-
 
 <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img width="100%" src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-1.png" style="border:1px solid black;"></a>
 
@@ -24,11 +22,12 @@ As the video notes, our work is built on a considerable volume of existing liter
 
 This results in a number of core Blockchain Commons technologies:
 <img width="30%" src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-2.png" style="border:1px solid black;" align="right">
-* [Bytewords](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=16m21s) are a text-encoding method for binary data.
-* [Uniform Resources](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=19m58s) support self-describing data that can be used interoperably.
-* [LifeHash](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=24m55s) allows for graphical recognition of seeds, keys, and other data.
-* [SSKR](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=26m52s) provides new libraries and methodologies for sharding secrets.
-* The [Torgap](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=28m46s) architecture creates security by partitioning blockchain services.
+
+- [Bytewords](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=16m21s) are a text-encoding method for binary data.
+- [Uniform Resources](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=19m58s) support self-describing data that can be used interoperably.
+- [LifeHash](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=24m55s) allows for graphical recognition of seeds, keys, and other data.
+- [SSKR](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=26m52s) provides new libraries and methodologies for sharding secrets.
+- The [Torgap](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=28m46s) architecture creates security by partitioning blockchain services.
 
 The [Technology Overview video](https://www.youtube.com/watch?v=RYgOFSdUqWY) discusses all of this and more.
 
@@ -37,4 +36,3 @@ We are also continuing to produce documents of use for the entire blockchain com
 The specifications, architectures, references, and documents that we're creating at Blockchain Commons are all meant to improve interoperability among many different vendors, to support the creation of wallets (and future cryptography applications) that enable independence, security, and resilience for their users. We've been working with an [Airgapped Wallet Community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions) to create these various technologies. If you're designing blockchain applications of your own, we hope you'll view the [video](https://www.youtube.com/watch?v=RYgOFSdUqWY) to see how some of our technologies can help you.
 
 You can also support the continued development of technologies like these, meant to support the entire community by becoming a [sponsor at GitHub](https://github.com/sponsors/BlockchainCommons) or by making a one-time donation [at our BTCPay](https://btcpay.blockchaincommons.com/).
-

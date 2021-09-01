@@ -11,11 +11,11 @@ tags:
 
 Blockchain Commons has released a feature-complete version of LetheKit, a do-it-yourself hardware platform that allows you to conduct cryptographic operations on an airgapped device. Complete information for creating your own LetheKit and downloading its software can be found in Blockchain Commons' LetheKit repo.
 
-* [Visit LetheKit Repo](https://github.com/BlockchainCommons/lethekit)
-* [View LetheKit Video](https://www.youtube.com/watch?v=OSTQthcxsh0)
-* [Support LetheKit](https://github.com/sponsors/BlockchainCommons)
+- [Visit LetheKit Repo](https://github.com/BlockchainCommons/lethekit)
+- [View LetheKit Video](https://www.youtube.com/watch?v=OSTQthcxsh0)
+- [Support LetheKit](https://github.com/sponsors/BlockchainCommons)
 
-Because you build LetheKit yourself and use open-source software, you know everything about your kit, and can depend on it for safe Bitcoin seed generation. 
+Because you build LetheKit yourself and use open-source software, you know everything about your kit, and can depend on it for safe Bitcoin seed generation.
 
 <!--more-->
 
@@ -31,6 +31,6 @@ Thanks to Ken Sedgwick for his creation of the LetheKit and to Gorazd Kovacic fo
 
 Other Blockchain Commons projects such as the [Gordian system](https://github.com/BlockchainCommons/Gordian) follow this same philosophy, effortlessly dividing up your cryptocurrency between a connected node and an air-gapped mobile device. The two projects even work together. You can export keys from LetheKit and import them into your Gordian Wallet!
 
-Follow [@gorazdko](https://twitter.com/gorazdko) for the latest on LetheKit and [@BlockchainComns](https://twitter.com/blockchaincomns) and [@ChristopherA](https://twitter.com/ChristopherA) for the rest of the Blockchain Commons work! 
+Follow [@gorazdko](https://twitter.com/gorazdko) for the latest on LetheKit and [@BlockchainComns](https://twitter.com/blockchaincomns) and [@ChristopherA](https://twitter.com/ChristopherA) for the rest of the Blockchain Commons work!
 
 Please also consider [becoming a patron of Blockchain Commons](https://github.com/sponsors/BlockchainCommons); we are only able to continue this open-infrastructure work with your support.

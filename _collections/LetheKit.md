@@ -1,6 +1,6 @@
 ---
 title: "LetheKit"
-image: 
+image:
   path: https://github.com/BlockchainCommons/lethekit/raw/master/images/lethekit-with-logo.jpg
   thumbnail: https://www.blockchaincommons.com/images/projects/lethekit.jpg
   caption: "LetheKit DIY Arduiono Box & Dice"

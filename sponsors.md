@@ -26,6 +26,10 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 **[Blockchainbird](https://github.com/blockchainbird/bird)** is a free and open source software toolset with a manual to build an extra guarantee layer on existing database systems. It is free to use and adapt to your own needs. Smartphones and smart custody arranged? Then Bird gives wings to projects that are labeled as blockchain, but can in fact be implemented with databases.
 
+<img src="images/sponsors/foundation-logo.png" width=500>
+
+**[Foundation Devices](https://foundationdevices.com/)** Foundation Devices is the creator of Passport, a next-gen hardware wallet that makes it easier than ever to securely store your Bitcoin. They believe that Bitcoin and decentralized technologies will empower the individual, leading to a better world where people control their own data and their own money. Foundation is building a new category of sovereign computing devices.\
+
 <img src="images/sponsors/unchained-capital.png" width=500>
 
 **[Unchained Capital](https://www.unchained-capital.com/)** is a new kind of financial services company. They are the first collaborative asset management firm that offers loans and vaults for your Bitcoin. It was founded by people who believe that cryptocurrencies have the potential to change the world but only if they're useful. They set out to build financial products for long-term crypto-investors to get more value from their assets today and in the future.

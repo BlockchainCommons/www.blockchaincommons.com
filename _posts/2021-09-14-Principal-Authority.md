@@ -1,43 +1,46 @@
 ---
+
 title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
 excerpt_separator: "<!--more-->"
 categories:
-  - Quarterlies
-tags:
-  - Goals
-  - Philosophies
-  - Projects
+
+- Quarterlies
+  tags:
+- Goals
+- Philosophies
+- Projects
+
 # image: https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/2021-Q2-demo.jpg
 
-*This summer, we’ve been iterating through an article intended to talk
+_This summer, we’ve been iterating through an article intended to talk
 about the success that Blockchain Commons has had working with Wyoming
 legislature, to help to define a first-in-the-country legal definition
-of digital identity. *
+of digital identity. _
 
-*The Digital Identity Working Group for the Wyoming Select Committee on
+_The Digital Identity Working Group for the Wyoming Select Committee on
 Blockchain meets again next week, on September 21-22, 2021. I will be
 providing testimony there at 2pm MST. As a result, we’ve decided to
 release the current draft of this article on digital identity and how
 Wyoming has defined it using Principal Authority, with the goal of
 helping to define the agenda for digital identity for the next year,
-both in Wyoming and elsewhere.*
+both in Wyoming and elsewhere._
 
-> *—Christopher Allen *
+> _—Christopher Allen _
 
 <hr>
 
-In 2016, I wrote [*"The Path to Self-Sovereign
-Identity"*](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
+In 2016, I wrote [_"The Path to Self-Sovereign
+Identity"_](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 to talk about the historic evolution from centralized identity to
 user-centric identity and to define the next step: a self-sovereign
 digital identity that was controlled by the user, not some third party.
-In it I also offered [*10 Self-Sovereign Identity
-Principles*](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
+In it I also offered [_10 Self-Sovereign Identity
+Principles_](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md)
 which have been widely accepted by the decentralized identity community.
 
 Self-sovereign identity has matured and grown considerably since, as I
-chronicled in [*"Self-Sovereign Identity: Five Years
-On"*](https://www.coindesk.com/self-sovereign-identity-five-years-on).
+chronicled in [_"Self-Sovereign Identity: Five Years
+On"_](https://www.coindesk.com/self-sovereign-identity-five-years-on).
 There are now specifications, products, and entire companies supporting
 the concept. However, recent legal efforts to define self-sovereign
 identity may be just as important for catapulting it into the mass
@@ -46,26 +49,28 @@ market.
 <div class="bold--excerpt--node">Read More</div>
 <!--more-->
 
-
 ## Defining Identity
 
 Defining identity is by no means easy. That core topic could encompass a
 paper much longer than this. The following are some various definitions
-of identity drawn from the [*RWOT
-Glossary*](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/glossary-primer.md):
+of identity drawn from the [_RWOT
+Glossary_](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/glossary-primer.md):
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ***Identifier:*** A label that refers to an entity and can be used to establish or maintain an identity. For example, a name or UID.
+---
 
-  ***Identity:*** A conceptual construct that enables the differentiation between distinct entities that are individually considered to be unique, but which may possess class or group characteristics. An identity gives these entities the ability to interact as peers in collaborative or competitive ways. It is not the entity that it represents.
+**_Identifier:_** A label that refers to an entity and can be used to establish or maintain an identity. For example, a name or UID.
 
-  ***Identity, Digital:*** A digital representation of an entity, managed by digital tools, over which that entity has personal or delegated control.
+**_Identity:_** A conceptual construct that enables the differentiation between distinct entities that are individually considered to be unique, but which may possess class or group characteristics. An identity gives these entities the ability to interact as peers in collaborative or competitive ways. It is not the entity that it represents.
 
-  ***Identity, Functional:*** How we recognize, remember and respond to specific people and things.
+**_Identity, Digital:_** A digital representation of an entity, managed by digital tools, over which that entity has personal or delegated control.
 
-  ***SSI: Self-sovereign identity.*** A decentralized digital identity that does not depend on any centralized authority and whose information is portable.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**_Identity, Functional:_** How we recognize, remember and respond to specific people and things.
+
+**_SSI: Self-sovereign identity._** A decentralized digital identity that does not depend on any centralized authority and whose information is portable.
+
+---
+
+---
 
 Digital identity is just one aspect of a complex, interconnected web of
 different digital models. It's not the same thing as identification
@@ -88,17 +93,20 @@ legislatures.
 
 Collaborating with the Wyoming legislature has borne the first fruit.
 This year they passed
-[*SF0039*](https://wyoleg.gov/Legislation/2021/SF0039) on digital
+[_SF0039_](https://wyoleg.gov/Legislation/2021/SF0039) on digital
 identity, which the Governor signed into law and which went into effect
 on July 1, 2021. It defines digital identity as follows:
 
-  ------------------------------------------------------------------------
-  \(xviii) "Personal digital identity" means the intangible digital
-  representation of, by and for a natural person, over which he has
-  principal authority and through which he intentionally communicates or
-  acts.
-  ------------------------------------------------------------------------
-  ------------------------------------------------------------------------
+---
+
+\(xviii) "Personal digital identity" means the intangible digital
+representation of, by and for a natural person, over which he has
+principal authority and through which he intentionally communicates or
+acts.
+
+---
+
+---
 
 So where's the self-sovereign identity in that?
 
@@ -110,8 +118,8 @@ To understand how Principal Authority relates to self-sovereign identity
 requires insight into what Principal Authority is. The concept comes out
 of English Common law. It appears in most Commonwealth countries but has
 also found its way into the laws of other countries, including the
-United States. It's primarily used in the [*Laws of
-Agency*](https://en.wikipedia.org/wiki/Law_of_agency), an area of
+United States. It's primarily used in the [_Laws of
+Agency_](https://en.wikipedia.org/wiki/Law_of_agency), an area of
 commercial law where an agent is empowered to take on certain tasks.
 
 As the name would suggest, Principal Authority first requires a
@@ -123,7 +131,7 @@ says that a Principal has Authority over his identity — which is a clear
 restatement of self-sovereign principles.
 
 In fact, the recognition of a Principal is itself a statement of the
-first of the principles of self-sovereign identity: *existence*. It
+first of the principles of self-sovereign identity: _existence_. It
 asserts that digital identity is always a representation of an actual
 entity, who predates any digital representation, and who is also the
 first and foremost beneficiary of that representation.
@@ -139,7 +147,7 @@ By focusing on Agency, the concept of Principal Authority also ensures
 that the Principal always has the ability to revoke their delegation to
 the agents whom they have temporarily offered Authority regarding their
 identity. This is a requirement for other self-sovereign principles such
-as *portability*, and it's a real necessity in the digital world, where
+as _portability_, and it's a real necessity in the digital world, where
 we might need to delete personal data or to cancel Terms & Conditions
 that we signed without real, informed consent.
 
@@ -158,8 +166,8 @@ identity.
 
 However, any digital identity also exists as part of a larger ecosystem,
 and the Principal does not have control over the larger ecosystem. They
-*cannot* control how other entities rate, rank, or note the reputation
-of their identity; and they *cannot* control comments, flags, or other
+_cannot_ control how other entities rate, rank, or note the reputation
+of their identity; and they _cannot_ control comments, flags, or other
 notes that other entities might attach to their identity.
 
 Further, a Principal cannot necessarily prevent other entities from
@@ -206,8 +214,8 @@ advertisers; or compare it to Google, who infers personally identifiable
 and demographic data based on the information you input into their tools
 and the choices you make. In large part, you don't even know what these
 identity representatives and data holders are doing. In the world before
-[*Europe's GDPR*](https://gdpr-info.eu/) or [*California's
-CCPA*](https://oag.ca.gov/privacy/ccpa), you had little input into their
+[_Europe's GDPR_](https://gdpr-info.eu/) or [_California's
+CCPA_](https://oag.ca.gov/privacy/ccpa), you had little input into their
 actions. Even now, with those early and rough attempts to protect
 digital self-sovereignty, you're typically opting-out, not opting-in —
 which is barely agency at all — and you’re still not protected against
@@ -245,7 +253,7 @@ its ability to enable Agency, and enforces its established duties.
 
 However, though the state is involved, this peer-to-peer relationship
 still lies in stark contrast to traditional property law, where property
-is always in some way *beholden* to the state: the state might be the
+is always in some way _beholden_ to the state: the state might be the
 original source for property, they might be able to reclaim it by
 eminent domain, and they might be able to seize it through asset
 forfeiture. Those ideas all run counter to the idea of self-sovereignty
@@ -270,24 +278,24 @@ easily translate them into duties bound by legislation.
 
 ### The Rights of Self-Sovereign Authority
 
-*Some principles of self-sovereign identity are implicit in the idea of
-a Principal.*
+_Some principles of self-sovereign identity are implicit in the idea of
+a Principal._
 
 1.  **Existence.** The definition of Principal requires that there be a real entity at an identity’s heart.
 2.  **Control.** The definition of Principal Authority says that the Principal always retains control of an identity, within specifically defined boundaries, no matter who is holding it at a particular time.
 3.  **Persistence.** Because of their uncontested Principal Authority, a Principal may decide to have an identity last for as long as they see fit.
 4.  **Consent.** Anything that happens within the defined boundaries of the digital identity is implicitly with the consent of the Principal, who may delegate or revoke Principal Authority at any time.
 
-*Self-sovereign rights recognize that an identity exists to benefit its
+_Self-sovereign rights recognize that an identity exists to benefit its
 Principal. These core principles likely derive explicitly from a
 definition of digital identity such as that created by the Wyoming
-legislature.*
+legislature._
 
 ### The Duties of Self-Sovereign Identity
 
-*The remaining principles of self-sovereign identity can be stated as
+_The remaining principles of self-sovereign identity can be stated as
 duties owed to a Principal by an agent who has been granted Principal
-Authority over an identity for certain purposes.*
+Authority over an identity for certain purposes._
 
 1.  **Access.** An agent must provide the Principal with access to data related to their digital identity.
 2.  **Transparency.** An agent must be open about how they will administer a digital identity.
@@ -296,17 +304,17 @@ Authority over an identity for certain purposes.*
 5.  **Minimization.** An agent must minimize the data collected, stored, transmitted, and shared regarding an identity so that it only includes data that is strictly necessary in the context of a request made by the Principal.
 6.  **Protection.** An agent must place the protection of the identity above their own needs or desires.
 
-*Identity duties says that agents will tell you how they're using your
+_Identity duties says that agents will tell you how they're using your
 identity, use it in the most minimalist way possible, and make it easy
 for you to reclaim the identity. However, legislation may be required to
-turn these best practices into duties bound by law.*
+turn these best practices into duties bound by law._
 
 ### The Duties of Self-Sovereign Agents
 
-*The idea of Principal Authority itself suggests additional duties that
+_The idea of Principal Authority itself suggests additional duties that
 were not included on the original list of principles of self-sovereign
 identity, but which are generally defined in the Laws of Agency to be
-due from agents to Principals.*
+due from agents to Principals._
 
 1.  **Specificity.** An Agent will use Principal Authority to serve specific tasks as instructed by the Principal, or as required by Custom, and do nothing more with an identity.
 2.  **Responsibility.** An agent will serve those tasks with reasonable care and skill, with due diligence, and without further delegation.
@@ -314,9 +322,9 @@ due from agents to Principals.*
 4.  **Fidelity.** An agent will serve those tasks in good faith.
 5.  **Disclosure.** An agent will maintain accounts and report their actions back to the Principal.
 
-*Agent duties say that agents will be trustworthy in their use of your
+_Agent duties say that agents will be trustworthy in their use of your
 identity. These duties are more likely to implicitly be a part of any
-legislation that was built atop the Laws of Agency.*
+legislation that was built atop the Laws of Agency._
 
 ## Taking the Next Steps
 
@@ -335,14 +343,14 @@ we'll be creating new Laws of Customs for the digital frontier, an area
 that's so fresh that the tradition of customs has been limited.
 
 This creates real challenges, as we must decide what customs we want to
-create and then we must develop them from common law to [*legal
-customs*](https://en.wikipedia.org/wiki/Customary_law) to (eventually)
+create and then we must develop them from common law to [_legal
+customs_](https://en.wikipedia.org/wiki/Customary_law) to (eventually)
 codified duties. We can integrate these with the Laws of Agency, and we
 can figure out how that interrelates with old common laws such as the
-[*Use Laws*](https://en.wikipedia.org/wiki/Use_(law)). We may even need
+[_Use Laws_](<https://en.wikipedia.org/wiki/Use_(law)>). We may even need
 special courts to set these common laws and achieve remedies, such as
-the [*Court of
-Chancery*](https://en.wikipedia.org/wiki/Court_of_Chancery).
+the [_Court of
+Chancery_](https://en.wikipedia.org/wiki/Court_of_Chancery).
 
 Fundamentally, there’s a lot of work to be done here; recognizing the
 existence of a Principal and the use of delegatable Principal Authority
@@ -382,10 +390,10 @@ One of the most important steps going forward will be to continue
 working with the Digital Identity subcommittee in the Wyoming
 legislature. However, I'd also welcome discussions with other states and
 nations, to ensure that we have great definitions of digital identity
-that support self-sovereign identity *everywhere*.
+that support self-sovereign identity _everywhere_.
 
-If this is important to you too, consider [*supporting Blockchain
-Commons*](https://github.com/sponsors/BlockchainCommons) to make this a
+If this is important to you too, consider [_supporting Blockchain
+Commons_](https://github.com/sponsors/BlockchainCommons) to make this a
 reality.
 
 <hr>
@@ -397,8 +405,8 @@ Thanks to commentators who made time to talk to us about it, including
 Joe Andrieu, Dazza Greenwood, and Clare Sullivan. (Our conclusions are
 ours; they may or may not agree with them.)
 
-Many thanks to Wyoming State Senator [*Chris
-Rothfuss*](https://en.wikipedia.org/wiki/Chris_Rothfuss) who invited me
+Many thanks to Wyoming State Senator [_Chris
+Rothfuss_](https://en.wikipedia.org/wiki/Chris_Rothfuss) who invited me
 to join the Wyoming Digital Identity subcommittee and to the others
 members of the Digital Identity subcommittee in the Wyoming legislature,
 including Brittany Kaiser, Carla Reyes, Diedrich Henning, Scott David,

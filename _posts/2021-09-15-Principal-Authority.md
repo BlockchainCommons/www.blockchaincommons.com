@@ -2,11 +2,11 @@
 title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
 excerpt_separator: "<!--more-->"
 categories:
-- Articles
+  - Articles
 tags:
-- Digital Identity
-- Legislation
-- Self-Sovereign Identity
+  - Digital Identity
+  - Legislation
+  - Self-Sovereign Identity
 ---
 
 _This summer, we’ve been iterating through an article intended to talk
@@ -53,7 +53,6 @@ paper much longer than this. The following are some various definitions
 of identity drawn from the [_RWOT
 Glossary_](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/glossary-primer.md):
 
-
 > **_Identifier:_** A label that refers to an entity and can be used to establish or maintain an identity. For example, a name or UID.
 >
 > **_Identity:_** A conceptual construct that enables the differentiation between distinct entities that are individually considered to be unique, but which may possess class or group characteristics. An identity gives these entities the ability to interact as peers in collaborative or competitive ways. It is not the entity that it represents.
@@ -90,9 +89,9 @@ identity, which the Governor signed into law and which went into effect
 on July 1, 2021. It defines digital identity as follows:
 
 > \(xviii) "Personal digital identity" means the intangible digital
-representation of, by and for a natural person, over which he has
-principal authority and through which he intentionally communicates or
-acts.
+> representation of, by and for a natural person, over which he has
+> principal authority and through which he intentionally communicates or
+> acts.
 
 So where's the self-sovereign identity in that?
 

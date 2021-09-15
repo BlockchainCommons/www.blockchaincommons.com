@@ -2,11 +2,11 @@
 title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
 excerpt_separator: "<!--more-->"
 categories:
-  - Articles
+- Articles
 tags:
-  - Digital Identity
-  - Legislation
-  - Self-Sovereign Identity
+- Digital Identity
+- Legislation
+- Self-Sovereign Identity
 ---
 
 _This summer, we’ve been iterating through an article intended to talk
@@ -53,21 +53,16 @@ paper much longer than this. The following are some various definitions
 of identity drawn from the [_RWOT
 Glossary_](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/glossary-primer.md):
 
----
 
-**_Identifier:_** A label that refers to an entity and can be used to establish or maintain an identity. For example, a name or UID.
+> **_Identifier:_** A label that refers to an entity and can be used to establish or maintain an identity. For example, a name or UID.
 
-**_Identity:_** A conceptual construct that enables the differentiation between distinct entities that are individually considered to be unique, but which may possess class or group characteristics. An identity gives these entities the ability to interact as peers in collaborative or competitive ways. It is not the entity that it represents.
+> **_Identity:_** A conceptual construct that enables the differentiation between distinct entities that are individually considered to be unique, but which may possess class or group characteristics. An identity gives these entities the ability to interact as peers in collaborative or competitive ways. It is not the entity that it represents.
 
-**_Identity, Digital:_** A digital representation of an entity, managed by digital tools, over which that entity has personal or delegated control.
+> **_Identity, Digital:_** A digital representation of an entity, managed by digital tools, over which that entity has personal or delegated control.
 
-**_Identity, Functional:_** How we recognize, remember and respond to specific people and things.
+> **_Identity, Functional:_** How we recognize, remember and respond to specific people and things.
 
-**_SSI: Self-sovereign identity._** A decentralized digital identity that does not depend on any centralized authority and whose information is portable.
-
----
-
----
+> **_SSI: Self-sovereign identity._** A decentralized digital identity that does not depend on any centralized authority and whose information is portable.
 
 Digital identity is just one aspect of a complex, interconnected web of
 different digital models. It's not the same thing as identification

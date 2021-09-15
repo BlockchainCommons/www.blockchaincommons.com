@@ -2,11 +2,11 @@
 title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
 excerpt_separator: "<!--more-->"
 categories:
-- Articles
+  - Articles
 tags:
-- Digital Identity
-- Legislation
-- Self-Sovereign Identity
+  - Digital Identity
+  - Legislation
+  - Self-Sovereign Identity
 ---
 
 _This summer, we’ve been iterating through an article intended to talk

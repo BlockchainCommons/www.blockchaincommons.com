@@ -10,8 +10,8 @@ tags:
 ---
 
 _This summer, we’ve been iterating through an article intended to talk
-about the success that Blockchain Commons has had working with Wyoming
-legislature, to help to define a first-in-the-country legal definition
+about the success that Blockchain Commons has had working with the Wyoming
+legislature to help to define a first-in-the-country legal definition
 of digital identity._
 
 _The Digital Identity Working Group for the Wyoming Select Committee on
@@ -19,7 +19,7 @@ Blockchain meets again next week, on September 21-22, 2021. I will be
 providing testimony there at 2pm MST. As a result, we’ve decided to
 release the current draft of this article on digital identity and how
 Wyoming has defined it using Principal Authority, with the goal of
-helping to define the agenda for digital identity for the next year,
+helping to shape the agenda for digital identity for the next year,
 both in Wyoming and elsewhere._
 
 _—Christopher Allen_

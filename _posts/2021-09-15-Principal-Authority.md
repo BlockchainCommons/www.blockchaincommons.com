@@ -1,16 +1,14 @@
 ---
-
 title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
 excerpt_separator: "<!--more-->"
 categories:
 
-- Quarterlies
+- Articles
   tags:
-- Goals
-- Philosophies
-- Projects
-
-# image: https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/2021-Q2-demo.jpg
+- Digital Identity
+- Legislation
+- Self-Sovereign Identity
+---
 
 _This summer, we’ve been iterating through an article intended to talk
 about the success that Blockchain Commons has had working with Wyoming

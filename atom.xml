@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://www.blockchaincommons.com/atom.xml" rel="self" type="application/atom+xml" /><link href="https://www.blockchaincommons.com/" rel="alternate" type="text/html" /><updated>2021-09-15T21:40:17+00:00</updated><id>https://www.blockchaincommons.com/atom.xml</id><title type="html">Blockchain Commons</title><subtitle>Supporting Open Blockchain Infrastructure, Internet Security &amp; Cryptographic Research</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><entry><title type="html">Principal Authority: A New Perspective on Self-Sovereign Identity</title><link href="https://www.blockchaincommons.com/articles/Principal-Authority/" rel="alternate" type="text/html" title="Principal Authority: A New Perspective on Self-Sovereign Identity" /><published>2021-09-15T00:00:00+00:00</published><updated>2021-09-15T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/articles/Principal-Authority</id><content type="html" xml:base="https://www.blockchaincommons.com/articles/Principal-Authority/">&lt;p&gt;&lt;em&gt;This summer, we’ve been iterating through an article intended to talk
+about the success that Blockchain Commons has had working with the Wyoming
+legislature to help to define a first-in-the-country legal definition
+of digital identity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Digital Identity Working Group for the Wyoming Select Committee on
+Blockchain meets again next week, on September 21-22, 2021. I will be
+providing testimony there at 2pm MST. As a result, we’ve decided to
+release the current draft of this article on digital identity and how
+Wyoming has defined it using Principal Authority, with the goal of
+helping to shape the agenda for digital identity for the next year,
+both in Wyoming and elsewhere.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;—Christopher Allen&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In 2016, I wrote &lt;a href=&quot;http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html&quot;&gt;&lt;em&gt;“The Path to Self-Sovereign
+Identity”&lt;/em&gt;&lt;/a&gt;
+to talk about the historic evolution from centralized identity to
+user-centric identity and to define the next step: a self-sovereign
+digital identity that was controlled by the user, not some third party.
+In it I also offered &lt;a href=&quot;https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md&quot;&gt;&lt;em&gt;10 Self-Sovereign Identity
+Principles&lt;/em&gt;&lt;/a&gt;
+which have been widely accepted by the decentralized identity community.&lt;/p&gt;
+
+&lt;p&gt;Self-sovereign identity has matured and grown considerably since, as I
+chronicled in &lt;a href=&quot;https://www.coindesk.com/self-sovereign-identity-five-years-on&quot;&gt;&lt;em&gt;“Self-Sovereign Identity: Five Years
+On”&lt;/em&gt;&lt;/a&gt;.
+There are now specifications, products, and entire companies supporting
+the concept. However, recent legal efforts to define self-sovereign
+identity may be just as important for catapulting it into the mass
+market.&lt;/p&gt;
+
+&lt;div class=&quot;bold--excerpt--node&quot;&gt;Read More&lt;/div&gt;
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;defining-identity&quot;&gt;Defining Identity&lt;/h2&gt;
+
+&lt;p&gt;Defining identity is by no means easy. That core topic could encompass a
+paper much longer than this. The following are some various definitions
+of identity drawn from the &lt;a href=&quot;https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/glossary-primer.md&quot;&gt;&lt;em&gt;RWOT
+Glossary&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;Identifier:&lt;/em&gt;&lt;/strong&gt; A label that refers to an entity and can be used to establish or maintain an identity. For example, a name or UID.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;Identity:&lt;/em&gt;&lt;/strong&gt; A conceptual construct that enables the differentiation between distinct entities that are individually considered to be unique, but which may possess class or group characteristics. An identity gives these entities the ability to interact as peers in collaborative or competitive ways. It is not the entity that it represents.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;Identity, Digital:&lt;/em&gt;&lt;/strong&gt; A digital representation of an entity, managed by digital tools, over which that entity has personal or delegated control.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;Identity, Functional:&lt;/em&gt;&lt;/strong&gt; How we recognize, remember and respond to specific people and things.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;&lt;em&gt;SSI: Self-sovereign identity.&lt;/em&gt;&lt;/strong&gt; A decentralized digital identity that does not depend on any centralized authority and whose information is portable.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Digital identity is just one aspect of a complex, interconnected web of
+different digital models. It’s not the same thing as identification
+(where you prove you are a distinct entity with unique characteristics),
+authentication (where you prove you were the same entity as before), or
+personal data (which is information related to an identified or
+identifiable entity).&lt;/p&gt;
+
+&lt;p&gt;Those other elements all need to be considered, but it’s digital
+identity, and now self-sovereign identity, that gives us the linchpin to
+do so.&lt;/p&gt;
+
+&lt;h2 id=&quot;turning-digital-identity-into-law&quot;&gt;Turning Digital Identity into Law&lt;/h2&gt;
+
+&lt;p&gt;For self-sovereign identity to truly achieve international success, I
+feel that it needs to not just be embraced by the technological sector,
+but also to have a basis in law. In recent years, I’ve been progressing
+toward that goal through work with various state and national
+legislatures.&lt;/p&gt;
+
+&lt;p&gt;Collaborating with the Wyoming legislature has borne the first fruit.
+This year they passed
+&lt;a href=&quot;https://wyoleg.gov/Legislation/2021/SF0039&quot;&gt;&lt;em&gt;SF0039&lt;/em&gt;&lt;/a&gt; on digital
+identity, which the Governor signed into law and which went into effect
+on July 1, 2021. It defines digital identity as follows:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;(xviii) “Personal digital identity” means the intangible digital
+representation of, by and for a natural person, over which he has
+principal authority and through which he intentionally communicates or
+acts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So where’s the self-sovereign identity in that?&lt;/p&gt;
+
+&lt;p&gt;As with much legislation, it’s all about the careful selection of words.&lt;/p&gt;
+
+&lt;h2 id=&quot;defining-principal-authority&quot;&gt;Defining Principal Authority&lt;/h2&gt;
+
+&lt;p&gt;To understand how Principal Authority relates to self-sovereign identity
+requires insight into what Principal Authority is. The concept comes out
+of English Common law. It appears in most Commonwealth countries but has
+also found its way into the laws of other countries, including the
+United States. It’s primarily used in the &lt;a href=&quot;https://en.wikipedia.org/wiki/Law_of_agency&quot;&gt;&lt;em&gt;Laws of
+Agency&lt;/em&gt;&lt;/a&gt;, an area of
+commercial law where an agent is empowered to take on certain tasks.&lt;/p&gt;
+
+&lt;p&gt;As the name would suggest, Principal Authority first requires a
+Principal: a person or entity. It then requires that entity have
+Authority: some power. Principal Authority is thus the power derived
+from a person or entity, which they can use or which they can delegate
+out to others. When applied to digital identity, Principal Authority
+says that a Principal has Authority over his identity — which is a clear
+restatement of self-sovereign principles.&lt;/p&gt;
+
+&lt;p&gt;In fact, the recognition of a Principal is itself a statement of the
+first of the principles of self-sovereign identity: &lt;em&gt;existence&lt;/em&gt;. It
+asserts that digital identity is always a representation of an actual
+entity, who predates any digital representation, and who is also the
+first and foremost beneficiary of that representation.&lt;/p&gt;
+
+&lt;p&gt;However, in drawing on the Laws of Agency, the concepts of Principal and
+Principal Authority go beyond that. Because the person at the heart of
+an identity has the ultimate power to control the self-sovereign digital
+representation that they’ve created (and/or that they use), this means
+that any others who exert Principal Authority over that identity data
+are doing so only as agents of the Principal.&lt;/p&gt;
+
+&lt;p&gt;By focusing on Agency, the concept of Principal Authority also ensures
+that the Principal always has the ability to revoke their delegation to
+the agents whom they have temporarily offered Authority regarding their
+identity. This is a requirement for other self-sovereign principles such
+as &lt;em&gt;portability&lt;/em&gt;, and it’s a real necessity in the digital world, where
+we might need to delete personal data or to cancel Terms &amp;amp; Conditions
+that we signed without real, informed consent.&lt;/p&gt;
+
+&lt;p&gt;Altogether, this new definition of Principal Authority adds a lot of
+nuance to self-sovereign identity, and much of that comes thanks to the
+implicit incorporation of Agency.&lt;/p&gt;
+
+&lt;h3 id=&quot;defining-control&quot;&gt;Defining Control&lt;/h3&gt;
+
+&lt;p&gt;In saying that a Principal has the ultimate authority to control their
+digital identity, care also needs to be taken to define what that
+control means. It means that a Principal has (or can delegate) the
+Principal Authority to identify as that identity; to authenticate as
+that identity; and to know the contents of the data held by that
+identity.&lt;/p&gt;
+
+&lt;p&gt;However, any digital identity also exists as part of a larger ecosystem,
+and the Principal does not have control over the larger ecosystem. They
+&lt;em&gt;cannot&lt;/em&gt; control how other entities rate, rank, or note the reputation
+of their identity; and they &lt;em&gt;cannot&lt;/em&gt; control comments, flags, or other
+notes that other entities might attach to their identity.&lt;/p&gt;
+
+&lt;p&gt;Further, a Principal cannot necessarily prevent other entities from
+creating new digital identities related to them, which may or may not
+link to an existing identity. (Though states are increasingly
+recognizing the limits of voluntary disclosure of information, digital
+identity laws will ultimately never prevent a police station from
+creating their own identity record related to a criminal, or a civic
+authority from creating government-related identity records.)&lt;/p&gt;
+
+&lt;p&gt;In other words, self-sovereign identity, and the establishment of
+Principal Authority over it, lays down boundaries for what the Principal
+controls — boundaries that are much wider than those established for
+digital identities controlled by third parties. However, those
+boundaries still exist.&lt;/p&gt;
+
+&lt;p&gt;Fundamentally, control of a digital identity means that the Principal
+can expect to maintain the continuity of that identity for as long as
+they see fit, but in doing so must accept the battle scars inflicted by
+interactions in a larger ecosystem that are implicit to the identity
+itself.&lt;/p&gt;
+
+&lt;h3 id=&quot;agents--their-duty&quot;&gt;Agents &amp;amp; Their Duty&lt;/h3&gt;
+
+&lt;p&gt;The ability to delegate Principal Authority, as revealed by the Laws of
+Agency, may be as crucial to self-sovereign identity as the concept of a
+Principal itself. It allows the empowerment of agents by a Principal —
+who might be physical agents or, in the increasingly digital world,
+virtual agents. But, it also institutes the core requirement that those
+agents be working for the good of the Principal when they are exerting
+Principal Authority over the identity holder’s identity data.&lt;/p&gt;
+
+&lt;p&gt;This concept of “duty” is crucial to the Laws of Agency. Duty requires
+that an Agent only use their delegated Principal Authority as the
+Principal requests, in a way that benefits the Principal, and with care
+and due diligence, while frequently reporting back what they’ve done.&lt;/p&gt;
+
+&lt;p&gt;This is a notable change from the way that digital identities have been
+treated traditionally. Compare that to banks, who represent you in
+financial transactions, and then sell your spending data; compare that
+to Facebook, who collects as much personally identifiable data and other
+information as you’re willing to give them, then sells that to
+advertisers; or compare it to Google, who infers personally identifiable
+and demographic data based on the information you input into their tools
+and the choices you make. In large part, you don’t even know what these
+identity representatives and data holders are doing. In the world before
+&lt;a href=&quot;https://gdpr-info.eu/&quot;&gt;&lt;em&gt;Europe’s GDPR&lt;/em&gt;&lt;/a&gt; or &lt;a href=&quot;https://oag.ca.gov/privacy/ccpa&quot;&gt;&lt;em&gt;California’s
+CCPA&lt;/em&gt;&lt;/a&gt;, you had little input into their
+actions. Even now, with those early and rough attempts to protect
+digital self-sovereignty, you’re typically opting-out, not opting-in —
+which is barely agency at all — and you’re still not protected against
+people who are self-serving nor those who are inferring information from
+scattered pieces of data.&lt;/p&gt;
+
+&lt;p&gt;That’s because any duties currently required of the entities to whom you
+grant agency over your data are quite minimal. Maybe there’s a duty of
+privacy, maybe there’s a duty of safety, but in general they don’t need
+to work in your best interest. That’s why we need to ensure that new
+definitions of digital identity, particularly self-sovereign identity,
+follow the Laws of Agency in ways that our current systems do not.&lt;/p&gt;
+
+&lt;p&gt;This sort of agent agreement needs to be part of delegation. To date,
+this has been true to a limited extent with federation protocols such as
+SAML and Oauth, but that needs to be extended to every person. Wyoming’s
+digital-identity law is the first example of legislation that focuses on
+Agency in this way, and that’s much of its power.&lt;/p&gt;
+
+&lt;p&gt;However, this isn’t a simple issue. Even with Agency-focused
+legislation, we need to determine a source for duties. This article will
+try to outline some of them, using not just the traditional duties of
+agents, but also the self-sovereign principles themselves. However, it’s
+a mere starting point, with a stronger legal foundation required.&lt;/p&gt;
+
+&lt;h3 id=&quot;principal-authority--the-state&quot;&gt;Principal Authority &amp;amp; The State&lt;/h3&gt;
+
+&lt;p&gt;Before defining duties, it’s important to note one other interesting
+element of Principal Authority and its foundation in Agency: it focuses
+not just on a single person’s authority, but also on their ability to
+delegate to and require duties from other entities. In other words, it’s
+a peer-to-peer relationship; this relationship works within the context
+of a state who recognizes the concept of Principal Authority, respects
+its ability to enable Agency, and enforces its established duties.&lt;/p&gt;
+
+&lt;p&gt;However, though the state is involved, this peer-to-peer relationship
+still lies in stark contrast to traditional property law, where property
+is always in some way &lt;em&gt;beholden&lt;/em&gt; to the state: the state might be the
+original source for property, they might be able to reclaim it by
+eminent domain, and they might be able to seize it through asset
+forfeiture. Those ideas all run counter to the idea of self-sovereignty
+— which is yet another reason that we choose to focus on the Agency of
+Principal Authority, not property law, as the core legal metaphor for
+self-sovereign identity.&lt;/p&gt;
+
+&lt;h2 id=&quot;restating-the-self-sovereign-principles&quot;&gt;Restating the Self-Sovereign Principles&lt;/h2&gt;
+
+&lt;p&gt;The use of Principal Authority to empower self-sovereign identity
+provides a legal foothold for many of my original 10 principles.&lt;/p&gt;
+
+&lt;p&gt;What follows is a restatement of the self-sovereign principles that
+reorganizes the original ten as rights and duties that are suggested by
+customs, expectations, and best practices, but which need to be better
+codified to become true duties. It also proposes five additional duties
+that could come from customs implicit in the Laws of Agency.&lt;/p&gt;
+
+&lt;p&gt;Together, these ideas may allow us to both better understand how to turn
+the self-sovereign principles into concrete usage and also to more
+easily translate them into duties bound by legislation.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-rights-of-self-sovereign-authority&quot;&gt;The Rights of Self-Sovereign Authority&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Some principles of self-sovereign identity are implicit in the idea of
+a Principal.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Existence.&lt;/strong&gt; The definition of Principal requires that there be a real entity at an identity’s heart.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Control.&lt;/strong&gt; The definition of Principal Authority says that the Principal always retains control of an identity, within specifically defined boundaries, no matter who is holding it at a particular time.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Persistence.&lt;/strong&gt; Because of their uncontested Principal Authority, a Principal may decide to have an identity last for as long as they see fit.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Consent.&lt;/strong&gt; Anything that happens within the defined boundaries of the digital identity is implicitly with the consent of the Principal, who may delegate or revoke Principal Authority at any time.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Self-sovereign rights recognize that an identity exists to benefit its
+Principal. These core principles likely derive explicitly from a
+definition of digital identity such as that created by the Wyoming
+legislature.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-duties-of-self-sovereign-identity&quot;&gt;The Duties of Self-Sovereign Identity&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;The remaining principles of self-sovereign identity can be stated as
+duties owed to a Principal by an agent who has been granted Principal
+Authority over an identity for certain purposes.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Access.&lt;/strong&gt; An agent must provide the Principal with access to data related to their digital identity.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Transparency.&lt;/strong&gt; An agent must be open about how they will administer a digital identity.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Portability.&lt;/strong&gt; An agent must make a digital identity portable upon the request of the Principal.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Interoperability.&lt;/strong&gt; An agent must use standard, interoperable protocols when making an identity portable, and should also use those interoperable protocols when interacting with other identity systems.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Minimization.&lt;/strong&gt; An agent must minimize the data collected, stored, transmitted, and shared regarding an identity so that it only includes data that is strictly necessary in the context of a request made by the Principal.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Protection.&lt;/strong&gt; An agent must place the protection of the identity above their own needs or desires.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Identity duties says that agents will tell you how they’re using your
+identity, use it in the most minimalist way possible, and make it easy
+for you to reclaim the identity. However, legislation may be required to
+turn these best practices into duties bound by law.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-duties-of-self-sovereign-agents&quot;&gt;The Duties of Self-Sovereign Agents&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;The idea of Principal Authority itself suggests additional duties that
+were not included on the original list of principles of self-sovereign
+identity, but which are generally defined in the Laws of Agency to be
+due from agents to Principals.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Specificity.&lt;/strong&gt; An Agent will use Principal Authority to serve specific tasks as instructed by the Principal, or as required by Custom, and do nothing more with an identity.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Responsibility.&lt;/strong&gt; An agent will serve those tasks with reasonable care and skill, with due diligence, and without further delegation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Representation.&lt;/strong&gt; An agent will act in the best interests of the Principal, without secret profit, and will not take on other responsibilities that might conflict with that.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fidelity.&lt;/strong&gt; An agent will serve those tasks in good faith.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Disclosure.&lt;/strong&gt; An agent will maintain accounts and report their actions back to the Principal.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Agent duties say that agents will be trustworthy in their use of your
+identity. These duties are more likely to implicitly be a part of any
+legislation that was built atop the Laws of Agency.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;taking-the-next-steps&quot;&gt;Taking the Next Steps&lt;/h2&gt;
+
+&lt;p&gt;Wyoming’s definition of personal digital identity helps us to lay more
+foundation for self-sovereign identity, but it’s still just a starting
+point.&lt;/p&gt;
+
+&lt;p&gt;There’s more to do.&lt;/p&gt;
+
+&lt;h3 id=&quot;laws-of-custom&quot;&gt;Laws of Custom&lt;/h3&gt;
+
+&lt;p&gt;To start with, the Laws of Agency are largely built on Laws of Custom,
+which are as likely to be common law as any formally codified
+legislation. When creating new laws related to self-sovereign identity,
+we’ll be creating new Laws of Customs for the digital frontier, an area
+that’s so fresh that the tradition of customs has been limited.&lt;/p&gt;
+
+&lt;p&gt;This creates real challenges, as we must decide what customs we want to
+create and then we must develop them from common law to &lt;a href=&quot;https://en.wikipedia.org/wiki/Customary_law&quot;&gt;&lt;em&gt;legal
+customs&lt;/em&gt;&lt;/a&gt; to (eventually)
+codified duties. We can integrate these with the Laws of Agency, and we
+can figure out how that interrelates with old common laws such as the
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Use_(law)&quot;&gt;&lt;em&gt;Use Laws&lt;/em&gt;&lt;/a&gt;. We may even need
+special courts to set these common laws and achieve remedies, such as
+the &lt;a href=&quot;https://en.wikipedia.org/wiki/Court_of_Chancery&quot;&gt;&lt;em&gt;Court of
+Chancery&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Fundamentally, there’s a lot of work to be done here; recognizing the
+existence of a Principal and the use of delegatable Principal Authority
+bound by the Laws of Agency is just a starting place. New customs, even
+though understood as best practices, will not automatically become legal
+duties.&lt;/p&gt;
+
+&lt;h3 id=&quot;open-questions&quot;&gt;Open Questions&lt;/h3&gt;
+
+&lt;p&gt;Beyond that, I’m not a lawyer. There may be other legal elements that
+can support our definition of digital identity. Are there additional
+duties that we could bring in? Are there fiduciary or agency laws that
+we could leverage? Are there other legal models of interest we can draw
+from, such as the UNCITRAL Model Law of Electronic Commerce approach,
+which says that “The actions, promises, rights and obligations of a
+person shall not be denied legal validity on the sole ground they are
+effectuated through their digital identity”? These possibilities need to
+be studied, preferably with the help of legal experts.&lt;/p&gt;
+
+&lt;p&gt;Even once we’ve fully defined digital identity, we still must consider
+how digital identity may need to be more carefully protected. Are there
+ways we can give specific protection to private keys used for signatures
+and to express authority? Can we protect against the theft of private
+keys that might allow impersonation or false witness? Can we prevent the
+misuse of digital biometric or genetic information? Can we protect
+against other “crimes of authority”?&lt;/p&gt;
+
+&lt;p&gt;There’s also a flipside: digital identity should give us some new
+advantages not found in traditional identity. For example, there have
+always been problems with individuals with low market power being at a
+disadvantage when negotiating with larger parties. Can new digital
+identity laws help start to resolve that imbalance?&lt;/p&gt;
+
+&lt;h2 id=&quot;final-notes&quot;&gt;Final Notes&lt;/h2&gt;
+
+&lt;p&gt;One of the most important steps going forward will be to continue
+working with the Digital Identity subcommittee in the Wyoming
+legislature. However, I’d also welcome discussions with other states and
+nations, to ensure that we have great definitions of digital identity
+that support self-sovereign identity &lt;em&gt;everywhere&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If this is important to you too, consider &lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;&lt;em&gt;supporting Blockchain
+Commons&lt;/em&gt;&lt;/a&gt; to make this a
+reality.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;offering-some-thanks&quot;&gt;Offering Some Thanks&lt;/h2&gt;
+
+&lt;p&gt;This article was written by Christopher Allen with Shannon Appelcline.
+Thanks to commentators who made time to talk to us about it, including
+Joe Andrieu, Dazza Greenwood, and Clare Sullivan. (Our conclusions are
+ours; they may or may not agree with them.)&lt;/p&gt;
+
+&lt;p&gt;Many thanks to Wyoming State Senator &lt;a href=&quot;https://en.wikipedia.org/wiki/Chris_Rothfuss&quot;&gt;&lt;em&gt;Chris
+Rothfuss&lt;/em&gt;&lt;/a&gt; who invited me
+to join the Wyoming Digital Identity subcommittee and to the others
+members of the Digital Identity subcommittee in the Wyoming legislature,
+including Brittany Kaiser, Carla Reyes, Diedrich Henning, Scott David,
+and once more Clare Sullivan and Dazza Greenwood. Thanks to their hard
+work, Wyoming now offers the first definitions of personal digital
+identity in the United States, laying the foundation for these
+additional ideas.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Articles" /><category term="Digital Identity" /><category term="Legislation" /><category term="Self-Sovereign Identity" /><summary type="html">This summer, we’ve been iterating through an article intended to talk about the success that Blockchain Commons has had working with the Wyoming legislature to help to define a first-in-the-country legal definition of digital identity. The Digital Identity Working Group for the Wyoming Select Committee on Blockchain meets again next week, on September 21-22, 2021. I will be providing testimony there at 2pm MST. As a result, we’ve decided to release the current draft of this article on digital identity and how Wyoming has defined it using Principal Authority, with the goal of helping to shape the agenda for digital identity for the next year, both in Wyoming and elsewhere. —Christopher Allen In 2016, I wrote “The Path to Self-Sovereign Identity” to talk about the historic evolution from centralized identity to user-centric identity and to define the next step: a self-sovereign digital identity that was controlled by the user, not some third party. In it I also offered 10 Self-Sovereign Identity Principles which have been widely accepted by the decentralized identity community. Self-sovereign identity has matured and grown considerably since, as I chronicled in “Self-Sovereign Identity: Five Years On”. There are now specifications, products, and entire companies supporting the concept. However, recent legal efforts to define self-sovereign identity may be just as important for catapulting it into the mass market. Read More</summary></entry><entry><title type="html">2021 Q2 Blockchain Commons Report</title><link href="https://www.blockchaincommons.com/quarterlies/Q2-2021-Report/" rel="alternate" type="text/html" title="2021 Q2 Blockchain Commons Report" /><published>2021-07-27T00:00:00+00:00</published><updated>2021-07-27T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/quarterlies/Q2-2021-Report</id><content type="html" xml:base="https://www.blockchaincommons.com/quarterlies/Q2-2021-Report/">&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/2021-Q2-demo.jpg&quot;&gt;&lt;img width=&quot;100%&quot; src=&quot;https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/2021-Q2-demo.jpg&quot; style=&quot;border:1px solid black;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It was another busy quarter for Blockchain Commons, with a focus on work on our Gordian reference apps, which demonstrate our architectural models and specifications. However, we had numerous other releases as well, including a lot of documentation to let everyone know what we’re doing.&lt;/p&gt;
+
+&lt;p&gt;Our major work included:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overviews&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Releasing a video overview of our specifications and technologies;&lt;/li&gt;
+  &lt;li&gt;Publishing our list of Gordian Principles;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Reference Apps&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Releasing Gordian QR Tool and Seed Tool through the Apple App Store;&lt;/li&gt;
+  &lt;li&gt;Debuting our Sweeptool command-line tool;&lt;/li&gt;
+  &lt;li&gt;Experimenting with Timelocks for the next generation of #Smart Custody;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Coding Processes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increasing our focus on the Rust programming language;&lt;/li&gt;
+  &lt;li&gt;Working with a sponsor on our first security review;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;New Docs&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Publishing docs on our UR and SSKR specifications;&lt;/li&gt;
+  &lt;li&gt;Kicking off two translations of Learning Bitcoin from the Command Line;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Other Priorities&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Beginning work with our summer interns;&lt;/li&gt;
+  &lt;li&gt;Continuing to testify for the Wyoming legislature;&lt;/li&gt;
+  &lt;li&gt;Celebrating the fifth anniversary of self-sovereign identity; and&lt;/li&gt;
+  &lt;li&gt;Talking about the future of the BTCR DID.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bold--excerpt--node&quot;&gt;Read More&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://www.blockchaincommons.com/quarterlies/Q1-2021-Report/&quot;&gt;Also see our previous Q1, 2021 report.&lt;/a&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;some-overviews&quot;&gt;Some Overviews&lt;/h2&gt;
+
+&lt;p&gt;Blockchain Commons is getting big, so we produced some overviews of our work!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Video Overview.&lt;/strong&gt; Over the last few years, Blockchain Commons has produced a number of specifications, including our fundamental work on Uniform Resources (URs), our other innovations such as Lifehashes and Object Identity Blocks, and our updates of sharding technology with SSKR. If you’re trying to get a handle on the technologies we’re using and the specifications that we’re creating with our Airgapped community, we invite you to take a look at our &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY&quot;&gt;technology overview video&lt;/a&gt;, which runs through our core conceptual and specification work one element at a time.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RYgOFSdUqWY&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Gordian Principles.&lt;/strong&gt; We’ve also begun publishing some descriptions of what the Gordian architecture means to us. It’s focused on four principals that we believe are crucial to digital-asset management: independence, privacy, resilience, and openness. They’re all about ensuring that you’re the controller of your digital assets. Besides writing a &lt;a href=&quot;https://github.com/BlockchainCommons/Gordian#gordian-principles&quot;&gt;short overview&lt;/a&gt;, we’ve also begun adding descriptions to each of our reference apps, discussing how they embody those principles.&lt;/p&gt;
+
+&lt;p&gt;And, those reference apps were our biggest news for the quarter …&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-app-work&quot;&gt;Reference App Work&lt;/h2&gt;
+
+&lt;p&gt;Our reference apps show off how Blockchain Commons’ Gordian Principles work in real life. We made great progress on them this quarter.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gordian Releases.&lt;/strong&gt; Where we had three reference apps available for beta testing in Q1, in Q2 we advanced to having two available for release from Apple.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/gordian-seed-tool/id1545088229&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/logos/SeedTool.png&quot; style=&quot;float: right; border:1px solid black;&quot; width=&quot;100&quot; /&gt;&lt;/a&gt;
+&lt;em&gt;Gordian Seed Tool&lt;/em&gt; is the app previously known as &lt;em&gt;Gordian Guardian&lt;/em&gt;.
+It allows for the management of your cryptographic seeds in a way that’s secure and resilient. You store your seeds in &lt;em&gt;Seed Tool&lt;/em&gt;, ensuring that the data is encrypted and that it’s redundantly backed up to iCloud, and then you derive and export keys as they’re needed. As with all of the Gordian reference apps, this one demonstrates the usage of a number of Blockchain Common’s specifications, including SSKRs, UR, and even our new &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;request/response&lt;/code&gt; airgap methodology that we just &lt;a href=&quot;https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md&quot;&gt;debuted&lt;/a&gt; this February.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/gordian-qr-tool/id1506851070&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/logos/QRTool.png&quot; style=&quot;float: right; border:1px solid black;&quot; width=&quot;100&quot; /&gt;&lt;/a&gt;
+&lt;em&gt;Gordian QR Tool&lt;/em&gt; is a simpler tool that similarly allows for the storage of QR codes in a secure and resilient way. Thus, if you had a largely unused seed or key, you could export it as a QR and store it here. &lt;em&gt;QR Tool&lt;/em&gt; can also be used to store other private information such as 2FA seeds or the brand-new Smart Health Cards. QR Tool recognizes many categories of QR codes, including the UR types that Blockchain Commons has defined, allowing easy categorization and sorting of your cryptographic data. Our QR Tool was slightly held back by inadequacies we found in Apple’s QR creation functions, which can produce overly large QRs. We’ve already begun work &lt;a href=&quot;https://github.com/BlockchainCommons/QRCodeGenerator&quot;&gt;translating a better QR library into Swift&lt;/a&gt; and expect to integrate that into v1.1 of QR Tool in the future.&lt;/p&gt;
+
+&lt;p&gt;QR Tool and Seed Tool also offer the first demonstration of the interactions possible in a Gordian architecture. One of the most powerful examples involves Blockchain Commons’ &lt;a href=&quot;https://github.com/BlockchainCommons/bc-sskr&quot;&gt;SSKR specification&lt;/a&gt;. Seed Tools allows a user to not only shard a seed using SSKR, but also to encode those shares as QR codes. The encoded shares can then be given to friends and family who have QR Tool, ensuring the safe storage of all the shares required to restore your seed!&lt;/p&gt;
+
+&lt;p&gt;We have more reference app releases planned for the future. &lt;em&gt;Gordian Cosigner&lt;/em&gt; remains available as a Testflight beta release, and is our reference app for demonstrating how to conduct airgapped signing. We are also beginning work on the &lt;em&gt;Gordian Recovery&lt;/em&gt; app, which we announced last quarter; it’ll demonstrate methodologies for recovering assets held by third-party wallets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sweeptool Debut.&lt;/strong&gt; Recovering funds held in a third-party HD wallet can be tricky since you don’t always know which addresses were actually used. We’ve also been attacking that problem with a command-line tool called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sweeptool&lt;/code&gt;, which sweeps funds anywhere in the hierarchy defined by a descriptor. Sweeptool is the work of one of our intern graduates, and is already available as an &lt;a href=&quot;https://github.com/BlockchainCommons/sweeptool-cli&quot;&gt;alpha release&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Timelock Experiments.&lt;/strong&gt; Our current architecture for #SmartCustody depends on multisigs to allow for the partitioning of keys and the creation of resilience. However, we’re already thinking about the next generation of #SmartCustody, which will allow the use of timelocks to recover funds in the case of the incapacitation of a principal. We did some deeper investigation into miniscript this quarter, which allows for easier integration of timelocks into Bitcoin addresses, and also mapped out some new architectures for progressively sweeping funds forward to keep ahead of timelocks. However, we discovered that at this point miniscript isn’t yet integrated with the descriptor-wallets that are another of the core elements of the Gordian architecture. This prevents integration with our Gordian apps.&lt;/p&gt;
+
+&lt;p&gt;We’ve published a &lt;a href=&quot;https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Timelocks.md&quot;&gt;preliminary paper&lt;/a&gt; on the usage of Timelocks, but it isn’t finalized yet because of these issues. Meanwhile, one of our interns has begun work on a Rust-based Timelock project called &lt;a href=&quot;https://github.com/BlockchainCommons/mori-cli&quot;&gt;mori-cli&lt;/a&gt;. This work is all meant to ensure we’re ready when miniscript is added to Bitcoin Core, or when timelocks are integrated into descriptors in some other manner.&lt;/p&gt;
+
+&lt;h2 id=&quot;coding-processes&quot;&gt;Coding Processes&lt;/h2&gt;
+
+&lt;p&gt;Releasing apps is just one step of a larger coding process, which requires careful consideration of what languages (and libraries) to use and careful reviewing of their security.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rust Focus.&lt;/strong&gt; Sweeptool is written in Rust, which is an increasing focus at Blockchain Commons. We’ve also been using it for our &lt;a href=&quot;https://github.com/BlockchainCommons/musign-cli&quot;&gt;musign-cli work&lt;/a&gt; and some of our &lt;a href=&quot;https://github.com/BlockchainCommons/torgap&quot;&gt;torgap work&lt;/a&gt; and have touched upon it in &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/18_5_Accessing_Bitcoind_with_Rust.md&quot;&gt;Learning Bitcoin from the Command Line&lt;/a&gt;. We think that Rust is an important language for the future of Bitcoin development in large part because of its safety guarantee, including &lt;a href=&quot;https://msrc-blog.microsoft.com/2019/07/22/why-rust-for-safe-systems-programming/&quot;&gt;memory safety properties, which can resolve 70% of security problems&lt;/a&gt;. Our main barrier for wider use of Rust has been the fact that C and C++ are the main languages used by Bitcoin Core, iOS, and Android, but we’ve already seen the start of changes there, and hope to be able to integrate Rust even more fully in the future. The fact that the Rust-based &lt;a href=&quot;https://bitcoindevkit.org/&quot;&gt;Bitcoin Dev Kit&lt;/a&gt; is actually in advance of Bitcoin Core in some features is very encouraging.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Security Review.&lt;/strong&gt; Bitmark, one of our Sustaining Sponsors, has hired &lt;a href=&quot;https://www.radicallyopensecurity.com/&quot;&gt;Radically Open Security&lt;/a&gt; to conduct a security review of our SSKR libraries, &lt;a href=&quot;https://github.com/blockchaincommons/bc-shamir&quot;&gt;bc-shamir&lt;/a&gt; and &lt;a href=&quot;https://github.com/BlockchainCommons/bc-sskr&quot;&gt;bc-sskr&lt;/a&gt;. This is crucial element in making Blockchain Commons’ specification work widely available, since it would be improper for us to review our own security code. As our first partners planning to use one of our libraries in a shipping project, as opposed to just our specifications, Bitmark is stepping up to the plate to fund the review of our core SSKR libraries. We expect this pattern to repeat with future partners and libraries in the future. It shows the power of our open libraries: future companies will be able to depend on our SSKR libraries thanks to Bitmark’s contribution, and then they’ll be able to make contributions of their own that will be much less than if they’d had to security review an entire suite of themselves.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-docs&quot;&gt;New Docs&lt;/h2&gt;
+
+&lt;p&gt;The blockchain infrastructure is empowered by users and developers who know how to use it properly. Teaching them is the goal of our documentation projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UR &amp;amp; SSKR Docs.&lt;/strong&gt; The ultimate purpose of our reference applications is to demonstrate how our new specifications can be used in actual applications. Hand-in-hand with that, we’re also producing documentation that lays out in more detail how those specifications work. We’ve begun collecting many of those docs in the &lt;a href=&quot;https://github.com/BlockchainCommons/crypto-commons/tree/master/Docs&quot;&gt;documents area of our crypto-commons repo&lt;/a&gt;. This quarter we added to our docs repo with several documents about our Sharded Secret Key Reconstruction system, including &lt;a href=&quot;https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-users.md&quot;&gt;SSKR for Users&lt;/a&gt; and &lt;a href=&quot;https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-developers.md&quot;&gt;SSKR for Developers&lt;/a&gt;. We also released a series of articles on &lt;a href=&quot;https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md&quot;&gt;Uniform Resources (URs)&lt;/a&gt; intended to show developers how they’re constructed and used.&lt;/p&gt;
+
+&lt;p&gt;We are also planning further support for our interoperable specifications such as UR and SSKR at a virtual interoperable wallet specification workshop. We’re currently working on locking down a date.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learning Bitcoin Translations.&lt;/strong&gt; Our best-known tutorial at Blockchain Commons, is our &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/&quot;&gt;Learning Bitcoin from the Command Line course&lt;/a&gt;, which we pushed to v2.0 last year and which has 1,700 stars and 100 watchers on Github. We’re thrilled that translations are now ongoing into both &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/tree/portuguese-translation/pt&quot;&gt;Portuguese&lt;/a&gt; and &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/tree/spanish-translation/es&quot;&gt;Spanish&lt;/a&gt; thanks to a half-dozen core volunteers. Some of Blockchain Commons’ own programmers and interns entered the blockchain industry thanks to this course, so we’re looking forward to these translations opening the doors even wider.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-priorities&quot;&gt;Other Priorities&lt;/h2&gt;
+
+&lt;p&gt;Finally, we have a lot of more varied projects that all saw some progress.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Our Summer Interns Have Begun Work.&lt;/strong&gt; Thanks to &lt;a href=&quot;https://www.coindesk.com/human-rights-foundation-grants-bitcoin-defi-education-activism&quot;&gt;a grant from the Human Rights Foundation&lt;/a&gt;, we have a class of a dozen interns this summer. We’re engaging them with weekly calls to introduce them to crucial use cases and to let them talk with Bitcoin and Lightning experts from the industry and human-rights experts, most recently including John Callas from the EFF and Alex Gladstein from HRF.&lt;/p&gt;
+
+&lt;p&gt;Some of our human-rights-focused intern projects include a self-sovereign donation app, scripts to automate the setup of privacy and/or bitcoin services, documents on managing pseudonymity, and tracking of blockchain-based legislation.&lt;/p&gt;
+
+&lt;p&gt;Some of our more general intern projects include deployment of a full Esplora node for Blockchain Commons, the creation of scripts to make it easier for others to do so, documentation on bitcoin fee-estimation use cases, improvements to our Spotbit server including expansion of the Spotbit API and client app, and the aformentioned work on Mori and on Learning Bitcoin translations.&lt;/p&gt;
+
+&lt;p&gt;Our first completed intern ‘21 work is a short &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/15_0_Using_i2p.md&quot;&gt;i2p chapter&lt;/a&gt; for Learning Bitcoin from the Command Line, talking about an alternative (or supplement) to traditional Tor privacy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wyoming Testimony.&lt;/strong&gt; Christopher’s testimony has continued in Wyoming, talking about DAO and identity, to improve and extend both laws. The most recent testimony &lt;a href=&quot;https://youtu.be/ayQ086BVDXE?t=4060&quot;&gt;on May 28&lt;/a&gt; continued to work through the ramifications of the definitions of principal authority for self-sovereign identity.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ayQ086BVDXE?start=4070&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Self-Sovereign Identity.&lt;/strong&gt; Speaking of which, it was the fifth anniversary of the concept of self-sovereign identity, which first suggested that we should control our identities on the internet, not be beholden to centralized agencies. Christopher &lt;a href=&quot;https://www.coindesk.com/self-sovereign-identity-five-years-on&quot;&gt;wrote an article&lt;/a&gt; for Coindesk celebrating that anniversary, talking about how far we’ve come and reflecting on how things could be improved.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BTCR.&lt;/strong&gt; Finally, we’ve also been talking about another of our blockchain projects that originated in &lt;a href=&quot;https://www.weboftrust.info/&quot;&gt;Rebooting the Web of Trust&lt;/a&gt;: BTCR, a self-sovereign decentralized identifier that uses the Bitcoin blockchain. Recently Christopher and the other creators of BTCR talked with &lt;a href=&quot;https://the-rubric.castos.com/episodes/the-granddaddy-of-dids&quot;&gt;The Rubric&lt;/a&gt; about the past and future of the DID.&lt;/p&gt;
+
+&lt;p&gt;As you can see, we’ve got lots of ongoing work that continue to expand the ideas of responsible key management and self-determination on the internet. If you’d like to support our work at Blockchain Commons, so that we can continue to design new specifications, architectures, reference applications, and reference libraries to be used by the whole community, please &lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;become a sponsor&lt;/a&gt;. You can alternatively make a &lt;a href=&quot;https://btcpay.blockchaincommons.com/&quot;&gt;one-time bitcoin donation&lt;/a&gt; at our BTCPay.&lt;/p&gt;
+
+&lt;p&gt;Thanks to our sustaining sponsors Avanti Bank, Bitmark, Blockchainbird and Unchained Capital, and our new project sponsor Human Rights Foundation(@HRF), as well as our GitHub monthly sponsors, who include Flip Abignale (@flip-btcmag), Dario (@mytwocentimes), Foundation Devices (@Foundation-Devices), Adrian Gropper (@agropper), Eric Kuhn (@erickuhn19), Trent McConaghy (@trentmc), @modl21, Jesse Posner (@jesseposner), Protocol Labs (@protocol), Dan Trevino (@dantrevino), and Glenn Willen (@gwillen).&lt;/p&gt;
+
+&lt;p&gt;Christopher Allen, Executive Director, Blockchain Common&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Quarterlies" /><category term="Goals" /><category term="Philosophies" /><category term="Projects" /><summary type="html">It was another busy quarter for Blockchain Commons, with a focus on work on our Gordian reference apps, which demonstrate our architectural models and specifications. However, we had numerous other releases as well, including a lot of documentation to let everyone know what we’re doing. Our major work included: Overviews Releasing a video overview of our specifications and technologies; Publishing our list of Gordian Principles; Reference Apps Releasing Gordian QR Tool and Seed Tool through the Apple App Store; Debuting our Sweeptool command-line tool; Experimenting with Timelocks for the next generation of #Smart Custody; Coding Processes Increasing our focus on the Rust programming language; Working with a sponsor on our first security review; New Docs Publishing docs on our UR and SSKR specifications; Kicking off two translations of Learning Bitcoin from the Command Line; Other Priorities Beginning work with our summer interns; Continuing to testify for the Wyoming legislature; Celebrating the fifth anniversary of self-sovereign identity; and Talking about the future of the BTCR DID. Read More</summary></entry><entry><title type="html">Gordian Seed Tool Reveals the Foundations of Cryptography</title><link href="https://www.blockchaincommons.com/projects/SeedTool-Release/" rel="alternate" type="text/html" title="Gordian Seed Tool Reveals the Foundations of Cryptography" /><published>2021-07-15T00:00:00+00:00</published><updated>2021-07-15T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/projects/SeedTool-Release</id><content type="html" xml:base="https://www.blockchaincommons.com/projects/SeedTool-Release/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/master/images/logos/gordian-seedtool-logo-white.jpg&quot; align=&quot;right&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Blockchain Commons has released Gordian Seed Tool, a new iOS app that allows for the creation, storage, backup, and transformation of cryptographic seeds is now available on the &lt;a href=&quot;https://apps.apple.com/us/app/gordian-seed-tool/id1545088229&quot;&gt;Apple appstore&lt;/a&gt;. It is an independent, private, and resilient vault, which can protect the most important underlying secret used by most cryptocurrencies: the cryptographic seed.&lt;/p&gt;
+
+&lt;div class=&quot;bold--excerpt--node&quot;&gt;Read More&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Though most wallets focus on the private keys used to unlock their cryptocurrency transactions, Gordian Seed Tool takes a step back and allows you to manage the fundamentals upon which private keys are built: entropy and seeds. You can use coin flips, die rolls, card draws, or iOS randomness as the entropy to generate your seeds, or you can import them from other applications. Using those seeds, Gordian Seed Tool can then derive unique, non-correlatable public and private keys as you need them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/master/images/gg-list.jpg&quot; align=&quot;right&quot; width=&quot;250&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The focus of Gordian Seed Tool is to protect your seeds. It does so by supporting new approaches to security such as QR-based airgaps, where you store your secrets on a closely held device that isn’t fully networked, such as an offline device in airplane mode, or a strongly protected device like the secure enclave in Apple’s iPhone and more modern Macinotoshes. You then communicate with that device primarily through QR codes or text that can easily be transmitted across that gap of air. Your seeds are thus protected by modern mobile-device security such as data encryption, trusted hardware, and biometric access protection.&lt;/p&gt;
+
+&lt;p&gt;That data encryption comes about through Apple’s trusted encryption routines. Seed Tool then adds resilience through integration with iCloud. If your choose for your mobile iOS device to have a network connection, its seeds will be stored in iCloud using end-to-end encryption. If you lose your device, you can retrieve those seeds with a replacement device logged into the same Apple account. (If you prefer, you can also use a cellular networked device, such as an iPod Touch or wifi-only iPad, leveraging airplane mode, to entirely ensure that your seeds never leave your device.)&lt;/p&gt;
+
+&lt;p&gt;You’ll be able to easily identify your seeds using the Blockchain Commons &lt;a href=&quot;https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-002-digest.md#object-identity-block&quot;&gt;object identity block&lt;/a&gt;, which includes a visual lifehash, a human-readable name, an icon, and an abbreviated digest. Put them together and you should be able to recognize each seed at a glance.&lt;/p&gt;
+
+&lt;p&gt;Besides generating seeds, storing them, and backing them up, Gordian Seed Tool can also transform your seeds. It can derive popular Bitcoin and Ethereum public and private keys from your seeds, answer requests for other derivations, encode seeds as bytewords, BIP39 words, or hex, or shard them into SSKR shares and save them to different locations or as social recovery with your family, friends and close colleagues. Your seed is the basis for a whole tree of secure data, and Gordian Seed Tool gives you access to all of it.&lt;/p&gt;
+
+&lt;p&gt;Gordian Seed Tool is just one of several Blockchain Commons apps that demonstrate the Gordian principles of independence, privacy, resilience, and openness. The &lt;a href=&quot;https://apps.apple.com/us/app/gordian-qr-tool/id1506851070&quot;&gt;Gordian QR Tool&lt;/a&gt; offers a way to store confidential QRs such as 2FA seeds, SSKR shares, and (for that matter) cryptoseeds. Our forthcoming &lt;em&gt;Gordian Cosigner&lt;/em&gt; will demonstrate how to easily manage Bitcoin transactions across an Airgap.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to learn more about the libraries, specifications, and references being created by Blockchain Commons in coordination with our airgap wallet community, please visit our &lt;a href=&quot;https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions&quot;&gt;discussion forums&lt;/a&gt;, our &lt;a href=&quot;https://www.youtube.com/channel/UCPQ9LtDWZAkfItMF4B5tztw&quot;&gt;YouTube channel&lt;/a&gt; and our &lt;a href=&quot;https://github.com/BlockchainCommons/Research/blob/master/README.md&quot;&gt;research repo&lt;/a&gt;. You can also support our work &lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;as a patron&lt;/a&gt;.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Projects" /><category term="Apps" /><category term="SeedTool" /><category term="Gordian" /><category term="Projects" /><summary type="html">Blockchain Commons has released Gordian Seed Tool, a new iOS app that allows for the creation, storage, backup, and transformation of cryptographic seeds is now available on the Apple appstore. It is an independent, private, and resilient vault, which can protect the most important underlying secret used by most cryptocurrencies: the cryptographic seed. Read More</summary></entry><entry><title type="html">Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More</title><link href="https://www.blockchaincommons.com/projects/Releasing-QRTool/" rel="alternate" type="text/html" title="Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More" /><published>2021-06-24T00:00:00+00:00</published><updated>2021-06-24T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/projects/Releasing-QRTool</id><content type="html" xml:base="https://www.blockchaincommons.com/projects/Releasing-QRTool/">&lt;p&gt;The state of California recently &lt;a href=&quot;https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/&quot;&gt;announced their Digital COVID-19 Vaccine Record system&lt;/a&gt;. It allows Californians to access a digital copy of their vaccine records, rather than having to depend entirely on their physical copy. The main entry point is a QR code containing a rudimentary Verifiable Claim (VC), which makes for great ease of use. However, Blockchain Commons has concerns over how the user experience (UX) design might negatively affect both privacy and security; we are working to address these with our new &lt;a href=&quot;https://apps.apple.com/us/app/gordian-qr-tool/id1506851070&quot;&gt;Gordian QR Tool&lt;/a&gt; for the iPhone, Blockchain Commons’ first Apple appstore release.&lt;/p&gt;
+
+&lt;div class=&quot;bold--excerpt--node&quot;&gt;Read More&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/GordianQRTool-iOS/master/images/ca-digital-vaccine-record.png&quot; align=&quot;right&quot; width=&quot;300&quot; /&gt;
+For a while now, increasingly personal information has been getting encoded as QRs. During the pandemic, COVID tests were  often stored as QRs. There has also been extensive use of QR codes to transmit secure information across an airgap. Many people first saw this use of QRs when they read a QR code for a two-factor authentication seed into their phone’s Authenticator app. At Blockchain Commons, we similarly use QR codes as an encoding method to transmit seeds and keys.&lt;/p&gt;
+
+&lt;p&gt;Some possible architectural issues arise from using QR codes for confidential data, such as the fact that you’re actually transmitting the data (not a proof of the data), that the QRs tend to contain all of the data (not just a selection), and that there’s no way to rescind a QR or expire it. Those issues will have to be dealt with at a foundational level as we figure out what can safely be encoded as a QR — and more importantly how to offer restricted proofs rather than complete information.&lt;/p&gt;
+
+&lt;p&gt;However, there are also security &amp;amp; privacy UX issues related to the storage of QR codes that need to be resolved no matter what is encoded. The state of California itself demonstrated the bad habits that we’re already developing when they said in &lt;a href=&quot;https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/&quot;&gt;their official press release&lt;/a&gt;: “individuals are encouraged to screenshot the information and save it to their phone files or camera roll”.&lt;/p&gt;
+
+&lt;p&gt;Now, storing QRs as photos on a phone does meet some minimal security requirements. Most phones are closely held and protected by a PIN, a thumbprint, or a faceprint. They’re often backed up to a cloud service and that cloud data is mostly secured as well. Still, there are numerous opportunities for problems.&lt;/p&gt;
+
+&lt;p&gt;That’s in large part due to the fact that photos are built to be shared. It’s very easy to send a photo to a friend or a social network, which is great for photos, but less so for your QR codes. In addition, photos are built to be synced. Though your data might be relatively safe if it’s synced to the cloud, it’s not that secure when synced to your desktop computer, which is vulnerable to malware and other attacks.&lt;/p&gt;
+
+&lt;p&gt;Photos also aren’t built to be searched and their categorization systems are usually rudimentary. Even if your QR code was safe, you might not be able to easily find it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/GordianQRTool-iOS/master/images/qr-list-2.jpeg&quot; align=&quot;right&quot; width=&quot;250&quot; /&gt;
+That’s where Blockchain Commons’ &lt;a href=&quot;https://apps.apple.com/us/app/gordian-qr-tool/id1506851070&quot;&gt;Gordian QR Tool&lt;/a&gt; for the iPhone comes in. Though we can only make sure that our own uses of QR codes are architecturally secure, we can definitely provide better ways to store QR codes, and that’s what QR Tool does.&lt;/p&gt;
+
+&lt;p&gt;QR Tool lets you scan any QR code into an encrypted vault. It then protects your code with two-factor authentication: you initilally log in with your Apple login and password, and then anytime you want to view your codes, you additionally must use a biometric authentication, such as a fingerprint. Unlike your semi-porous camera roll, QR Tool was built to keep confidential information secure.&lt;/p&gt;
+
+&lt;p&gt;QR Tool also provides proof that your codes weren’t changed. Using &lt;a href=&quot;https://github.com/BlockchainCommons/LifeHash&quot;&gt;Lifehash&lt;/a&gt; technology, QR Tool links each code to a unique, evocative, and unchanging graphical color representation. This will prove particularly useful when the Lifehash specification is adopted by other companies, so that you can transfer a QR code between applications and verify immediately that it’s the same — something that’s difficult with the QR code alone.&lt;/p&gt;
+
+&lt;p&gt;Finally, QR Tool resolves the problem of categorization by automatically recognizing a wide variety of QR codes and giving you the opportunity to change those categorizations as you see fit.&lt;/p&gt;
+
+&lt;p&gt;If the future we hope to see more fully featured &lt;a href=&quot;https://www.w3.org/TR/vc-data-model/&quot;&gt;Verifiable Credentials&lt;/a&gt;, but there’s no doubt that QRs are with us for the moment, and we need to make sure that they remain secure and easy to use. This is why we released QR Tool. It’s a reference implementation for the Gordian Principles, demonstrating how to store confidential data in a way that’s independent, private, resilient, and open: QR Tool ensures that you hold your own QRs, that they’re safe, and that you can easily transmit them to other services.&lt;/p&gt;
+
+&lt;p&gt;If you’ve got QRs of your own to secure, you can purchase QR Tool from the &lt;a href=&quot;https://apps.apple.com/us/app/gordian-qr-tool/id1506851070&quot;&gt;Apple Store&lt;/a&gt; or you can compile it directly from the source code found at the &lt;a href=&quot;https://github.com/BlockchainCommons/GordianQRTool-iOS&quot;&gt;QR Tool repo&lt;/a&gt; on GitHub.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Projects" /><category term="Apps" /><category term="QRTool" /><category term="Gordian" /><category term="Projects" /><summary type="html">The state of California recently announced their Digital COVID-19 Vaccine Record system. It allows Californians to access a digital copy of their vaccine records, rather than having to depend entirely on their physical copy. The main entry point is a QR code containing a rudimentary Verifiable Claim (VC), which makes for great ease of use. However, Blockchain Commons has concerns over how the user experience (UX) design might negatively affect both privacy and security; we are working to address these with our new Gordian QR Tool for the iPhone, Blockchain Commons’ first Apple appstore release. Read More</summary></entry><entry><title type="html">Blockchain Commons Overviews Its Technology in New Video</title><link href="https://www.blockchaincommons.com/introduction/Technical-Overview-Video/" rel="alternate" type="text/html" title="Blockchain Commons Overviews Its Technology in New Video" /><published>2021-05-13T00:00:00+00:00</published><updated>2021-05-13T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/introduction/Technical-Overview-Video</id><content type="html" xml:base="https://www.blockchaincommons.com/introduction/Technical-Overview-Video/">&lt;p&gt;In the last year, Blockchain Commons has produced a large collection of specifications, reference libraries, architectures, and reference utilities meant to improve blockchain infrastructure by enabling interoperability among Bitcoin wallets — and in the future, other cryptocurrency applications, such as Ethereum wallets, and other cryptography programs, such as chat systems, key management programs, and more.&lt;/p&gt;
+
+&lt;p&gt;So, &lt;em&gt;what do Blockchain Commons’ technologies do?&lt;/em&gt; We’ve just released &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY&quot;&gt;a Technology Overview video&lt;/a&gt; that discuses the concepts and foundations underlying our work and also highlights many of our most important technological releases.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY&quot;&gt;&lt;img width=&quot;100%&quot; src=&quot;https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-1.png&quot; style=&quot;border:1px solid black;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;bold--excerpt--node&quot;&gt;Read More&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;As the video notes, our work is built on a considerable volume of existing literature. We work with &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=2m56s&quot;&gt;entropy&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=2m39s&quot;&gt;seeds&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=4m45s&quot;&gt;keys&lt;/a&gt; and use &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=6m34s&quot;&gt;airgaps&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=5m12s&quot;&gt;multisigs&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=4m6s&quot;&gt;secure storage&lt;/a&gt; to ensure robust key creation, safe key usage, and responsible key management. We also build on crucial technological foundations such as &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=11m13s&quot;&gt;CBOR&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=11m37s&quot;&gt;CRC-32&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=14m53s&quot;&gt;Fountain Codes&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=8m15s&quot;&gt;QRs&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=12m55s&quot;&gt;SHA-256&lt;/a&gt;, and &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=13m36s&quot;&gt;Shamir’s Secret Sharing&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This results in a number of core Blockchain Commons technologies:
+&lt;img width=&quot;30%&quot; src=&quot;https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-2.png&quot; style=&quot;border:1px solid black;&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=16m21s&quot;&gt;Bytewords&lt;/a&gt; are a text-encoding method for binary data.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=19m58s&quot;&gt;Uniform Resources&lt;/a&gt; support self-describing data that can be used interoperably.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=24m55s&quot;&gt;LifeHash&lt;/a&gt; allows for graphical recognition of seeds, keys, and other data.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=26m52s&quot;&gt;SSKR&lt;/a&gt; provides new libraries and methodologies for sharding secrets.&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY#t=28m46s&quot;&gt;Torgap&lt;/a&gt; architecture creates security by partitioning blockchain services.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY&quot;&gt;Technology Overview video&lt;/a&gt; discusses all of this and more.&lt;/p&gt;
+
+&lt;p&gt;We are also continuing to produce documents of use for the entire blockchain community, with our newest tutorials offering more depth on how to use the technologies highlighted in this video. That begins with some just-published developer-focused documents that expand on the overview of Uniform Resources (URs) found in the video. &lt;a href=&quot;https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md&quot;&gt;Uniform Resources: An Overview&lt;/a&gt; explains how URs are put together, and then &lt;a href=&quot;https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-2-keys.md&quot;&gt;A Guide to Using URs for Key Material&lt;/a&gt; looks at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ur:crypto-seed&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ur:crypto-bip39&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ur:crypto-hdkey&lt;/code&gt; as three different ways to transmit key material in a standardized, typed format. (We have more UR docs planned on SSKRs, PSBTs, and our new request and response system.)&lt;/p&gt;
+
+&lt;p&gt;The specifications, architectures, references, and documents that we’re creating at Blockchain Commons are all meant to improve interoperability among many different vendors, to support the creation of wallets (and future cryptography applications) that enable independence, security, and resilience for their users. We’ve been working with an &lt;a href=&quot;https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions&quot;&gt;Airgapped Wallet Community&lt;/a&gt; to create these various technologies. If you’re designing blockchain applications of your own, we hope you’ll view the &lt;a href=&quot;https://www.youtube.com/watch?v=RYgOFSdUqWY&quot;&gt;video&lt;/a&gt; to see how some of our technologies can help you.&lt;/p&gt;
+
+&lt;p&gt;You can also support the continued development of technologies like these, meant to support the entire community by becoming a &lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;sponsor at GitHub&lt;/a&gt; or by making a one-time donation &lt;a href=&quot;https://btcpay.blockchaincommons.com/&quot;&gt;at our BTCPay&lt;/a&gt;.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Introduction" /><category term="Video" /><category term="Overview" /><summary type="html">In the last year, Blockchain Commons has produced a large collection of specifications, reference libraries, architectures, and reference utilities meant to improve blockchain infrastructure by enabling interoperability among Bitcoin wallets — and in the future, other cryptocurrency applications, such as Ethereum wallets, and other cryptography programs, such as chat systems, key management programs, and more. So, what do Blockchain Commons’ technologies do? We’ve just released a Technology Overview video that discuses the concepts and foundations underlying our work and also highlights many of our most important technological releases. Read More</summary></entry><entry><title type="html">2021 Q1 Blockchain Commons Report</title><link href="https://www.blockchaincommons.com/quarterlies/Q1-2021-Report/" rel="alternate" type="text/html" title="2021 Q1 Blockchain Commons Report" /><published>2021-04-14T00:00:00+00:00</published><updated>2021-04-14T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/quarterlies/Q1-2021-Report</id><content type="html" xml:base="https://www.blockchaincommons.com/quarterlies/Q1-2021-Report/">&lt;p&gt;&lt;a href=&quot;https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/2021-Q1-demo.jpg&quot;&gt;&lt;img width=&quot;100%&quot; src=&quot;https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/2021-Q1-demo.jpg&quot; style=&quot;border:1px solid black;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In Q1 2021, Blockchain Commons largely focused on working with companies to integrate our Gordian architecture, best practices, specifications, reference libraries, and reference applications into their wallets and services. This included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Released three Gordian reference apps for public beta testing on Apple’s TestFlight;&lt;/li&gt;
+  &lt;li&gt;Planned the creation of an independent Gordian Recovery app for use with third-party wallets;&lt;/li&gt;
+  &lt;li&gt;Updated our &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;keytool-cli&lt;/code&gt; command-line interface app for new UR (Universal Resource) usages and future specifications;&lt;/li&gt;
+  &lt;li&gt;Refined our Lifehash specification to optimaize for black &amp;amp; white usage;&lt;/li&gt;
+  &lt;li&gt;Tested new improvements to Lethekit;&lt;/li&gt;
+  &lt;li&gt;Supported the adoption of Gordian best practices by a variety of manufacturers; and&lt;/li&gt;
+  &lt;li&gt;Worked directly with our sustaining sponsor &lt;a href=&quot;https://bitmark.com/&quot;&gt;Bitmark&lt;/a&gt; to architect their new Autonomy bitcoin app.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also did work to support the wider community, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Produced a major design document on multisigs;&lt;/li&gt;
+  &lt;li&gt;Supported DID’s advancement on its standards track;&lt;/li&gt;
+  &lt;li&gt;Worked to develop the did:onion DID method;&lt;/li&gt;
+  &lt;li&gt;Developed packages to support activists; and&lt;/li&gt;
+  &lt;li&gt;Testified to legislatures in Nevada, North Dakota, and Wyoming.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://www.blockchaincommons.com/quarterlies/2020-Q4-Report/&quot;&gt;Also see our previous, Q4 2020 report&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;div class=&quot;bold--excerpt--node&quot;&gt;Read More&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;gordian-work&quot;&gt;Gordian Work&lt;/h2&gt;
+
+&lt;p&gt;Our advances on Gordian were linked to a large-scale transition in the meaning of the Gordian system. Prior to 2021, we were offering a variety of applications, but we were simultaneously working with companies to create specifications. This created a real tension. Now that we’ve seen the beginnings of adoption of our best practices, we’ve been able to change the focus of our applications from being consumer-focused to being exemplars for other companies to study. In Q2, we expect this to mature into a &lt;strong&gt;Gordian Seal™&lt;/strong&gt; program that denotes companies who are producing products that follow the Gordian principles and our best practices. Like similar projects such as the FIDO Alliance, we expect the Gordian Seal to make it easier for everyone in the blockchain ecosystem to work together, creating bizdev and interoperability opportunities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gordian Testing.&lt;/strong&gt; Blockchain Commons now has three iOS reference apps available for public beta testing via Apple’s Testflight: &lt;a href=&quot;https://testflight.apple.com/join/sJTaoUsM&quot;&gt;Gordian Cosigner&lt;/a&gt;, &lt;a href=&quot;https://testflight.apple.com/join/0LIl6H1h&quot;&gt;Gordian Guardian&lt;/a&gt;, and &lt;a href=&quot;https://testflight.apple.com/join/OQHyL0a8&quot;&gt;Guardian Wallet&lt;/a&gt;. Wallet was our original app, recently updated to support the newest Lifehash and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;crypto-request&lt;/code&gt; features; Cosigner is the companion signing app that we introduced last quarter; and Guardian is our newest release, a key-storage tool for iOS. As reference apps, these projects are mainly meant as exemplars, demonstrating the best practices and principles suggested by the Gordian architecture as well as exemplifying how multiple apps can interact through Airgaps and Universal Resources (URs). See &lt;a href=&quot;https://www.youtube.com/watch?v=TosqR8a2OXg&quot;&gt;our video&lt;/a&gt; for a real-life example of Gordian Cosigner, Guardian, and Wallet working together to securely create a multisig account and sign a PSBT, and &lt;a href=&quot;https://www.youtube.com/watch?v=19GVOIZNedU&quot;&gt;this video&lt;/a&gt; that demonstrates AirGap signing between LetheKit and Gordian Cosigner.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Independent Recovery.&lt;/strong&gt; We are already working to split a new app, “Gordian Recovery”, off of Gordian Guardian. One of our best practices for the Gordian system demands that a user can recover funds from a Gordian-approved wallet even if the company producing it disappears. Gordian Recovery will provide one way to do so, allowing a user to independently use the app to recover and sweep funds held in a multisig wallet, no matter the status of the wallet manufacturer. At its debut, we expect Gordian Recovery to support at least three different companies with their own multisig hardware or software wallet systems. Generally, Guardian Recovery, like Gordian Cosigner, demonstrates how Blockchain Commons will interact with the wallet ecosystem by providing not just specifications, best practices, and references, but also complementary apps that can support third-party wallets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keytool Updates.&lt;/strong&gt; Our &lt;a href=&quot;https://github.com/BlockchainCommons/keytool-cli&quot;&gt;keytool CLI (command-line interface) app&lt;/a&gt; also received major upgrades in Q1. We expanded it to support the new UR (Universal Resource) &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;crypto-request&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;crypto-response&lt;/code&gt; features that add support for arbitrary requests. This is a first step in moving away from the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;m/48'&lt;/code&gt; derivation used by current hardware wallets for multisig, which often results in master or cosigner xpub reuse and thus a risk to privacy. This means that we now have the infrastructure to demonstrate different solutions to the problems of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;m/48'&lt;/code&gt;xpub reuse, but there’s still a lot of legacy use cases that need to be resolved. (We also reviewed one solution for the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;m/48'&lt;/code&gt; derivation problem and found it unnecessarily complex, so: onward.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lifehash Improvements.&lt;/strong&gt; Most of the Gordian specifications that we’ve created while working with our &lt;a href=&quot;https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions&quot;&gt;Airgapped Wallet Community&lt;/a&gt; focus on interoperability, particularly moving data across airgaps. Lifehash is something else: it’s a user-interface specification meant to give users trust in the continuity of cryptocurrency accounts without having to depend on reading text addresses, which aren’t user-intuitive. Instead, Lifehash creates unique, colored icons for each account that remain consistent over time. This quarter, we adjusted the colors used by Lifehash so that they look better in black &amp;amp; white printing, and simultaneously experimented with dithering on the 200x200 LetheKit display, to ensure that we could display meaningful information on a worst-case small black &amp;amp; white display.&lt;/p&gt;
+
+&lt;hr style=&quot;height:1px; border:none; color:#000; background-color:#000;&quot; /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;height:1px; border:none; color:#000; background-color:#000;&quot; /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr style=&quot;height:1px; border:none; color:#000; background-color:#000;&quot; /&gt;
+
+&lt;p&gt;&lt;strong&gt;Lethekit Updates.&lt;/strong&gt; The DIY &lt;a href=&quot;https://github.com/BlockchainCommons/lethekit/&quot;&gt;LetheKit&lt;/a&gt; has been our prime reference for testing hardware implementations of our Gordian best practices. Not only did we test it out with dithered Lifehashes last quarter, but we also were able to use its display to test out animated QRs for transferring PSBTs. It worked! (Albeit, slowly.) See also &lt;a href=&quot;https://www.youtube.com/watch?v=19GVOIZNedU&quot;&gt;this video&lt;/a&gt; of LetheKit exporting derived keys to Gordian Signer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gordian Adoption.&lt;/strong&gt; Finally, as noted, we’re very happy to see continued adoption of Gordian. Last quarter, we talked about all of the software and library development being done by wallet companies. This quarter, we’re seeing more companies committing to including SSKRs (Sharded Secret Key Reconstruction), URs (Universal Resources), and other Gordian features in their wallets. &lt;a href=&quot;https://sparrowwallet.com/&quot;&gt;Sparrow Wallet&lt;/a&gt; has been expanding its capabilities, while &lt;a href=&quot;https://foundationdevices.com/&quot;&gt;Foundation Devices&lt;/a&gt; was the newest to announce their integration of some UR features, including animated PSBTs. Foundation and Sparrow have both been working with us for a while: we’re thrilled to see both hardware and software wallet companies incorporating Blockchain Commons specifications! We’re also aware of two more software-wallet companies who haven’t made announcements yet, and we’ve been extensively working with a third company to produce a Gordian-approved wallet that entirely matches our principles and best practices and adds on some great UI besides. We can now announce that third company is Bitmark …&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Autonomy Architecting.&lt;/strong&gt; Blockchain Commons has been working with Bitmark to design Autonomy, a bitcoin wallet and digital assets manager. Their goal is to make it easy for families to gain independence and preserve generational wealth. Autonomy combines a mobile app with your own dedicated full node running privately in the cloud. We used a partitioned architecture (keys across app+node) and a personal recovery network (using SSKR) to remove all single points of failure. When you transact, everything is multisig between your app and full node. Any single key can fail and you won’t lose your funds. Nothing else like this currently exists in the market.&lt;/p&gt;
+
+&lt;h2 id=&quot;other-advances&quot;&gt;Other Advances&lt;/h2&gt;
+
+&lt;p&gt;Here’s some details on our other major projects:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Multisig Documents.&lt;/strong&gt; This quarter, we released our first major expansion to our #SmartCustody tutorials since 2019: a 10,000-word document on &lt;a href=&quot;https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md&quot;&gt;Designing Multisig for Independence &amp;amp; Resilience&lt;/a&gt;. The state of multisig wasn’t sufficiently advanced to provide specific advice when we originally wrote #SmartCustody, so we’re now happy to include it by breaking down the design of multisig addresses into theoretical, transactional, operational, and functional elements and providing design patterns and examples to help you put those elements together. Want to know why Blockchain Commons is today focused on multisig technology and how to create them to meet your own needs? It’s all here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DID Recommendation.&lt;/strong&gt; We’ve been working with the &lt;a href=&quot;https://www.w3.org/TR/did-core/&quot;&gt;DID specification&lt;/a&gt; since it was incubated at early &lt;a href=&quot;https://www.weboftrust.info/&quot;&gt;Rebooting-the-Web-of-Trust workshops&lt;/a&gt;, and co-authored by Blockchain Commons founder Christopher Allen. We’re thrilled that it’s now a &lt;a href=&quot;https://www.w3.org/TR/did-core/&quot;&gt;Candidate Recommendation&lt;/a&gt;. There might still be revisions and new candidates, but this is the beginning of the last stage in creating an official internet standard for decentralized identity on the internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DID Method Expansion.&lt;/strong&gt; Meanwhile, Blockchain Commons is doing its own work on DIDs, with a new &lt;a href=&quot;https://github.com/BlockchainCommons/did-method-onion&quot;&gt;did:onion method implementation&lt;/a&gt;. We’re happy to say that &lt;a href=&quot;https://www.spruceid.com/&quot;&gt;Spruce Systems&lt;/a&gt; is already considering it for their DID resolver. We’re also considering returning to work on our own &lt;a href=&quot;https://w3c-ccg.github.io/didm-btcr/&quot;&gt;BTCR DID method&lt;/a&gt;, which was one of the first DID methods, but has gotten somewhat out of date with recent updates to Bitcoin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apt Packages.&lt;/strong&gt; We have produced apt packages for installing &lt;a href=&quot;https://github.com/BlockchainCommons/seedtool-cli&quot;&gt;seedtool&lt;/a&gt; and &lt;a href=&quot;https://github.com/BlockchainCommons/keytool-cli&quot;&gt;keytool&lt;/a&gt; for use with Debian and Tails OSes. This is a first step in providing support tools for human-rights activists, which we expect to get more emphasis in our work in Q3.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Legislative Work.&lt;/strong&gt; Finally, Christopher Allen’s work with legislatures multiplied last quarter. In Wyoming, he led efforts that resulted in the &lt;a href=&quot;https://www.wyoleg.gov/Legislation/2021/SF0039&quot;&gt;Wyoming Digital Identity Act&lt;/a&gt;, which includes a specific definition of digital identity that works toward the &lt;a href=&quot;http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html&quot;&gt;principles of self-sovereign identity&lt;/a&gt;. Work on a private-key-protection bill was less successful, as it had to be withdrawn after being spoiled by an amendment. Christopher has also recently testified before legislatures in &lt;a href=&quot;https://www.legis.nd.gov/assembly/67-2021/testimony/HIBL-3024-20210208-5787-F-ALLEN_CHRISTOPHER.pdf&quot;&gt;North Dakota&lt;/a&gt; and Nevada. This is all crucial work because actual engineering will ultimately be limited and directed by what states legislate, so we want to make sure the laws fit the technology and the needs of the individual.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Intern Search.&lt;/strong&gt; We’re thrilled that our Summer 2021 internship program has been sponsored by the &lt;a href=&quot;https://twitter.com/ChristopherA/status/1366880813845909506&quot;&gt;Humans Rights Foundation&lt;/a&gt;. We’ve thus put out &lt;a href=&quot;https://github.com/BlockchainCommons/Community/discussions/32&quot;&gt;a call for interns&lt;/a&gt;, and we’re expanding our usual development work to also include direct support for activists, who need help to maintain their privacy in potentially hostile regimes. However, to really support activists requires knowing what they need. So, we’re also considering working with interns to do research and conduct interviews to create user engagement models for activists. This would be similar to the &lt;a href=&quot;https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/amira.pdf&quot;&gt;Amira model&lt;/a&gt; from RWOT. If you are interested in having developers work with or mentor blockchain interns, want to suggest intern projects, or even have engineers who might be interested in working on Blockchain Commons projects briefly during the summer, &lt;a href=&quot;mailto:team@blockchaincommons.com&quot;&gt;please mail us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Taproot &amp;amp; Schnorr First Steps.&lt;/strong&gt; We may see a major upgrade for Bitcoin as soon as this fall, if &lt;em&gt;Speedy Trial&lt;/em&gt; is approved for Taproot and Schnorr. The first will increase privacy for #SmartCustody features such as timelocks and multisig, while the second will allow aggregated multisig, which offer several advantages over traditional ECDSA signatures. Our brand-new &lt;a href=&quot;https://github.com/BlockchainCommons/musign-cli&quot;&gt;musign CLI&lt;/a&gt; app provides the first experimental support for Schnorr signatures leveraging the Taproot/Schnorr BIPS, but independent from &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bitcoind&lt;/code&gt;. More to come as we ramp up to this expansion.&lt;/p&gt;
+
+&lt;h2 id=&quot;supporting-the-future&quot;&gt;Supporting the Future&lt;/h2&gt;
+
+&lt;p&gt;We’ve laid out our initial roadmap for the next two cycles of Blockchain Commons efforts, covering spring and summer. Important topics includes finalizing our Gordian Seal program, solving problems with xpub reuse in Bitcon multisig, supporting and advancing SSKR (Sharded Secret Key Reconstruction) for not just cryptographic seeds but other data, continuing to support and advance URs (Universal Resources) with encrypted and/or signed CBOR, and architecting a new QuickConnect 2.0 for initiating TorGap-based services between peers. If you’d like to know more about our roadmap, especially if you considering becoming a sustaining sponsor or to sponsor a specific project on our roadmap, please &lt;a href=&quot;mailto:team@blockchaincommons.com&quot;&gt;contact us directly&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to support our work at Blockchain Commons, so that we can continue to work new specifications, architectures, reference applications, and reference libraries to be used by the whole community, please become a &lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;sponsor&lt;/a&gt;. You can alternatively make a one-time bitcoin donation at our &lt;a href=&quot;https://btcpay.blockchaincommons.com/&quot;&gt;BTCPay&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks to our sustaining sponsors, Bitmark and Blockchainbird, our new project sponsor Human Rights Foundation(@HRF), as well as our GitHub monthly sponsors, who include Flip Abignale (@flip-btcmag), Dario (@mytwocentimes), Foundation Devices (@Foundation-Devices), Adrian Gropper (@agropper), Eric Kuhn (@erickuhn19), Trent McConaghy (@trentmc), Mark S. Miller (@erights), @modl21, Jesse Posner (@jesseposner), Protocol Labs (@protocol), Dan Trevino (@dantrevino), and Glenn Willen (@gwillen).&lt;/p&gt;
+
+&lt;p&gt;Christopher Allen, Executive Director, Blockchain Common&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Quarterlies" /><category term="Goals" /><category term="Philosophies" /><category term="Projects" /><summary type="html">In Q1 2021, Blockchain Commons largely focused on working with companies to integrate our Gordian architecture, best practices, specifications, reference libraries, and reference applications into their wallets and services. This included: Released three Gordian reference apps for public beta testing on Apple’s TestFlight; Planned the creation of an independent Gordian Recovery app for use with third-party wallets; Updated our keytool-cli command-line interface app for new UR (Universal Resource) usages and future specifications; Refined our Lifehash specification to optimaize for black &amp;amp; white usage; Tested new improvements to Lethekit; Supported the adoption of Gordian best practices by a variety of manufacturers; and Worked directly with our sustaining sponsor Bitmark to architect their new Autonomy bitcoin app. We also did work to support the wider community, including: Produced a major design document on multisigs; Supported DID’s advancement on its standards track; Worked to develop the did:onion DID method; Developed packages to support activists; and Testified to legislatures in Nevada, North Dakota, and Wyoming. (Also see our previous, Q4 2020 report.) Read More</summary></entry><entry><title type="html">2020 Q4 Blockchain Commons Report</title><link href="https://www.blockchaincommons.com/quarterlies/2020-Q4-Report/" rel="alternate" type="text/html" title="2020 Q4 Blockchain Commons Report" /><published>2021-01-05T00:00:00+00:00</published><updated>2021-01-05T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/quarterlies/2020-Q4-Report</id><content type="html" xml:base="https://www.blockchaincommons.com/quarterlies/2020-Q4-Report/">&lt;p&gt;In Fall 2020, Blockchain Commons continued to work on creating architectures, specifications, and applications to support blockchain infrastructure.&lt;/p&gt;
+
+&lt;p&gt;This has included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Releasing a trio of Gordian Cosigner apps;&lt;/li&gt;
+  &lt;li&gt;Advancing wallet interoperability specifications in the Airgapped Wallet community that we host;&lt;/li&gt;
+  &lt;li&gt;Researching new multisig specifications;&lt;/li&gt;
+  &lt;li&gt;Releasing a third platform for our seedtool application;&lt;/li&gt;
+  &lt;li&gt;Publishing Learning Bitcoin from the Command Line 2.0;&lt;/li&gt;
+  &lt;li&gt;Debuting our new torgap architecture;&lt;/li&gt;
+  &lt;li&gt;Organizing our reference crypto libraries and applications;&lt;/li&gt;
+  &lt;li&gt;Starting a DID architecture review;&lt;/li&gt;
+  &lt;li&gt;Working on Digital Identity laws; and&lt;/li&gt;
+  &lt;li&gt;Starting our 2021 blockchain internship program.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s a bit more information on everything:&lt;/p&gt;
+
+&lt;div class=&quot;bold--excerpt--node&quot;&gt;Read More&lt;/div&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;strong&gt;Gordian Cosigner Releases.&lt;/strong&gt; We have released alpha versions of the entire Gordian Cosigner family of apps, for &lt;a href=&quot;https://github.com/BlockchainCommons/GordianSigner-Android&quot;&gt;Android&lt;/a&gt;, &lt;a href=&quot;https://github.com/BlockchainCommons/GordianSigner-Catalyst&quot;&gt;iOS&lt;/a&gt;, and &lt;a href=&quot;https://github.com/BlockchainCommons/GordianSigner-macOS&quot;&gt;MacOS&lt;/a&gt;. These applications support the signing of multisig transactions in an airgapped manner, creating a new level of support for what we see as the future of Bitcoin transactions. Though the iOS and MacOS apps were created in-house, the Android app was developed by Bitmark, who is both a sustaining and contributing sponsor to Blockchain Commons. We are expecting public Testflights of the apps in January, but before we have a full public release, we need to work with the Airgapped Wallet Community on related specifications.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wallet Community Expansion.&lt;/strong&gt; We are continuing the successful collaboration with our &lt;a href=&quot;https://github.com/BlockchainCommons/Airgapped-Wallet-Community&quot;&gt;Airgapped Wallet Community&lt;/a&gt;, which has also given us a seat at the table for discussions of wallet standardization. Our Universal Resources (UR) specification and its animated QRs are increasingly being adopted, with our UR library now available in C++, Java, Python, Rust, and Swift. We’ve also been doing extensive work with Bitmark on their Autonomy wallet release, which is built on our Gordian architecture design.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wallet Community Multisig Research.&lt;/strong&gt; Our early work with multisigs has shown that critical elements like the m/48’ derivation, PSBTs, and descriptors are all underspecified given modern bitcoin architecture. In addition, current multisig usage doesn’t include schemes to prevent xpub reuse or to secure internal metadata in support of cosigning. In conjuction with our wallet community, we are working on standardizing the methodology for creating account maps for multisig cosigning; investigating ways to store full wallet descriptors and metadata for multisigs without creating new privacy problems; and defining the different roles of multisig cosigners. Some multisig issues are UX-focused, and so we are also defining user interfaces that can help humans to make meaningful decisions when cosigning. This research has included a new release of our Swift-based &lt;a href=&quot;https://github.com/BlockchainCommons/LifeHashTool&quot;&gt;LifeHashTool&lt;/a&gt;. We hope to do more in Q1, to further enable Gordian Cosigner as our premiere multisig release.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seedtool Expansion.&lt;/strong&gt; Our seedtool apps, which offer best-practices examples of offline seed generation, continue to expand. We’d previously released a seedtool as part of our &lt;a href=&quot;https://github.com/BlockchainCommons/lethekit&quot;&gt;LetheKit&lt;/a&gt; and upgraded the separate &lt;a href=&quot;https://github.com/BlockchainCommons/seedtool-cli&quot;&gt;command-line version&lt;/a&gt; to beta last quarter. At this point our initial iterations of our seedtools are fully feature-complete, though we’re also planning for future versions with camera support. This quarter we also released an alpha for a third platform: an &lt;a href=&quot;https://github.com/BlockchainCommons/Fehu&quot;&gt;iOS seedtool&lt;/a&gt;, currently code-named Fehu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learning Bitcoin 2.0 Release.&lt;/strong&gt; As planned we released &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/README.md&quot;&gt;Learning Bitcoin from the Command Line 2.0&lt;/a&gt; at the end of October. Our popular Bitcoin tutorial is now a complete 19-chapter course that starts with the fundamentals of Bitcoin Core usage and continues on through using Lightning and programming in seven languages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Torgap Architectural Focus.&lt;/strong&gt; Blockchain Commons is not just about specifications, tutorials, and applications, but also architectures. We want to prototype and exemplify the best methods for creating safe, secure, and private Bitcoin and blockchain systems. This quarter we went public with our work on Torgap, which is a new methodology to ensure separation of interests (&lt;a href=&quot;https://github.com/BlockchainCommons/torgap/blob/master/Docs/FAQ.md#what-are-the-adventages-of-the-torgap-architecture&quot;&gt;and lots of other advantages&lt;/a&gt;) by using Tor to segregate neworked services. Not only have we created a &lt;a href=&quot;https://github.com/BlockchainCommons/torgap/blob/master/Docs/FAQ.md&quot;&gt;Torgap&lt;/a&gt; repo as a nexus for the work, but we’ve also been looking at varied Torgap possibilities, including &lt;a href=&quot;https://github.com/BlockchainCommons/torgap-sig-cli-rust&quot;&gt;DIDs over Torgaps&lt;/a&gt; using a &lt;a href=&quot;https://github.com/BlockchainCommons/did-method-onion&quot;&gt;did:onion method&lt;/a&gt; and &lt;a href=&quot;https://github.com/BlockchainCommons/torgap-opentimestamps/blob/master/README.md&quot;&gt;open timestamps over Torgaps&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Crypto Commons Reference Code.&lt;/strong&gt; We’ve created a large amount of content at Blockchain Commons, and so one of our challenges is making it accessible. We did this in Q4 not just through our core Torgap repo, but also through a similar &lt;a href=&quot;https://github.com/BlockchainCommons/crypto-commons&quot;&gt;Crypto Commons repo&lt;/a&gt;. It links up all of our crypto reference libraries (which went beta in Q3) as well as the various apps and command-line programs that exercise them, including the new &lt;a href=&quot;https://github.com/BlockchainCommons/bc-bytewords-cli&quot;&gt;bytewords-cli&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Architectural Review Begun.&lt;/strong&gt; Blockchain Commons also does more direct work with companies to improve the usage and trust for blockchain systems. This quarter we have begun a security architecture review of a major Decentralized IDentifier (DID) deployment that should reach one million or more people. We’ve been involved with DIDs since they were incubated at &lt;a href=&quot;https://www.weboftrust.info/papers.html&quot;&gt;Rebooting the Web of Trust&lt;/a&gt;, so we’re proud to do the first major review of such a system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Decentralized Identity Evangelization.&lt;/strong&gt; Christopher Allen is continuing his work with the Wyoming legislature, where he is now a member of Digital Identity and DAO subcomittees. He’s been working on what will be the first laws anywhere to recognize personal digital identity (as opposed to digital data, which is the focus of many current laws). This legal definition is intended to work with legacy identity systems, but also to support future decentralization. He also has been leading another bill to give special legal protection for private keys.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trusted Processor Research.&lt;/strong&gt; We are always researching and analyzing the newest cryptography and blockchain innovations. This quarter that included an examination of trusted processors. We hope to advance that toward interoperable specifications for trusted hardware in the future.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Internship Planning.&lt;/strong&gt; Finally, we are planning for new intern cohorts for 2021. We have posted a &lt;a href=&quot;https://github.com/BlockchainCommons/Community/discussions/32&quot;&gt;complete announcement&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For other recent announcements, see:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blockchaincommons.com/quarterlies/2020-Q3-Report/&quot;&gt;The Q3 Quarterly Report (10/6)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blockchaincommons.com/projects/Releasing-LetheKit/&quot;&gt;Blockchain Releases Feature-complete LetheKit (10/28)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blockchaincommons.com/projects/Learning-Bitcoin-Upgrades-to-v2/&quot;&gt;Learning Bitcoin Upgrades to v2 (10/30)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA/&quot;&gt;Blockchain Commons Joins COPA (11/10)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.blockchaincommons.com/projects/Blockchain-Commons-URs-Support-Airgapped-PSBTs/&quot;&gt;Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs &amp;amp; More&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’d like to support our work at Blockchain Commons, so that we can create the next specifications, architectures, reference applications, and reference libraries to be used by the whole community, please become a &lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;sponsor&lt;/a&gt;. You can alternatively &lt;a href=&quot;https://btcpay.blockchaincommons.com/&quot;&gt;make a one-time bitcoin donation at our BTCPay&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks to our sustaining sponsors, Bitmark, Blockchainbird, and Unchained Capital, as well as our GitHub Sponsors, including Flip Abignale (@flip-btcmag), Dario (@mytwocentimes), Foundation Devices (@Foundation-Devices), Adrian Gropper (@agropper), Zach Herbert (@zachherbert), Eric Kuhn (@erickuhn19), Alexandre Linhares (@Alex-Linhares), Trent McConaghy (@trentmc), Mark S. Miller (@erights), @modl21, Protocol Labs (@protocol), Dan Trevino (@dantrevino), and Glenn Willen (@gwillen).&lt;/p&gt;
+
+&lt;p&gt;Christopher Allen, Executive Director, Blockchain Common&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Quarterlies" /><category term="Goals" /><category term="Philosophies" /><category term="Projects" /><summary type="html">In Fall 2020, Blockchain Commons continued to work on creating architectures, specifications, and applications to support blockchain infrastructure. This has included: Releasing a trio of Gordian Cosigner apps; Advancing wallet interoperability specifications in the Airgapped Wallet community that we host; Researching new multisig specifications; Releasing a third platform for our seedtool application; Publishing Learning Bitcoin from the Command Line 2.0; Debuting our new torgap architecture; Organizing our reference crypto libraries and applications; Starting a DID architecture review; Working on Digital Identity laws; and Starting our 2021 blockchain internship program. Here’s a bit more information on everything: Read More</summary></entry><entry><title type="html">Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs &amp;amp; More</title><link href="https://www.blockchaincommons.com/projects/Blockchain-Commons-URs-Support-Airgapped-PSBTs/" rel="alternate" type="text/html" title="Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs &amp;amp; More" /><published>2020-12-08T00:00:00+00:00</published><updated>2020-12-08T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/projects/Blockchain-Commons-URs-Support-Airgapped-PSBTs</id><content type="html" xml:base="https://www.blockchaincommons.com/projects/Blockchain-Commons-URs-Support-Airgapped-PSBTs/">&lt;p&gt;The &lt;a href=&quot;https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md&quot;&gt;Uniform Resources specification&lt;/a&gt; is one of Blockchain Commons’ most notable wallet enhancements of 2020: it enables airgapped PSBTs and is supported through a variety of reference libraries, including C++ and Swift implementations. Third parties have already ported the UR encoder to Python, Java, and Rust.&lt;/p&gt;
+
+&lt;p&gt;Uniform Resources, or URs, are a method for encoding binary data in plain text strings that are also well-formed URIs. They are simultaneously intended to address the challenges of QR codes, which are the main way that Bitcoin wallets transmit data across airgaps. While QR codes themselves are standard, the data encoded within QR codes is not, resulting in inconsistent usage among developers.&lt;/p&gt;
+
+&lt;p&gt;URs were created to resolve these interoperability issues by creating a standardized method for encoding binary data. They’re built on CBOR, the Concise Binary Object Representation described in &lt;a href=&quot;https://tools.ietf.org/html/rfc7049&quot;&gt;IETF RFC 7049&lt;/a&gt;. The CBOR data is encoded in a typed UR object, which creates a self-describing, structured binary representation. URs can be transmitted as text or encoded via other means, including QR codes. Once received, URs can be decoded by different apps on different machines without having to guess about the contents or the encoding methods.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;The tight size limitations of QRs, where version 40 QR codes max out at 2,953 bytes, are also resolved in the UR specification. The CBOR foundation supports sizes up to 2^32-1 bytes; the UR specification then describes how to sequence those large binary encodings into a multipart UR, which can be displayed across multiple QR codes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/URDemo/master/Images/urdemo-animated.gif&quot; align=&quot;right&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thus far, the prime use of URs has been to allow the airgapped transmission of PSBTs, which frequently don’t fit into a single QR code. Using URs, PSBTs can instead be transmitted as a animated sequence of QR codes, with each frame displaying one part of a UR sequence. Fountain codes allow the QR recording to start at any point and resolve problems with missing individual frames. This permits for the easy and intuitive transmission of partially signed transactions to airgapped devices for further signing: a user just needs to hold up a camera to scan the animated QR.&lt;/p&gt;
+
+&lt;p&gt;However, URs can do much more than that: they can support any airgapped Bitcoin function, as well as Blockchain Commons’ unique &lt;a href=&quot;https://github.com/BlockchainCommons/torgap/blob/master/Docs/FAQ.md&quot;&gt;torgap architecture&lt;/a&gt;. Definitions for seeds, keypaths, addresses, and accounts allow for all sorts of Bitcoin data to be transmitted in the efficient, self-describing format. In additions, URs can be sent not just as QR codes, but also as URLs or Signal Whispers. The possibilities go far beyond animated QRs for PSBTs.&lt;/p&gt;
+
+&lt;p&gt;As a creator of open infrastructure, Blockchain Commons is working to support wallet interoperability, helping end-users have many flexible choices among vendors. URs are one of our earliest and most successful open wallet projects. Our &lt;a href=&quot;https://github.com/BlockchainCommons/bc-ur&quot;&gt;bc-ur reference library&lt;/a&gt; supports URs in C++, while our &lt;a href=&quot;https://github.com/BlockchainCommons/URKit&quot;&gt;URKit&lt;/a&gt; does so in Swift. The specification has also been adopted by a number of third-party wallet developers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Foundation Devices, a company that focuses on open hardware for the decentralized internet, has created a &lt;a href=&quot;https://github.com/Foundation-Devices/foundation-ur-py&quot;&gt;python implementation&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Sparrow Wallet, a Bitcoin wallet for those who value financial self sovereignty, has created a &lt;a href=&quot;https://github.com/sparrowwallet/hummingbird&quot;&gt;java implementation&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Dominik Spicher has created a &lt;a href=&quot;https://github.com/dspicher/ur-rs&quot;&gt;rust implementation&lt;/a&gt;.
+We expect to see URs deployed in more commercial wallets in the near future.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table style=&quot;border:0px solid black;margin-left:auto;margin-right:auto;&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;a href=&quot;https://foundationdevices.com/&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/foundation-logo.png&quot; /&gt;&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;a href=&quot;https://sparrowwallet.com/&quot;&gt;&lt;img src=&quot;https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/airgap/sparrowwallet-logo-sm.png&quot; /&gt;&lt;/a&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If you’d like to learn more about URs, please read our &lt;a href=&quot;https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md&quot;&gt;research paper, BCR-2020-005&lt;/a&gt;, and our &lt;a href=&quot;https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md&quot;&gt;growing library of UR type definitions&lt;/a&gt;. If you’d like to support Blockchain Commons’ open infrastructure development, please become a &lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;GitHub sponsor&lt;/a&gt; or make a donation to our &lt;a href=&quot;https://btcpay.blockchaincommons.com/&quot;&gt;BTCPay server&lt;/a&gt;. Blockchain Commons is funded entirely by patronage, donations, and collaborative partnerships with people like you.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Projects" /><category term="AirGap" /><category term="URs" /><category term="Projects" /><summary type="html">The Uniform Resources specification is one of Blockchain Commons’ most notable wallet enhancements of 2020: it enables airgapped PSBTs and is supported through a variety of reference libraries, including C++ and Swift implementations. Third parties have already ported the UR encoder to Python, Java, and Rust. Uniform Resources, or URs, are a method for encoding binary data in plain text strings that are also well-formed URIs. They are simultaneously intended to address the challenges of QR codes, which are the main way that Bitcoin wallets transmit data across airgaps. While QR codes themselves are standard, the data encoded within QR codes is not, resulting in inconsistent usage among developers. URs were created to resolve these interoperability issues by creating a standardized method for encoding binary data. They’re built on CBOR, the Concise Binary Object Representation described in IETF RFC 7049. The CBOR data is encoded in a typed UR object, which creates a self-describing, structured binary representation. URs can be transmitted as text or encoded via other means, including QR codes. Once received, URs can be decoded by different apps on different machines without having to guess about the contents or the encoding methods.</summary></entry><entry><title type="html">Blockchain Commons Joins COPA</title><link href="https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA/" rel="alternate" type="text/html" title="Blockchain Commons Joins COPA" /><published>2020-11-10T00:00:00+00:00</published><updated>2020-11-10T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA</id><content type="html" xml:base="https://www.blockchaincommons.com/partnerships/BCC-Joins-COPA/">&lt;link rel=&quot;image_src&quot; href=&quot;https://www.blockchaincommons.com/images/copa-logo-small.png&quot; /&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.blockchaincommons.com/images/copa-logo-small.png&quot; width=&quot;350&quot; align=&quot;right&quot; /&gt;
+To fulfill its commitment to open source and to a defensive patent strategy, Blockchain Commons has joined COPA, the Cryptocurrency Open Patent Alliance.&lt;/p&gt;
+
+&lt;p&gt;COPA is a non-profit community that was formed by Square out of concern that misguided and offensive use of patents can stifle innovation, and that companies not focused on patent creation themselves would be unable to defend themselves from aggressive (often non-practicing) patent holders. Members of COPA pledge not to use their patents offensively and instead pool their crypto-patents to form a shared patent library.&lt;/p&gt;
+
+&lt;p&gt;Blockchain Commons was resolute in joining COPA because it addresses problems and resolves frustrations that Commons Founder Christopher Allen has long observed with the American patent system.&lt;/p&gt;
+
+&lt;div class=&quot;bold--excerpt--node&quot;&gt;Read More&lt;/div&gt;
+&lt;!--more--&gt;
+
+&lt;p&gt;The issues with crypto patents date back to the early days of the cryptography industry, when companies were unable to engage in public-key cryptography without an RSA patent license, which was expensive and difficult to obtain. RSA was a practicing owner of its patents, and it did promise FRAND (fair, reasonable, and non-discriminatory) licenses, but these licenses were still too expensive for open-source projects. In order to support the SSL standard, as well as the TLS standard that he was then coauthoring, Allen created the RSAREF license, which sublicensed RSA’s patents in a way that met FRAND standards, and which was royalty-free for the first $50,000 — enabling open-source projects, which tended to be revenue-free. This resulted in RSAREF licensees like PGP and Red Hat being able to innovate with public-key cryptography.&lt;/p&gt;
+
+&lt;p&gt;Allen has also seen the issue of patents from the other side. When he worked at Certicom, he oversaw a large library of patents and was able to advance the idea of ethical patent usage: he convinced the executive team at Certicom to adopt an internal policy to offer FRAND licenses for the patents they were actively practicing and to use their other patents only for defensive purposes.&lt;/p&gt;
+
+&lt;p&gt;However, even a company like Certicom was unable to avoid all of the problems with patents, particularly those caused by non-practicing patent owners. Though Allen was interested in advancing digital microcurrencies at Certicom, he was stifled by patents for Merkle trees and Schnorr signatures. Certicom’s cryptocurrency work was stalled, and new innovations in the field, such as Bitcoin, only appeared after the patents expired, the last in 2008.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, the entire industry is moving toward an understanding of the problems caused by the patent system. At Blockstream, Allen was proud to see the company take a very progressive path when they made a public defensive patent pledge for their entire patent portfolio, which also ensured continuity in the case of bankruptcy. The next step would have been creating a patent pool among companies, but unfortunately Allen was stymied at the time by large companies being unwilling to join such a pool.&lt;/p&gt;
+
+&lt;p&gt;Allen’s commitment to an open and defensive patent policy has continued at Blockchain Commons, and so he’s delighted that Square has used its prominent position in the industry to spearhead the COPA initiative, ensuring continued innovation in the blockchain, Bitcoin, and cryptocurrency fields, without the fear of frivolous patent lawsuits. This is why Blockchain Commons joined COPA as an early adopter.&lt;/p&gt;
+
+&lt;p&gt;More information on COPA is available at &lt;a href=&quot;https://open-patent.org/&quot;&gt;open-patent.org&lt;/a&gt;; more information on Blockchain Commons is available at &lt;a href=&quot;https://www.blockchaincommons.com/&quot;&gt;blockchaincommons.com&lt;/a&gt;.&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Partnerships" /><category term="Philosophies" /><category term="Patents" /><category term="COPA" /><summary type="html">To fulfill its commitment to open source and to a defensive patent strategy, Blockchain Commons has joined COPA, the Cryptocurrency Open Patent Alliance. COPA is a non-profit community that was formed by Square out of concern that misguided and offensive use of patents can stifle innovation, and that companies not focused on patent creation themselves would be unable to defend themselves from aggressive (often non-practicing) patent holders. Members of COPA pledge not to use their patents offensively and instead pool their crypto-patents to form a shared patent library. Blockchain Commons was resolute in joining COPA because it addresses problems and resolves frustrations that Commons Founder Christopher Allen has long observed with the American patent system. Read More</summary></entry><entry><title type="html">Learning Bitcoin Upgrades to v2.0</title><link href="https://www.blockchaincommons.com/projects/Learning-Bitcoin-Upgrades-to-v2/" rel="alternate" type="text/html" title="Learning Bitcoin Upgrades to v2.0" /><published>2020-10-30T00:00:00+00:00</published><updated>2020-10-30T00:00:00+00:00</updated><id>https://www.blockchaincommons.com/projects/Learning-Bitcoin-Upgrades-to-v2</id><content type="html" xml:base="https://www.blockchaincommons.com/projects/Learning-Bitcoin-Upgrades-to-v2/">&lt;p&gt;&lt;img src=&quot;https://www.blockchaincommons.com/images/projects/lbtc-screen.png&quot; width=&quot;350&quot; align=&quot;right&quot; /&gt;
+Blockchain Commons has recently released v2.0 of our Learning Bitcoin from the Command Line course.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/README.md&quot;&gt;Visit the Course&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;Support the Course&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Learning Bitcoin was one of our first projects, launched back in 2017 with support from Blockstream. The intent of the course was to teach the fundamentals of Bitcoin programming through &lt;a href=&quot;https://bitcoin.org/en/&quot;&gt;Bitcoin Core&lt;/a&gt; and its RPC-based command-line interface. We chose this methodology because Bitcoin Core is one of the most robust, secure, and safe cryptocurrency interfaces in existence. We believe it’s the solid foundation for programming Bitcoin; it also allows you to interact with Bitcoin in a way that teaches the fundamentals.&lt;/p&gt;
+
+&lt;p&gt;Blockchain Commons’ overarcing goal has always been to improve the open infrastructure of the blockchain industry, and one of the ways to do that is to build the next generation of engineers. Our course was very successful in this regard. It has helped Bitcoin novices to become Bitcoin developers: some have created their own open-source projects and others have been hired for entry-level jobs. Some of Blockchain Commons’ own engineers, including many of our interns, got their start with the Learning Bitcoin course. Even GitHub’s raw numbers reveal the interest in the course, with 100 Watches, 350 Forks, and 1300 Stars.&lt;/p&gt;
+
+&lt;p&gt;However, Bitcoin is still undergoing rapid development, which led to the need for v2.0 of the course, to update it for the most recent releases &lt;a href=&quot;https://bitcoin.org/en/release/v0.20.0&quot;&gt;Bitcoin 0.20.0&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://bitcoin.org/en/release/v0.20.1&quot;&gt;0.20.1&lt;/a&gt;: every example in the course has been updated and revised accordingly. The updated course has also has been expanded to include a number of new topics. New sections discuss wallet descriptors, SegWit, and how SegWit’s new transaction types interact with Bitcoin Scripts. We’ve also added new chapters for larger topics:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A chapter on &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/07_0_Expanding_Bitcoin_Transactions_PSBTs.md&quot;&gt;PSBTs&lt;/a&gt; looks at Partially Signed Bitcoin Transactions as well as how they can be used with Bitcoin Core’s Hardware Interface.&lt;/li&gt;
+  &lt;li&gt;Though our focus is on the command-line interface, we also show how to create simple C programs to talk to Bitcoin Core using &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/15_0_Talking_to_Bitcoind.md&quot;&gt;RPC and ZMQ (zeromq.org) libraries&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Libwally from Blockstream is a great library to use with command-line programs, so &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/16_0_Programming_with_Libwally.md&quot;&gt;another new Chapter&lt;/a&gt; covers leveraging its wallet and other cryptographic features.&lt;/li&gt;
+  &lt;li&gt;We also touch upon RPC programming in &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/17_0_Talking_to_Bitcoind_Other.md&quot;&gt;Go, Java, NodeJS, Python, Rust, and Swift&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Finally, we’re proud to present our first look at using the Lightning Network from the command-line interface, focusing on Blockstream’s C-Lightning, in a &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/18_0_Understanding_Your_Lightning_Setup.md&quot;&gt;two&lt;/a&gt; &lt;a href=&quot;https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/19_0_Using_Lightning.md&quot;&gt;chapter&lt;/a&gt; finale to the book.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bitcoin is quickly evolving, but the Learning Bitcoin course from Blockchain Commons is now updated to teach all about its newest concepts. If you’re a novice looking to learn about programming Bitcoin, an educator needing to teach students blockchain technologies, or an expert wanting to help us by reviewing, adding to, or translating the course, please take a look!&lt;/p&gt;
+
+&lt;p&gt;However, we need your support. Where v1 of Learning Bitcoin was largely sponsored by Blockstream, v2 was done with our own resources. We hope that you can help us recoup those costs, so that we can continue to create open infrastructure of all sorts. If you think that education resources of this sort are important, please become an &lt;a href=&quot;https://www.blockchaincommons.com/sponsors.html&quot;&gt;Sustaining Sponsor&lt;/a&gt;, or if you prefer, make a one-time donation at our &lt;a href=&quot;https://btcpay.blockchaincommons.com/&quot;&gt;BTCPay&lt;/a&gt;. As an individual, you can join as one of our many &lt;a href=&quot;https://github.com/sponsors/BlockchainCommons&quot;&gt;individual sponsors&lt;/a&gt; to financially support future development of Learning Bitcoin, other educational resources, and open infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Thank you for your help in improving our techological commons for blockchain and Bitcoin users!&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;picture&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil, &quot;links&quot;=&gt;[{&quot;title&quot;=&gt;nil, &quot;url&quot;=&gt;nil, &quot;icon&quot;=&gt;nil}]}</name></author><category term="Projects" /><category term="Educational" /><category term="Learning-Bitcoin" /><category term="Projects" /><summary type="html">Blockchain Commons has recently released v2.0 of our Learning Bitcoin from the Command Line course. Visit the Course Support the Course Learning Bitcoin was one of our first projects, launched back in 2017 with support from Blockstream. The intent of the course was to teach the fundamentals of Bitcoin programming through Bitcoin Core and its RPC-based command-line interface. We chose this methodology because Bitcoin Core is one of the most robust, secure, and safe cryptocurrency interfaces in existence. We believe it’s the solid foundation for programming Bitcoin; it also allows you to interact with Bitcoin in a way that teaches the fundamentals. Blockchain Commons’ overarcing goal has always been to improve the open infrastructure of the blockchain industry, and one of the ways to do that is to build the next generation of engineers. Our course was very successful in this regard. It has helped Bitcoin novices to become Bitcoin developers: some have created their own open-source projects and others have been hired for entry-level jobs. Some of Blockchain Commons’ own engineers, including many of our interns, got their start with the Learning Bitcoin course. Even GitHub’s raw numbers reveal the interest in the course, with 100 Watches, 350 Forks, and 1300 Stars. However, Bitcoin is still undergoing rapid development, which led to the need for v2.0 of the course, to update it for the most recent releases Bitcoin 0.20.0 &amp;amp; 0.20.1: every example in the course has been updated and revised accordingly. The updated course has also has been expanded to include a number of new topics. New sections discuss wallet descriptors, SegWit, and how SegWit’s new transaction types interact with Bitcoin Scripts. We’ve also added new chapters for larger topics: A chapter on PSBTs looks at Partially Signed Bitcoin Transactions as well as how they can be used with Bitcoin Core’s Hardware Interface. Though our focus is on the command-line interface, we also show how to create simple C programs to talk to Bitcoin Core using RPC and ZMQ (zeromq.org) libraries. Libwally from Blockstream is a great library to use with command-line programs, so another new Chapter covers leveraging its wallet and other cryptographic features. We also touch upon RPC programming in Go, Java, NodeJS, Python, Rust, and Swift. Finally, we’re proud to present our first look at using the Lightning Network from the command-line interface, focusing on Blockstream’s C-Lightning, in a two chapter finale to the book. Bitcoin is quickly evolving, but the Learning Bitcoin course from Blockchain Commons is now updated to teach all about its newest concepts. If you’re a novice looking to learn about programming Bitcoin, an educator needing to teach students blockchain technologies, or an expert wanting to help us by reviewing, adding to, or translating the course, please take a look! However, we need your support. Where v1 of Learning Bitcoin was largely sponsored by Blockstream, v2 was done with our own resources. We hope that you can help us recoup those costs, so that we can continue to create open infrastructure of all sorts. If you think that education resources of this sort are important, please become an Sustaining Sponsor, or if you prefer, make a one-time donation at our BTCPay. As an individual, you can join as one of our many individual sponsors to financially support future development of Learning Bitcoin, other educational resources, and open infrastructure. Thank you for your help in improving our techological commons for blockchain and Bitcoin users!</summary></entry></feed>

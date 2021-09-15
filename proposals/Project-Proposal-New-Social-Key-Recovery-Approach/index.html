@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="en-US" class="no-js">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+
+  
+    
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Project Proposal: New Social Social Key Recovery Approach | Blockchain Commons</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Project Proposal: New Social Social Key Recovery Approach" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The goal of social key recovery is for the user to specify groups of individuals that together possess the ability to recover the root secret of a wallet. A good social key recovery protocol should not just reflect what cryptographic primitives happen to be available for use, but rather instead should be designed to correspond with the structure of trust in the user’s social network, while balancing the technical tradeoffs involved under the hood. The most popular social key recovery algorithm, Shamir Secret Sharing is considered information-theoretically secure. That is, any combination of shares less than the necessary threshold convey absolutely no information about the secret. However, all secrets have equal weight and once a sufficient threshold is achieved the secret can be reconstructed. In social contexts this can cause a number of problems in common real-world scenarios. In addition, Shamir Secret Sharing has a history of being naively implemented including a number of serious vulnerabilities. To quote Bitcoin Core Developer Greg Maxwell: I think Shamir Secret Sharing (and a number of other things, RNGs for example), suffer from a property where they are just complex enough that people are excited to implement them often for little good reason, and then they are complex enough (or have few enough reasons to invest significant time) they implement them poorly.” Ideally an implementation of social key recovery should balancing numerous competing goals:" />
+<meta property="og:description" content="The goal of social key recovery is for the user to specify groups of individuals that together possess the ability to recover the root secret of a wallet. A good social key recovery protocol should not just reflect what cryptographic primitives happen to be available for use, but rather instead should be designed to correspond with the structure of trust in the user’s social network, while balancing the technical tradeoffs involved under the hood. The most popular social key recovery algorithm, Shamir Secret Sharing is considered information-theoretically secure. That is, any combination of shares less than the necessary threshold convey absolutely no information about the secret. However, all secrets have equal weight and once a sufficient threshold is achieved the secret can be reconstructed. In social contexts this can cause a number of problems in common real-world scenarios. In addition, Shamir Secret Sharing has a history of being naively implemented including a number of serious vulnerabilities. To quote Bitcoin Core Developer Greg Maxwell: I think Shamir Secret Sharing (and a number of other things, RNGs for example), suffer from a property where they are just complex enough that people are excited to implement them often for little good reason, and then they are complex enough (or have few enough reasons to invest significant time) they implement them poorly.” Ideally an implementation of social key recovery should balancing numerous competing goals:" />
+<link rel="canonical" href="https://www.blockchaincommons.com/proposals/Project-Proposal-New-Social-Key-Recovery-Approach/" />
+<meta property="og:url" content="https://www.blockchaincommons.com/proposals/Project-Proposal-New-Social-Key-Recovery-Approach/" />
+<meta property="og:site_name" content="Blockchain Commons" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-11-19T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Project Proposal: New Social Social Key Recovery Approach" />
+<meta name="twitter:site" content="@BlockchainComns" />
+<script type="application/ld+json">
+{"headline":"Project Proposal: New Social Social Key Recovery Approach","dateModified":"2018-11-19T00:00:00+00:00","datePublished":"2018-11-19T00:00:00+00:00","@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.blockchaincommons.com/images/Borromean-rings_minimal-overlap(256x256).png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.blockchaincommons.com/proposals/Project-Proposal-New-Social-Key-Recovery-Approach/"},"url":"https://www.blockchaincommons.com/proposals/Project-Proposal-New-Social-Key-Recovery-Approach/","description":"The goal of social key recovery is for the user to specify groups of individuals that together possess the ability to recover the root secret of a wallet. A good social key recovery protocol should not just reflect what cryptographic primitives happen to be available for use, but rather instead should be designed to correspond with the structure of trust in the user’s social network, while balancing the technical tradeoffs involved under the hood. The most popular social key recovery algorithm, Shamir Secret Sharing is considered information-theoretically secure. That is, any combination of shares less than the necessary threshold convey absolutely no information about the secret. However, all secrets have equal weight and once a sufficient threshold is achieved the secret can be reconstructed. In social contexts this can cause a number of problems in common real-world scenarios. In addition, Shamir Secret Sharing has a history of being naively implemented including a number of serious vulnerabilities. To quote Bitcoin Core Developer Greg Maxwell: I think Shamir Secret Sharing (and a number of other things, RNGs for example), suffer from a property where they are just complex enough that people are excited to implement them often for little good reason, and then they are complex enough (or have few enough reasons to invest significant time) they implement them poorly.” Ideally an implementation of social key recovery should balancing numerous competing goals:","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+  <script>
+    /* Cut the mustard */
+    if ( 'querySelector' in document && 'addEventListener' in window ) {
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
+    }
+  </script>
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/skins/default.css">
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i|Lora:400,400i,700,700i">
+  <link rel="alternate" type="application/atom+xml" title="Blockchain Commons" href="/atom.xml">
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+
+  <body class="layout--post  project-proposal-new-social-social-key-recovery-approach">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+  <div class="navigation-wrapper">
+    <a href="#menu-toggle" id="menu-toggle">Menu</a>
+    <nav id="primary-nav" class="site-nav animated drop">
+      <ul><li><a href="/">Home</a></li><li><a href="/posts/">Posts</a></li><li><a href="/sponsors.html">Sponsors</a></li><li><a href="/projects.html">Projects</a></li><li><a href="https://github.com/BlockchainCommons">Github</a></li></ul>
+    </nav>
+  </div><!-- /.navigation-wrapper -->
+
+
+    <header class="masthead">
+  <div class="wrap">
+    
+      <a href="/" class="site-logo" rel="home" title="Blockchain Commons">
+        <img src="/images/Borromean-rings_minimal-overlap(256x256).png" class="site-logo-img animated fadeInDown" alt="Blockchain Commons">
+      </a>
+    
+    
+    
+      
+        <div class="site-title animated fadeIn"><a href="/">Blockchain Commons</a></div>
+      
+      <p class="site-description animated fadeIn" itemprop="description">Supporting Open Blockchain Infrastructure, Internet Security & Cryptographic Research</p>
+    
+  </div>
+</header><!-- /.masthead -->
+
+
+    <main id="main" class="main-content" aria-label="Content">
+  <article class="h-entry">
+    
+
+    <div class="page-wrapper">
+      <header class="page-header">
+        
+        
+          <h1 id="page-title" class="page-title p-name">Project Proposal: New Social Social Key Recovery Approach
+</h1>
+        
+      </header>
+
+      <div class="page-sidebar">
+        <div class="page-author h-card p-author"><div class="author-info"><ul class="author-links"><li class="author-link">
+            <a class="u-url" rel="me" href=""><i class="fas fa-link fa-lg" title=""></i></a>
+          </li></ul>
+    <time class="page-date dt-published" datetime="2018-11-19T00:00:00+00:00"><a class="u-url" href="">November 19, 2018</a>
+</time>
+
+  </div>
+</div>
+
+        
+  <h3 class="page-taxonomies-title">Categories</h3>
+  
+  <ul class="page-taxonomies"><li class="page-taxonomy"><a class="p-category" href="/categories/#proposals" title="Pages filed under Proposals">Proposals</a></li>
+  </ul>
+
+
+        
+  <h3 class="page-taxonomies-title">Tags</h3>
+  
+  <ul class="page-taxonomies"><li class="page-taxonomy"><a href="/tags/#cryptographic-research" title="Pages tagged Cryptographic Research" rel="tag">Cryptographic Research</a></li><li class="page-taxonomy"><a href="/tags/#key-management" title="Pages tagged Key Management" rel="tag">Key Management</a></li><li class="page-taxonomy"><a href="/tags/#proposal" title="Pages tagged Proposal" rel="tag">Proposal</a></li><li class="page-taxonomy"><a href="/tags/#social-key-recovery" title="Pages tagged Social Key Recovery" rel="tag">Social Key Recovery</a></li>
+  </ul>
+
+
+      </div>
+
+      <div class="page-content">
+        <div class="e-content">
+          <p>The goal of social key recovery is for the user to specify groups of individuals that together possess the ability to recover the root secret of a wallet. A good social key recovery protocol should not just reflect what cryptographic primitives happen to be available for use, but rather instead should be designed to correspond with the structure of trust in the user’s social network, while balancing the technical tradeoffs involved under the hood.</p>
+
+<p>The most popular social key recovery algorithm, <a href="https://dl.acm.org/citation.cfm?doid=359168.359176">Shamir Secret Sharing</a> is considered information-theoretically secure. That is, any combination of shares less than the necessary threshold convey absolutely no information about the secret. However, all secrets have equal weight and once a sufficient threshold is achieved the secret can be reconstructed. In social contexts this can cause a number of problems in common real-world scenarios. In addition, Shamir Secret Sharing has a history of being <a href="https://crypto.stackexchange.com/questions/41994/why-is-shamir-secret-sharing-not-secure-against-active-adversaries-out-of-the-bo">naively implemented</a> including a number of serious <a href="https://github.com/spesmilo/electrum-docs/blob/master/cve.rst">vulnerabilities</a>.</p>
+
+<p>To quote Bitcoin Core Developer <a href="https://github.com/gmaxwell">Greg Maxwell</a>:</p>
+
+<blockquote>
+  <p>I think Shamir Secret Sharing (and a number of other things, RNGs for example), suffer from a property where they are just complex enough that people are excited to implement them often for little good reason, and then they are complex enough (or have few enough reasons to invest significant time) they implement them poorly.”</p>
+</blockquote>
+
+<p>Ideally an implementation of social key recovery should balancing numerous competing goals:</p>
+
+<!--more-->
+
+<p>* Key recovery should require approval of many individuals so as to minimize potential for theft or deliberate key compromise by a small malicious subset of users.</p>
+
+<p>* Key recovery should require the smallest acceptable threshold so as to prevent loss of funds from destroyed/lost/inaccessible shares.</p>
+
+<p>* Key recovery requiring interaction with too many individuals is undesirable, as each interaction must involve re-authentication at the inconvenience of all involved.</p>
+
+<p>* Social trust is not uniformly distributed among different social circles, such as friends, business acquaintances, and family.  Individuals may be fungible within a certain circle of trust, but not more broadly.  A “family member” is not the same as a “business partner.”</p>
+
+<p>For example, Alice might want a minimum of three people to sign off on a key recovery attempt, with individuals chosen among her friends, family, and close business partners.  More than 3 would be inconvenient and risk loss of funds, while any combination of less than 3 individuals would not be trustworthy. However some combinations of 3 individuals drawn from this entire set would not be reliable: she wouldn’t want her 3 business partners alone having control over her funds, as they may act maliciously in their shared business interests and not for her.</p>
+
+<p>One solution for Alice is to require 3 individuals for social key recovery, but also require that these three individuals include AT LEAST one friend and one family member.</p>
+
+<p>This can be accomplished by constructing a three-way linear key split with shares X, Y, and Z. X is given to family members, Y is given to friends, and Z is further split using 3-of-N Shamir secret sharing, with unique shares given to each family member, friend, and trusted business partner. Thus each family member knows X and one share of Z, each friend knows Y and one share of Z, and business partners only know their share of Z. As the original key is constructed as X+Y+Z, all three must be reconstructed, which requires the assistance of at least one family member, at least one friend, and a total of three individuals drawn from all three sets.</p>
+
+<p>We suggest calling these separate groups of individuals “circles,” and we suggest designing a social key recovery system where users are allowed to specify participation thresholds for the recovery of the key split associated with each circle (3 “friends” are required, 2 “business partners”, etc.), and then also specify which circle thresholds are required in disjunctive normal form–e.g. “Friends AND Family” OR “Family AND Coworkers”. Under the hood this is translated into a set of linear key splits and Shamir secret shares that are encrypted and transmitted to each participant.</p>
+
+<p>Longer term on the hardware side, an HSM with secure I/O for user authentication could be used to perform the social key recovery — a potential early place to implement this is the HTC Exodus cryptocurrency phone. When a user attempts key recovery, they present a fresh set of identity keys to their friend/family/coworker/etc. and authenticate themselves to the individual. If the individual is convinced to participate, they authorize their device to reveal their shares, which is done by decrypting on the HSM and then re-encrypting to the temporary identity keys of the user’s new or wiped device. When a user does this with enough shares to reconstruct the original key, their device automatically does so and retires the temporary identity, replacing with the recovered master key.</p>
+
+<p>In terms of cryptographic implementation, this requires combining Shamir secret sharing with linear key splits, and then building a social key recovery API centered around the recovery protocol rather than the cryptographic primitives. It will also require some work in defining serialization formats and web-of-trust public key infrastructure for encryption and authentication of the key splits both at the time of distribution and recovery, as well as some thoughts on best ways to store keyshares offline.</p>
+
+<p>Milestones: Stage 1 would be a review of newer academic papers on improvements to Shamir Secret Sharing as well as linear key splits, for which we are project costs of $15K. Stage 2 would be a specific proposal that we can submit to arXiv and/or academic conferences regarding our specific new proposal, for which we are budgeting an additional $15K.</p>
+
+<p>The remaining stages are code. In Stage 3, a preliminary secure implementation of the underlying cryptography for this proposal such that we can get code review by various parties. We estimate this to be approximately $75K - $90K. In Stage 4, we pay ~ $30K-$40K for a formal independent review of the code by an outside party. In stage 5, we implement a UI version of this for the iPhone for ~$50K. None of these stages would implementation be for secure hardware such as for TrustZone (HTC) or TinyPython for Ledger, or other secure hardware, but would include architectural considerations for such in the future.</p>
+
+<p>If you are interested in supporting this Blockchain Commons project, contact Christopher Allen «ChristopherA@LifeWithAlacrity.com».</p>
+
+<h2 id="references">References</h2>
+
+<ul>
+  <li>
+    <p>Shamir, Adi (1979). “How to share a secret”. Communications of the ACM. 22 (11): 612–613. doi:10.1145/359168.359176. https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf</p>
+  </li>
+  <li>
+    <p>Beimel A. (2011) Secret-Sharing Schemes: A Survey. In: Chee Y.M. et al. (eds) Coding and Cryptology. IWCC 2011. Lecture Notes in Computer Science, vol 6639. Springer, Berlin, Heidelberg https://www.cs.bgu.ac.il/~beimel/Papers/Survey.pdf</p>
+  </li>
+  <li>
+    <p>Rait, Seth (2016). “Shamir Secret Sharing and Threshold Cryptography” https://sethrait.com/Shamir-Secret-Sharing-and-Threshold-Cryptography</p>
+  </li>
+  <li>
+    <p>Dautrich J.L., Ravishankar C.V. (2012) “Security Limitations of Using Secret Sharing for Data Outsourcing. In: Cuppens-Boulahia” N., Cuppens F., Garcia-Alfaro J. (eds) Data and Applications Security and Privacy XXVI. DBSec 2012. Lecture Notes in Computer Science, vol 7371. Springer, Berlin, Heidelberg http://www.cs.ucr.edu/~ravi/Papers/DBConf/secret_sharing.pdf)</p>
+  </li>
+  <li>
+    <p>Komargodski I., Naor M., Yogev E. (2016) How to Share a Secret, Infinitely. In: Hirt M., Smith A. (eds) Theory of Cryptography. TCC 2016. Lecture Notes in Computer Science, vol 9986. Springer, Berlin, Heidelberg https://eprint.iacr.org/2016/194.pdf</p>
+  </li>
+  <li>
+    <p>Coron JS., Prouff E., Roche T. (2013) On the Use of Shamir’s Secret Sharing against Side-Channel Analysis. In: Mangard S. (eds) Smart Card Research and Advanced Applications. CARDIS 2012. Lecture Notes in Computer Science, vol 7771. Springer, Berlin, Heidelberg https://www.ssi.gouv.fr/uploads/IMG/pdf/aesshamir_Coron_Prouff_Roche.pdf</p>
+  </li>
+  <li>
+    <p>Blakley, G.R. (1979). “Safeguarding Cryptographic Keys”. Managing Requirements Knowledge, International Workshop on (AFIPS). 48: 313–317. doi:10.1109-/AFIPS.1979.98. https://pdfs.semanticscholar.org/32d2/1ccc21a807627fcb21ea829d1acdab23be12.pdf</p>
+  </li>
+  <li>
+    <p>Feldman, Paul (1987) “A practical scheme for non-interactive Verifiable Secret Sharing” Proceedings of the 28th Annual Symposium on Foundations of Computer Science https://www.cs.umd.edu/~gasarch/TOPICS/secretsharing/feldmanVSS.pdf</p>
+  </li>
+  <li>
+    <p>Harn, e, Changlu L (2009). “Detection and identification of cheaters in (t, n) secret sharing scheme” Des. Codes Cryptography 52, 1 (July 2009), 15-24. DOI=10.1007/s10623-008-9265-8 http://dx.doi.org/10.1007/s10623-008-9265-8</p>
+  </li>
+  <li>
+    <p>Schoenmakers, Berry (1999) “A Simple Publicly Verifiable Secret Sharing Scheme and its Application to Electronic Voting” Advances in Cryptology-CRYPTO’99, volume 1666 of Lecture Notes in Computer Science, pages 148-164, Berlin, 1999. Springer-Verlag. https://www.win.tue.nl/~berry/papers/crypto99.pdf</p>
+  </li>
+  <li>
+    <p>Rusnak, P, et. al (2018) “SLIP-0039 : Shamir’s Secret-Sharing for Mnemonic Codes” Satoshi Labs Github. https://github.com/satoshilabs/slips/blob/master/slip-0039.md</p>
+  </li>
+  <li>
+    <p>Stack Exchange (2016) “<a href="https://crypto.stackexchange.com/questions/41994/why-is-shamir-secret-sharing-not-secure-against-active-adversaries-out-of-the-bo">Why is Shamir Secret Sharing not secure against active adversaries out-of-the-box?</a>” Stack Exchange https://crypto.stackexchange.com/questions/41994/why-is-shamir-secret-sharing-not-secure-against-active-adversaries-out-of-the-bo</p>
+  </li>
+</ul>
+
+        </div>
+
+        
+          <div class="page-share">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.blockchaincommons.com%2Fproposals%2FProject-Proposal-New-Social-Key-Recovery-Approach%2F" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" class="btn btn--facebook btn--small"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i> <span>Share</span></a>
+  <a href="https://twitter.com/intent/tweet?text=Project+Proposal%3A+New+Social+Social+Key+Recovery+Approach%20https%3A%2F%2Fwww.blockchaincommons.com%2Fproposals%2FProject-Proposal-New-Social-Key-Recovery-Approach%2F" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" class="btn btn--twitter btn--small"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> <span>Tweet</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.blockchaincommons.com%2Fproposals%2FProject-Proposal-New-Social-Key-Recovery-Approach%2F" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" class="btn btn--linkedin btn--small"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> <span>LinkedIn</span></a>
+  <a href="https://reddit.com/submit?title=Project+Proposal%3A+New+Social+Social+Key+Recovery+Approach&url=https%3A%2F%2Fwww.blockchaincommons.com%2Fproposals%2FProject-Proposal-New-Social-Key-Recovery-Approach%2F" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" class="btn btn--reddit btn--small"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i> <span>Reddit</span></a>
+</div>
+
+        
+
+        
+
+        <nav class="page-pagination" role="navigation">
+  
+
+  
+    <a class="page-next" href="/projects/First-SmartCustody-Workshop-Simple-Cold-Storage-and-Self-Custody/">
+      <h4 class="page-pagination-label">Next</h4>
+      <span class="page-pagination-title">
+        First #SmartCustody Workshop: Simple Cold Storage &amp; Self-Custody
+ <i class="fas fa-arrow-right"></i>
+      </span>
+    </a>
+  
+</nav>
+
+      </div>
+    </div>
+  </article>
+</main>
+
+
+    <footer id="footer" class="site-footer">
+  <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+<div class="social-icons"><a class="social-icon" href="https://twitter.com/BlockchainComns"><i class="fab fa-github-square fa-2x" title="Twitter"></i></a><a class="social-icon" href="https://twitter.com/BlockchainComns"><i class="fab fa-twitter-square fa-2x" title="Github"></i></a><a class="social-icon" href="/atom.xml"><i class="fas fa-rss-square fa-2x" title="Feed"></i></a></div><div class="copyright">
+    
+      <p>&copy; 2021 Blockchain Commons. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+    
+  </div>
+</footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+
+
+  </body>
+
+</html>

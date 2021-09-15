@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="en-US" class="no-js">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  
+
+  
+    
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>2021 Q2 Blockchain Commons Report | Blockchain Commons</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="2021 Q2 Blockchain Commons Report" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="It was another busy quarter for Blockchain Commons, with a focus on work on our Gordian reference apps, which demonstrate our architectural models and specifications. However, we had numerous other releases as well, including a lot of documentation to let everyone know what we’re doing. Our major work included: Overviews Releasing a video overview of our specifications and technologies; Publishing our list of Gordian Principles; Reference Apps Releasing Gordian QR Tool and Seed Tool through the Apple App Store; Debuting our Sweeptool command-line tool; Experimenting with Timelocks for the next generation of #Smart Custody; Coding Processes Increasing our focus on the Rust programming language; Working with a sponsor on our first security review; New Docs Publishing docs on our UR and SSKR specifications; Kicking off two translations of Learning Bitcoin from the Command Line; Other Priorities Beginning work with our summer interns; Continuing to testify for the Wyoming legislature; Celebrating the fifth anniversary of self-sovereign identity; and Talking about the future of the BTCR DID. Read More" />
+<meta property="og:description" content="It was another busy quarter for Blockchain Commons, with a focus on work on our Gordian reference apps, which demonstrate our architectural models and specifications. However, we had numerous other releases as well, including a lot of documentation to let everyone know what we’re doing. Our major work included: Overviews Releasing a video overview of our specifications and technologies; Publishing our list of Gordian Principles; Reference Apps Releasing Gordian QR Tool and Seed Tool through the Apple App Store; Debuting our Sweeptool command-line tool; Experimenting with Timelocks for the next generation of #Smart Custody; Coding Processes Increasing our focus on the Rust programming language; Working with a sponsor on our first security review; New Docs Publishing docs on our UR and SSKR specifications; Kicking off two translations of Learning Bitcoin from the Command Line; Other Priorities Beginning work with our summer interns; Continuing to testify for the Wyoming legislature; Celebrating the fifth anniversary of self-sovereign identity; and Talking about the future of the BTCR DID. Read More" />
+<link rel="canonical" href="https://www.blockchaincommons.com/quarterlies/Q2-2021-Report/" />
+<meta property="og:url" content="https://www.blockchaincommons.com/quarterlies/Q2-2021-Report/" />
+<meta property="og:site_name" content="Blockchain Commons" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-07-27T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="2021 Q2 Blockchain Commons Report" />
+<meta name="twitter:site" content="@BlockchainComns" />
+<script type="application/ld+json">
+{"headline":"2021 Q2 Blockchain Commons Report","dateModified":"2021-07-27T00:00:00+00:00","datePublished":"2021-07-27T00:00:00+00:00","@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://www.blockchaincommons.com/images/Borromean-rings_minimal-overlap(256x256).png"}},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.blockchaincommons.com/quarterlies/Q2-2021-Report/"},"url":"https://www.blockchaincommons.com/quarterlies/Q2-2021-Report/","description":"It was another busy quarter for Blockchain Commons, with a focus on work on our Gordian reference apps, which demonstrate our architectural models and specifications. However, we had numerous other releases as well, including a lot of documentation to let everyone know what we’re doing. Our major work included: Overviews Releasing a video overview of our specifications and technologies; Publishing our list of Gordian Principles; Reference Apps Releasing Gordian QR Tool and Seed Tool through the Apple App Store; Debuting our Sweeptool command-line tool; Experimenting with Timelocks for the next generation of #Smart Custody; Coding Processes Increasing our focus on the Rust programming language; Working with a sponsor on our first security review; New Docs Publishing docs on our UR and SSKR specifications; Kicking off two translations of Learning Bitcoin from the Command Line; Other Priorities Beginning work with our summer interns; Continuing to testify for the Wyoming legislature; Celebrating the fifth anniversary of self-sovereign identity; and Talking about the future of the BTCR DID. Read More","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  
+
+  <script>
+    /* Cut the mustard */
+    if ( 'querySelector' in document && 'addEventListener' in window ) {
+      document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'js';
+    }
+  </script>
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/skins/default.css">
+  
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,700i|Lora:400,400i,700,700i">
+  <link rel="alternate" type="application/atom+xml" title="Blockchain Commons" href="/atom.xml">
+<!-- start custom head snippets -->
+
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+</head>
+
+
+  <body class="layout--post  2021-q2-blockchain-commons-report">
+    <nav class="skip-links">
+  <h2 class="screen-reader-text">Skip links</h2>
+  <ul>
+    <li><a href="#primary-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+  <div class="navigation-wrapper">
+    <a href="#menu-toggle" id="menu-toggle">Menu</a>
+    <nav id="primary-nav" class="site-nav animated drop">
+      <ul><li><a href="/">Home</a></li><li><a href="/posts/">Posts</a></li><li><a href="/sponsors.html">Sponsors</a></li><li><a href="/projects.html">Projects</a></li><li><a href="https://github.com/BlockchainCommons">Github</a></li></ul>
+    </nav>
+  </div><!-- /.navigation-wrapper -->
+
+
+    <header class="masthead">
+  <div class="wrap">
+    
+      <a href="/" class="site-logo" rel="home" title="Blockchain Commons">
+        <img src="/images/Borromean-rings_minimal-overlap(256x256).png" class="site-logo-img animated fadeInDown" alt="Blockchain Commons">
+      </a>
+    
+    
+    
+      
+        <div class="site-title animated fadeIn"><a href="/">Blockchain Commons</a></div>
+      
+      <p class="site-description animated fadeIn" itemprop="description">Supporting Open Blockchain Infrastructure, Internet Security & Cryptographic Research</p>
+    
+  </div>
+</header><!-- /.masthead -->
+
+
+    <main id="main" class="main-content" aria-label="Content">
+  <article class="h-entry">
+    
+
+    <div class="page-wrapper">
+      <header class="page-header">
+        
+        
+          <h1 id="page-title" class="page-title p-name">2021 Q2 Blockchain Commons Report
+</h1>
+        
+      </header>
+
+      <div class="page-sidebar">
+        <div class="page-author h-card p-author"><div class="author-info"><ul class="author-links"><li class="author-link">
+            <a class="u-url" rel="me" href=""><i class="fas fa-link fa-lg" title=""></i></a>
+          </li></ul>
+    <time class="page-date dt-published" datetime="2021-07-27T00:00:00+00:00"><a class="u-url" href="">July 27, 2021</a>
+</time>
+
+  </div>
+</div>
+
+        
+  <h3 class="page-taxonomies-title">Categories</h3>
+  
+  <ul class="page-taxonomies"><li class="page-taxonomy"><a class="p-category" href="/categories/#quarterlies" title="Pages filed under Quarterlies">Quarterlies</a></li>
+  </ul>
+
+
+        
+  <h3 class="page-taxonomies-title">Tags</h3>
+  
+  <ul class="page-taxonomies"><li class="page-taxonomy"><a href="/tags/#goals" title="Pages tagged Goals" rel="tag">Goals</a></li><li class="page-taxonomy"><a href="/tags/#philosophies" title="Pages tagged Philosophies" rel="tag">Philosophies</a></li><li class="page-taxonomy"><a href="/tags/#projects" title="Pages tagged Projects" rel="tag">Projects</a></li>
+  </ul>
+
+
+      </div>
+
+      <div class="page-content">
+        <div class="e-content">
+          <p><a href="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/2021-Q2-demo.jpg"><img width="100%" src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/2021-Q2-demo.jpg" style="border:1px solid black;" /></a></p>
+
+<p>It was another busy quarter for Blockchain Commons, with a focus on work on our Gordian reference apps, which demonstrate our architectural models and specifications. However, we had numerous other releases as well, including a lot of documentation to let everyone know what we’re doing.</p>
+
+<p>Our major work included:</p>
+
+<p><strong>Overviews</strong></p>
+
+<ul>
+  <li>Releasing a video overview of our specifications and technologies;</li>
+  <li>Publishing our list of Gordian Principles;</li>
+</ul>
+
+<p><strong>Reference Apps</strong></p>
+
+<ul>
+  <li>Releasing Gordian QR Tool and Seed Tool through the Apple App Store;</li>
+  <li>Debuting our Sweeptool command-line tool;</li>
+  <li>Experimenting with Timelocks for the next generation of #Smart Custody;</li>
+</ul>
+
+<p><strong>Coding Processes</strong></p>
+
+<ul>
+  <li>Increasing our focus on the Rust programming language;</li>
+  <li>Working with a sponsor on our first security review;</li>
+</ul>
+
+<p><strong>New Docs</strong></p>
+
+<ul>
+  <li>Publishing docs on our UR and SSKR specifications;</li>
+  <li>Kicking off two translations of Learning Bitcoin from the Command Line;</li>
+</ul>
+
+<p><strong>Other Priorities</strong></p>
+
+<ul>
+  <li>Beginning work with our summer interns;</li>
+  <li>Continuing to testify for the Wyoming legislature;</li>
+  <li>Celebrating the fifth anniversary of self-sovereign identity; and</li>
+  <li>Talking about the future of the BTCR DID.</li>
+</ul>
+
+<div class="bold--excerpt--node">Read More</div>
+
+<!--more-->
+
+<p>(<a href="https://www.blockchaincommons.com/quarterlies/Q1-2021-Report/">Also see our previous Q1, 2021 report.</a>)</p>
+
+<h2 id="some-overviews">Some Overviews</h2>
+
+<p>Blockchain Commons is getting big, so we produced some overviews of our work!</p>
+
+<p><strong>Video Overview.</strong> Over the last few years, Blockchain Commons has produced a number of specifications, including our fundamental work on Uniform Resources (URs), our other innovations such as Lifehashes and Object Identity Blocks, and our updates of sharding technology with SSKR. If you’re trying to get a handle on the technologies we’re using and the specifications that we’re creating with our Airgapped community, we invite you to take a look at our <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY">technology overview video</a>, which runs through our core conceptual and specification work one element at a time.</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RYgOFSdUqWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+  </center>
+<p><br /></p>
+
+<p><strong>The Gordian Principles.</strong> We’ve also begun publishing some descriptions of what the Gordian architecture means to us. It’s focused on four principals that we believe are crucial to digital-asset management: independence, privacy, resilience, and openness. They’re all about ensuring that you’re the controller of your digital assets. Besides writing a <a href="https://github.com/BlockchainCommons/Gordian#gordian-principles">short overview</a>, we’ve also begun adding descriptions to each of our reference apps, discussing how they embody those principles.</p>
+
+<p>And, those reference apps were our biggest news for the quarter …</p>
+
+<h2 id="reference-app-work">Reference App Work</h2>
+
+<p>Our reference apps show off how Blockchain Commons’ Gordian Principles work in real life. We made great progress on them this quarter.</p>
+
+<p><strong>Gordian Releases.</strong> Where we had three reference apps available for beta testing in Q1, in Q2 we advanced to having two available for release from Apple.</p>
+
+<p><a href="https://apps.apple.com/us/app/gordian-seed-tool/id1545088229"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/logos/SeedTool.png" style="float: right; border:1px solid black;" width="100" /></a>
+<em>Gordian Seed Tool</em> is the app previously known as <em>Gordian Guardian</em>.
+It allows for the management of your cryptographic seeds in a way that’s secure and resilient. You store your seeds in <em>Seed Tool</em>, ensuring that the data is encrypted and that it’s redundantly backed up to iCloud, and then you derive and export keys as they’re needed. As with all of the Gordian reference apps, this one demonstrates the usage of a number of Blockchain Common’s specifications, including SSKRs, UR, and even our new <code class="language-plaintext highlighter-rouge">request/response</code> airgap methodology that we just <a href="https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md">debuted</a> this February.</p>
+
+<p><a href="https://apps.apple.com/us/app/gordian-qr-tool/id1506851070"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/logos/QRTool.png" style="float: right; border:1px solid black;" width="100" /></a>
+<em>Gordian QR Tool</em> is a simpler tool that similarly allows for the storage of QR codes in a secure and resilient way. Thus, if you had a largely unused seed or key, you could export it as a QR and store it here. <em>QR Tool</em> can also be used to store other private information such as 2FA seeds or the brand-new Smart Health Cards. QR Tool recognizes many categories of QR codes, including the UR types that Blockchain Commons has defined, allowing easy categorization and sorting of your cryptographic data. Our QR Tool was slightly held back by inadequacies we found in Apple’s QR creation functions, which can produce overly large QRs. We’ve already begun work <a href="https://github.com/BlockchainCommons/QRCodeGenerator">translating a better QR library into Swift</a> and expect to integrate that into v1.1 of QR Tool in the future.</p>
+
+<p>QR Tool and Seed Tool also offer the first demonstration of the interactions possible in a Gordian architecture. One of the most powerful examples involves Blockchain Commons’ <a href="https://github.com/BlockchainCommons/bc-sskr">SSKR specification</a>. Seed Tools allows a user to not only shard a seed using SSKR, but also to encode those shares as QR codes. The encoded shares can then be given to friends and family who have QR Tool, ensuring the safe storage of all the shares required to restore your seed!</p>
+
+<p>We have more reference app releases planned for the future. <em>Gordian Cosigner</em> remains available as a Testflight beta release, and is our reference app for demonstrating how to conduct airgapped signing. We are also beginning work on the <em>Gordian Recovery</em> app, which we announced last quarter; it’ll demonstrate methodologies for recovering assets held by third-party wallets.</p>
+
+<p><strong>Sweeptool Debut.</strong> Recovering funds held in a third-party HD wallet can be tricky since you don’t always know which addresses were actually used. We’ve also been attacking that problem with a command-line tool called <code class="language-plaintext highlighter-rouge">sweeptool</code>, which sweeps funds anywhere in the hierarchy defined by a descriptor. Sweeptool is the work of one of our intern graduates, and is already available as an <a href="https://github.com/BlockchainCommons/sweeptool-cli">alpha release</a>.</p>
+
+<p><strong>Timelock Experiments.</strong> Our current architecture for #SmartCustody depends on multisigs to allow for the partitioning of keys and the creation of resilience. However, we’re already thinking about the next generation of #SmartCustody, which will allow the use of timelocks to recover funds in the case of the incapacitation of a principal. We did some deeper investigation into miniscript this quarter, which allows for easier integration of timelocks into Bitcoin addresses, and also mapped out some new architectures for progressively sweeping funds forward to keep ahead of timelocks. However, we discovered that at this point miniscript isn’t yet integrated with the descriptor-wallets that are another of the core elements of the Gordian architecture. This prevents integration with our Gordian apps.</p>
+
+<p>We’ve published a <a href="https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Timelocks.md">preliminary paper</a> on the usage of Timelocks, but it isn’t finalized yet because of these issues. Meanwhile, one of our interns has begun work on a Rust-based Timelock project called <a href="https://github.com/BlockchainCommons/mori-cli">mori-cli</a>. This work is all meant to ensure we’re ready when miniscript is added to Bitcoin Core, or when timelocks are integrated into descriptors in some other manner.</p>
+
+<h2 id="coding-processes">Coding Processes</h2>
+
+<p>Releasing apps is just one step of a larger coding process, which requires careful consideration of what languages (and libraries) to use and careful reviewing of their security.</p>
+
+<p><strong>Rust Focus.</strong> Sweeptool is written in Rust, which is an increasing focus at Blockchain Commons. We’ve also been using it for our <a href="https://github.com/BlockchainCommons/musign-cli">musign-cli work</a> and some of our <a href="https://github.com/BlockchainCommons/torgap">torgap work</a> and have touched upon it in <a href="https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/18_5_Accessing_Bitcoind_with_Rust.md">Learning Bitcoin from the Command Line</a>. We think that Rust is an important language for the future of Bitcoin development in large part because of its safety guarantee, including <a href="https://msrc-blog.microsoft.com/2019/07/22/why-rust-for-safe-systems-programming/">memory safety properties, which can resolve 70% of security problems</a>. Our main barrier for wider use of Rust has been the fact that C and C++ are the main languages used by Bitcoin Core, iOS, and Android, but we’ve already seen the start of changes there, and hope to be able to integrate Rust even more fully in the future. The fact that the Rust-based <a href="https://bitcoindevkit.org/">Bitcoin Dev Kit</a> is actually in advance of Bitcoin Core in some features is very encouraging.</p>
+
+<p><strong>Security Review.</strong> Bitmark, one of our Sustaining Sponsors, has hired <a href="https://www.radicallyopensecurity.com/">Radically Open Security</a> to conduct a security review of our SSKR libraries, <a href="https://github.com/blockchaincommons/bc-shamir">bc-shamir</a> and <a href="https://github.com/BlockchainCommons/bc-sskr">bc-sskr</a>. This is crucial element in making Blockchain Commons’ specification work widely available, since it would be improper for us to review our own security code. As our first partners planning to use one of our libraries in a shipping project, as opposed to just our specifications, Bitmark is stepping up to the plate to fund the review of our core SSKR libraries. We expect this pattern to repeat with future partners and libraries in the future. It shows the power of our open libraries: future companies will be able to depend on our SSKR libraries thanks to Bitmark’s contribution, and then they’ll be able to make contributions of their own that will be much less than if they’d had to security review an entire suite of themselves.</p>
+
+<h2 id="new-docs">New Docs</h2>
+
+<p>The blockchain infrastructure is empowered by users and developers who know how to use it properly. Teaching them is the goal of our documentation projects.</p>
+
+<p><strong>UR &amp; SSKR Docs.</strong> The ultimate purpose of our reference applications is to demonstrate how our new specifications can be used in actual applications. Hand-in-hand with that, we’re also producing documentation that lays out in more detail how those specifications work. We’ve begun collecting many of those docs in the <a href="https://github.com/BlockchainCommons/crypto-commons/tree/master/Docs">documents area of our crypto-commons repo</a>. This quarter we added to our docs repo with several documents about our Sharded Secret Key Reconstruction system, including <a href="https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-users.md">SSKR for Users</a> and <a href="https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-developers.md">SSKR for Developers</a>. We also released a series of articles on <a href="https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md">Uniform Resources (URs)</a> intended to show developers how they’re constructed and used.</p>
+
+<p>We are also planning further support for our interoperable specifications such as UR and SSKR at a virtual interoperable wallet specification workshop. We’re currently working on locking down a date.</p>
+
+<p><strong>Learning Bitcoin Translations.</strong> Our best-known tutorial at Blockchain Commons, is our <a href="https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/">Learning Bitcoin from the Command Line course</a>, which we pushed to v2.0 last year and which has 1,700 stars and 100 watchers on Github. We’re thrilled that translations are now ongoing into both <a href="https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/tree/portuguese-translation/pt">Portuguese</a> and <a href="https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/tree/spanish-translation/es">Spanish</a> thanks to a half-dozen core volunteers. Some of Blockchain Commons’ own programmers and interns entered the blockchain industry thanks to this course, so we’re looking forward to these translations opening the doors even wider.</p>
+
+<h2 id="other-priorities">Other Priorities</h2>
+
+<p>Finally, we have a lot of more varied projects that all saw some progress.</p>
+
+<p><strong>Our Summer Interns Have Begun Work.</strong> Thanks to <a href="https://www.coindesk.com/human-rights-foundation-grants-bitcoin-defi-education-activism">a grant from the Human Rights Foundation</a>, we have a class of a dozen interns this summer. We’re engaging them with weekly calls to introduce them to crucial use cases and to let them talk with Bitcoin and Lightning experts from the industry and human-rights experts, most recently including John Callas from the EFF and Alex Gladstein from HRF.</p>
+
+<p>Some of our human-rights-focused intern projects include a self-sovereign donation app, scripts to automate the setup of privacy and/or bitcoin services, documents on managing pseudonymity, and tracking of blockchain-based legislation.</p>
+
+<p>Some of our more general intern projects include deployment of a full Esplora node for Blockchain Commons, the creation of scripts to make it easier for others to do so, documentation on bitcoin fee-estimation use cases, improvements to our Spotbit server including expansion of the Spotbit API and client app, and the aformentioned work on Mori and on Learning Bitcoin translations.</p>
+
+<p>Our first completed intern ‘21 work is a short <a href="https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/15_0_Using_i2p.md">i2p chapter</a> for Learning Bitcoin from the Command Line, talking about an alternative (or supplement) to traditional Tor privacy.</p>
+
+<p><strong>Wyoming Testimony.</strong> Christopher’s testimony has continued in Wyoming, talking about DAO and identity, to improve and extend both laws. The most recent testimony <a href="https://youtu.be/ayQ086BVDXE?t=4060">on May 28</a> continued to work through the ramifications of the definitions of principal authority for self-sovereign identity.</p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ayQ086BVDXE?start=4070" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</center>
+<p><br /></p>
+
+<p><strong>Self-Sovereign Identity.</strong> Speaking of which, it was the fifth anniversary of the concept of self-sovereign identity, which first suggested that we should control our identities on the internet, not be beholden to centralized agencies. Christopher <a href="https://www.coindesk.com/self-sovereign-identity-five-years-on">wrote an article</a> for Coindesk celebrating that anniversary, talking about how far we’ve come and reflecting on how things could be improved.</p>
+
+<p><strong>BTCR.</strong> Finally, we’ve also been talking about another of our blockchain projects that originated in <a href="https://www.weboftrust.info/">Rebooting the Web of Trust</a>: BTCR, a self-sovereign decentralized identifier that uses the Bitcoin blockchain. Recently Christopher and the other creators of BTCR talked with <a href="https://the-rubric.castos.com/episodes/the-granddaddy-of-dids">The Rubric</a> about the past and future of the DID.</p>
+
+<p>As you can see, we’ve got lots of ongoing work that continue to expand the ideas of responsible key management and self-determination on the internet. If you’d like to support our work at Blockchain Commons, so that we can continue to design new specifications, architectures, reference applications, and reference libraries to be used by the whole community, please <a href="https://github.com/sponsors/BlockchainCommons">become a sponsor</a>. You can alternatively make a <a href="https://btcpay.blockchaincommons.com/">one-time bitcoin donation</a> at our BTCPay.</p>
+
+<p>Thanks to our sustaining sponsors Avanti Bank, Bitmark, Blockchainbird and Unchained Capital, and our new project sponsor Human Rights Foundation(@HRF), as well as our GitHub monthly sponsors, who include Flip Abignale (@flip-btcmag), Dario (@mytwocentimes), Foundation Devices (@Foundation-Devices), Adrian Gropper (@agropper), Eric Kuhn (@erickuhn19), Trent McConaghy (@trentmc), @modl21, Jesse Posner (@jesseposner), Protocol Labs (@protocol), Dan Trevino (@dantrevino), and Glenn Willen (@gwillen).</p>
+
+<p>Christopher Allen, Executive Director, Blockchain Common</p>
+
+        </div>
+
+        
+          <div class="page-share">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.blockchaincommons.com%2Fquarterlies%2FQ2-2021-Report%2F" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" class="btn btn--facebook btn--small"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i> <span>Share</span></a>
+  <a href="https://twitter.com/intent/tweet?text=2021+Q2+Blockchain+Commons+Report%20https%3A%2F%2Fwww.blockchaincommons.com%2Fquarterlies%2FQ2-2021-Report%2F" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" class="btn btn--twitter btn--small"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i> <span>Tweet</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.blockchaincommons.com%2Fquarterlies%2FQ2-2021-Report%2F" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" class="btn btn--linkedin btn--small"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> <span>LinkedIn</span></a>
+  <a href="https://reddit.com/submit?title=2021+Q2+Blockchain+Commons+Report&url=https%3A%2F%2Fwww.blockchaincommons.com%2Fquarterlies%2FQ2-2021-Report%2F" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" class="btn btn--reddit btn--small"><i class="fab fa-fw fa-reddit" aria-hidden="true"></i> <span>Reddit</span></a>
+</div>
+
+        
+
+        
+
+        <nav class="page-pagination" role="navigation">
+  
+    <a class="page-previous" href="/projects/SeedTool-Release/">
+      <h4 class="page-pagination-label">Previous</h4>
+      <span class="page-pagination-title">
+        <i class="fas fa-arrow-left"></i> Gordian Seed Tool Reveals the Foundations of Cryptography
+
+      </span>
+    </a>
+  
+
+  
+    <a class="page-next" href="/articles/Principal-Authority/">
+      <h4 class="page-pagination-label">Next</h4>
+      <span class="page-pagination-title">
+        Principal Authority: A New Perspective on Self-Sovereign Identity
+ <i class="fas fa-arrow-right"></i>
+      </span>
+    </a>
+  
+</nav>
+
+      </div>
+    </div>
+  </article>
+</main>
+
+
+    <footer id="footer" class="site-footer">
+  <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+<div class="social-icons"><a class="social-icon" href="https://twitter.com/BlockchainComns"><i class="fab fa-github-square fa-2x" title="Twitter"></i></a><a class="social-icon" href="https://twitter.com/BlockchainComns"><i class="fab fa-twitter-square fa-2x" title="Github"></i></a><a class="social-icon" href="/atom.xml"><i class="fas fa-rss-square fa-2x" title="Feed"></i></a></div><div class="copyright">
+    
+      <p>&copy; 2021 Blockchain Commons. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/mmistakes/so-simple-theme" rel="nofollow">So Simple</a>.</p>
+    
+  </div>
+</footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.0.12/js/all.js"></script>
+
+
+  </body>
+
+</html>

@@ -108,7 +108,7 @@ Agency_](https://en.wikipedia.org/wiki/Law_of_agency), an area of
 commercial law where an agent is empowered to take on certain tasks.
 
 As the name would suggest, Principal Authority first requires a
-Principal: a person or entity. It then requires that they have
+Principal: a person or entity. It then requires that entity have
 Authority: some power. Principal Authority is thus the power derived
 from a person or entity, which they can use or which they can delegate
 out to others. When applied to digital identity, Principal Authority

@@ -2,11 +2,11 @@
 title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
 excerpt_separator: "<!--more-->"
 categories:
-  - Articles
+- Articles
 tags:
-  - Digital Identity
-  - Legislation
-  - Self-Sovereign Identity
+- Digital Identity
+- Legislation
+- Self-Sovereign Identity
 ---
 
 _This summer, we’ve been iterating through an article intended to talk
@@ -22,7 +22,7 @@ Wyoming has defined it using Principal Authority, with the goal of
 helping to define the agenda for digital identity for the next year,
 both in Wyoming and elsewhere._
 
-_—Christopher Allen _
+_—Christopher Allen_
 
 <hr>
 

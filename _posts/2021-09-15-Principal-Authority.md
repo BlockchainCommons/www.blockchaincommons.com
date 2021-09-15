@@ -2,11 +2,11 @@
 title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
 excerpt_separator: "<!--more-->"
 categories:
-- Articles
+  - Articles
 tags:
-- Digital Identity
-- Legislation
-- Self-Sovereign Identity
+  - Digital Identity
+  - Legislation
+  - Self-Sovereign Identity
 ---
 
 _This summer, we’ve been iterating through an article intended to talk
@@ -52,7 +52,6 @@ Defining identity is by no means easy. That core topic could encompass a
 paper much longer than this. The following are some various definitions
 of identity drawn from the [_RWOT
 Glossary_](https://github.com/WebOfTrustInfo/rwot10-buenosaires/blob/master/topics-and-advance-readings/glossary-primer.md):
-
 
 > **_Identifier:_** A label that refers to an entity and can be used to establish or maintain an identity. For example, a name or UID.
 >

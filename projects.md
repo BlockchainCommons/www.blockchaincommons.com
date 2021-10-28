@@ -20,6 +20,13 @@ _Reference projects demonstrate the self-sovereign approach of the Gordian princ
 
 The Gordian system is a suite of powerful open-source tools that demonstrate a self-sovereign solution for Bitcoin embodied in the Gordian principles. It does so by using [Torgap](https://github.com/BlockchainCommons/torgap) and [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md) technology to link a protected [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS) (or the alternative [Bitcoin Standup Linux Scripts](https://github.com/BlockchainCommons/Bitcoin-StandUp-Scripts)) with a mobile [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) so that you access full-node capabilities from a mobile device. ([It's meant to cut through a traditionally knotty problem in Bitcoin development.](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Why-Gordian.md)) 
 
+### Gordian Server (MacOS)
+
+**Repo:** [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS)
+**Status:** Feature-Complete
+
+Gordian Server is the heart of our Gordian system, installing a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. It gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
+
 <a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
 ### Gordian Cosigner (Android, iOS, MacOS)
 

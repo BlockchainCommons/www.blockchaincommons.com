@@ -8,9 +8,43 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 
 <hr>
 
+## Specifications & Architectures
+
+The core of Blockchain Commons' work is the creation of specifications and architectures, in cooperation with the [Airgapped Wallet Community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions), meant to create better interoperability in the blockchain ecosystem while also supporting the Gordian principles._
+
+### Gordian Architecture
+
+<a href="images/projects/lethekit.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png" align="right" border="1" width="200"></a>
+
+**Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
+
+The overall Gordian architecture calls for paritioned services, where apps and microservices work together in an interoperable ecosystem separated by [Torgaps](https://github.com/BlockchainCommons/torgap) and airgaps. The architecture is intended to support the Gordian principles of Independence, Privacy, Resilience, and Openness and also ensure the #SmartCustody of assets.
+
+<a href="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png" align="right" border="1" width="400"></a>
+
+### Torgap Architecture
+
+**Repo:** [Torgap](https://github.com/BlockchainCommons/torgap)
+
+Torgap is an element of the Gordian Architecture that ensures that apps and microservices that are connected through internet links do so through Tor, ensuring the partitioning of the services, and also support the privacy of the user.
+
+### Research Papers
+
+**Repo:** [Research](https://github.com/BlockchainCommons/Research)
+
+Much of Blockchain Commons' work on specifications begins with Research papers, which describe and detail the use of a new, interoperable specification for blockchain and Bitcoin.
+
+## Lifehash Specification
+
+### SSKR Specification
+
+### Uniform Resource (UR) Specification
+
+<hr>
+
 ## Gordian Reference Projects
 
-_Reference projects demonstrate the self-sovereign approach of the Gordian principles, highlighting Independence, Privacy, Resilience, and Openness._
+_Reference projects demonstrate the self-sovereign approach of the Gordian principles, highlighting Independence, Privacy, Resilience, and Openness, and demonstrate the use of the Blockchain Commons specifications._
 
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
 ### The Core Gordian System (web + iOS)
@@ -109,7 +143,7 @@ A v2.0 of this book is in the planning stage, to improve the accessibility of th
 
 <hr>
 
-## Developer Projects
+## Other Developer Projects
 
 _Developer projects create resources for use by engineers and programmers, including libraries and CLIs. The [Crypto Commons repository](https://github.com/BlockchainCommons/crypto-commons) collects together all of Blockchain Commons' wallet libraries and the utilities (reference implementations) built from them, as well as demos and tools which exercise and exemplify those wallet libraries._
 
@@ -143,12 +177,18 @@ Keytool is a command-line tool that implements a data flow graph for deriving cr
 
 LifeHashTool is a command line tool written in Swift that generates [LifeHash](https://github.com/BlockchainCommons/LifeHash) images as PNG files and is distributed as a Swift package.
 
+## Mori
+
+## Musign
+
 ### Seedtool-CLI
 
 **Repo:** [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)<br>
 **Status:** Feature-complete beta
 
 Seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
+
+## Sweeptool
 
 ### UR Demo
 

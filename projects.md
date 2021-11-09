@@ -25,14 +25,15 @@ The overall Gordian architecture calls for paritioned services, where apps and m
 
 ### Torgap Architecture
 
-**Repo:** [Torgap](https://github.com/BlockchainCommons/torgap)
+**Repo:** [Torgap](https://github.com/BlockchainCommons/torgap)<br>
 **Projects:** [Demo](https://github.com/BlockchainCommons/torgap-demo), [torgap-sig](https://github.com/BlockchainCommons/torgap-sig), [torgap-sig-cli-rust](https://github.com/BlockchainCommons/torgap-sig-cli-rust), [torgap-timestamps](https://github.com/BlockchainCommons/torgap-opentimestamps/blob/master/README.md)
 
 Torgap is an element of the Gordian Architecture that ensures that apps and microservices that are connected through internet links do so through Tor, ensuring the partitioning of the services, and also support the privacy of the user.
 
 ### Research Papers
 
-**Repo:** [Research](https://github.com/BlockchainCommons/Research)
+**Repo:** [Research](https://github.com/BlockchainCommons/Research)<br>
+**Video:** [Overview](https://www.youtube.com/watch?v=RYgOFSdUqWY)
 
 Much of Blockchain Commons' work on specifications begins with Research papers, which describe and detail the use of a new, interoperable specification for blockchain and Bitcoin.
 
@@ -40,7 +41,7 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 
 ## Lifehash Specification
 
-**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Swift Library](https://github.com/BlockchainCommons/LifeHash)
+**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Swift Library](https://github.com/BlockchainCommons/LifeHash)<br>
 **Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
 
 LifeHash is a method of hash visualization based on Conway’s Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running the cellular automata known as Conway’s Game of Life.

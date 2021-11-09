@@ -39,7 +39,7 @@ Gordian Cosigner allows users to participate in a multisig by adding a signature
 ### Gordian QR Tool (iOS)
 
 **Repo:** [QR Tool](https://github.com/BlockchainCommons/GordianQRTool-iOS)<br>
-**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070)
+**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070)<br>
 **Blog:** [Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More](https://www.blockchaincommons.com/projects/Releasing-QRTool/) (6/24/21)
 
 Gordian QR Tool is a reference tool that acts as a secure place to store and backup sensitive data that is encoded into QRs. Powered by [Uniform Resource](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), it was built to store SSKRs, PSBTs, and seeds encoded using [URs](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), however it can also be used to store other sorts of sensitive data such as 2FAs. Data is always stored with multiple layers of encryption using your device's keychain. A quick overview on using Gordian QR Tool is available in its [Manual](https://github.com/BlockchainCommons/GordianQRTool-iOS/blob/master/Docs/MANUAL.md).
@@ -48,7 +48,7 @@ Gordian QR Tool is a reference tool that acts as a secure place to store and bac
 ### Gordian Seed Tool (iOS)
 
 **Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
-**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)
+**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)<br>
 **Blog:** [Gordian Seed Tool Reveals the Foundations of Cryptography](https://www.blockchaincommons.com/projects/SeedTool-Release/) (7/15/21)
 
 Gordian Seed Tool protects your cryptographic seeds while also making them available for easy use. Using Seed Tool, you can generate seeds and store them securely on your device. You can then derive and share multi-signature signing and verification keys from those seeds. Sophisticated backup procedures include printed pages and Sharded Secret Key Reconstruction ([SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md#sharded-secret-key-reconstruction-sskr)) — which lets you split your seed into pieces and send them to trusted parties, who can send them back to you in an emergency for seed recovery. You can even use an entirely offline device (no internet access) to store your seeds and use QR codes to exchange necessary information with online devices running compatible wallet or signing software.

@@ -20,7 +20,7 @@ The core of Blockchain Commons' work is the creation of specifications and archi
 
 The overall Gordian architecture calls for paritioned services, where apps and microservices work together in an interoperable ecosystem separated by [Torgaps](https://github.com/BlockchainCommons/torgap) and airgaps. The architecture is intended to support the Gordian principles of Independence, Privacy, Resilience, and Openness and also ensure the #SmartCustody of assets.
 
-<a href="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+<a href="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png" style="border: 0px; float: left; margin-right: 1em" width="110"></a>
 
 ### Torgap Architecture
 
@@ -34,7 +34,16 @@ Torgap is an element of the Gordian Architecture that ensures that apps and micr
 
 Much of Blockchain Commons' work on specifications begins with Research papers, which describe and detail the use of a new, interoperable specification for blockchain and Bitcoin.
 
+<a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"> align="right" border="1" width="200"</a>
+
 ## Lifehash Specification
+
+**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Swift Library](https://github.com/BlockchainCommons/LifeHash)
+**Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
+
+LifeHash is a method of hash visualization based on Conway’s Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running the cellular automata known as Conway’s Game of Life.
+
+LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance.
 
 ### SSKR Specification
 

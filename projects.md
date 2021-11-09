@@ -14,7 +14,7 @@ The core of Blockchain Commons' work is the creation of specifications and archi
 
 ### Gordian Architecture
 
-<a https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png" align="right" border="1" width="200"></a>
+<a href="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png" align="right" border="1" width="200"></a>
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 

@@ -17,6 +17,7 @@ The core of Blockchain Commons' work is the creation of specifications and archi
 <a href="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png" align="right" border="1" width="200"></a>
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
+**More Info:** [Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), [Apps](https://github.com/BlockchainCommons/Gordian#quick-links-for-reference-apps)
 
 The overall Gordian architecture calls for paritioned services, where apps and microservices work together in an interoperable ecosystem separated by [Torgaps](https://github.com/BlockchainCommons/torgap) and airgaps. The architecture is intended to support the Gordian principles of Independence, Privacy, Resilience, and Openness and also ensure the #SmartCustody of assets.
 
@@ -25,6 +26,7 @@ The overall Gordian architecture calls for paritioned services, where apps and m
 ### Torgap Architecture
 
 **Repo:** [Torgap](https://github.com/BlockchainCommons/torgap)
+**Projects:** [Demo](https://github.com/BlockchainCommons/torgap-demo), [torgap-sig](https://github.com/BlockchainCommons/torgap-sig), [torgap-sig-cli-rust](https://github.com/BlockchainCommons/torgap-sig-cli-rust), [torgap-timestamps](https://github.com/BlockchainCommons/torgap-opentimestamps/blob/master/README.md)
 
 Torgap is an element of the Gordian Architecture that ensures that apps and microservices that are connected through internet links do so through Tor, ensuring the partitioning of the services, and also support the privacy of the user.
 

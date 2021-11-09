@@ -14,13 +14,13 @@ The core of Blockchain Commons' work is the creation of specifications and archi
 
 ### Gordian Architecture
 
-<a href="images/projects/lethekit.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png" align="right" border="1" width="200"></a>
+<a https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png" align="right" border="1" width="200"></a>
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 
 The overall Gordian architecture calls for paritioned services, where apps and microservices work together in an interoperable ecosystem separated by [Torgaps](https://github.com/BlockchainCommons/torgap) and airgaps. The architecture is intended to support the Gordian principles of Independence, Privacy, Resilience, and Openness and also ensure the #SmartCustody of assets.
 
-<a href="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png" align="right" border="1" width="400"></a>
+<a href="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
 
 ### Torgap Architecture
 

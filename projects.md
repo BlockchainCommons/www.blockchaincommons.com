@@ -132,12 +132,26 @@ Gordian Wallet demonstrates how to use the Torgapped Gordian architecture to con
 
 LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the [mythological river](https://en.wikipedia.org/wiki/Lethe) of forgetfulness and oblivion.
 
+## Mori-CLI
+
+**Repo:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli)
+**Status:** Late Alpha
+
+Mori-CLI proposes a way that a btc owner can leave his bitcoins to his heirs in the event of death in a decentralized way and with the least possible complication. It is an experimental project meant to extend concepts of #SmartCustody to inheritance.
+
 ### Spotbit (web)
 
 **Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)<br>
 **Status:** Late Alpha
 
 Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
+
+## Sweeptool-CLI
+
+**Repo:** [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
+**Status:** Late Alpha
+
+Sweeptool connects to an Electrum server hosted by Blockstream or a server of your choice (including Esplora or Electrum server via Tor onion address) and synchronizes the list of transactions received and available UTXOs. Based on this information sweeptool produces a PSBT which can be signed by an offline signing device or by the tool itself.
 
 <hr>
 
@@ -200,14 +214,17 @@ Keytool is a command-line tool that implements a data flow graph for deriving cr
 
 ### LifeHashTool-CLI
 
-**Repo:** [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool)
+**Repo:** [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool)<br>
 **Status:** Late Alpha
 
 LifeHashTool is a command line tool written in Swift that generates [LifeHash](https://github.com/BlockchainCommons/LifeHash) images as PNG files and is distributed as a Swift package.
 
-## Mori
+## Musign-CLI
 
-## Musign
+**Repo:** [Musign-CLI](https://github.com/BlockchainCommons/musign-cli)
+**Status:** Research
+
+Musign is CLI tool for signing and verifying messages with ECDSA and Schnorr using libsecp256k1.
 
 ### Seedtool-CLI
 
@@ -216,7 +233,6 @@ LifeHashTool is a command line tool written in Swift that generates [LifeHash](h
 
 Seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
 
-## Sweeptool
 
 ### UR Demo
 

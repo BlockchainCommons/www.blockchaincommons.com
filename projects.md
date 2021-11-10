@@ -10,7 +10,7 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 
 ## Specifications & Architectures
 
-The core of Blockchain Commons' work is the creation of specifications and architectures, in cooperation with the [Airgapped Wallet Community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions), meant to create better interoperability in the blockchain ecosystem while also supporting the Gordian principles._
+_The core of Blockchain Commons' work is the creation of specifications and architectures, in cooperation with the [Airgapped Wallet Community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions). They're meant to create better interoperability in the blockchain ecosystem while also supporting the Gordian principles._
 
 ### Gordian Architecture
 
@@ -19,7 +19,7 @@ The core of Blockchain Commons' work is the creation of specifications and archi
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **More Info:** [Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), [Apps](https://github.com/BlockchainCommons/Gordian#quick-links-for-reference-apps)
 
-The overall Gordian architecture calls for paritioned services, where apps and microservices work together in an interoperable ecosystem separated by [Torgaps](https://github.com/BlockchainCommons/torgap) and airgaps. The architecture is intended to support the Gordian principles of Independence, Privacy, Resilience, and Openness and also ensure the #SmartCustody of assets.
+The Gordian architecture calls for paritioned services, where apps and microservices work together in an interoperable ecosystem separated by [Torgaps](https://github.com/BlockchainCommons/torgap) and airgaps. The architecture is intended to support the Gordian principles of Independence, Privacy, Resilience, and Openness and also ensure the #SmartCustody of assets.
 
 <a href="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png" style="border: 0px; float: left; margin-right: 1em" width="110"></a>
 
@@ -28,7 +28,7 @@ The overall Gordian architecture calls for paritioned services, where apps and m
 **Repo:** [Torgap](https://github.com/BlockchainCommons/torgap)<br>
 **Projects:** [Demo](https://github.com/BlockchainCommons/torgap-demo), [torgap-sig](https://github.com/BlockchainCommons/torgap-sig), [torgap-sig-cli-rust](https://github.com/BlockchainCommons/torgap-sig-cli-rust), [torgap-timestamps](https://github.com/BlockchainCommons/torgap-opentimestamps/blob/master/README.md)
 
-Torgap is an element of the Gordian Architecture that ensures that apps and microservices that are connected through internet links do so through Tor, ensuring the partitioning of the services, and also support the privacy of the user.
+Torgap is an element of the Gordian Architecture that ensures that apps and microservices that are connected through internet links do so through Tor, ensuring the partitioning of the services and also supporting the privacy of the user.
 
 ### Research Papers
 
@@ -44,7 +44,7 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 **Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Swift Library](https://github.com/BlockchainCommons/LifeHash)<br>
 **Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
 
-LifeHash is a method of hash visualization based on Conway’s Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running the cellular automata known as Conway’s Game of Life.
+LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
 
 LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance.
 
@@ -72,7 +72,7 @@ One of the particular advantages of UR is careful integration with QR codes, a p
 
 ## Gordian Reference Projects
 
-_Reference projects demonstrate the self-sovereign approach of the Gordian principles, highlighting Independence, Privacy, Resilience, and Openness, and demonstrate the use of the Blockchain Commons specifications._
+_Reference projects demonstrate the self-sovereign approach of the Gordian principles, highlighting Independence, Privacy, Resilience, and Openness, and display the use of the Blockchain Commons specifications._
 
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
 ### The Core Gordian System (web + iOS)
@@ -137,7 +137,7 @@ LetheKit is a do-it-youself platform for performing various sensitive cryptograp
 **Repo:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli)
 **Status:** Late Alpha
 
-Mori-CLI proposes a way that a btc owner can leave his bitcoins to his heirs in the event of death in a decentralized way and with the least possible complication. It is an experimental project meant to extend concepts of #SmartCustody to inheritance.
+Mori-CLI proposes a way that a Bitcoin owner can leave his digital assets to his heirs in the event of death, in a decentralized way and with the least possible complication. It is an experimental project meant to extend concepts of #SmartCustody to inheritance.
 
 ### Spotbit (web)
 
@@ -181,13 +181,13 @@ This is a complete twenty-chapter course intended to teach system administrators
 
 _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
 
-A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md) and our [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md) are our first content for that update.
+A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), and our [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md) are our first content for that update.
 
 <hr>
 
 ## Other Developer Projects
 
-_Developer projects create resources for use by engineers and programmers, including libraries and CLIs. The [Crypto Commons repository](https://github.com/BlockchainCommons/crypto-commons) collects together all of Blockchain Commons' wallet libraries and the utilities (reference implementations) built from them, as well as demos and tools which exercise and exemplify those wallet libraries._
+_Developer projects create resources for use by engineers and programmers, including libraries and CLIs, many of which embody the Blockchain Commons specifications. The [Crypto Commons repository](https://github.com/BlockchainCommons/crypto-commons) collects together all of Blockchain Commons' wallet libraries and the utilities (reference implementations) built from them, as well as demos and tools which exercise and exemplify those wallet libraries._
 
 ### C Libraries
 
@@ -195,7 +195,7 @@ _Developer projects create resources for use by engineers and programmers, inclu
 **Status:** Feature-complete beta
 
 Blockchain Commons offers a variety of C-language cryptographic libraries focused largely on wallet design, which can be used in your own projects. The current libraries include 
-reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur). The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
+reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), our [Shamir Secret Key Recovery (SSKR)](https://github.com/BlockchainCommons/bc-sskr) specification, and our [Uniform Resources (UR)](https://github.com/BlockchainCommons/bc-ur) specification. The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
 
 ### Bytewords-CLI
 
@@ -224,7 +224,7 @@ LifeHashTool is a command line tool written in Swift that generates [LifeHash](h
 **Repo:** [Musign-CLI](https://github.com/BlockchainCommons/musign-cli)
 **Status:** Research
 
-Musign is CLI tool for signing and verifying messages with ECDSA and Schnorr using libsecp256k1.
+Musign is a CLI tool for signing and verifying messages with ECDSA and Schnorr using libsecp256k1.
 
 ### Seedtool-CLI
 

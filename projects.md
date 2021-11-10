@@ -8,6 +8,46 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 
 <hr>
 
+## Contents
+
+- [Specifications & Architectures](#specifications---architectures)
+  * [Gordian Architecture](#gordian-architecture)
+  * [Torgap Architecture](#torgap-architecture)
+  * [Research Papers](#research-papers)
+  * [Lifehash Specification](#lifehash-specification)
+  * [SSKR Specification](#sskr-specification)
+  * [Uniform Resource (UR) Specification](#uniform-resource--ur--specification)
+- [Gordian Reference Projects](#gordian-reference-projects)
+  * [The Core Gordian System (web + iOS)](#the-core-gordian-system--web---ios-)
+  * [Gordian Server (MacOS)](#gordian-server--macos-)
+  * [Gordian Cosigner (Android, iOS, MacOS)](#gordian-cosigner--android--ios--macos-)
+  * [Gordian QR Tool (iOS)](#gordian-qr-tool--ios-)
+  * [Gordian Seed Tool (iOS)](#gordian-seed-tool--ios-)
+  * [Gordian Wallet (iOS)](#gordian-wallet--ios-)
+  * [LetheKit (kit)](#lethekit--kit-)
+  * [Mori-CLI](#mori-cli)
+  * [Spotbit (web)](#spotbit--web-)
+  * [Sweeptool-CLI](#sweeptool-cli)
+- [Educational Projects](#educational-projects)
+  * [Learning Bitcoin from the Command Line](#learning-bitcoin-from-the-command-line)
+  * [#SmartCustody](#-smartcustody)
+- [Other Developer Projects](#other-developer-projects)
+  * [C Libraries](#c-libraries)
+  * [Bytewords-CLI](#bytewords-cli)
+  * [Keytool-CLI](#keytool-cli)
+  * [LifeHashTool-CLI](#lifehashtool-cli)
+  * [Musign-CLI](#musign-cli)
+  * [Seedtool-CLI](#seedtool-cli)
+  * [UR Demo](#ur-demo)
+- [Open Infrastructure Projects](#open-infrastructure-projects)
+  * [Spotbit Server](#spotbit-server)
+  * [Testnet Public Node](#testnet-public-node)
+  * [Tor Exit Node](#tor-exit-node)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+<hr>
+
 ## Specifications & Architectures
 
 _The core of Blockchain Commons' work is the creation of specifications and architectures, in cooperation with the [Airgapped Wallet Community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions). They're meant to create better interoperability in the blockchain ecosystem while also supporting the Gordian principles._
@@ -132,7 +172,7 @@ Gordian Wallet demonstrates how to use the Torgapped Gordian architecture to con
 
 LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the [mythological river](https://en.wikipedia.org/wiki/Lethe) of forgetfulness and oblivion.
 
-## Mori-CLI
+### Mori-CLI
 
 **Repo:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli)
 **Status:** Late Alpha
@@ -146,7 +186,7 @@ Mori-CLI proposes a way that a Bitcoin owner can leave his digital assets to his
 
 Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
 
-## Sweeptool-CLI
+### Sweeptool-CLI
 
 **Repo:** [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
 **Status:** Late Alpha
@@ -219,7 +259,7 @@ Keytool is a command-line tool that implements a data flow graph for deriving cr
 
 LifeHashTool is a command line tool written in Swift that generates [LifeHash](https://github.com/BlockchainCommons/LifeHash) images as PNG files and is distributed as a Swift package.
 
-## Musign-CLI
+### Musign-CLI
 
 **Repo:** [Musign-CLI](https://github.com/BlockchainCommons/musign-cli)
 **Status:** Research

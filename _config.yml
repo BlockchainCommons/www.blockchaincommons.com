@@ -117,7 +117,7 @@ footer_links:
     url: https://twitter.com/BlockchainComns
     icon: fab fa-github-square
   - title: Github
-    url: https://twitter.com/BlockchainComns
+    url: https://github.com/BlockchainCommons/
     icon: fab fa-twitter-square
   - title: Feed
     url: atom.xml

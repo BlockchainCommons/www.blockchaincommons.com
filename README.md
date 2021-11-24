@@ -4,7 +4,7 @@ hide_description: true
 permalink: /index.html
 ---
 
-Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to open infrastructure.  Our goal to create low-cost, best-quality, proven infrastructure that is decentralized, platform-neutral, blockchain-neutral, and vendor-independent. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
+Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to responsible key-management and the self-sovereign control of digital assets. Our goal is to work with the developer community to create wallets and other tools that support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness, and to help to educate the community on both our work and blockchain development in general. We do so with research specifications, reference libraries, reference apps, and educational courses. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
 
 ## News
 * **10/27:** [Q3, 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2021-Report/)
@@ -16,7 +16,8 @@ Blockchain Commons is proudly a "not-for-profit" social benefit corporation comm
 
 Our current projects include:
 
-* [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — integrated wallet and node technology that creates a self-sovereign infrastructure for Bitcoin  using Tor and QuickConnect.
+* [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — reference apps that demonstrate the Gordian Principles
+* [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS) — our premiere reference app, 
 * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — tutorials on programming with bitcoin-cli, lightning-cli, and RPC.
 * [#SmartCustody](https://www.smartcustody.com/) — documents and tools to better secure your digital assets.
 * [#LetheKit](https://github.com/BlockchainCommons/lethekit) — DIY hardware box and SDK for airgapped cryptography and offline master-key management.

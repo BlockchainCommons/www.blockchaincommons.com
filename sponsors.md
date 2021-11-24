@@ -38,23 +38,30 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 Thanks to our other GitHub sponsors, including:
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/jlopp">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/288011?v=4" width="50px"><br>
         <b>Jameson Lopp</b><br>
       </a>
     </td>    
-    <td>
-      <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?s=60&v=4" width="50px"><br>
-      <b>Glenn Willen</b><br>
+    <td align="center">
+      <a href="https://github.com/gwillen">
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?s=60&v=4" width="50px"><br>
+        <b>Glenn Willen</b><br>
+      </a>
     </td>
   </tr>
+</table>
+
+<table width="100%">
   <tr>
-    <td>
-      <img class="avatar-company" src="https://avatars.githubusercontent.com/u/68249620?s=200&v=4" width="50px"><br>
-      <b>Foundation Devices</b>
+    <td align="center">
+      <a href="https://github.com/Foundation-Devices">
+        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/68249620?s=200&v=4" width="50px"><br>
+        <b>Foundation Devices</b>
+      </a>
     </td>
   </tr> 
 </table>

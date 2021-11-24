@@ -69,25 +69,25 @@ Thanks to our other GitHub sponsors, including:
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/trentmc">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/5305452?v=4" width="75px"><br>
       </a>
         <b>Trent McConaghy</b><br>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/modl21">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/50266466?v=4" width="75px"><br>
       </a>
         <b>modl21</b><br>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/jesseposner">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/12010116?v=4" width="75px"><br>
       </a>
         <b>Jesse Posner</b><br>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/gwillen">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?v=4" width="75px"><br>
       </a>
@@ -98,13 +98,13 @@ Thanks to our other GitHub sponsors, including:
 
 <table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" style="border-bottom: 0px">
       <a href="https://github.com/avantibank">
         <img class="avatar-company" src="https://avatars.githubusercontent.com/u/61402873?v=4" width="75px"><br>
       </a>
         <b>Avanti Bank</b>
     </td>
-    <td align="center">
+    <td align="center" style="border-bottom: 0px">
       <a href="https://github.com/KeystoneHQ">
         <img class="avatar-company" src="https://avatars.githubusercontent.com/u/82647983?v=4" width="75px"><br>
       </a>

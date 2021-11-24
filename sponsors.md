@@ -42,7 +42,7 @@ Thanks to our other GitHub sponsors, including:
   <tr>
     <td align="center">
       <a href="https://github.com/flip-btcmag">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/16410927?v=4" width="50px"><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/69315643?v=4" width="50px"><br>
         <b>Flip Abignale</b><br>
       </a>
     </td>    

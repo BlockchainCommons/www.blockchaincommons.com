@@ -36,17 +36,18 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 ## Additional Sponsors
 
-<div>
-  Glenn Willen<br>
+Thanks to our other GitHub sponsors, including:
+
+<span style="text-align: center; width: -webkit-fill-available;">
+  <b>Glenn Willen</b><br>
   <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?s=60&v=4" width="50px">
   gwillen
-</div>
+</span>
 
-<div>
-  Foundation Devices<br>
+<span style="text-align: center; width: -webkit-fill-available;">
+  <b>Foundation Devices</b><br>
   <img class="avatar-company" src="https://avatars.githubusercontent.com/u/68249620?s=200&v=4" width="50px">
-  Foundation-Devices
-</div>
+</span>
 
 Thanks also to our ongoing [Github Sponsors](https://github.com/sponsors/BlockchainCommons): Adrian Gropper ([@agropper](https://github.com/agropper)), Mark S. Miller ([@erights](https://github.com/erights)), Glenn Willen ([@gwillen](https://github.com/gwillen)), Alexandre Linhares ([@Alex-Linhares](https://github.com/Alex-Linhares)), Trent McConaghy ([@trentmc](https://github.com/trentmc)), Eric Kuhn ([@erickuhn19](https://github.com/erickuhn19)), Zach Herbert ([@zachherbert](https://github.com/zachherbert)), Dario ([@mytwocentimes](https://github.com/mytwocentimes)), [@modl21](https://github.com/modl21), Protocol Labs ([@protocol](https://github.com/protocol)), and four additional sponsors.
 

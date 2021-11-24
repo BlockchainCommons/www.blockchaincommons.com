@@ -40,25 +40,25 @@ Thanks to our other GitHub sponsors, including:
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%" bottom-border="0px">
+    <td align="center" width="25%" border-bottom="0px">
       <a href="https://github.com/flip-btcmag">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/69315643?v=4" width="75px"><br>
       </a>
         <b>Flip Abignale</b><br>
     </td>    
-    <td align="center" width="25%">
+    <td align="center" width="25%" border-bottom="0px">
       <a href="https://github.com/agropper">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/138849?v=4" width="75px"><br>
       </a>
         <b>Adrian Gropper</b><br>
     </td>    
-    <td align="center" width="25%">
+    <td align="center" width="25%" border-bottom="0px">
       <a href="https://github.com/mytwocentimes">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/16410927?v=4" width="75px"><br>
       </a>
         <b>Dario</b><br>
     </td>    
-    <td align="center" width="25%">
+    <td align="center" width="25%" border-bottom="0px">
       <a href="https://github.com/jlopp">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/288011?v=4" width="75px"><br>
       </a>

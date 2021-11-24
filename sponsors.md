@@ -41,11 +41,29 @@ Thanks to our other GitHub sponsors, including:
 <table width="100%">
   <tr>
     <td align="center">
+      <a href="https://github.com/mytwocentimes">
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/16410927?v=4" width="50px"><br>
+        <b>Dario</b><br>
+      </a>
+    </td>    
+    <td align="center">
       <a href="https://github.com/jlopp">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/288011?v=4" width="50px"><br>
         <b>Jameson Lopp</b><br>
       </a>
     </td>    
+    <td align="center">
+      <a href="https://github.com/trentmc">
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/5305452?v=4" width="50px"><br>
+        <b>Trent McConaghy</b><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jesseposner">
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/12010116?v=4" width="50px"><br>
+        <b>Jesse Posner</b><br>
+      </a>
+    </td>
     <td align="center">
       <a href="https://github.com/gwillen">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?s=60&v=4" width="50px"><br>

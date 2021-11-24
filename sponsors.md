@@ -38,9 +38,9 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 Thanks to our other GitHub sponsors, including:
 
-<table width="100%" style="box-shadow: 0px">
+<table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="25%" bottom-border="0px">
       <a href="https://github.com/flip-btcmag">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/69315643?v=4" width="75px"><br>
       </a>

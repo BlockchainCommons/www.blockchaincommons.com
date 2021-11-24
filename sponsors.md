@@ -42,51 +42,56 @@ Thanks to our other GitHub sponsors, including:
   <tr>
     <td align="center">
       <a href="https://github.com/flip-btcmag">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/69315643?v=4" width="50px"><br>
-        <b>Flip Abignale</b><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/69315643?v=4" width="75px"><br>
       </a>
+        <b>Flip Abignale</b><br>
     </td>    
     <td align="center">
       <a href="https://github.com/agropper">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/138849?v=4" width="50px"><br>
-        <b>Adrian Gropper</b><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/138849?v=4" width="75px"><br>
       </a>
+        <b>Adrian Gropper</b><br>
     </td>    
     <td align="center">
       <a href="https://github.com/mytwocentimes">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/16410927?v=4" width="50px"><br>
-        <b>Dario</b><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/16410927?v=4" width="75px"><br>
       </a>
+        <b>Dario</b><br>
     </td>    
     <td align="center">
       <a href="https://github.com/jlopp">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/288011?v=4" width="50px"><br>
-        <b>Jameson Lopp</b><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/288011?v=4" width="75px"><br>
       </a>
+        <b>Jameson Lopp</b><br>
     </td>    
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
     <td align="center">
       <a href="https://github.com/trentmc">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/5305452?v=4" width="50px"><br>
-        <b>Trent McConaghy</b><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/5305452?v=4" width="75px"><br>
       </a>
+        <b>Trent McConaghy</b><br>
     </td>
     <td align="center">
       <a href="https://github.com/modl21">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/50266466?v=4" width="50px"><br>
-        <b>modl21</b><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/50266466?v=4" width="75px"><br>
       </a>
+        <b>modl21</b><br>
     </td>
     <td align="center">
       <a href="https://github.com/jesseposner">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/12010116?v=4" width="50px"><br>
-        <b>Jesse Posner</b><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/12010116?v=4" width="75px"><br>
       </a>
+        <b>Jesse Posner</b><br>
     </td>
     <td align="center">
       <a href="https://github.com/gwillen">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?v=4" width="50px"><br>
-        <b>Glenn Willen</b><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?v=4" width="75px"><br>
       </a>
+        <b>Glenn Willen</b><br>
     </td>
   </tr>
 </table>
@@ -95,15 +100,15 @@ Thanks to our other GitHub sponsors, including:
   <tr>
     <td align="center">
       <a href="https://github.com/avantibank">
-        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/61402873?v=4" width="50px"><br>
-        <b>Avanti Bank</b>
+        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/61402873?v=4" width="75px"><br>
       </a>
+        <b>Avanti Bank</b>
     </td>
     <td align="center">
       <a href="https://github.com/KeystoneHQ">
-        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/82647983?v=4" width="50px"><br>
-        <b>Keystone</b>
+        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/82647983?v=4" width="75px"><br>
       </a>
+        <b>Keystone</b>
     </td>
   </tr> 
 </table>

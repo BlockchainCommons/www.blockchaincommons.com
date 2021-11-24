@@ -48,7 +48,7 @@ Thanks to our other GitHub sponsors, including:
     </td>    
     <td align="center">
       <a href="https://github.com/agropper">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/138849?v=4"><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/138849?v=4" width="50px"><br>
         <b>Adrian Gropper</b><br>
       </a>
     </td>    
@@ -84,7 +84,7 @@ Thanks to our other GitHub sponsors, including:
     </td>
     <td align="center">
       <a href="https://github.com/gwillen">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?s=60&v=4" width="50px"><br>
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/458997?v=4" width="50px"><br>
         <b>Glenn Willen</b><br>
       </a>
     </td>
@@ -95,13 +95,13 @@ Thanks to our other GitHub sponsors, including:
   <tr>
     <td align="center">
       <a href="https://github.com/avantibank">
-        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/61402873?s=200&v=4" width="50px"><br>
+        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/61402873?v=4" width="50px"><br>
         <b>Avanti Bank</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/KeystoneHQ">
-        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/82647983?s=200&v=4" width="50px"><br>
+        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/82647983?v=4" width="50px"><br>
         <b>Keystone</b>
       </a>
     </td>

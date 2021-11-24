@@ -41,6 +41,18 @@ Thanks to our other GitHub sponsors, including:
 <table width="100%">
   <tr>
     <td align="center">
+      <a href="https://github.com/flip-btcmag">
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/16410927?v=4" width="50px"><br>
+        <b>Flip Abignale</b><br>
+      </a>
+    </td>    
+    <td align="center">
+      <a href="https://github.com/agropper">
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/138849?v=4"><br>
+        <b>Adrian Gropper</b><br>
+      </a>
+    </td>    
+    <td align="center">
       <a href="https://github.com/mytwocentimes">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/16410927?v=4" width="50px"><br>
         <b>Dario</b><br>
@@ -56,6 +68,12 @@ Thanks to our other GitHub sponsors, including:
       <a href="https://github.com/trentmc">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/5305452?v=4" width="50px"><br>
         <b>Trent McConaghy</b><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/modl21">
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/50266466?v=4" width="50px"><br>
+        <b>modl21</b><br>
       </a>
     </td>
     <td align="center">
@@ -76,9 +94,15 @@ Thanks to our other GitHub sponsors, including:
 <table width="100%">
   <tr>
     <td align="center">
-      <a href="https://github.com/Foundation-Devices">
-        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/68249620?s=200&v=4" width="50px"><br>
-        <b>Foundation Devices</b>
+      <a href="https://github.com/avantibank">
+        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/61402873?s=200&v=4" width="50px"><br>
+        <b>Avanti Bank</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KeystoneHQ">
+        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/82647983?s=200&v=4" width="50px"><br>
+        <b>Keystone</b>
       </a>
     </td>
   </tr> 

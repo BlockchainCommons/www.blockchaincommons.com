@@ -4,7 +4,7 @@ hide_description: true
 permalink: /index.html
 ---
 
-Blockchain Commons is focused on creating a community that encourages the growth of open infrastructure and interoperable architecture that gives internet users the human dignity due them and that allows them to control their own digital destiny. We do so by working with the [developer community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to create wallets and other tools that adopt the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness. We support this architectural and infrastructural development with research specifications, reference libraries, and reference apps. To further the growth of this community, we also produce educational courses that introduce the possibilities of open blockchain infrastructure and that advocate for responsible key management. 
+Blockchain Commons is focused on creating a community that encourages the growth of open infrastructure and interoperable architecture that gives internet users the human dignity due them and that allows them to control their own digital destiny. We do so by working with [developers](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to create wallets and other tools that adopt the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness. We support this architectural and infrastructural development with research specifications, reference libraries, and reference apps. To further the growth of the Blockchain Commons, we also produce educational courses that introduce the possibilities of open blockchain infrastructure and that advocate for responsible key management. 
 
 _Read our [vision](vision.md) for more on Blockchain Commons' objectives._
 
@@ -20,14 +20,12 @@ Blockchain Commons is proudly a "not-for-profit" social benefit corporation. We 
 
 Our current projects include:
 
-* [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — reference apps that demonstrate the Gordian Principles
-* [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS) — our premiere reference app, 
-* [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — tutorials on programming with bitcoin-cli, lightning-cli, and RPC.
-* [#SmartCustody](https://www.smartcustody.com/) — documents and tools to better secure your digital assets.
-* [#LetheKit](https://github.com/BlockchainCommons/lethekit) — DIY hardware box and SDK for airgapped cryptography and offline master-key management.
-* [#Seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli) — cross-platform command-line C-based implementation for safe master key generation with support of BIP39 and SLIP39.
-* [Spotbit](https://github.com/BlockchainCommons/spotbit) — self-sovereign cryptocurrency price discovery tool.
-* Cryptographic Libraries — C-based implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/BlockchainCommons/bc-shamir), [SLIP39](https://github.com/BlockchainCommons/bc-slip39), and more.
+* [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — reference apps that demonstrate the Gordian Principles.
+* [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS) — our premiere reference app, demonstrating how to closely hold a seed and still use it for active management of keys.
+* [Research](https://github.com/BlockchainCommons/Research) — Technical descriptions of our interoperable and open infrastructural and architectural specifications, such as Uniform Resources, SSKR, and Bytewords.
+* [Crypto Commons Libraries](https://github.com/BlockchainCommons/crypto-commons) — reference libraries providing access to interoperable and open infrastructural and architectural specifications, including [Shamir's Secret Sharing](https://github.com/BlockchainCommons/bc-shamir), [Sharded Secret Key Reconstruction](https://github.com/BlockchainCommons/bc-sskr), [Uniform Resources](https://github.com/BlockchainCommons/bc-ur), [Lifehash](https://github.com/BlockchainCommons/bc-lifehash), [Bytewords](https://github.com/BlockchainCommons/bc-bytewords), and more.
+* [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — our educational course introducing blockchains and Bitcoin.
+* [#SmartCustody](https://www.smartcustody.com/) — our educational course laying out the foundation of responsible key management.
 
 This video overviews many of our specifications and other initiatives:
 

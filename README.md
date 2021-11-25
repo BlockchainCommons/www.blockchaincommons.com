@@ -4,7 +4,11 @@ hide_description: true
 permalink: /index.html
 ---
 
-Blockchain Commons is proudly a "not-for-profit" social benefit corporation committed to responsible key-management and the self-sovereign control of digital assets. Our goal is to work with the developer community to create wallets and other tools that support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness, and to help to educate the community on both our work and blockchain development in general. We do so with research specifications, reference libraries, reference apps, and educational courses. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
+Blockchain Commons is focused on creating a community that encourages the growth of open infrastructure and interoperable architecture that gives internet users the human dignity due them and that allows them to control their own digital destiny. We do so by working with the [developer community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to create wallets and other tools that adopt the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness. We support this architectural and infrastructural development with research specifications, reference libraries, and reference apps. To further the growth of this community, we also produce educational courses that introduce the possibilities of open blockchain infrastructure and that advocate for responsible key management. 
+
+_Read our [vision](vision.md) for more on Blockchain Commons' objectives._
+
+Blockchain Commons is proudly a "not-for-profit" social benefit corporation. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
 
 ## News
 * **10/27:** [Q3, 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2021-Report/)

@@ -11,7 +11,7 @@ To accomplish this goal, we've laid out four objectives:
 
    * Our [Airgapped Wallet Community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) brings together a community focused on working to create this Commons.
 
-2. **Architecture:** Research, define, and evangelize an interoperable architecture for secure decentralized systems that support independence, privacy, resilience, and openness.
+2. **Architecture:** Research, define, and evangelize an interoperable architecture for secure decentralized systems that support independence, privacy, resilience, and openness and that encourage responsible key management.
 
    * Our [Gordian Architecture](https://github.com/BlockchainCommons/Gordian), our [Research Papers](https://github.com/BlockchainCommons/Research), and our [Crypto Commons libraries](https://github.com/BlockchainCommons/crypto-commons) embody our architectural work.
 

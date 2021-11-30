@@ -14,7 +14,7 @@ To accomplish this Vision, Blockchain Commons has laid out four objectives:
 
 1. **Blockchain Commons.** Create a specific commons that is dedicated to the realization of open infrastructure for secure, compassionate, decentralized systems.
 
-   * We reach out to the user & developer communities to identify problems and assess needs in current decentralized systems.
+   * We reach out to the user & developer communities to identify problems and assess needs in current decentralized blockchain systems.
    * We focus on interoperable solutions and open architecture that allow companies to cooperate with individuals while staying focused on what makes their own business or projects unique. 
    * Our [Airgapped Wallet Community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) brings together a community focused on working to create this commons.
 

@@ -6,8 +6,6 @@ permalink: /index.html
  
 ---
 
-<meta name="twitter:image" content="https://www.blockchaincommons.com/images/bcc-card.jpg">
-
 Blockchain Commons advocates for human dignity online by enabling people to control their own digital destiny. We work with [developer communities](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to design, build, and maintain decentralized architectures for digital assets and digital identity that are based on our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness and the concept of responsible key management. The infrastructural architectures we design are open, interoperable, secure, and compassionate. We also work with regulators & legislators to support these principals, and we strive to grow the blockchain community through educational courses. 
 
 _Read our [vision](vision.md) for more on Blockchain Commons' objectives._

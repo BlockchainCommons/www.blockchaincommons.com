@@ -8,6 +8,7 @@ tags:
   - SeedTool
   - Gordian
   - Projects
+image: https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/master/images/gg-list.jpg
 ---
 
 <img src="https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/master/images/logos/gordian-seedtool-logo-white.jpg" align=right width=250>

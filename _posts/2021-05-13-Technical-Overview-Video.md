@@ -6,6 +6,7 @@ categories:
 tags:
   - Video
   - Overview
+image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-2.png
 ---
 
 In the last year, Blockchain Commons has produced a large collection of specifications, reference libraries, architectures, and reference utilities meant to improve blockchain infrastructure by enabling interoperability among Bitcoin wallets — and in the future, other cryptocurrency applications, such as Ethereum wallets, and other cryptography programs, such as chat systems, key management programs, and more.

@@ -8,6 +8,7 @@ tags:
   - QRTool
   - Gordian
   - Projects
+image: https://raw.githubusercontent.com/BlockchainCommons/GordianQRTool-iOS/master/images/ca-digital-vaccine-record.png
 ---
 
 The state of California recently [announced their Digital COVID-19 Vaccine Record system](https://cdt.ca.gov/news/california-launches-new-digital-tool-giving-residents-convenient-access-to-their-covid-19-vaccine-record/). It allows Californians to access a digital copy of their vaccine records, rather than having to depend entirely on their physical copy. The main entry point is a QR code containing a rudimentary Verifiable Claim (VC), which makes for great ease of use. However, Blockchain Commons has concerns over how the user experience (UX) design might negatively affect both privacy and security; we are working to address these with our new [Gordian QR Tool](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070) for the iPhone, Blockchain Commons' first Apple appstore release.

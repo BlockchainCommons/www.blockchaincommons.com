@@ -1,5 +1,5 @@
 ---
-cover: true
+cover: false
 hide_description: false
 permalink: /index.html
 image: https://www.blockchaincommons.com/images/bcc-card.jpg

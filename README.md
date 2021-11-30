@@ -2,10 +2,7 @@
 cover: false
 hide_description: true
 permalink: /index.html
-title: Blockchain Commons
-description: Creating Open, Interoperable, Secure, and Compassionate Infrastructure
-image: 
-  path: https://www.blockchaincommons.com/images/bcc-card.jpg
+# image: https://www.blockchaincommons.com/images/bcc-card.jpg
  
 ---
 

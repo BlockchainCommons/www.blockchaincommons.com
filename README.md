@@ -2,7 +2,7 @@
 cover: false
 hide_description: true
 permalink: /index.html
-# image: https://www.blockchaincommons.com/images/bcc-card.jpg
+card-image: https://www.blockchaincommons.com/images/bcc-card.jpg
  
 ---
 

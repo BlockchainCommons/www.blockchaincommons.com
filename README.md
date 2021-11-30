@@ -22,8 +22,8 @@ Our current projects include:
 
 * [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — reference apps that demonstrate the Gordian Principles.
    * [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS) — our premiere reference app, demonstrating how to closely hold a seed and still use it for active management of keys.
-* [Research](https://github.com/BlockchainCommons/Research) — Technical descriptions of our interoperable and open infrastructural and architectural specifications, such as Uniform Resources, SSKR, and Bytewords.
-* [Crypto Commons Libraries](https://github.com/BlockchainCommons/crypto-commons) — reference libraries providing access to interoperable and open infrastructural and architectural specifications, including [Shamir's Secret Sharing](https://github.com/BlockchainCommons/bc-shamir), [Sharded Secret Key Reconstruction](https://github.com/BlockchainCommons/bc-sskr), [Uniform Resources](https://github.com/BlockchainCommons/bc-ur), [Lifehash](https://github.com/BlockchainCommons/bc-lifehash), [Bytewords](https://github.com/BlockchainCommons/bc-bytewords), and more.
+* [Research](https://github.com/BlockchainCommons/Research) — Technical descriptions of our interoperable and open infrastructural and architectural specifications, such as Uniform Resources (URs), Sharded Secret Key Reconstruction (SSKR), and Bytewords.
+* [Crypto Commons Libraries](https://github.com/BlockchainCommons/crypto-commons) — reference libraries providing access to interoperable and open infrastructural and architectural specifications, including [Shamir's Secret Sharing](https://github.com/BlockchainCommons/bc-shamir), [Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/bc-sskr), [Uniform Resources (URs)](https://github.com/BlockchainCommons/bc-ur), [Lifehash](https://github.com/BlockchainCommons/bc-lifehash), [Bytewords](https://github.com/BlockchainCommons/bc-bytewords), and more.
 * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — our educational course introducing blockchains and Bitcoin development.
 * [#SmartCustody](https://www.smartcustody.com/) — our educational course laying out the foundation of responsible key management.
 
@@ -35,11 +35,13 @@ This video overviews many of our specifications and other initiatives:
 
 We also offer services to the improve the security and infrastructure of the larger blockchain ecosystem:
 
-* Security Reviews — risk-based assessments of custody methodologies, operational security procedures, and layer-2 protocols such as payment channels.
 * Infrastructure — support of Tor exit nodes and other blockchain infrastructure & software.
+* Security Reviews — risk-based assessments of custody methodologies, operational security procedures, and layer-2 protocols such as payment channels.
 * Project Support — contractual support of our open source projects such as GordianWallet-iOS, GordianServer-MacOS, and #LetheKit.
 
-These are just the beginning! Blockchain Commons is also working on other cryptographic research, cryptographic & privacy protocol implementations, architecture & code reviews, industry standards, and documentation, including identity wallets, social-recovery techniques, zero-knowledge curve-operation proofs, advanced cryptographic primitives such as Schnorr, MuSig, and scriptless scripts, and in general establishing multi- and cross-blockchain standards.
+If you are interested in working with us directly on a Security Review or Support for using a project with your business, please [contact us](mailto:team@blockchaincommons.com).
+
+These are just the beginning! Blockchain Commons is also working on other cryptographic research, cryptographic & privacy protocol implementations, architecture & code reviews, industry standards, and documentation. Our more future-looking research includes work on identity wallets, social-recovery techniques, zero-knowledge curve-operation proofs, advanced cryptographic primitives such as Schnorr, MuSig, and scriptless scripts, and in general establishing multi- and cross-blockchain standards.
 
 If you support the goals and projects of Blockchain Commons, please consider becoming a [Sponsor](https://www.blockchaincommons.com/sponsors.html).
 
@@ -47,7 +49,7 @@ If you support the goals and projects of Blockchain Commons, please consider bec
 
 For more information, see our [Posts](https://www.blockchaincommons.com/posts/) and [GitHub](https://github.com/BlockchainCommons), including the following discussions areas:
 * [Wallet Standard Discussions](https://github.com/BlockchainCommons/AirgappedSigning/discussions) — for standards and open-source developers who want to talk about wallet standards, please use the Discussions area of the [Airgapped Signing repo](https://github.com/BlockchainCommons/AirgappedSigning). This is where you can talk about our specifications, our reference libraries, and our reference apps — including discussions of how to continue to improve the interoperability of the field.
-* [Gordian System Discussions](https://github.com/BlockchainCommons/Gordian/discussions) — for users and developers of the Gordian system, including Gordian Seed Tool, the Gordian Server, Bitcoin Standup technology, QuickConnect, and the Gordian Wallet. If you want to talk about our linked full-node and wallet technology, suggest new additions to our Bitcoin Standup standards, or discuss the implementation our standalone wallet, the Discussions area of the [main Gordian repo](https://github.com/BlockchainCommons/Gordian) is the place.
+* [Gordian System Discussions](https://github.com/BlockchainCommons/Gordian/discussions) — for users and developers of the Gordian system, including Gordian Seed Tool, the Gordian Server, Bitcoin Standup technology, QuickConnect, and the Gordian Wallet. If you want to talk about our linked full-node and wallet technology, discuss our airgapped apps, suggest new additions to our Bitcoin Standup standards, or discuss the implementation our standalone wallet, the Discussions area of the [main Gordian repo](https://github.com/BlockchainCommons/Gordian) is the place.
 * [Blockchain Commons Discussions](https://github.com/BlockchainCommons/Community/discussions) — for developers, interns, and patrons of Blockchain Commons, please use the discussions area of the [Community repo](https://github.com/BlockchainCommons/Community) to talk about general Blockchain Commons issues, the intern program, or topics other than the [Gordian System](https://github.com/BlockchainCommons/Gordian/discussions) or the [wallet standards](https://github.com/BlockchainCommons/AirgappedSigning/discussions), each of which have their own discussion areas.
 
 ## Sustaining Sponsors
@@ -62,11 +64,11 @@ Thank you to the following sponsors who have become [sustaining sponsors](https:
 
 <br clear="all">[*Learn more about them.*](sponsors)
 
-Please support Blockchain Commons by becoming a [sustaining sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/).
+Please support Blockchain Commons by becoming a [GitHub sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/).
 
 ## Organization Membership
 
-We are a member of [COPA](https://open-patent.org/)  , the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
+We are a member of [COPA](https://open-patent.org/) , the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
 
 <p align="center">
   <a href="https://open-patent.org/"><img src="images/copa-logo.png" width="33%" align="center"></a>

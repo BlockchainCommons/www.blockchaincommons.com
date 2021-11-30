@@ -1,6 +1,6 @@
 ---
 cover: false
-hide_description: false
+hide_description: true
 permalink: /index.html
 title: Blockchain Commons
 description: Creating Open, Interoperable, Secure, and Compassionate Infrastructure

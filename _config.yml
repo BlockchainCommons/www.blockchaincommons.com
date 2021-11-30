@@ -3,7 +3,6 @@ project: "Blockchain Commons"
 description: "Creating Open, Interoperable, Secure, and Compassionate Infrastructure"
 author: Blockchain Commons
 email: info@BlockchainCommons.com
-image: https://www.blockchaincommons.com/images/bcc-card.jpg
 twitter_username: BlockchainComns
 github_username:  BlockchainCommons
 show_downloads: false

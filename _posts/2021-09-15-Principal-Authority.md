@@ -7,7 +7,7 @@ tags:
   - Digital Identity
   - Legislation
   - Self-Sovereign Identity
-# image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
+image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
 
 _This summer, we’ve been iterating through an article intended to talk

@@ -84,10 +84,11 @@
 
 .site-description {
   margin-bottom: 1em;
-  font-family: $title-font-family;
+  font-family: $description-font-family;
   @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
   font-weight: 400;
   font-style: italic;
+  font-size: 2.50rem
 }
 
 .site-logo {

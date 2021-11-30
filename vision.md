@@ -6,7 +6,7 @@ permalink: /vision.html
 
 ## Vision
 
-Blockchain Commons strives to give people the human dignity due them in online spaces and to allow them to control their own digital destiny by securing open infrastructure using blockchain technology to create compassionate decentralized systems.
+Blockchain Commons strives to give people the human dignity due them in online spaces and to allow them to control their own digital destiny by securing open infrastructure by using blockchain technology to create compassionate decentralized systems.
 
 ## Objectives
 

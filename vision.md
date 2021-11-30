@@ -26,7 +26,7 @@ To accomplish this Vision, Blockchain Commons has laid out four objectives:
 
 3. **Demand:** Define and advocate a new techno-social contract of decentralized infrastructure, based on human dignity, respect for the individual, and mutual benefit for all contributors.
 
-   * We work with regulators & legislators to advocate policies to enable and support compassionate decentralized approaches to cryptographic assets and digital identity.
+   * We work with regulators & legislators to support policies that enable compassionate decentralized approaches to cryptographic assets and digital identity through testimony and technical advice.
    * Our [Testimony](https://github.com/BlockchainCommons/Testimony) to various agencies records much of our work to date.
 
 4. **Peers:** Increase the demand for, and population of, people who understand the effective development, and use of, secure decentralized systems.

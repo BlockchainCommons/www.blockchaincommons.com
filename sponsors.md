@@ -4,13 +4,13 @@ hide_description: true
 permalink: /sponsors.html
 ---
 
-Blockchain Commons' mission is to support open blockchain infrastructure and the broader security industry. We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. 
+Blockchain Commons' mission is to bring together a community of developers and users that are creating and using secure decentralized computing systems that maintain the human dignity of their users and that allow them to personally control (or delegate) their digital identity and their digital assets. We are proudly a "not-for-profit" social benefit corporation committed to open source, open development, and defensive patents.
 
 ## Why Sponsor?
 
-Our mission is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web. 
+Our mission is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open infrastructure for secure, compassionate, decentralized system, on designing interoperable architectures, and on creating demand and peers for these systems.
 
-Your personal or corporate patronage can help us to accomplish to further the development of open infrastructure projects. Together, we can expand and improve the blockchain infrastructure that's used by our entire industry, and with your gift, we can remain independent while doing so. 
+Your personal or corporate patronage can help us to further the development of these projects. Together, we can ensure that digital data is personally controlled in a way that supports independence, privacy, resilience, and openness, and with your gift, we can remain independent while doing so. 
 
 Please consider becoming a Patron of Blockchain Commons though ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
 

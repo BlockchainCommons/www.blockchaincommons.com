@@ -18,7 +18,7 @@ Blockchain Commons advocates for human dignity online by enabling people to cont
   * …and working with legislators & regulators to support these best practices & principles.
 * We are proudly a "not-for-profit" social benefit corporation, domiciled in Wyoming but operating world-wide.
 
-_Read more about Blockchain Commons' [vision & objectives]((vision.md)._
+_Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 * **10/27:** [Q3, 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2021-Report/)

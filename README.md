@@ -7,9 +7,10 @@ card-image: https://www.blockchaincommons.com/images/bcc-card.jpg
 ---
 
 **Blockchain Commons advocates for human dignity online by enabling people to control their own digital destiny.**
-* We work with [developer communities](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to design, build, and maintain decentralized architectures and tools for digital assets and digital identity…
+* We work with [developer communities](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to design, build, and maintain secure & compassionate decentralized and tools for digital assets and digital identity…
   * …based on the best practices of responsible key management & [Smart Custody](https://www.SmartCustody.com);
-  * …and our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness 
+  * …our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness;
+  * …and our [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) to reclaim human dignity & authority in the digital world.
 * We have a strong commitment to open source and a defensive patent strategy…
   * …anyone can use or improve these tools, and no one can take them away;
   * …allowing individuals & companies to bring complex solutions to market while staying focused on what makes their own business or project unique.

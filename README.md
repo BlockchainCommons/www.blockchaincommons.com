@@ -6,11 +6,17 @@ card-image: https://www.blockchaincommons.com/images/bcc-card.jpg
  
 ---
 
-Blockchain Commons advocates for human dignity online by enabling people to control their own digital destiny. We work with [developer communities](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to design, build, and maintain decentralized architectures for digital assets and digital identity that are based on our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness and the concept of responsible key management. The infrastructural architectures we design are open, interoperable, secure, and compassionate. We also work with regulators & legislators to support these principals, and we strive to grow the blockchain community through educational courses. 
+Blockchain Commons advocates for human dignity online by enabling people to control their own digital destiny.
+* We work with [developer communities](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to design, build, and maintain decentralized architectures and tools for digital assets and digital identity…
+  * …based on the best practices of responsible key management & [Smart Custody](https://www.SmartCustody.com);
+  * …and our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness 
+* Anyone can use or improve these tools, and no one can take them away…
+  * …this allows individuals & companies to bring complex solutions to market while staying focused on what makes their own business or project unique.
+* We strive to educate & grow the blockchain community through online courses, mentoring, internships and other learning opportunities.
+* We work with legislators & regulators to support these best practices & principles.
+* We are proudly a "not-for-profit" social benefit corporation, with a strong commitment to open source and a defensive patent strategy.
 
 _Read our [vision](vision.md) for more on Blockchain Commons' objectives._
-
-Blockchain Commons is proudly a "not-for-profit" social benefit corporation. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away, allowing companies and individuals to bring complete solutions to market while staying focused on what makes their own business or project unique.
 
 ## News
 * **10/27:** [Q3, 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2021-Report/)

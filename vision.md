@@ -20,8 +20,8 @@ To accomplish this Vision, Blockchain Commons has laid out four objectives:
 
 2. **Architecture:** Research, define, and evangelize an interoperable architecture for secure decentralized systems that supports independence, privacy, resilience, and openness and that encourages responsible key management.
 
-   * We design, build and maintain decentralized architectures for digital assets and digital identity.
-   * We create tools that everyone can use, anyone can improve, and no one can take away. 
+   * We design, build and maintain decentralized tools for digital assets and digital identity.
+   * We everyone can use our tools, anyone can improve them, and no one can take them away. 
    * Our [Gordian Architecture](https://github.com/BlockchainCommons/Gordian), our [Research Papers](https://github.com/BlockchainCommons/Research), our Gordian reference apps, and our [Crypto Commons libraries](https://github.com/BlockchainCommons/crypto-commons) represent our architectural work. They provide a foundation that developer communities such as the [Bitcoin Airgapped Wallet Community] (https://github.com/BlockchainCommons/Airgapped-Wallet-Community) can use to create wallets and other tool that embody responsible key management and that adopt our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness.
 
 3. **Demand:** Define and advocate a new techno-social contract of decentralized infrastructure, based on human dignity, respect for the individual, and mutual benefit for all contributors.

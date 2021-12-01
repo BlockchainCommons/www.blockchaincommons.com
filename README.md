@@ -2,22 +2,13 @@
 cover: false
 hide_description: true
 permalink: /index.html
-card-image: https://www.blockchaincommons.com/images/bcc-card.jpg
- 
 ---
 
 **Blockchain Commons advocates for human dignity online by enabling people to control their own digital destiny.**
-* We work with [developer communities](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to design, build, and maintain secure & compassionate decentralized architectures & tools for digital assets & digital identity…
-  * …based on the best practices of responsible key management & [Smart Custody](https://www.SmartCustody.com);
-  * …our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness;
-  * …and our [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) to reclaim human dignity & authority in the digital world.
-* We have a strong commitment to open source and a defensive patent strategy…
-  * …anyone can use or improve these tools, and no one can take them away;
-  * …allowing individuals & companies to bring complex solutions to market while staying focused on what makes their own business or project unique.
-* We strive to educate & grow the blockchain community…
-  * …through online courses, mentoring, internships and other learning opportunities;
-  * …and working with legislators & regulators to support these best practices & principles.
-* We are proudly a "not-for-profit" social benefit corporation, domiciled in Wyoming but operating world-wide.
+
+Blockchain Commons works with developer communities to design, build, and maintain secure & compassionate decentralized architectures & tools for digital assets & digital identity based on responsible key management; on our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness; and on our [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md). Our goal is to reclaim human dignity & authority in the digital world. We also strive to educate & grow the blockchain community through online courses and our work with legislators and regulators.
+
+Blockchain Commons is proudly a “not-for-profit” social benefit corporation, domiciled in Wyoming but operating world-wide. We have a strong commitment to open source and a defensive patent strategy: anyone can use or improve our tools, and no one can take them away. 
 
 _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 

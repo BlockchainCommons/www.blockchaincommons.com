@@ -10,13 +10,15 @@ Blockchain Commons advocates for human dignity online by enabling people to cont
 * We work with [developer communities](https://github.com/BlockchainCommons/Airgapped-Wallet-Community) to design, build, and maintain decentralized architectures and tools for digital assets and digital identity…
   * …based on the best practices of responsible key management & [Smart Custody](https://www.SmartCustody.com);
   * …and our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness 
-* Anyone can use or improve these tools, and no one can take them away…
-  * …this allows individuals & companies to bring complex solutions to market while staying focused on what makes their own business or project unique.
-* We strive to educate & grow the blockchain community through online courses, mentoring, internships and other learning opportunities.
-* We work with legislators & regulators to support these best practices & principles.
-* We are proudly a "not-for-profit" social benefit corporation, with a strong commitment to open source and a defensive patent strategy.
+* We have a strong commitment to open source and a defensive patent strategy…
+  * …anyone can use or improve these tools, and no one can take them away;
+  * …allowing individuals & companies to bring complex solutions to market while staying focused on what makes their own business or project unique.
+* We strive to educate & grow the blockchain community…
+  * …through online courses, mentoring, internships and other learning opportunities;
+  * …and working with legislators & regulators to support these best practices & principles.
+* We are proudly a "not-for-profit" social benefit corporation, domiciled in Wyoming but operating world-wide.
 
-_Read our [vision](vision.md) for more on Blockchain Commons' objectives._
+_Read more about Blockchain Commons' [vision & objectives]((vision.md)._
 
 ## News
 * **10/27:** [Q3, 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2021-Report/)

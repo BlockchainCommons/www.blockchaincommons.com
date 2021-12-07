@@ -13,10 +13,10 @@ Blockchain Commons is proudly a “not-for-profit” social benefit corporation,
 _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
+
+* **12/7:** [Blockchain Commons Launches LifeHash on the Web](https://www.blockchaincommons.com/projects/Lifehash-info/)
 * **10/27:** [Q3, 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2021-Report/)
 * **9/15:** [Principal Authority: A New Perspective on Self-Sovereign Identity](https://www.blockchaincommons.com/articles/Principal-Authority/)
-* **7/27:** [Q2 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q2-2021-Report/)
-* **5/13:** [Blockchain Commons Overviews Its Technology in New Video](https://www.blockchaincommons.com/introduction/Technical-Overview-Video/)
 
 ## Projects
 

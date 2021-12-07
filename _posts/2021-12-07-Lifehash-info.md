@@ -7,7 +7,7 @@ tags:
   - LifeHash
   - Airgap
   - Web Page
-image: https://www.blockchaincommons.com/images/lifehash-info.png
+image: http://www.blockchaincommons.com/images/lifehash-info.png
 ---
 
 <a href="https://www.blockchaincommons.com/images/lifehash-info.png"><img src="https://www.blockchaincommons.com/images/lifehash-info.png" align="right" width=350></a>

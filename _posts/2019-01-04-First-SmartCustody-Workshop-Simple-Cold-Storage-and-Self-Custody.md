@@ -4,9 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Courses
 tags:
-  - Projects
   - Smart Custody
-  - Workshop
 ---
 
 Our first #SmartCustody workshop will be on Tue, January 29, 2019, 10:00 AM – 4:00 PM PST, at 554 San Antonio Road, Palo Alto, CA 94040-1217, [Map](https://www.eventbrite.com/e/smartcustody-simple-cold-storage-self-custody-workshop-tickets-54426618481#map-target).

@@ -2,7 +2,7 @@
 title: "Project Proposal: New Social Social Key Recovery Approach"
 excerpt_separator: "<!--more-->"
 categories:
-  - Articles & Proposals
+  - Articles
 tags:
   - Cryptographic Research
   - Social Key Recovery

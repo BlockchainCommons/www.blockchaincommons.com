@@ -4,10 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Libraries
 tags:
-  - Projects
-  - Bitcoin
-  - Distributed Identity
-  - BTCR
+  - Bitcoin Framework
+  - iOS Libraries
 ---
 
 ### Building on Libbitcoin

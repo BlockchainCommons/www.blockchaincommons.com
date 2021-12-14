@@ -4,9 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Articles
 tags:
-  - Cryptographic Research
-  - Social Key Recovery
-  - Key Management
+  - SSKR
+  - Smart Custody
 ---
 
 The goal of social key recovery is for the user to specify groups of individuals that together possess the ability to recover the root secret of a wallet. A good social key recovery protocol should not just reflect what cryptographic primitives happen to be available for use, but rather instead should be designed to correspond with the structure of trust in the user's social network, while balancing the technical tradeoffs involved under the hood.

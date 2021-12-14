@@ -1,8 +1,8 @@
 ---
-title: "Announcing Blockchain Discussion FOrum"
+title: "Announcing Blockchain Discussion Forum"
 excerpt_separator: "<!--more-->"
 categories:
-  - Discussion
+  - Community
 tags:
   - Goals
   - Philosophies

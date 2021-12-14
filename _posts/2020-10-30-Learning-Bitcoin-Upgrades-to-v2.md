@@ -4,9 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Courses
 tags:
-  - Educational
-  - Learning-Bitcoin
-  - Projects
+  - Learning Bitcoin
 ---
 
 <img src="https://www.blockchaincommons.com/images/projects/lbtc-screen.png" width=350 align="right">

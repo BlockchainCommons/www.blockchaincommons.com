@@ -2,7 +2,7 @@
 title: "Blockchain Commons Launches LifeHash on the Web"
 excerpt_separator: "<!--more-->"
 categories:
-  - Projects
+  - Specifications
 tags:
   - LifeHash
   - Airgap

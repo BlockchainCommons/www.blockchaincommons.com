@@ -4,10 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Apps
 tags:
-  - Apps
-  - SeedTool
-  - Gordian
-  - Projects
+  - Seed Tool
+  - Gordian Architecture
 image: https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/master/images/gg-list.jpg
 ---
 

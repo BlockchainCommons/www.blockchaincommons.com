@@ -2,7 +2,7 @@
 title: "Announcing Open Source Bitcoin Framework for iOS"
 excerpt_separator: "<!--more-->"
 categories:
-  - Projects
+  - Libraries
 tags:
   - Projects
   - Bitcoin

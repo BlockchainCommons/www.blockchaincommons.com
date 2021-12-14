@@ -5,7 +5,12 @@ categories:
   - Introduction
 tags:
   - Video
-  - Overview
+  - Bytewords
+  - UR
+  - LifeHash
+  - SSKR
+  - Torgap
+  - Airgap
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-2.png
 ---
 

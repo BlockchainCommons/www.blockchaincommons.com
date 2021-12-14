@@ -4,7 +4,6 @@ excerpt_separator: "<!--more-->"
 categories:
   - Partnerships
 tags:
-  - Philosophies
   - Patents
   - COPA
 # image: images/copa-logo-small.png

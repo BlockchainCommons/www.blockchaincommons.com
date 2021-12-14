@@ -2,7 +2,7 @@
 title: "Learning Bitcoin Upgrades to v2.0"
 excerpt_separator: "<!--more-->"
 categories:
-  - Projects
+  - Courses
 tags:
   - Educational
   - Learning-Bitcoin

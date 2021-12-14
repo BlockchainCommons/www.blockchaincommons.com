@@ -2,7 +2,7 @@
 title: "Blockchain Commons Releases Feature-complete LetheKit"
 excerpt_separator: "<!--more-->"
 categories:
-  - Projects
+  - Apps
 tags:
   - AirGap
   - LetheKit

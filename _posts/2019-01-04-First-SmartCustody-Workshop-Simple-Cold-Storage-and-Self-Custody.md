@@ -2,7 +2,7 @@
 title: "First #SmartCustody Workshop: Simple Cold Storage & Self-Custody"
 excerpt_separator: "<!--more-->"
 categories:
-  - Projects
+  - Courses
 tags:
   - Projects
   - Smart Custody

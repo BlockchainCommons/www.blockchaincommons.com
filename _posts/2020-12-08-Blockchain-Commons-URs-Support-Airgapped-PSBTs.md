@@ -5,8 +5,7 @@ categories:
   - Specifications
 tags:
   - AirGap
-  - URs
-  - Projects
+  - UR
 ---
 
 The [Uniform Resources specification](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md) is one of Blockchain Commons' most notable wallet enhancements of 2020: it enables airgapped PSBTs and is supported through a variety of reference libraries, including C++ and Swift implementations. Third parties have already ported the UR encoder to Python, Java, and Rust.

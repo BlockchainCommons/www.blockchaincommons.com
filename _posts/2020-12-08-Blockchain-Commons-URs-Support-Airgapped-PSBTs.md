@@ -2,7 +2,7 @@
 title: "Blockchain Commons' Uniform Resources (URs) Support Airgapped PSBTs & More"
 excerpt_separator: "<!--more-->"
 categories:
-  - Projects
+  - Specifications
 tags:
   - AirGap
   - URs

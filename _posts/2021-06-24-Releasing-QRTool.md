@@ -2,7 +2,7 @@
 title: "Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More"
 excerpt_separator: "<!--more-->"
 categories:
-  - Projects
+  - Apps
 tags:
   - Apps
   - QRTool

@@ -2,7 +2,7 @@
 title: "Gordian Seed Tool Reveals the Foundations of Cryptography"
 excerpt_separator: "<!--more-->"
 categories:
-  - Projects
+  - Apps
 tags:
   - Apps
   - SeedTool

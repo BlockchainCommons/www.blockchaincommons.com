@@ -14,7 +14,7 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 
-* **12/7:** [Blockchain Commons Launches LifeHash on the Web](https://www.blockchaincommons.com/projects/Lifehash-info/)
+* **12/7:** [Blockchain Commons Launches LifeHash on the Web](https://www.blockchaincommons.com/specifications/Lifehash-info/)
 * **10/27:** [Q3, 2021 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2021-Report/)
 * **9/15:** [Principal Authority: A New Perspective on Self-Sovereign Identity](https://www.blockchaincommons.com/articles/Principal-Authority/)
 

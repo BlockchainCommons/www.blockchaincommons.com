@@ -4,10 +4,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - Apps
 tags:
-  - Apps
-  - QRTool
-  - Gordian
-  - Projects
+  - QR Tool
+  - Gordian Architecture
 image: https://raw.githubusercontent.com/BlockchainCommons/GordianQRTool-iOS/master/images/ca-digital-vaccine-record.png
 ---
 

@@ -33,7 +33,7 @@ Our current projects include:
 This video overviews many of our specifications and other initiatives:
 
 <p style="margin-left:50px">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RYgOFSdUqWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/RYgOFSdUqWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 We also offer services to the improve the security and infrastructure of the larger blockchain ecosystem:

@@ -40,3 +40,14 @@ To accomplish this Vision, Blockchain Commons has laid out four objectives:
    * Our [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) and [SmartCustody](https://github.com/BlockchainCommons/SmartCustody) projects as well as our own [documentation](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md) work toward this objective.
 
 _Blockchain Commons is proudly a "not-for-profit" social benefit corporation domiciled in Wyoming, but operating world-wide. We have a strong commitment to open source and a defensive patent strategy._
+
+## Gordian Principles
+
+Blockchain Commons' interoperable specifications are meant to support four core principles that support our Vision, putting the user first and enabling responsible key management:
+
+* **Independence.** Gordian improves user freedom from involuntary oversight or external control.
+* **Privacy.** Gordian protects against coercion with non-correlation, privacy, and pseudonymity.
+* **Resilience.** Gordian protects users to decrease the likelihood of them losing their funds via any means.
+* **Openness.** Gordian supports open infrastructure that allows developers to create their own applications.
+
+Look at our individual reference apps for guidance on how each acts as a model for these principles.

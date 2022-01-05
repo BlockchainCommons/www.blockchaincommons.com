@@ -42,6 +42,7 @@ To accomplish this Vision, Blockchain Commons has laid out four objectives:
 _Blockchain Commons is proudly a "not-for-profit" social benefit corporation domiciled in Wyoming, but operating world-wide. We have a strong commitment to open source and a defensive patent strategy._
 
 <a name="principle">
+  
 ## Gordian Principles
 
 Blockchain Commons' interoperable specifications are meant to support four core principles that support our Vision, putting the user first and enabling responsible key management:

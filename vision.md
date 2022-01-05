@@ -1,14 +1,13 @@
 ---
+title: Vision
 cover: false
 hide_description: true
 permalink: /vision.html
 ---
 
-## Vision
-
 Blockchain Commons advocates for human dignity online by enabling people to control their own digital destiny.
 
-## Objectives
+# Objectives
 
 To accomplish this Vision, Blockchain Commons has laid out four objectives:
 
@@ -43,7 +42,7 @@ _Blockchain Commons is proudly a "not-for-profit" social benefit corporation dom
 
 <a name="principle">
   
-## Gordian Principles
+# Gordian Principles
 
 Blockchain Commons' interoperable specifications are meant to support four core principles that support our Vision, putting the user first and enabling responsible key management:
 

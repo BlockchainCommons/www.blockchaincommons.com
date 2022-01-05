@@ -22,11 +22,10 @@ Blockchain Commons is working on a large variety of projects all intended to imp
   * [Uniform Resource (UR) Specification](#uniform-resource--ur--specification)
 - [Gordian Reference Projects](#gordian-reference-projects)
   * [The Core Gordian System (web + iOS)](#the-core-gordian-system--web---ios-)
-  * [Gordian Server (MacOS)](#gordian-server--macos-)
-  * [Gordian Cosigner (Android, iOS, MacOS)](#gordian-cosigner--android--ios--macos-)
-  * [Gordian QR Tool (iOS)](#gordian-qr-tool--ios-)
   * [Gordian Seed Tool (iOS)](#gordian-seed-tool--ios-)
-  * [Gordian Wallet (iOS)](#gordian-wallet--ios-)
+  * [Gordian QR Tool (iOS)](#gordian-qr-tool--ios-)
+  * [Gordian Cosigner (Android, iOS, MacOS)](#gordian-cosigner--android--ios--macos-)
+  * [Gordian Server (MacOS)](#gordian-server--macos-)
   * [LetheKit (kit)](#lethekit--kit-)
   * [Mori-CLI](#mori-cli)
   * [Spotbit (web)](#spotbit--web-)
@@ -143,36 +142,13 @@ One of the particular advantages of UR is careful integration with QR codes, a p
 _Reference projects demonstrate the self-sovereign approach of the Gordian principles, highlighting Independence, Privacy, Resilience, and Openness, and display the use of the Blockchain Commons specifications._
 
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
+
 ### The Core Gordian System (web + iOS)
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Status:** Varied
 
-The Gordian system is a suite of powerful open-source tools that demonstrate a self-sovereign solution for Bitcoin embodied in the Gordian principles. It does so by using [Torgap](https://github.com/BlockchainCommons/torgap) and [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md) technology to link a protected [GordianServer-MacOS](https://github.com/BlockchainCommons/GordianServer-macOS) (or the alternative [Bitcoin Standup Linux Scripts](https://github.com/BlockchainCommons/Bitcoin-StandUp-Scripts)) with a mobile [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS) so that you access full-node capabilities from a mobile device. ([It's meant to cut through a traditionally knotty problem in Bitcoin development.](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Why-Gordian.md)) 
-
-### Gordian Server (MacOS)
-
-**Repo:** [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS)<br>
-**Status:** Feature-Complete
-
-Gordian Server is the heart of our Gordian system. It installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
-
-<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
-### Gordian Cosigner (Android, iOS, MacOS)
-
-**Repo:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
-**Status:** Varied
-
-Gordian Cosigner allows users to participate in a multisig by adding a signature to an otherwise unsigned or partially signed PSBT that was created on another device. It's largely intended as an offline signing tool, which allows signing without a direct connection to a full node: a wallet that can create PSBTs or another transaction coordinator service is needed to initiate a transaction –– such as the [Gordian system.](https://github.com/BlockchainCommons/Gordian)
-
-<a href="images/projects/Cosigner.png"><img src="images/projects/QRTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
-### Gordian QR Tool (iOS)
-
-**Repo:** [QR Tool](https://github.com/BlockchainCommons/GordianQRTool-iOS)<br>
-**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070)<br>
-**Blog:** [Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More](https://www.blockchaincommons.com/projects/Releasing-QRTool/) (6/24/21)
-
-Gordian QR Tool is a reference tool that acts as a secure place to store and backup sensitive data that is encoded into QRs. Powered by [Uniform Resource](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), it was built to store SSKRs, PSBTs, and seeds encoded using [URs](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), however it can also be used to store other sorts of sensitive data such as 2FAs. Data is always stored with multiple layers of encryption using your device's keychain. A quick overview on using Gordian QR Tool is available in its [Manual](https://github.com/BlockchainCommons/GordianQRTool-iOS/blob/master/Docs/MANUAL.md).
+The Gordian system is a suite of powerful open-source reference apps that demonstrate the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) using Airgaps and [Torgaps](https://github.com/BlockchainCommons/torgap). The most developed releases are mobile apps such as [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS), but a powerful Wallet/Server setup also demonstrates how to maintain self-sovereignty while connecting to the Bitcoin network.
 
 <a href="images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
 ### Gordian Seed Tool (iOS)
@@ -181,7 +157,31 @@ Gordian QR Tool is a reference tool that acts as a secure place to store and bac
 **Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)<br>
 **Blog:** [Gordian Seed Tool Reveals the Foundations of Cryptography](https://www.blockchaincommons.com/projects/SeedTool-Release/) (7/15/21)
 
-Gordian Seed Tool protects your cryptographic seeds while also making them available for easy use. Using Seed Tool, you can generate seeds and store them securely on your device. You can then derive and share multi-signature signing and verification keys from those seeds. Sophisticated backup procedures include printed pages and Sharded Secret Key Reconstruction ([SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md#sharded-secret-key-reconstruction-sskr)) — which lets you split your seed into pieces and send them to trusted parties, who can send them back to you in an emergency for seed recovery. You can even use an entirely offline device (no internet access) to store your seeds and use QR codes to exchange necessary information with online devices running compatible wallet or signing software.
+Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It protects your cryptographic seeds while also making them available for easy use. Using Seed Tool, you can generate seeds and store them securely on your device. You can then derive and share multi-signature signing and verification keys from those seeds or alternatively sign PSBTs directly from the app. Sophisticated backup procedures include printed pages and Sharded Secret Key Reconstruction ([SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md#sharded-secret-key-reconstruction-sskr)) — which lets you split your seed into pieces and send them to trusted parties, who can send them back to you in an emergency for seed recovery. You can even use an entirely offline device (no internet access) to store your seeds and use QR codes to exchange necessary information with online devices running compatible wallet or signing software. A complete [manual](https://github.com/BlockchainCommons/GordianSeedTool-iOS/blob/master/Docs/MANUAL.md) details its functionality.
+
+<a href="images/projects/Cosigner.png"><img src="images/projects/QRTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+### Gordian QR Tool (iOS)
+
+**Repo:** [QR Tool](https://github.com/BlockchainCommons/GordianQRTool-iOS)<br>
+**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-qr-tool/id1506851070)<br>
+**Blog:** [Gordian QR Tool Supports Vaccine Records, 2FAs, Cryptoseeds, and More](https://www.blockchaincommons.com/projects/Releasing-QRTool/) (6/24/21)
+
+Gordian QR Tool is a reference tool that acts as a secure place to store and backup sensitive data that is encoded into QRs. Powered by [Uniform Resource](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), it was built to store SSKRs, PSBTs, and seeds encoded using [URs](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), however it can also be used to store other sorts of sensitive data such as 2FAs and protects them using the Gordian Principles. Data is always stored with multiple layers of encryption using your device's keychain. A quick overview on using Gordian QR Tool is available in its [Manual](https://github.com/BlockchainCommons/GordianQRTool-iOS/blob/master/Docs/MANUAL.md).
+
+<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+### Gordian Cosigner (Android, iOS, MacOS)
+
+**Repo:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
+**Status:** Varied
+
+Gordian Cosigner allows users to participate in a multisig by adding a signature to an otherwise unsigned or partially signed PSBT that was created on another device. It's largely intended as an offline signing tool, which allows signing without a direct connection to a full node: a wallet that can create PSBTs or another transaction coordinator service is needed to initiate a transaction –– such as the [Gordian system.](https://github.com/BlockchainCommons/Gordian). Its functionality has been somewhat superceded by the PSBT signing functionality of Gordian SeedTool.
+
+### Gordian Server (MacOS)
+
+**Repo:** [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS)<br>
+**Status:** Feature-Complete
+
+Gordian Serverinstalls a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
 
 <a href="images/projects/Cosigner.png"><img src="images/projects/Wallet.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
 ### Gordian Wallet (iOS)
@@ -189,7 +189,7 @@ Gordian Seed Tool protects your cryptographic seeds while also making them avail
 **Repo:** [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
 **Status:** Early Beta
 
-Gordian Wallet demonstrates how to use the Torgapped Gordian architecture to connect a Wallet to a Bitcoin Core server such as **Gordian Server**, using the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md). It allows for multiple wallet templates, many of them supporting #SmartCustody, including: legacy, SegWit-compatible, and SegWit-native hot wallets using a single signature (seed on iOS device); a warm wallet using multisig (seed on iOS device, keys on full node, offline seed, etc.); or a number of cold wallet templates that leverage PSBTs (Partially Signed Bitcoin Transactions), such as cold offline seeds, third-party collaborative custody services, and various air-gapped hardware solutions using QR codes. Gordian Wallet can potentially support almost anything that can be described by a bitcoind descriptor.
+Gordian Wallet demonstrates how to use the Torgapped Gordian architecture to connect a Wallet to a Bitcoin Core server such as **Gordian Server**, using the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md). It allows for multiple wallet templates, many of them supporting #SmartCustody, including: legacy, SegWit-compatible, and SegWit-native hot wallets using a single signature (seed on iOS device); a warm wallet using multisig (seed on iOS device, keys on full node, offline seed, etc.); or a number of cold wallet templates that leverage PSBTs (Partially Signed Bitcoin Transactions), such as cold offline seeds, third-party collaborative custody services, and various air-gapped hardware solutions using QR codes. Gordian Wallet can potentially support almost anything that can be described by a bitcoind descriptor.  ([It's meant to cut through a traditionally knotty problem in Bitcoin development.](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Why-Gordian.md)) 
 
 ### LetheKit (kit)
 

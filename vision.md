@@ -4,6 +4,8 @@ hide_description: true
 permalink: /vision.html
 ---
 
+## Vision
+
 Blockchain Commons advocates for human dignity online by enabling people to control their own digital destiny.
 
 ## Objectives

@@ -2,20 +2,12 @@
 
 - title: Home
   url: /
+- title: Vision
+  url: vision.html
 - title: Posts
   url: /posts/
-# - title: Projects
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
 - title: Sponsors
   url: sponsors.html
-#- title: "Project: #SmartCustody"
-#  url: https://www.SmartCustody.com
 - title: "Projects"
   url: /projects.html
 - title: "Github"

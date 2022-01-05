@@ -23,7 +23,7 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 Our current projects include:
 
-* [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — reference apps that demonstrate the Gordian Principles.
+* [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — reference apps that demonstrate the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
    * [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS) — our premiere reference app, demonstrating how to closely hold a seed and still use it for active management of keys.
 * [Research](https://github.com/BlockchainCommons/Research) — Technical descriptions of our interoperable and open infrastructural and architectural specifications, such as Uniform Resources (URs), Sharded Secret Key Reconstruction (SSKR), and Bytewords.
 * [Crypto Commons Libraries](https://github.com/BlockchainCommons/crypto-commons) — reference libraries providing access to interoperable and open infrastructural and architectural specifications, including [Shamir's Secret Sharing](https://github.com/BlockchainCommons/bc-shamir), [Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/bc-sskr), [Uniform Resources (URs)](https://github.com/BlockchainCommons/bc-ur), [Lifehash](https://github.com/BlockchainCommons/bc-lifehash), [Bytewords](https://github.com/BlockchainCommons/bc-bytewords), and more.

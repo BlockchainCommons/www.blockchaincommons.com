@@ -285,6 +285,12 @@ URDemo is an app to demonstrate sending and receiving of URs using URKit written
 
 _Open infrastructure projects create resources that can be used by the entire internet community._
 
+### Esplora Server
+
+**Onion Address:** pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion/<br>
+
+Blockchain Commons Esplora server.
+
 ### Spotbit Server
 
 **Onion Address:** h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion<br>

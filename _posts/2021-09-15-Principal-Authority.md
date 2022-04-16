@@ -26,6 +26,16 @@ _—Christopher Allen_
 
 <hr>
 
+ > **ABSTRACT**: "For Self-Sovereign Identity (aka #SSI) to truly achieve international success, it needs to not just be embraced by the technological sector, but also to have a basis under law. Wyoming now offers the first definition of personal digital identity in the United States as "the intangible digital representation of, by and for a natural person, over which he has principal authority and through which he intentionally communicates or acts.
+  > 
+  > By saying that a Principal has the ultimate authority to control their digital identity, then that Principal may then delegate their authority under existing fiduciary Laws of Agency and Custom. Wyoming’s digital identity law is the first example of legislation that focuses on using these laws in this way, rather than under Property Law.
+  > 
+  > Principal Authority focuses not just on a single person’s authority to act digitally, but also on their ability to delegate to and require duties from other entities. In other words, these peer-to-peer relationships works within the context of a state who recognizes the concept of Principal Authority. Thus the use of Principal Authority to empower Self-Sovereign Identity provides a legal foothold for many of the original 10 #SSI principles. It also suggests five additional duties that are generally defined under the Laws of Agency to bedue from agents to Principals.
+  > 
+  > Wyoming's definition of personal digital identity helps us to lay more foundation for self-sovereign identity, but it’s still just a starting point. There may be other legal elements that can support this new definition of personal digital identity. These possibilities need to be studied. The Digital Identity subcommittee in Wyoming will continue to work with the state legislature, and welcomes discussions with other states and nations."
+
+<hr>
+
 In 2016, I wrote [_"The Path to Self-Sovereign
 Identity"_](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 to talk about the historic evolution from centralized identity to

@@ -117,5 +117,5 @@ And <a href="https://github.com/sponsors/BlockchainCommons">many others!</a>
 
 ## Become a Sponsor!
 
-Please support Blockchain Commons by becoming a [sustaining sponsor](https://github.com/sponsors/BlockchainCommons) or make a [BTCPay donation](https://btcpay.blockchaincommons.com/), or become a monthly [GitHub sponsor](https://github.com/sponsors/blockchaincommons.com).
+Please support Blockchain Commons by becoming a [sustaining sponsor](https://github.com/sponsors/BlockchainCommons) or make a [BTCPay donation](https://btcpay.blockchaincommons.com/), or become a monthly [GitHub sponsor](https://github.com/sponsors/blockchaincommons.com). (If you become a GitHub sponsor, be sure to mark it so that everyone can see it if you want to receive announcements, reports, and info on upcoming workshops and private events from us.)
 

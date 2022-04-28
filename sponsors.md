@@ -32,7 +32,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 <img src="images/sponsors/foundation-logo.jpg" width=500>
 
-**[Foundation Devices](https://foundationdevices.com/)** Foundation Devices is the creator of Passport, a next-gen hardware wallet that makes it easier than ever to securely store your Bitcoin. They believe that Bitcoin and decentralized technologies will empower the individual, leading to a better world where people control their own data and their own money. Foundation is building a new category of sovereign computing devices.\
+**[Foundation Devices](https://foundationdevices.com/)** Foundation Devices is the creator of Passport, a next-gen hardware wallet that makes it easier than ever to securely store your Bitcoin. They believe that Bitcoin and decentralized technologies will empower the individual, leading to a better world where people control their own data and their own money. Foundation is building a new category of sovereign computing devices.
 
 <img src="images/sponsors/unchained-capital.png" width=500>
 

@@ -15,7 +15,7 @@ Because Blockchain Commons is dedicated to bringing together a community of deve
 
 The Silicon Salon is scheduled for June 1st, running three hours beginning at 9am PT (noon ET, 6pm CET). Signups for the Salon are now available on Eventbrite, with tickets limited to the first 40 participants. 
 
-The first hour of the Salon will feature presentations from silicon manufacturers, crypto-wallet makers, and experts in the field about about how semiconductor design can support cryptographic functionality. Companies CrossBar and Proxy and experts Bob McElrath, Brian Bishop, and Christopher Allen are all scheduled to talk.
+The first hour of the Salon will feature presentations from silicon manufacturers, crypto-wallet makers, and experts in the field about about how semiconductor design can support cryptographic functionality. Companies CrossBar and Proxy and experts Bob McElrath, Bryan Bishop, and Christopher Allen are all scheduled to talk.
 
 The other two hours of the Salon will feature facilitated discussion of topics intended to determine the needs of the hardware-wallet community. Specific topics may include: the importance of MCU and secure enclave integration; the importance of secure and persistant storage; the need for physical countermeasures; the advantages of hardware and software cryptography; the use of open licenses for hardware; and discussions of how new semiconductor designs intended for cryptography can improve security and efficiency. We don't have all the answers: one of the most important goals of the salon is to find out the needs and thoughts of the community!
 

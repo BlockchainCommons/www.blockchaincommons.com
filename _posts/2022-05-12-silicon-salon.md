@@ -25,4 +25,4 @@ The other two hours of the Salon will feature facilitated discussion of topics i
 
 We hope you'll [join us](https://www.eventbrite.com/e/silicon-salon-hosted-by-blockchain-commons-tickets-338323152657) to learn a bit about what's already going on and to share your ideas, requirements, and expertise!
 
-If you are already a patron of Blockchain Commons on GitHub, please check your mail: we will be sending you a code automatically. If you don't receive it, contact us directly.
+We are charging US$25 to hold a space for this virtual event. If you are already a [Patron](https://www.blockchaincommons.com/sponsors.html) or a [monthnly sponsor on Github](https://github.com/sponsors/BlockchainCommons) of Blockchain Commons, please check your mail: we will be sending you a free invite code automatically. If you don't receive it, contact us directly.

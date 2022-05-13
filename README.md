@@ -14,6 +14,7 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 
+* **5/12/22:** [Announcing the Silicon Salon](https://www.blockchaincommons.com/salons/silicon-salon/)
 * **4/13/22:** [Q1, 2022 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q1-2022/)
 * **1/4/22:** [Blockchain Commons 2021 Overview](https://www.blockchaincommons.com/quarterlies/Yearly/)
 * **12/7/21:** [Blockchain Commons Launches LifeHash on the Web](https://www.blockchaincommons.com/specifications/Lifehash-info/)

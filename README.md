@@ -19,7 +19,7 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 * **1/4/22:** [Blockchain Commons 2021 Overview](https://www.blockchaincommons.com/quarterlies/Yearly/)
 * **12/7/21:** [Blockchain Commons Launches LifeHash on the Web](https://www.blockchaincommons.com/specifications/Lifehash-info/)
 
-_Older [Posts](https://www.blockchaincommons.com/posts/)._
+_[Complete Posts Archive](https://www.blockchaincommons.com/posts/)._
 
 ## Projects
 
@@ -27,7 +27,7 @@ Our current projects include:
 
 * [Gordian Products & Technologies](https://github.com/BlockchainCommons/Gordian) — reference apps that demonstrate the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
    * [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS) — our premiere reference app, demonstrating how to closely hold a seed and still use it for active management of keys.
-* [Research](https://github.com/BlockchainCommons/Research) — Technical descriptions of our interoperable and open infrastructural and architectural specifications, such as Uniform Resources (URs), Sharded Secret Key Reconstruction (SSKR), and Bytewords.
+* [Research](https://github.com/BlockchainCommons/Research) — Technical descriptions and docs for our interoperable and open infrastructural and architectural specifications, such as [Uniform Resources (URs)](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md), [Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-developers.md), [Bytewords](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-012-bytewords.md), and [Lifehash](https://github.com/BlockchainCommons/lifehash.info).
 * [Crypto Commons Libraries](https://github.com/BlockchainCommons/crypto-commons) — reference libraries providing access to interoperable and open infrastructural and architectural specifications, including [Shamir's Secret Sharing](https://github.com/BlockchainCommons/bc-shamir), [Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/bc-sskr), [Uniform Resources (URs)](https://github.com/BlockchainCommons/bc-ur), [Lifehash](https://github.com/BlockchainCommons/bc-lifehash), [Bytewords](https://github.com/BlockchainCommons/bc-bytewords), and more.
 * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — our educational course introducing blockchains and Bitcoin development.
 * [#SmartCustody](https://www.smartcustody.com/) — our educational course laying out the foundation of responsible key management.
@@ -61,11 +61,13 @@ For more information, see our [Posts](https://www.blockchaincommons.com/posts/) 
 
 Thank you to the following sponsors who have become [sustaining sponsors](https://github.com/sponsors/BlockchainCommons) of Blockchain Commons.
   
-[<img src="images/sponsors/bitmark-logo.png" width="45%" align="center">](https://bitmark.com/)
-[<img src="images/sponsors/blockchainbird.png" width="45%" align="center">](https://github.com/blockchainbird/bird)
+[<img src="images/sponsors/bitmark-logo.png" width="30%" align="center">](https://bitmark.com/)
+[<img src="images/sponsors/blockchainbird.png" width="30%" align="center">](https://github.com/blockchainbird/bird)
+[<img src="images/sponsors/crossbar.png" width="30%" align="center">](https://www.crossbar-inc.com/)
 
-[<img src="images/sponsors/foundation-logo.jpg" width="45%" align="center">](https://foundationdevices.com/)
-[<img src="images/sponsors/unchained-capital.png" width="45%" align="center">](https://unchained-capital.com/)
+[<img src="images/sponsors/foundation-logo.jpg" width="30%" align="center">](https://foundationdevices.com/)
+[<img src="images/sponsors/proxy.png" width="30%" align="center">](https://www.proxy.com/)
+[<img src="images/sponsors/unchained-capital.png" width="30%" align="center">](https://unchained-capital.com/)
 
 <br clear="all">[*Learn more about them.*](sponsors)
 

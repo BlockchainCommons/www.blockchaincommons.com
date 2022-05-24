@@ -55,6 +55,12 @@ Thanks to our other GitHub sponsors, including:
         <b>Flip Abignale</b><br>
     </td>    
     <td align="center" width="25%" style="border-bottom: 0px">
+      <a href="https://github.com/kanzure">
+        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/101238?v=4" width="75px"><br>
+      </a>
+        <b>Bryan Bishop</b><br>
+    </td>
+    <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/agropper">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/138849?v=4" width="75px"><br>
       </a>
@@ -66,25 +72,19 @@ Thanks to our other GitHub sponsors, including:
       </a>
         <b>Dario</b><br>
     </td>    
+  </tr>
+  <tr>
     <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/jlopp">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/288011?v=4" width="75px"><br>
       </a>
         <b>Jameson Lopp</b><br>
     </td>    
-  </tr>
-  <tr>
     <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/trentmc">
         <img class="avatar-person" src="https://avatars.githubusercontent.com/u/5305452?v=4" width="75px"><br>
       </a>
         <b>Trent McConaghy</b><br>
-    </td>
-    <td align="center" width="25%" style="border-bottom: 0px">
-      <a href="https://github.com/modl21">
-        <img class="avatar-person" src="https://avatars.githubusercontent.com/u/50266466?v=4" width="75px"><br>
-      </a>
-        <b>modl21</b><br>
     </td>
     <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/jesseposner">

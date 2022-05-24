@@ -63,6 +63,7 @@ This is a complete twenty-chapter course intended to teach system administrators
 <a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" border="1" width="200"></a>  
 **PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>
 **Book Site:** [WWW Site](https://www.smartcustody.com/)
+**New Scenarios:** [Multisig Scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md)
 **New Technologies:** [Articles](https://github.com/BlockchainCommons/SmartCustody#smartcustody-tools)
 **Case Studies:** [Overview](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Studies-Overview.md)
 **Repo:** [SmartCustody Repo](https://github.com/BlockchainCommons/SmartCustody), [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
@@ -72,7 +73,7 @@ This is a complete twenty-chapter course intended to teach system administrators
 
 _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
 
-A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), and our [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md) are our first content for that update.
+A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
 
 <hr>
 
@@ -109,7 +110,8 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 
 <a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
 
-**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Swift Library](https://github.com/BlockchainCommons/LifeHash), [Web Demo](https://github.com/BlockchainCommons/lifehash-web)<br>
+**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Swift Library](https://github.com/BlockchainCommons/LifeHash), [Web Demo Code](https://github.com/BlockchainCommons/lifehash-web)<br>
+**Web Demo:** [Lifehash.info](https://lifehash.info/)<br>
 **Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
 
 LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
@@ -160,34 +162,36 @@ The Gordian system is a suite of powerful open-source reference apps that demons
 
 Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It protects your cryptographic seeds while also making them available for easy use. Using Seed Tool, you can generate seeds and store them securely on your device. You can then derive and share multi-signature signing and verification keys from those seeds or alternatively sign PSBTs directly from the app. Sophisticated backup procedures include printed pages and Sharded Secret Key Reconstruction ([SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md#sharded-secret-key-reconstruction-sskr)) — which lets you split your seed into pieces and send them to trusted parties, who can send them back to you in an emergency for seed recovery. You can even use an entirely offline device (no internet access) to store your seeds and use QR codes to exchange necessary information with online devices running compatible wallet or signing software. A complete [manual](https://github.com/BlockchainCommons/GordianSeedTool-iOS/blob/master/Docs/MANUAL.md) details its functionality.
 
-<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
-### Gordian Cosigner (Android, iOS, MacOS)
-
-**Repo:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
-**Status:** Varied
-
-Gordian Cosigner allows users to participate in a multisig by adding a signature to an otherwise unsigned or partially signed PSBT that was created on another device. It's largely intended as an offline signing tool, which allows signing without a direct connection to a full node: a wallet that can create PSBTs or another transaction coordinator service is needed to initiate a transaction –– such as the [Gordian system.](https://github.com/BlockchainCommons/Gordian). Its functionality has been somewhat superceded by the PSBT signing functionality of Gordian SeedTool.
-
 ### Gordian Server (MacOS)
 
 **Repo:** [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS)<br>
 **Status:** Feature-Complete
 
-Gordian Serverinstalls a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
+Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
+
+<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+### Gordian Cosigner (Android, iOS, MacOS)
+
+**Repo:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
+**Status:** Varied (Beta)
+
+Gordian Cosigner allows users to participate in a multisig by adding a signature to an otherwise unsigned or partially signed PSBT that was created on another device. It's largely intended as an offline signing tool, which allows signing without a direct connection to a full node: a wallet that can create PSBTs or another transaction coordinator service is needed to initiate a transaction –– such as the [Gordian system.](https://github.com/BlockchainCommons/Gordian). _Its functionality has been somewhat superceded by the PSBT signing functionality of Gordian Seed Tool._
 
 <a href="images/projects/Cosigner.png"><img src="images/projects/Wallet.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
 ### Gordian Wallet (iOS)
 
 **Repo:** [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
-**Status:** Early Beta
+**Status:** Beta
 
 Gordian Wallet demonstrates how to use the Torgapped Gordian architecture to connect a Wallet to a Bitcoin Core server such as **Gordian Server**, using the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md). It allows for multiple wallet templates, many of them supporting #SmartCustody, including: legacy, SegWit-compatible, and SegWit-native hot wallets using a single signature (seed on iOS device); a warm wallet using multisig (seed on iOS device, keys on full node, offline seed, etc.); or a number of cold wallet templates that leverage PSBTs (Partially Signed Bitcoin Transactions), such as cold offline seeds, third-party collaborative custody services, and various air-gapped hardware solutions using QR codes. Gordian Wallet can potentially support almost anything that can be described by a bitcoind descriptor.  ([It's meant to cut through a traditionally knotty problem in Bitcoin development.](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Why-Gordian.md)) 
+
+_Its functionality has been somewhat superceded by the PSBT signing functionality of Gordian Seed Tool._
 
 ### LetheKit (kit)
 
 <a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
 **Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
-**Status:** Late Alpha<br>
+**Status:** Beta<br>
 **Blog:** [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/apps/Releasing-LetheKit/) (10/28/20)
 
 LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the [mythological river](https://en.wikipedia.org/wiki/Lethe) of forgetfulness and oblivion.
@@ -195,21 +199,21 @@ LetheKit is a do-it-youself platform for performing various sensitive cryptograp
 ### Mori-CLI
 
 **Repo:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli)
-**Status:** Late Alpha
+**Status:** Alpha
 
 Mori-CLI proposes a way that a Bitcoin owner can leave his digital assets to his heirs in the event of death, in a decentralized way and with the least possible complication. It is an experimental project meant to extend concepts of #SmartCustody to inheritance.
 
 ### Spotbit (web)
 
 **Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)<br>
-**Status:** Late Alpha
+**Status:** Alpha (being refactored)
 
 Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
 
 ### Sweeptool-CLI
 
 **Repo:** [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
-**Status:** Late Alpha
+**Status:** Alpha
 
 Sweeptool connects to an Electrum server hosted by Blockstream or a server of your choice (including Esplora or Electrum server via Tor onion address) and synchronizes the list of transactions received and available UTXOs. Based on this information sweeptool produces a PSBT which can be signed by an offline signing device or by the tool itself.
 
@@ -221,11 +225,11 @@ _Developer projects create resources for use by engineers and programmers, inclu
 
 ### C Libraries
 
-**Repos:** [bc-crypto-base](https://github.com/BlockchainCommons/bc-crypto-base), [bc-shamir](https://github.com/blockchainCommons/bc-shamir/), [bc-sskr](https://github.com/BlockchainCommons/bc-sskr), [bc-bip39](https://github.com/BlockchainCommons/bc-bip39), [bc-ur](https://github.com/BlockchainCommons/bc-ur), and [bc-bytewords](https://github.com/BlockchainCommons/bc-bytewords)<br>
+**Repos:** [bc-crypto-base](https://github.com/BlockchainCommons/bc-crypto-base), [bc-bip39](https://github.com/blockchaincommons/bc-bip39), [bc-bytewords](https://github.com/BlockchainCommons/bc-bytewords), [bc-lifehash](https://github.com/BlockchainCommons/bc-lifehash), [bc-shamir](https://github.com/blockchainCommons/bc-shamir/), [bc-sskr](https://github.com/BlockchainCommons/bc-sskr), and [bc-ur](https://github.com/BlockchainCommons/bc-ur). <br>
 **Status:** Feature-complete beta
 
 Blockchain Commons offers a variety of C-language cryptographic libraries focused largely on wallet design, which can be used in your own projects. The current libraries include 
-reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), our [Shamir Secret Key Recovery (SSKR)](https://github.com/BlockchainCommons/bc-sskr) specification, and our [Uniform Resources (UR)](https://github.com/BlockchainCommons/bc-ur) specification. The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
+reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), our [Lifehash](https://github.com/BlockchainCommons/lifehash.info/blob/master/README.md), our [Shamir Secret Key Recovery (SSKR)](https://github.com/BlockchainCommons/bc-sskr) specification, and our [Uniform Resources (UR)](https://github.com/BlockchainCommons/bc-ur) specification. The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
 
 ### Bytewords-CLI
 
@@ -259,6 +263,7 @@ Musign is a CLI tool for signing and verifying messages with ECDSA and Schnorr u
 ### Seedtool-CLI
 
 **Repo:** [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)<br>
+**Web Pages:** [Web Demo](https://seedtool.info/)<br>
 **Status:** Feature-complete beta
 
 Seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
@@ -279,8 +284,7 @@ _Open infrastructure projects create resources that can be used by the entire in
 
 ### Esplora Server
 
-**Onion Address (http):** http://pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion/
-<br>
+**Onion Address (http):** http://pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion<br>
 **Onion Address (electrs):** pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion:50001<br>
 
 Blockchain Commons Esplora server.

@@ -4,13 +4,13 @@ hide_description: true
 permalink: /sponsors.html
 ---
 
-Blockchain Commons' mission is to advocats for human dignity online by enabling people to control their own digital destiny. We are proudly a "not-for-profit" social benefit corporation committed to open source, open development, and defensive patents.
+Blockchain Commons' mission is to advocate for human dignity online by enabling people to control their own digital destiny. We are proudly a "not-for-profit" social benefit corporation committed to open source, open development, and defensive patents.
 
 ## Why Sponsor?
 
 Our mission is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open, interoperable, secure, and compassionate infrastructural architectures, and on creating demand and peers for these systems.
 
-Your personal or corporate patronage can help us to further the development of these projects. Together, we can ensure that digital data is personally controlled in a way that supports independence, privacy, resilience, and openness, and with your gift, we too can remain independent while doing so. 
+Your personal or corporate patronage can help us to further the development of these projects. Together, we can ensure that digital data is personally controlled in a way that supports independence, privacy, resilience, and openness, and with your gift, we also can remain independent while doing so. 
 
 Please consider becoming a Patron of Blockchain Commons though ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
 
@@ -131,5 +131,5 @@ And <a href="https://github.com/sponsors/BlockchainCommons">many others!</a>
 
 ## Become a Sponsor!
 
-Please support Blockchain Commons by becoming a [sustaining sponsor](https://github.com/sponsors/BlockchainCommons) or make a [BTCPay donation](https://btcpay.blockchaincommons.com/), or become a monthly [GitHub sponsor](https://github.com/sponsors/blockchaincommons.com). (If you become a GitHub sponsor, be sure to mark it so that everyone can see it if you want to receive announcements, reports, and info on upcoming workshops and private events from us.)
+Please support Blockchain Commons by becoming a [GitHub sponsor](https://github.com/sponsors/BlockchainCommons) or by making a [BTCPay donation](https://btcpay.blockchaincommons.com/). (If you become a GitHub sponsor, be sure to mark it so that everyone can see it if you want to receive announcements, reports, and info on upcoming workshops and private events from us.)
 

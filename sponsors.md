@@ -122,7 +122,7 @@ Thanks to our other GitHub sponsors, including:
       <a href="https://github.com/LegReq">
         <img class="avatar-company" src="https://avatars.githubusercontent.com/u/68440292?v=4" width="75px"><br>
       </a>
-        <b>Legendary Requirements</b>
+        <b>LegReq</b>
     </td>
     <td align="center" style="border-bottom: 0px">
       <a href="https://github.com/tropicsquare">

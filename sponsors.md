@@ -73,9 +73,6 @@ Thanks to our other GitHub sponsors, including:
         <b>Jameson Lopp</b><br>
     </td>    
   </tr>
-</table>
-
-<table width="100%">
   <tr>
     <td align="center" width="25%" style="border-bottom: 0px">
       <a href="https://github.com/trentmc">
@@ -102,9 +99,6 @@ Thanks to our other GitHub sponsors, including:
         <b>Glenn Willen</b><br>
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
     <td align="center" style="border-bottom: 0px">
       <a href="https://github.com/avantibank">

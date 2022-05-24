@@ -42,7 +42,7 @@ We also offer services to the improve the security and infrastructure of the lar
 
 * Infrastructure — support of Tor exit nodes and other blockchain infrastructure & software.
 * Security Reviews — risk-based assessments of custody methodologies, operational security procedures, and layer-2 protocols such as payment channels.
-* Project Support — contractual support of our open source projects such as GordianWallet-iOS, GordianServer-MacOS, and #LetheKit.
+* Project Support — contractual support of our open-source projects such as Gordian Seed Tool and for our specs and libraries.
 
 If you are interested in working with us directly on a Security Review or Support for using a project with your business, please [contact us](mailto:team@blockchaincommons.com).
 

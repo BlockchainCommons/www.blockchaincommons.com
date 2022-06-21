@@ -24,7 +24,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 <img src="images/sponsors/chia-logo.png" width=500>
 
-[Chia Network](https://www.chia.net/) built a better blockchain to drive real-world use and application. Founded by Bram Cohen, inventor of BitTorrent, Chia provides a secure, sustainable and regulatory compliant blockchain setting the standard for the infrastructure of digital currency and inclusive access to global, decentralized finance. Through the innovative Proof of Space and Time consensus algorithm, Chia Network’s public, open-source blockchain leverages hard drive space to create the first new Nakamoto Consensus since Bitcoin in 2009.
+**[Chia Network](https://www.chia.net/)** built a better blockchain to drive real-world use and application. Founded by Bram Cohen, inventor of BitTorrent, Chia provides a secure, sustainable and regulatory compliant blockchain setting the standard for the infrastructure of digital currency and inclusive access to global, decentralized finance. Through the innovative Proof of Space and Time consensus algorithm, Chia Network’s public, open-source blockchain leverages hard drive space to create the first new Nakamoto Consensus since Bitcoin in 2009.
 
 <img src="images/sponsors/blockchainbird.png" width=500>
 

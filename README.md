@@ -32,6 +32,7 @@ Our current projects include:
 * [Crypto Commons Libraries](https://github.com/BlockchainCommons/crypto-commons) — reference libraries providing access to interoperable and open infrastructural and architectural specifications, including [Shamir's Secret Sharing](https://github.com/BlockchainCommons/bc-shamir), [Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/bc-sskr), [Uniform Resources (URs)](https://github.com/BlockchainCommons/bc-ur), [Lifehash](https://github.com/BlockchainCommons/bc-lifehash), [Bytewords](https://github.com/BlockchainCommons/bc-bytewords), and more.
 * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) — our educational course introducing blockchains and Bitcoin development.
 * [#SmartCustody](https://www.smartcustody.com/) — our educational course laying out the foundation of responsible key management.
+* [**Non-partisan Advocacy**](https://github.com/BlockchainCommons/Testimony/blob/master/README.md) — promotion of legislation protecting technology & digital civil rights to ensure secure & compassionate digital infrastructure.
 
 This video overviews many of our specifications and other initiatives:
 

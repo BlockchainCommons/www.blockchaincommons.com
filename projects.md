@@ -19,7 +19,7 @@ Blockchain Commons is working on a large variety of projects all intended to imp
   * [Research Papers](#research-papers)
   * [Lifehash Specification](#lifehash-specification)
   * [SSKR Specification](#sskr-specification)
-  * [Uniform Resource (UR) Specification](#uniform-resource--ur--specification)
+  * [Uniform Resource (UR) Specification](#uniform-resource-ur-specification)
 - [Gordian Reference Projects](#gordian-reference-projects)
   * [The Core Gordian System (web + iOS)](#the-core-gordian-system--web---ios-)
   * [Gordian Seed Tool (iOS)](#gordian-seed-tool--ios-)

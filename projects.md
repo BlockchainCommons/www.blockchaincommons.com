@@ -12,8 +12,8 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 
 - [Educational Projects](#educational-projects)
   * [Learning Bitcoin from the Command Line](#learning-bitcoin-from-the-command-line)
-  * [#SmartCustody](#-smartcustody)
-- [Architectures & Specifications](#architectures---specifications)
+  * [#SmartCustody](#smartcustody)
+- [Architectures & Specifications](#architectures--specifications)
   * [Gordian Architecture](#gordian-architecture)
   * [Torgap Architecture](#torgap-architecture)
   * [Research Papers](#research-papers)

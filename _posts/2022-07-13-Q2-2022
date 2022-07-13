@@ -1,0 +1,127 @@
+---
+title: "2022 Q2 Blockchain Commons Report"
+excerpt_separator: "<!--more-->"
+categories:
+  - Quarterlies
+tags:
+  - Community
+  - Gordian Architecture
+  - Interns
+  - Gordian Server
+  - Legislation
+  - Seed Tool
+  - Sponsors
+  - Smart Custody
+image: https://www.blockchaincommons.com/images/2022-Q2-report.jpg
+---
+
+![](https://www.blockchaincommons.com/images/2022-Q2-report.jpg)
+
+This quarter Blockchain Commons had one of its biggest events ever, the [Silicon Salon](https://www.siliconsalon.info/), but there was lots more going on:
+
+## Major Works
+
+**Growing the Community:**
+
+* Welcome to Chia
+* The Silicon Salon
+
+**Evolving Our References:**
+
+* Gordian Seed Tool 1.5
+* Gordian Server 1.0.2
+* Gordian QR Tool Deprecation
+* Lifehash for Python
+
+**Evolving Smart Custody:**
+
+* Full Draft of Multisig
+* Outline for #SmartCustody 2.0
+
+**Welcome to New Interns:**
+
+* The Third Cohort of Blockchain Commons Interns
+* Learning Bitcoin Pre-Updates
+
+**Working with Wyoming:**
+
+* e-Residency
+* WRDAs
+* Private Key Protections
+
+**Looking Toward the Future:**
+
+* CSR
+* Hardware API
+* Reference Upgrades
+
+<div class="bold--excerpt--node">Read More</div>
+
+<!--more-->
+
+## Growing the Community
+
+The Blockchain Commons community continues to grow to the benefit of all of our members.
+
+**Welcome to Chia.** A big welcome to our newest sustaining sponsor, [Chia Network](https://www.chia.net/), Bram Cohen's blockchain company. Chia joined mainly because of what we're already doing, including our work on advocacy and our history with DIDs. We're thrilled to have them not just because of the interest in our current efforts, but also because of their cutting-edge blockchain work, including the innovative Chialisp smart-contract language, work with pairing-based cryptography, and their [Proofs of Space and Time algorithm](https://www.chia.net/greenpaper/). Blockchain Commons supports the heterogeneity of the blockchain space. We want to make wallets work with multiple blockchains that are built in multiple ways, and having someone like Chia onboard makes that possible.
+
+**The Silicon Salon.** Community growth allows us to hold events to bring that community to share their knowledge. Thus, our first quarter welcoming of [CrossBar](https://www.crossbar-inc.com/) and [Proxy](https://www.proxy.com/) allowed us to hold our first Silicon Salon, where semiconductor manufacturers, hardware-wallet makers, and other interested parties joined together to discuss the future of semiconductor design and how it can better support cryptographic functionality. The [Silicon Salon website](https://www.siliconsalon.info/) contains complete information on the June 1st event, including [videos, slides, and transcripts of all the presentations](https://www.siliconsalon.info/presentations/) as well as an [overview of the discussions](https://www.siliconsalon.info/#discussions) with quotes.
+
+![](https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/silicon-salon.jpg)
+
+## Evolving our References
+
+Our reference apps demonstrate how the Gordian principles can be used in functional applications; while our reference libraries make it easy to use our specifications. We continue to upgrade and expand both with the support of our community — and occasionally deprecate some when they've served their purpose.
+
+**Gordian Seed Tool 1.5.** We upgraded our premiere Gordian app, [Gordian Seed Tool](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229), to 1.5. This upgrade implemented new experimental functionality related to NFC Tags. You can now write to and read from NFCs by just tapping them with your phone. There are still a number of questions about NFC security, but we're always interested in testing out the newest technology and considering how it could integrate into our secure architecture — and that type of experimentation is one of the major purposes of our references.
+
+**Gordian Server 1.0.2.** One of the challenges of producing an application like [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS), which makes it easy to install and use Bitcoin Core on your Mac, is that we're vulnerable to any changes in Bitcoin Core itself. Some minor changes in the file names for Bitcoin Core 23.0 required us to do some updates to both Gordian Server and our [Bitcoin Standup Scripts](https://github.com/BlockchainCommons/Bitcoin-Standup-Scripts), but everything is now up-to-date, allowing easy installation of a Bitcoin Server that will allow you to work with new Bitcoin technologies such as Taproot and Schnorr signatures.
+
+**Gordian QR Tool Deprecation.** The maintenance load for apps results in us occasionally deprecating something, and that was the case this quarter for our QR Tool app. We originally released Gordian QR Tool to demonstrate the Gordian principles of resilience and independence in a simple, easy-to-use way. This included a way to store seeds and other vulnerable data as QR codes in a secure vault. However, Gordian Seed Tool has evolved so far since the debut of the two apps that we've decided QR Tool doesn't hold many advantages any more. Thus, we've deprecated QR Tool so that we can instead focus our attention on Seed Tool.
+
+**Lifehash for Python.** Thanks to the support of our sustaining sponsor [Cramium Solutions](https://cramiumsolutions.com/) and the work of long-time Blockchain Common contributor & supporter [Bryan Bishop](https://github.com/kanzure), Blockchain Commons is now able to offer a [Python implementation of our Lifehash library](https://github.com/BlockchainCommons/bc-lifehash-python). [Lifehash](https://github.com/BlockchainCommons/lifehash.info#readme) is a Blockchain Commons specification that creates beautiful visual hashes that make it easy to identify data at a glance. Thanks to Cramium for making this methodology available to Python programmers!
+
+## Evolving Smart Custody
+
+Smart Custody is one of Blockchain Commons' oldest projects, and it continued to see new life in the last quarter.
+
+**Full Draft of Multisig.** We have completed the first draft of our new [multisig scenario for self-sovereign #SmartCustody](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md). Since our rough draft last quarter, we've added dozens of illustrations and responded to reviews, creating a new draft that's hopefully more usable and definitely more accurate. Though we're thrilled to now be able to advocate for a multisig solution for self-custody, in the process we've learned both that its complexity can be intimidating and that the specificity of required devices can make it unapproachable. So expect both more expansions in the future (to support more variants), as well as some bigger Blockchain Commons projects that will start to demonstrate how we can make multisigs _simple_.
+
+**Outline for #SmartCustody 2.0.** We've been thinking about a second edition of our 
+[Smart Custody book](https://bit.ly/SmartCustodyBookV101) for a few years and have recently created [a new outline for SmartCustody 2.0](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md). We're not quite sure when we'll be able to dedicate time for it, but these are our current thoughts on documenting SmartCustody for the future. In the meantime, take a look at our [Smart Custody Repo](https://github.com/BlockchainCommons/SmartCustody#smartcustody-scenarios) for the scenarios, tools, and case studies that we've written in the last year and which will eventually appear as modules in the #SmartCustody 2.0 book.
+
+![](https://www.blockchaincommons.com/images/multisig-scenario.jpg)
+
+## Welcome to New Interns
+
+For the third year in a row we're running a Blockchain Commons virtual-intern program this summer. 
+
+**The Third Cohort of Blockchain Commons Interns.** Welcome to our latest cohort of Blockchain Commons interns, which this year includes 16 interns out of twice that many applications. We've always wanted to broaden our internships to go beyond just software engineers, and we've been pleased with the success of that this year, with a pre-law intern now leading a whole group in the support of our advocacy work in Wyoming. Projects our interns are working on include: the support for that legislative work in Wyoming and elsewhere; expanding Learning Bitcoin from the Command Line for new Taproot and Schnorr technology; exploring the [BIP-322 proposal](https://github.com/bitcoin/bips/blob/master/bip-0322.mediawiki) to leverage Bitcoin Script to sign arbitrary messages; updating [Spotbit](https://github.com/BlockchainCommons/spotbit); and writing use cases for human-rights workers such as emergency and medical personnel, monitors, press, and advocates. We look forward to reporting back on these projects at the end of summer.
+
+**Learning Bitcoin Pre-Updates.** To get the Learning Bitcoin course ready for our newest interns (and for their own work on it), we updated Learning Bitcoin from the Command Line for all recent PRs and to address all recent issues (most of which had to do with updates to Bitcoin Core over the last year). Thank you to everyone who has helped us to keep the Learning Bitcoin module up-to-date and correct over the years! We haven't flagged an official release yet, as we're hoping to at the end of summer, but the Learning Bitcoin course should now be more accurate and up-to-date with Bitcoin Core 23.0 commands.
+
+## Working with Wyoming
+
+We've been thrilled to continue working with the Wyoming legislature, with support from our new interns. Christopher Allen and one of our interns gave new testimony on a variety of topics this June, with support from the legislative intern team.
+
+**E-Residency.** We've spoken several times in Wyoming to advocate for e-residency, which will allow corporations to take advantage of the excellent digital business & privacy laws that Wyoming has been advancing in the last several years. A local paper gave [good coverage](https://www.thesheridanpress.com/news/local/wyoming-considering-following-in-estonias-footsteps-with-new-program/article_fa2161e0-ed7f-11ec-b22a-db4cbe8144e0.html) on the topic.
+
+**WRDAs.** We also advanced new ideas on Wyoming Registered Digital Assets (WRDAs), which will improve Wyoming's treatment of digital assets by allowing for perfection under the UCC. Here's our [slides on the topic](https://wyoleg.gov/InterimCommittee/2022/S19-2022061408-03WyomingWRDASlides.pdf).
+
+**Private Key Protections.** Finally, our most important testimony for Wyoming may have been about protecting private keys from disclosure by courts. The problem is that courts are current endangering digital assets, information, and identity by demanding the turnover of private keys, often as part of pretrial motions. They're not the proper tool, and they're not being used in the proper way. Because this is such an important topic, we're currently working on a position paper that will better explain why private keys are not appropriate for this usage.
+
+![](https://www.blockchaincommons.com/images/wyoming-wrda.jpg)
+
+## Looking toward the Future
+
+A lot of our work in Q2 was forward-looking, developing specs and architectures that we hope will be the next generation of responsible key management on the internet.
+
+We expect to advance three major projects in the third quarter based on this work.
+
+**CSR.** Collaborative Seed Recovery (CSR) is the first step in the development of our next-generation Smart Custody architecture. The [CSR Project](https://github.com/BlockchainCommons/Community/issues/149) is intended to automate the sharding and recovery of seeds and other essential metadata, with options to support shard-recovery services: interopable services will hold envelopes of data containing shards of the data required for wallet recovery and only return them to users following sufficient authentication. This work is currently being done in conjunction with Bitmark and Proxy.
+
+**Hardware API.** The varied APIs of hardware devices can cause numerous integration problems for developers (the so-called "NASCAR Problem". Thus our [Hardware API Project](https://github.com/BlockchainCommons/Community/issues/158) seeks to develop a  unified wallet architecture & APIs that will work with a variety kinds of devices. We also plan to leverage URs and crypto-requests and to support device capability discovery. The first steps will be analyzing and assessing current hardware APIs, abstracting out functionality, and simultaneously leveraging new work such as that being done by CrossBar for silicon support. This work is currently being done in conjunction with CrossBar and Proxy while Blockchain Commons contributes specs and coordination.
+
+**Reference Upgrades.** [Automated multisig round-trips](https://github.com/BlockchainCommons/Community/issues/159) are meant to expand the work Blockchain Commons has already done on Uniform Resources (URs) by using `crypto-requests` to automate the creation and usage of a classic (pre-Taproot) Bitcoin multisig. This will be done through the development of a new reference app, Gordian Coordinator, which will be a transaction coordinator that holds no private keys, and through the expansion of Gordian Seed Tool. Our ultimate goal is to demonstrate the ease of use possible with a fully integrated system of `crypto-requests`. 
+
+We're looking forward to the development of these exciting new architectures and designs for the future!

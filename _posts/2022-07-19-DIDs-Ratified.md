@@ -31,4 +31,4 @@ Besides his work on the DID spec itself, Christopher is also one of the architec
 
 Blockchain Commons was founded in 2018 to support the ideas and community that came out of Rebooting the Web of Trust. Though Blockchain Commons proper has not produced much work on DIDs, except as an educational topic for our interns, it continues to be a future focus for us, with the idea of decentralized identifiers remaining a crucial assumption for our Gordian architecture. Christopher also remains a co-chairman of the W3C Credentials Community Group and has advocated for the DID spec throughout its ratification process. Our expertise with DIDs and with BTCR leave this all as an open opportunity for Blockchain Commons. If you've considered becoming a [sponsor](https://github.com/sponsors/BlockchainCommons) of Blockchain Commons and are interested in DID work, please [drop us a line](mailto:team@blockchaincommons.com) to discuss the topic!
 
-_Illustration drawn from [DID v1.0 spec](https://www.w3.org/TR/did-core/)._
+_Illustrations drawn from [DID v1.0 spec](https://www.w3.org/TR/did-core/)._

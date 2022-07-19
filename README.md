@@ -14,11 +14,9 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 
+* **7/19/22:** [Seven Years Later: DIDs Have Been Ratified](https://www.blockchaincommons.com/specifications/DIDs-Ratified/)
 * **7/14/22:** [Q2, 2022 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q2-2022/)
 * **6/7/22:** [Silicon Salon a Success!](https://www.blockchaincommons.com/salons/silicon-salon-posted/)
-* **5/12/22:** [Announcing the Silicon Salon](https://www.blockchaincommons.com/salons/silicon-salon/)
-* **4/13/22:** [Q1, 2022 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q1-2022/)
-* **1/4/22:** [Blockchain Commons 2021 Overview](https://www.blockchaincommons.com/quarterlies/Yearly/)
 
 _[Complete Posts Archive](https://www.blockchaincommons.com/posts/)._
 

@@ -110,7 +110,7 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 
 <a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
 
-**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Swift Library](https://github.com/BlockchainCommons/LifeHash), [Web Demo Code](https://github.com/BlockchainCommons/lifehash-web)<br>
+**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Python Library](https://github.com/BlockchainCommons/bc-lifehash-python), [Swift Library](https://github.com/BlockchainCommons/LifeHash), [Web Demo Code](https://github.com/BlockchainCommons/lifehash-web)<br>
 **Web Demo:** [Lifehash.info](https://lifehash.info/)<br>
 **Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
 

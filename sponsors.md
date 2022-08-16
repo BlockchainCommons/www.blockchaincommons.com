@@ -122,12 +122,6 @@ Thanks to our other GitHub sponsors, including:
       </a>
         <b>LegReq</b>
     </td>
-    <td align="center" style="border-bottom: 0px">
-      <a href="https://github.com/tropicsquare">
-        <img class="avatar-company" src="https://avatars.githubusercontent.com/u/65196119?v=4" width="75px"><br>
-      </a>
-        <b>TropicSquare</b>
-    </td>
   </tr> 
 </table>
 

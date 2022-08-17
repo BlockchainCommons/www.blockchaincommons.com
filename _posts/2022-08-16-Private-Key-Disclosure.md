@@ -1,4 +1,3 @@
-
 ---
 title: "Private Key Disclosure: A Needless Threat to Rights and Assets"
 excerpt_separator: "<!--more-->"

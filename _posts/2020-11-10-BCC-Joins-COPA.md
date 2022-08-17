@@ -31,4 +31,4 @@ Fortunately, the entire industry is moving toward an understanding of the proble
 
 Allen's commitment to an open and defensive patent policy has continued at Blockchain Commons, and so he's delighted that Square has used its prominent position in the industry to spearhead the COPA initiative, ensuring continued innovation in the blockchain, Bitcoin, and cryptocurrency fields, without the fear of frivolous patent lawsuits. This is why Blockchain Commons joined COPA as an early adopter.
 
-More information on COPA is available at [open-patent.org](https://open-patent.org/); more information on Blockchain Commons is available at [blockchaincommons.com](https://www.blockchaincommons.com/).
+More information on COPA is available at [https://www.opencrypto.org/](https://www.opencrypto.org/); more information on Blockchain Commons is available at [blockchaincommons.com](https://www.blockchaincommons.com/).

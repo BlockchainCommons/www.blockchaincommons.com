@@ -10,6 +10,12 @@ tags:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
 
+> **ABSTRACT:** Digital assets are only as safe as their private keys. Securing private keys through responsible key management has thus been a major focus at Blockchain Commons, under our [#SmartCustody](https://www.smartcustody.com/) initiative. Unfortunately, securing keys ultimately isn't just a logistical problem or a technical problem. It's also a legal problem because US courts have inserted themselves into the process by demanding keys, often as a part of discovery.
+>
+> Turning over keys to courts not only introduces major threats to the digital assets controlled by the keys, but it also fundamentally misunderstands the purpose and use of private keys. There are better tools for court-based discovery, public keys prime among them. There are better, more traditional ways to enforce the turn over of assets. Requiring the disclosure of private keys instead is a needless threat not just to digital assets, but to our rights as well.
+
+<hr>
+
 Increasingly, attorneys in the United States are asking courts to force the disclosure of private keys as part of discovery or other pre-trial motions, and increasingly courts are acceding to those demands. Though this is a relatively recent phenomenon, it's part of a larger problem of law enforcement seeking back doors to cryptography that goes back at least to the U.S. government's [failed introduction of the Clipper Chip](https://www.eff.org/deeplinks/2015/04/clipper-chips-birthday-looking-back-22-years-key-escrow-failures) in 1993.
 
 ![](/images/posts/sink-clipper.jpg)

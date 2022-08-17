@@ -4,6 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Articles
 tags:
+  - Advocacy
   - Legislation
   - Self-Sovereign Identity
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg

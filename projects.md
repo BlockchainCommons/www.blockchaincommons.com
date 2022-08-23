@@ -23,7 +23,7 @@ _The Gordian system is the heart of Blockchain Commons' work_. It's intended to 
 The Gordian Architecture puts the Gordian Principles into use through an overall design that covers everything that from the high-level architecture of a Gordian ecosystem through the specification and UX best practices that make it possible.
 
 <center>
-  <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="/Images/video-tech-overview.png"></a>
+  <a href="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/video-tech-overview.png"></a>
 </center>
 
 ### Gordian Reference App: Coordinator

@@ -14,7 +14,7 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
 
-_The Gordian system is the heart of Blockchain Commons' work_. It's intended to support the self-sovereign control of digital assets in a way that's safe, secure, and private by enabling responsible key management. It's built on a foundation of Principles that have been fulfilled in an Architecture that is embodied in Reference Apps and supported by Reference Libraries._
+_The Gordian system is the heart of Blockchain Commons' work. It's intended to support the self-sovereign control of digital assets in a way that's safe, secure, and private by enabling responsible key management. It's built on a foundation of Principles that have been fulfilled in an Architecture that is embodied in Reference Apps and supported by Reference Libraries._
 
 ### The Gordian Architecture
 
@@ -66,6 +66,74 @@ Spotbit is a portable Flask API for Bitcoin price data and candles. It can eithe
 **Research Repos:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli), [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
 
 Several legacy reference apps were initially released to demonstrate specific Principles but have since become outdated or superceded by other application. Several reserach reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
+
+## Gordian Reference Libraries
+
+_The Gordian Reference Libraries adopt Gordian specifications for programming use. In addition, CLI apps and web apps offer other ways to demonstrate their application.
+
+### Crypto Commons Libraries
+
+**Repos:** [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries)
+
+All of the Gordian reference libraries can be found linked from the Crypto Commons repo. Libraries are originally coded in C or C++, but the repo also contains implementations of some libraries for Java, Python, Swift, or other languages.
+
+### Gordian Reference CLI Apps
+
+**CLI Repos:** [bytewords-cli](https://github.com/BlockchainCommons/bytewords-cli), [keytool-cli](https://github.com/BlockchainCommons/keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)
+
+Blockchain Commons also provides many references apps that are meant to be run from the command line, which even more explicitly exercise and demonstrate our reference libraries.
+
+<a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" border="1" width="500"></a>
+
+### Gordian Web Apps
+
+**LifeHash Demo:** [Lifehash Demo](https://lifehash.info/), [Lifehash Repo](https://github.com/BlockchainCommons/lifehash.info)
+**Seedtool Demo:** [Seedtool Demo](https://seedtool.info/), [Seedtool Repo](https://github.com/BlockchainCommons/seedtool.info)
+
+Some Blockchain Commons apps have also been converted to web demos.
+
+## Gordian Specifications
+
+The Gordian architecture is ultimately built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html).
+
+### Research Papers
+
+**Repo:** [Research](https://github.com/BlockchainCommons/Research)<br>
+**Video:** [Overview](https://www.youtube.com/watch?v=RYgOFSdUqWY)
+
+Much of Blockchain Commons' work on specifications begins with Research papers, which describe and detail the use of a new, interoperable specification for blockchain and Bitcoin.
+
+### Lifehash Specification
+
+<a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
+
+**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Python Library](https://github.com/BlockchainCommons/bc-lifehash-python), [Swift Library](https://github.com/BlockchainCommons/LifeHash), [Web Demo Code](https://github.com/BlockchainCommons/lifehash-web)<br>
+**Web Demo:** [Lifehash.info](https://lifehash.info/)<br>
+**Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
+
+LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
+
+LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance.
+
+### SSKR Specification
+
+**Paper:** [UR Type Definition for Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-011-sskr.md)<br>
+**Libraries:** [C library](https://github.com/BlockchainCommons/bc-sskr)<br>
+**Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
+**Documents:** [SSKR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-overview.md), [SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), [SSKR Dangers](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md)
+
+Blockchain Commons SSKR is an implementation of Sharded Secret Key Reconstruction (SSKR) for use in Blockchain Commons Software Projects. It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key, to improve Resilience.
+
+### Uniform Resource (UR) Specification
+
+**Papers:** [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), [Registry of UR Types](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md), [UR Type Definitions for Transactions Between Airgapped Devices](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md), and others<br>
+**Libraries:** [C++ library](https://github.com/BlockchainCommons/bc-ur), [Java library](https://github.com/BlockchainCommons/bc-ur-java)<br>
+**Documents:** [UR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-overview.md), [UR Introduction](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md)<br>
+**Blog:** [Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs & More](https://www.blockchaincommons.com/specifications/Blockchain-Commons-URs-Support-Airgapped-PSBTs/) (12/8/20)
+
+UR stands for Uniform Resources, a method for encoding structured binary data in plain-text strings that are also well-formed URIs. It's an interoperability specification that allows for the reliable, typed transfer of data and was designed in particular to allow for reliable transmission of crypto-seeds, crypto-keys, PSBTs, and other data related to cryptocurrency.
+
+One of the particular advantages of UR is careful integration with QR codes, a prime method for transmitting data across airgaps. URs are built to be efficient when encoded as QRs. In addition, multi-part URs allow for the creation of animated QRs, overall containing more information than any single QR could have.
 
 ## Contents
 
@@ -158,44 +226,7 @@ The Gordian architecture calls for paritioned services, where apps and microserv
 
 Torgap is an element of the Gordian Architecture that ensures that apps and microservices that are connected through internet links do so through Tor, ensuring the partitioning of the services and also supporting the privacy of the user.
 
-### Research Papers
 
-**Repo:** [Research](https://github.com/BlockchainCommons/Research)<br>
-**Video:** [Overview](https://www.youtube.com/watch?v=RYgOFSdUqWY)
-
-Much of Blockchain Commons' work on specifications begins with Research papers, which describe and detail the use of a new, interoperable specification for blockchain and Bitcoin.
-
-### Lifehash Specification
-
-<a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
-
-**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Python Library](https://github.com/BlockchainCommons/bc-lifehash-python), [Swift Library](https://github.com/BlockchainCommons/LifeHash), [Web Demo Code](https://github.com/BlockchainCommons/lifehash-web)<br>
-**Web Demo:** [Lifehash.info](https://lifehash.info/)<br>
-**Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
-
-LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
-
-LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance.
-
-### SSKR Specification
-
-**Paper:** [UR Type Definition for Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-011-sskr.md)<br>
-**Libraries:** [C library](https://github.com/BlockchainCommons/bc-sskr)<br>
-**Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
-**Documents:** [SSKR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-overview.md), [SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), [SSKR Dangers](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md)
-
-Blockchain Commons SSKR is an implementation of Sharded Secret Key Reconstruction (SSKR) for use in Blockchain Commons Software Projects. It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key, to improve Resilience.
-
-### Uniform Resource (UR) Specification
-
-**Papers:** [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), [Registry of UR Types](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md), [UR Type Definitions for Transactions Between Airgapped Devices](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md), and others<br>
-**Libraries:** [C++ library](https://github.com/BlockchainCommons/bc-ur), [Java library](https://github.com/BlockchainCommons/bc-ur-java)<br>
-**Documents:** [UR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-overview.md), [UR Introduction](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md)<br>
-**Blog:** [Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs & More](https://www.blockchaincommons.com/specifications/Blockchain-Commons-URs-Support-Airgapped-PSBTs/) (12/8/20)
-
-UR stands for Uniform Resources, a method for encoding structured binary data in plain-text strings that are also well-formed URIs. It's an interoperability specification that allows for the reliable, typed transfer of data and was designed in particular to allow for reliable transmission of crypto-seeds, crypto-keys, PSBTs, and other data related to cryptocurrency.
-
-One of the particular advantages of UR is careful integration with QR codes, a prime method for transmitting data across airgaps. URs are built to be efficient when encoded as QRs. In addition, multi-part URs allow for the creation of animated QRs, overall containing more information than any single QR could have.
 
 <hr>
 
@@ -215,42 +246,7 @@ _Developer projects create resources for use by engineers and programmers, inclu
 Blockchain Commons offers a variety of C-language cryptographic libraries focused largely on wallet design, which can be used in your own projects. The current libraries include 
 reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), our [Lifehash](https://github.com/BlockchainCommons/lifehash.info/blob/master/README.md), our [Shamir Secret Key Recovery (SSKR)](https://github.com/BlockchainCommons/bc-sskr) specification, and our [Uniform Resources (UR)](https://github.com/BlockchainCommons/bc-ur) specification. The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
 
-### Bytewords-CLI
 
-**Repo:** [bytewords-cli](https://github.com/BlockchainCommons/bytewords-cli)
-**Status:** Feature-complete beta
-
-Bytewords is a command-line tool that can be used to translate to and from various [Bytewords](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-012-bytewords.md) formats, exercising the [bc-bytewords C library](https://github.com/blockchaincommons/bc-bytewords).
-
-### Keytool-CLI
-
-<a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" border="1" width="500"></a>
-**Repo:** [keytool-cli](https://github.com/BlockchainCommons/keytool-cli)<br>
-**Status:** Feature-complete beta
-
-Keytool is a command-line tool that implements a data flow graph for deriving cryptocurrency keys and addresses. Any of the nodes in the graph can be assigned and any set of nodes can be derived as long as their dependencies are met. It also acts as a showcase for Blockchain Commons' C libraries, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
-
-### LifeHashTool-CLI
-
-**Repo:** [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool)<br>
-**Status:** Late Alpha
-
-LifeHashTool is a command line tool written in Swift that generates [LifeHash](https://github.com/BlockchainCommons/LifeHash) images as PNG files and is distributed as a Swift package.
-
-### Musign-CLI
-
-**Repo:** [Musign-CLI](https://github.com/BlockchainCommons/musign-cli)
-**Status:** Research
-
-Musign is a CLI tool for signing and verifying messages with ECDSA and Schnorr using libsecp256k1.
-
-### Seedtool-CLI
-
-**Repo:** [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)<br>
-**Web Pages:** [Web Demo](https://seedtool.info/)<br>
-**Status:** Feature-complete beta
-
-Seedtool is a command-line tool for creating and transforming cryptographic seeds of the sort commonly used by blockchain applications. It exercises the various cryptographic C libraries created by Blockchain Commons, such as our reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), [Shamir Secret Key Recovery](https://github.com/BlockchainCommons/bc-sskr), and [Uniform Resources](https://github.com/BlockchainCommons/bc-ur).
 
 
 ### UR Demo

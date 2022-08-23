@@ -5,7 +5,7 @@ hide_description: true
 permalink: /vision.html
 ---
 
-Blockchain Commons advocates for human dignity online by enabling people to control their own digital destiny.
+Blockchain Commons advocates for the creation of open, interoperable, secure & compassionate digital infrastructure to enable people to control their own digital destiny and to maintain their human dignity online.
 
 # Objectives
 
@@ -29,6 +29,7 @@ To accomplish this Vision, Blockchain Commons has laid out four objectives:
 3. **Demand:** Define and advocate a new techno-social contract of decentralized infrastructure, based on human dignity, respect for the individual, and mutual benefit for all contributors.
 
    * We work with regulators & legislators to support policies that enable compassionate decentralized approaches to cryptographic assets and digital identity through testimony and technical advice.
+   * Our advocacy is non-partisan and focuses on technological and digital civil rights.
    * Our [Testimony](https://github.com/BlockchainCommons/Testimony) to various agencies records much of our work to date.
 
 

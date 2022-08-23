@@ -68,7 +68,7 @@ Thank you to the following sponsors who have become [sustaining sponsors](https:
 [<img src="images/sponsors/chia-logo.png" width="30%" align="center">](https://www.chia.net/)
 
 [<img src="images/sponsors/crossbar.png" width="30%" align="center">](https://www.crossbar-inc.com/)
-[<img src="images/sponsors/foundation-logo.jpg" width="30%" align="center">](https://foundationdevices.com/)
+[<img src="images/sponsors/foundation-logo.png" width="30%" align="center">](https://foundationdevices.com/)
 [<img src="images/sponsors/proxy.png" width="30%" align="center">](https://www.proxy.com/)
 
 [<img src="images/sponsors/unchained-capital.png" width="30%" align="center">](https://unchained-capital.com/)

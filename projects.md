@@ -8,14 +8,7 @@ Blockchain Commons produces projects that fulfill its [Vision](https://www.block
 
 Blockchain Commons is working on a large variety of projects all intended to improve the entirety of the community who is using blockchain technology and developing it.
 
-
-## Contents
-
-- [The Gordian System](#the-gordian-system)
-- [Gordian Reference Libraries](#gordian-reference-libraries)
-- [Gordian Specifications](#gordian-specifications)
-- [Educational Projects](#educational-projects)
-- [Open Infrastructure Projects](#open-infrastructure-projects)
+{% include toc %}
 
 ## The Gordian System
 

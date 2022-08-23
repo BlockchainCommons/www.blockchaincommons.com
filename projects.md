@@ -10,6 +10,16 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 
 <hr>
 
+## Contents
+
+- [The Gordian System](#the-gordian-system)
+- [Gordian Reference Libraries](#gordian-reference-libraries)
+- [Gordian Specifications](#gordian-specifications)
+- [Educational Projects](#educational-projects)
+- [Open Infrastructure Projects](#open-infrastructure-projects)
+
+<hr>
+
 ## The Gordian System
 
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
@@ -135,42 +145,6 @@ UR stands for Uniform Resources, a method for encoding structured binary data in
 
 One of the particular advantages of UR is careful integration with QR codes, a prime method for transmitting data across airgaps. URs are built to be efficient when encoded as QRs. In addition, multi-part URs allow for the creation of animated QRs, overall containing more information than any single QR could have.
 
-## Contents
-
-- [Educational Projects](#educational-projects)
-  * [Learning Bitcoin from the Command Line](#learning-bitcoin-from-the-command-line)
-  * [#SmartCustody](#smartcustody)
-- [Architectures & Specifications](#architectures--specifications)
-  * [Gordian Architecture](#gordian-architecture)
-  * [Torgap Architecture](#torgap-architecture)
-  * [Research Papers](#research-papers)
-  * [Lifehash Specification](#lifehash-specification)
-  * [SSKR Specification](#sskr-specification)
-  * [Uniform Resource (UR) Specification](#uniform-resource-ur-specification)
-- [Gordian Reference Projects](#gordian-reference-projects)
-  * [The Core Gordian System (web + iOS)](#the-core-gordian-system-web--ios)
-  * [Gordian Seed Tool (iOS)](#gordian-seed-tool-ios)
-  * [Gordian Cosigner (Android, iOS, MacOS)](#gordian-cosigner-android-ios-macos)
-  * [Gordian Server (MacOS)](#gordian-server-macos)
-  * [LetheKit (kit)](#lethekit-kit)
-  * [Mori-CLI](#mori-cli)
-  * [Spotbit (web)](#spotbit-web)
-  * [Sweeptool-CLI](#sweeptool-cli)
-- [Other Developer Projects](#other-developer-projects)
-  * [C Libraries](#c-libraries)
-  * [Bytewords-CLI](#bytewords-cli)
-  * [Keytool-CLI](#keytool-cli)
-  * [LifeHashTool-CLI](#lifehashtool-cli)
-  * [Musign-CLI](#musign-cli)
-  * [Seedtool-CLI](#seedtool-cli)
-  * [UR Demo](#ur-demo)
-- [Open Infrastructure Projects](#open-infrastructure-projects)
-  * [Spotbit Server](#spotbit-server)
-  * [Testnet Public Node](#testnet-public-node)
-  * [Tor Exit Node](#tor-exit-node)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 ## Educational Projects
 
 _Educational projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
@@ -201,62 +175,6 @@ This is a complete twenty-chapter course intended to teach system administrators
 _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
 
 A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
-
-<hr>
-
-## Architectures & Specifications
-
-_The core of Blockchain Commons' work is the creation of specifications and architectures, in cooperation with the [Airgapped Wallet Community](https://github.com/BlockchainCommons/Airgapped-Wallet-Community/discussions). They're meant to create better interoperability in the blockchain ecosystem while also supporting the Gordian principles._
-
-### Gordian Architecture
-
-<a href="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/appmap.png" align="right" border="1" width="200"></a>
-
-**Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
-**More Info:** [Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), [Apps](https://github.com/BlockchainCommons/Gordian#quick-links-for-reference-apps)
-
-The Gordian architecture calls for paritioned services, where apps and microservices work together in an interoperable ecosystem separated by [Torgaps](https://github.com/BlockchainCommons/torgap) and airgaps. The architecture is intended to support the Gordian principles of Independence, Privacy, Resilience, and Openness and also ensure the #SmartCustody of assets.
-
-<a href="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/torgap/master/images/logos/torgap.png" style="border: 0px; float: left; margin-right: 1em" width="110"></a>
-
-### Torgap Architecture
-
-**Repo:** [Torgap](https://github.com/BlockchainCommons/torgap)<br>
-**Projects:** [Demo](https://github.com/BlockchainCommons/torgap-demo), [torgap-sig](https://github.com/BlockchainCommons/torgap-sig), [torgap-sig-cli-rust](https://github.com/BlockchainCommons/torgap-sig-cli-rust), [torgap-timestamps](https://github.com/BlockchainCommons/torgap-opentimestamps/blob/master/README.md)
-
-Torgap is an element of the Gordian Architecture that ensures that apps and microservices that are connected through internet links do so through Tor, ensuring the partitioning of the services and also supporting the privacy of the user.
-
-
-
-<hr>
-
-
-
-<hr>
-
-## Other Developer Projects
-
-_Developer projects create resources for use by engineers and programmers, including libraries and CLIs, many of which embody the Blockchain Commons specifications. The [Crypto Commons repository](https://github.com/BlockchainCommons/crypto-commons) collects together all of Blockchain Commons' wallet libraries and the utilities (reference implementations) built from them, as well as demos and tools which exercise and exemplify those wallet libraries._
-
-### C Libraries
-
-**Repos:** [bc-crypto-base](https://github.com/BlockchainCommons/bc-crypto-base), [bc-bip39](https://github.com/blockchaincommons/bc-bip39), [bc-bytewords](https://github.com/BlockchainCommons/bc-bytewords), [bc-lifehash](https://github.com/BlockchainCommons/bc-lifehash), [bc-shamir](https://github.com/blockchainCommons/bc-shamir/), [bc-sskr](https://github.com/BlockchainCommons/bc-sskr), and [bc-ur](https://github.com/BlockchainCommons/bc-ur). <br>
-**Status:** Feature-complete beta
-
-Blockchain Commons offers a variety of C-language cryptographic libraries focused largely on wallet design, which can be used in your own projects. The current libraries include 
-reference implementations of [BIP39](https://github.com/BlockchainCommons/bc-bip39), [Shamir Secret Sharing](https://github.com/blockchainCommons/bc-shamir/), our [Lifehash](https://github.com/BlockchainCommons/lifehash.info/blob/master/README.md), our [Shamir Secret Key Recovery (SSKR)](https://github.com/BlockchainCommons/bc-sskr) specification, and our [Uniform Resources (UR)](https://github.com/BlockchainCommons/bc-ur) specification. The usage of these libraries is also demonstrated in [the keytool app](https://github.com/blockchainCommons/keytool-cli) and the [seedtool app](https://github.com/blockchainCommons/seedtool-cli).
-
-
-
-
-### UR Demo
-
-**Repo:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
-**Status:** Late Alpha
-
-URDemo is an app to demonstrate sending and receiving of URs using URKit written in Swift using SwiftUI. It demonstrates the use of [URKit](https://github.com/BlockchainCommons/URKit) to send and receive single-part and multi-part [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md) via QR codes. Multi-part QR codes are generated using [Luby Transform code](https://en.wikipedia.org/wiki/Luby_transform_code) (fountain codes).
-
-<hr>
 
 ## Open Infrastructure Projects
 

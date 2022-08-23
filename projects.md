@@ -6,15 +6,13 @@ permalink: /projects.html
 
 Blockchain Commons produces projects that fulfill its [Vision](https://www.blockchaincommons.com/vision.html). They're focused on decentralized systems that support independence, privacy, resilience, and openness and that encourage responsible key management.
 
-Blockchain Commons is working on a large variety of projects all intended to improve the entirety of the community who is using blockchain technology and developing it.
-
 {% include toc %}
 
 ## The Gordian System
 
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
 
-_The Gordian system is the heart of Blockchain Commons' work. It's intended to support the self-sovereign control of digital assets in a way that's safe, secure, and private by enabling responsible key management. It's built on a foundation of Principles that have been fulfilled in an Architecture that is embodied in Reference Apps and supported by Reference Libraries._
+_The Gordian system is the heart of Blockchain Commons' work. It's intended to support the self-sovereign control of digital assets in a way that's safe, secure, and private by enabling responsible key management. It's built on a foundation of [Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) that have been fulfilled in an [Architecture](https://github.com/BlockchainCommons/Gordian#gordian-architecture) that is embodied in Reference Apps and supported by Reference Libraries._
 
 ### The Gordian Architecture
 
@@ -26,14 +24,14 @@ The Gordian Architecture puts the Gordian Principles into use through an overall
   <a href="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/video-tech-overview.png"></a>
 </center>
 
-### Gordian Reference App: Coordinator
+### Gordian Reference App: Coordinator (iOS)
 
 **Repo:** [Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator)
 
-Gordian Coordinator is a Multisig Bitcoin transaction coordinator for iOS. It demonstrates the use of request and response envelopes to communicate when creating multisig transactions in a way that both resilient and easy to use.
+Gordian Coordinator is a Multisig Bitcoin transaction coordinator for iOS. It demonstrates the use of request and response envelopes to communicate when creating multisig transactions in a way that is both resilient and easy to use.
 
 <a href="images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
-### Gordian Reference App: Seed Tool
+### Gordian Reference App: Seed Tool (iOS)
 
 **Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
 **Blog:** [Gordian Seed Tool Reveals the Foundations of Cryptography](https://www.blockchaincommons.com/apps/SeedTool-Release/) (7/15/21)
@@ -65,7 +63,7 @@ Spotbit is a portable Flask API for Bitcoin price data and candles. It can eithe
 **Legacy Repos:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
 **Research Repos:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli), [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
 
-Several legacy reference apps were initially released to demonstrate specific Principles but have since become outdated or superceded by other application. Several reserach reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
+Several legacy reference apps were initially released to demonstrate specific Principles but have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
 
 ## Gordian Reference Libraries
 
@@ -81,7 +79,7 @@ All of the Gordian reference libraries can be found linked from the Crypto Commo
 
 **CLI Repos:** [bytewords-cli](https://github.com/BlockchainCommons/bytewords-cli), [keytool-cli](https://github.com/BlockchainCommons/keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)
 
-Blockchain Commons also provides many references apps that are meant to be run from the command line, which even more explicitly exercise and demonstrate our reference libraries.
+Blockchain Commons also provides many references apps that are meant to be run from the command line, explicitly exercising and demonstrating our reference libraries.
 
 <a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" border="1" width="500"></a>
 
@@ -107,8 +105,7 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 
 <a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
 
-**Repo:** [C/C++ Library](https://github.com/BlockchainCommons/bc-lifehash), [Python Library](https://github.com/BlockchainCommons/bc-lifehash-python), [Swift Library](https://github.com/BlockchainCommons/LifeHash), [Web Demo Code](https://github.com/BlockchainCommons/lifehash-web)<br>
-**Web Demo:** [Lifehash.info](https://lifehash.info/)<br>
+**Repo:** [Overview & Web Demo](https://github.com/BlockchainCommons/lifehash-web)<br>
 **Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
 
 LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
@@ -118,7 +115,6 @@ LifeHash is used by Blockchain Commons to create distinct and unique visual repr
 ### SSKR Specification
 
 **Paper:** [UR Type Definition for Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-011-sskr.md)<br>
-**Libraries:** [C library](https://github.com/BlockchainCommons/bc-sskr)<br>
 **Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
 **Documents:** [SSKR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-overview.md), [SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), [SSKR Dangers](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md)
 
@@ -127,7 +123,6 @@ Blockchain Commons SSKR is an implementation of Sharded Secret Key Reconstructio
 ### Uniform Resource (UR) Specification
 
 **Papers:** [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), [Registry of UR Types](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md), [UR Type Definitions for Transactions Between Airgapped Devices](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md), and others<br>
-**Libraries:** [C++ library](https://github.com/BlockchainCommons/bc-ur), [Java library](https://github.com/BlockchainCommons/bc-ur-java)<br>
 **Documents:** [UR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-overview.md), [UR Introduction](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md)<br>
 **Blog:** [Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs & More](https://www.blockchaincommons.com/specifications/Blockchain-Commons-URs-Support-Airgapped-PSBTs/) (12/8/20)
 
@@ -143,7 +138,6 @@ _Educational projects consist of books, tutorials, or courses, intended to teach
 
 <a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" border="1" width="500"></a>
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
-**Status:** v2.1 Complete (2021-10-06)<br>
 **Future:** [Topics for v3.0](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO-30.md)<br>
 **Blog:** [Learning Bitcoin Upgrades to v2](https://www.blockchaincommons.com/courses/Learning-Bitcoin-Upgrades-to-v2/) (10/30/20)
 
@@ -158,7 +152,6 @@ This is a complete twenty-chapter course intended to teach system administrators
 **New Technologies:** [Articles](https://github.com/BlockchainCommons/SmartCustody#smartcustody-tools)
 **Case Studies:** [Overview](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Case-Studies-Overview.md)
 **Repo:** [SmartCustody Repo](https://github.com/BlockchainCommons/SmartCustody), [SmartCustodyBook](https://github.com/BlockchainCommons/SmartCustodyBook)<br>
-**Status:** v1.01 Complete (2019-09-16)<br>
 **Future:** [Outline for v2.0](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md)<br>
 **Blog:** [June TweetStorms on #SmartCustody Adversaries, 1-on-1 Advice, Supporting Smart Custody Book v2](https://www.smartcustody.com/2020-06-03-June-Tweetstorm/) (6/3/20)
 

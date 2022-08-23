@@ -8,7 +8,6 @@ Blockchain Commons produces projects that fulfill its [Vision](https://www.block
 
 Blockchain Commons is working on a large variety of projects all intended to improve the entirety of the community who is using blockchain technology and developing it.
 
-<hr>
 
 ## Contents
 
@@ -17,8 +16,6 @@ Blockchain Commons is working on a large variety of projects all intended to imp
 - [Gordian Specifications](#gordian-specifications)
 - [Educational Projects](#educational-projects)
 - [Open Infrastructure Projects](#open-infrastructure-projects)
-
-<hr>
 
 ## The Gordian System
 
@@ -79,7 +76,7 @@ Several legacy reference apps were initially released to demonstrate specific Pr
 
 ## Gordian Reference Libraries
 
-_The Gordian Reference Libraries adopt Gordian specifications for programming use. In addition, CLI apps and web apps offer other ways to demonstrate their application.
+_The Gordian Reference Libraries adopt Gordian specifications for programming use. In addition, CLI apps and web apps offer other ways to demonstrate their application._
 
 ### Crypto Commons Libraries
 

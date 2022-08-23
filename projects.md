@@ -4,9 +4,68 @@ hide_description: true
 permalink: /projects.html
 ---
 
+Blockchain Commons produces projects that fulfill its [Vision](https://www.blockchaincommons.com/vision.html). They're focused on decentralized systems that support independence, privacy, resilience, and openness and that encourage responsible key management.
+
 Blockchain Commons is working on a large variety of projects all intended to improve the entirety of the community who is using blockchain technology and developing it.
 
 <hr>
+
+## The Gordian System
+
+<a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
+
+_The Gordian system is the heart of Blockchain Commons' work_. It's intended to support the self-sovereign control of digital assets in a way that's safe, secure, and private by enabling responsible key management. It's built on a foundation of Principles that have been fulfilled in an Architecture that is embodied in Reference Apps and supported by Reference Libraries._
+
+### The Gordian Architecture
+
+**Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)
+
+The Gordian Architecture puts the Gordian Principles into use through an overall design that covers everything that from the high-level architecture of a Gordian ecosystem through the specification and UX best practices that make it possible.
+
+<center>
+  <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="/Images/video-tech-overview.png"></a>
+</center>
+
+### Gordian Reference App: Coordinator
+
+**Repo:** [Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator)
+
+Gordian Coordinator is a Multisig Bitcoin transaction coordinator for iOS. It demonstrates the use of request and response envelopes to communicate when creating multisig transactions in a way that both resilient and easy to use.
+
+<a href="images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+### Gordian Reference App: Seed Tool
+
+**Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
+**Blog:** [Gordian Seed Tool Reveals the Foundations of Cryptography](https://www.blockchaincommons.com/apps/SeedTool-Release/) (7/15/21)
+
+Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It demonstrates independence and resilience by protecting your cryptographic seeds while also making them available for easy use. Using Seed Tool, you can generate seeds and store them securely on your device. You can then derive and share multi-signature signing and verification keys from those seeds or alternatively sign PSBTs directly from the app. Sophisticated backup procedures demonstrate the usage of Sharded Secret Key Reconstruction ([SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md#sharded-secret-key-reconstruction-sskr)) — which lets you split your seed into pieces and send them to trusted parties, who can send them back to you in an emergency for seed recovery. You can even use an entirely offline device (no internet access) to store your seeds and use QR codes to exchange necessary information with online devices running compatible wallet or signing software. A complete [manual](https://github.com/BlockchainCommons/GordianSeedTool-iOS/blob/master/Docs/MANUAL.md) details its functionality.
+
+### Gordian Reference App: Server (MacOS)
+
+**Repo:** [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS)<br>
+
+Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
+
+### Gordian Reference App: LetheKit (kit)
+
+<a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
+**Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
+**Blog:** [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/apps/Releasing-LetheKit/) (10/28/20)
+
+LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the [mythological river](https://en.wikipedia.org/wiki/Lethe) of forgetfulness and oblivion.
+
+### Gordian Reference App: Spotbit (web)
+
+**Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)<br>
+
+Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
+
+### Other Gordian Reference Apps
+
+**Legacy Repos:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
+**Research Repos:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli), [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
+
+Several legacy reference apps were initially released to demonstrate specific Principles but have since become outdated or superceded by other application. Several reserach reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
 
 ## Contents
 
@@ -140,82 +199,7 @@ One of the particular advantages of UR is careful integration with QR codes, a p
 
 <hr>
 
-## Gordian Reference Projects
 
-_Reference projects demonstrate the self-sovereign approach of the Gordian principles, highlighting Independence, Privacy, Resilience, and Openness, and display the use of the Blockchain Commons specifications._
-
-<a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
-
-### The Core Gordian System (web + iOS)
-
-**Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
-**Status:** Varied
-
-The Gordian system is a suite of powerful open-source reference apps that demonstrate the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) using Airgaps and [Torgaps](https://github.com/BlockchainCommons/torgap). The most developed releases are mobile apps such as [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS), but a powerful Wallet/Server setup also demonstrates how to maintain self-sovereignty while connecting to the Bitcoin network.
-
-<a href="images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
-### Gordian Seed Tool (iOS)
-
-**Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
-**Status:** [Apple App Store Release](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229)<br>
-**Blog:** [Gordian Seed Tool Reveals the Foundations of Cryptography](https://www.blockchaincommons.com/apps/SeedTool-Release/) (7/15/21)
-
-Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It protects your cryptographic seeds while also making them available for easy use. Using Seed Tool, you can generate seeds and store them securely on your device. You can then derive and share multi-signature signing and verification keys from those seeds or alternatively sign PSBTs directly from the app. Sophisticated backup procedures include printed pages and Sharded Secret Key Reconstruction ([SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md#sharded-secret-key-reconstruction-sskr)) — which lets you split your seed into pieces and send them to trusted parties, who can send them back to you in an emergency for seed recovery. You can even use an entirely offline device (no internet access) to store your seeds and use QR codes to exchange necessary information with online devices running compatible wallet or signing software. A complete [manual](https://github.com/BlockchainCommons/GordianSeedTool-iOS/blob/master/Docs/MANUAL.md) details its functionality.
-
-### Gordian Server (MacOS)
-
-**Repo:** [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS)<br>
-**Status:** Feature-Complete
-
-Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
-
-<a href="images/projects/Cosigner.png"><img src="images/projects/Cosigner.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
-### Gordian Cosigner (Android, iOS, MacOS)
-
-**Repo:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS)<br>
-**Status:** Varied (Beta)
-
-Gordian Cosigner allows users to participate in a multisig by adding a signature to an otherwise unsigned or partially signed PSBT that was created on another device. It's largely intended as an offline signing tool, which allows signing without a direct connection to a full node: a wallet that can create PSBTs or another transaction coordinator service is needed to initiate a transaction –– such as the [Gordian system.](https://github.com/BlockchainCommons/Gordian). _Its functionality has been somewhat superceded by the PSBT signing functionality of Gordian Seed Tool._
-
-<a href="images/projects/Cosigner.png"><img src="images/projects/Wallet.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
-### Gordian Wallet (iOS)
-
-**Repo:** [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
-**Status:** Beta
-
-Gordian Wallet demonstrates how to use the Torgapped Gordian architecture to connect a Wallet to a Bitcoin Core server such as **Gordian Server**, using the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md). It allows for multiple wallet templates, many of them supporting #SmartCustody, including: legacy, SegWit-compatible, and SegWit-native hot wallets using a single signature (seed on iOS device); a warm wallet using multisig (seed on iOS device, keys on full node, offline seed, etc.); or a number of cold wallet templates that leverage PSBTs (Partially Signed Bitcoin Transactions), such as cold offline seeds, third-party collaborative custody services, and various air-gapped hardware solutions using QR codes. Gordian Wallet can potentially support almost anything that can be described by a bitcoind descriptor.  ([It's meant to cut through a traditionally knotty problem in Bitcoin development.](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Why-Gordian.md)) 
-
-_Its functionality has been somewhat superceded by the PSBT signing functionality of Gordian Seed Tool._
-
-### LetheKit (kit)
-
-<a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
-**Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
-**Status:** Beta<br>
-**Blog:** [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/apps/Releasing-LetheKit/) (10/28/20)
-
-LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the [mythological river](https://en.wikipedia.org/wiki/Lethe) of forgetfulness and oblivion.
-
-### Mori-CLI
-
-**Repo:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli)
-**Status:** Alpha
-
-Mori-CLI proposes a way that a Bitcoin owner can leave his digital assets to his heirs in the event of death, in a decentralized way and with the least possible complication. It is an experimental project meant to extend concepts of #SmartCustody to inheritance.
-
-### Spotbit (web)
-
-**Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)<br>
-**Status:** Alpha (being refactored)
-
-Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
-
-### Sweeptool-CLI
-
-**Repo:** [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
-**Status:** Alpha
-
-Sweeptool connects to an Electrum server hosted by Blockstream or a server of your choice (including Esplora or Electrum server via Tor onion address) and synchronizes the list of transactions received and available UTXOs. Based on this information sweeptool produces a PSBT which can be signed by an offline signing device or by the tool itself.
 
 <hr>
 

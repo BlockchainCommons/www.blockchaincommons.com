@@ -8,9 +8,8 @@ Blockchain Commons produces projects that fulfill its [Vision](https://www.block
 
 {% include toc %}
 
-## The Gordian System
-
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
+## The Gordian System
 
 _The Gordian system is the heart of Blockchain Commons' work. It's intended to support the self-sovereign control of digital assets in a way that's safe, secure, and private by enabling responsible key management. It's built on a foundation of [Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) that have been fulfilled in an [Architecture](https://github.com/BlockchainCommons/Gordian#gordian-architecture) that is embodied in Reference Apps and supported by Reference Libraries._
 
@@ -44,9 +43,9 @@ Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It d
 
 Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
 
+<a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
 ### Gordian Reference App: LetheKit (kit)
 
-<a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
 **Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
 **Blog:** [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/apps/Releasing-LetheKit/) (10/28/20)
 
@@ -81,7 +80,7 @@ All of the Gordian reference libraries can be found linked from the Crypto Commo
 
 Blockchain Commons also provides many references apps that are meant to be run from the command line, explicitly exercising and demonstrating our reference libraries.
 
-<a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" border="1" width="500"></a>
+<center><a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" border="1" width="500"></a></center>
 
 ### Gordian Web Apps
 
@@ -101,9 +100,8 @@ The Gordian architecture is ultimately built on specifications that empower our 
 
 Much of Blockchain Commons' work on specifications begins with Research papers, which describe and detail the use of a new, interoperable specification for blockchain and Bitcoin.
 
-### Lifehash Specification
-
 <a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
+### Lifehash Specification
 
 **Repo:** [Overview & Web Demo](https://github.com/BlockchainCommons/lifehash-web)<br>
 **Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
@@ -134,18 +132,18 @@ One of the particular advantages of UR is careful integration with QR codes, a p
 
 _Educational projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
 
+<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" border="1" width="500"></a>
 ### Learning Bitcoin from the Command Line
 
-<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" border="1" width="500"></a>
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
 **Future:** [Topics for v3.0](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO-30.md)<br>
 **Blog:** [Learning Bitcoin Upgrades to v2](https://www.blockchaincommons.com/courses/Learning-Bitcoin-Upgrades-to-v2/) (10/30/20)
 
 This is a complete twenty-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. Translations are now available for [Portuguese](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/pt/README.md), with the final iteration of [Spanish](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/tree/spanish-translation/es) pending.
 
+<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" border="1" width="200"></a>  
 ### #SmartCustody
 
-<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" border="1" width="200"></a>  
 **PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>
 **Book Site:** [WWW Site](https://www.smartcustody.com/)
 **New Scenarios:** [Multisig Scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md)

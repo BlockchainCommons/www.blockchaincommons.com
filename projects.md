@@ -109,6 +109,13 @@ The Gordian architecture is ultimately built on specifications that empower our 
 
 Much of Blockchain Commons' work on specifications begins with Research papers, which describe and detail the use of a new, interoperable specification for blockchain and Bitcoin.
 
+### Envelope Specification
+
+**Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents)<br>
+**Introduction:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
+
+The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that allows for the easy representation of common cryptographic design patterns, with efficient binary formatting, strong interoperability, and the ability to support cutting-edge cryptographic and decentralized identity specifications.
+
 <a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
 ### Lifehash Specification
 

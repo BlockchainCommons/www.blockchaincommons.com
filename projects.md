@@ -173,11 +173,11 @@ _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Contr
 
 A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
 
-<a href="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg" border=1 width=200 align="right"></a>
 ## Events
 
 _One of the prime goals of Blockchain Commons is to bring together different parties to educate and to create consensus on the future development of our technologies and specifications. This happens through events._
 
+<a href="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg" border=1 width=300 align="right"></a>
 ### Silicon Salon
 
 **Website:** [Siliconsalon.info](https://www.siliconsalon.info/)

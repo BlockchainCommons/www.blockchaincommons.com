@@ -26,6 +26,12 @@ Christopher is also a digital civil-liberty & human-rights privacy advisor. He w
 
 ## About Wolf McNally, Lead Engineer
 
+Wolf McNally has a passion for doing creative things with technology. Apple's technology has been one of his particular inspirations: hehas worked with iOS for as long as it existed and with Macs for as long as they existed, long before that.
+
+Beyond that, Wolf has worked with a wide range of other technologies, including location-based systems and experiences, advanced LED lighting systems, cryptocurrency and blockchain, mobile apps, embedded systems, scalable server solutions, UX/UI design, games, robotics, and AR/VR. He has led small and large teams and loves working closely with artists, designers, and engineers.
+
+At Blockchain Commons, Wolf has worked closely with Christopher Allen to develop the [specifications](https://github.com/BlockchainCommons/Research#readme) that underlie the Gordian Architecture, including descriptions, CDDL definitions, and test vectors. He also created the [Lifehash visual hash algorithm](https://wolfmcnally.com/189/lifehash-visual-hash-blockchain-commons/) that Blockchain Commons has adopted. After creating the specifications, Wolf also leads work on adopting our specifications into [reference libraries](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries) and also authoring Blockchain Commons' major reference apps, such as [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS), [Gordian Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator) and a whole batallion of [CLI apps](https://github.com/BlockchainCommons/iOS-GordianCoordinator).
+
 ## About Shannon Appelcline, Lead Tech Writer
 
 Shannon Appelcline is a technical writer with 30 years of experience working for top-level hardware and software companies. He's written security documents for a NASA projects and a variety of networking support documents for Sun's North American Support Center, including introductions to DNS, Sendmail, NIS, and more. His work is generally intended to be approachable and accessible. He also co-authored with Christopher Allen one of the first books on writing both web pages and apps for the iPhone, _iPhone in Action_, publishing by Manning Publications.

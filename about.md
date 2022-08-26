@@ -6,7 +6,8 @@ permalink: /about.html
 
 # About Blockchain Commons
 
-{
+{% include toc %}
+
 Blockchain Commons LLC was founded by Christopher Allen on April 25, 2019 as a not-for-profit entity focused on the creation of open, interoperable, secure & compassionate digital infrastructure, as described in our [Vision](https://www.blockchaincommons.com/vision.html). We want to advocate for the independent, private, and resilient control of digital-asset designs using open and interoperable specifications. The object is to put users and their human dignity first and to encourage their safe and responsible management of digital assets. 
 
 The origins of Blockchain Commons lie with [Rebooting the Web of Trust](https://www.weboftrust.info/), an organization supporting design workshops for the decentralization of digital assets and identity that Christopher founded in the Fall of 2015. The enormous growth of the workshops has resulted in the advancement of numerous concepts such as Verifiable Credentials and Decentralized Identifiers. Blockchain Commons was founded in part to advance and expand the concepts of decentralization and independence that continue to be discussed and extended at RWOT.

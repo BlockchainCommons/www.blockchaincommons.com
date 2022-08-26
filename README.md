@@ -4,7 +4,7 @@ hide_description: true
 permalink: /index.html
 ---
 
-**Blockchain Commons advocates for the creation of open, interoperable, secure & compassionate digital infrastructure**
+**Blockchain Commons advocates for the creation of open, interoperable, secure & compassionate digital infrastructure**<br>
 **To enable people to control their own digital destiny and to maintain their human dignity online**
 
 

@@ -15,7 +15,7 @@ Blockchain Commons has codified many of its specifics goals for the creation of 
 
 Please see our [sponsors page](https://www.blockchaincommons.com/sponsors.html) for some of the external organizations and people that make this possible. If you would like to support Blockchain Commons' work, you can do so by becoming a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons).
 
-## About Christopher Allen
+## About Christopher Allen, Founder & Executive Director
 
 Christopher Allen is an entrepreneur and technologist who specializes in internet & blockchain security, digital identity, collaboration, and trust. He is a pioneer in internet security and co-author of the IETF TLS internet standard that is now at the heart of secure commerce on the World Wide Web. His broad experience includes work as: Principal Architect at Blockstream, leading blockchain standards efforts; VP of Developer Relations at Blackphone, building a privacy-focused cellphone; and CTO of cryptographic security giant Certicom in the early 00s, before it sold to Blackberry.
 
@@ -23,4 +23,12 @@ Today, he is Founder and Executive Director of Blockchain Commons, focused on cr
 
 Christopher is also a digital civil-liberty & human-rights privacy advisor. He was part of the team that led the first UN summit on Digital Identity & Human Rights #ID2020 in 2016, There he first offered the term “Self-Sovereign Identity” as the name for a new manifesto of [10 foundational principles for digital identity](https://www.coindesk.com/markets/2016/04/27/the-path-to-self-sovereign-identity/). In 2019 he was cited as a "Top 100 Influencers in Identity". Since 2019 he has helped as an advisor to the Wyoming legislature, including drafting new laws that established [a legal definition for Digital Identity under Agency Law](https://www.blockchaincommons.com/articles/Principal-Authority/), enabling legislation for registering and domiciling DAOs, and laws supporting the regulation of digital assets and custody.
 
+## About Wolf McNally, Lead Engineer
 
+## About Shannon Appelcline, Lead Tech Writer
+
+Shannon Appelcline is a technical writer with 30 years of experience working for top-level hardware and software companies. He's written security documents for a NASA projects and a variety of networking support documents for Sun's North American Support Center, including introductions to DNS, Sendmail, NIS, and more. His work is generally intended to be approachable and accessible. He also co-authored with Christopher Allen one of the first books on writing both web pages and apps for the iPhone, _iPhone in Action_, publishing by Manning Publications.
+
+Over the last decade, Shannon has specialized in blockchain, Bitcoin, and other decentralized technologies. He coauthored [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line#readme) and [Smart Custody](https://www.smartcustody.com/#the-book) with Christopher Allen and the paper ["How to Convince Dad* of the Importance of Self-Sovereign Identity"](https://nbviewer.org/github/WebOfTrustInfo/rwot7/blob/master/final-documents/convincing-dad.pdf) at Rebooting the Web of Trust. He's also written numerous [introductions and other documentation](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md) for Blockchain Commons as well as acting as editor-in-chief for Rebooting the Web of Trust and contracting for other blockchain-focused companies such as Bitmark, Blockstream, and Transparent Financial Systems.
+
+Outside of the technical community, Shannon also writes about game history and game design. His award-winning four-book [Designers & Dragons series](https://www.drivethrurpg.com/product/141205/Designers--Dragons-The-Complete-Set-BUNDLE) details the stories of over 100 companies in the roleplaying industry, with more volumes now in process, while [Science Fiction in Traveller](https://www.amazon.com/Science-Fiction-Traveller-Readers-Role-Playing-ebook/dp/B01DFMOB0Y) skims the literary influences on the _Traveller_ RPG. Shannon has also written for RPG companies such as Chaosium, Green Knight, Mongoose Published, White Wolf, and Wizards of the Coast and coauthored the [Meeples Together](https://www.meeplestogether.com/) cooperative gameplay design book with Christopher Allen.

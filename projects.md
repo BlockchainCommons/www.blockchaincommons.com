@@ -182,7 +182,7 @@ _One of the prime goals of Blockchain Commons is to bring together different par
 
 **Website:** [Siliconsalon.info](https://www.siliconsalon.info/)
 
-The Silicon Salon seeks to create semiconductor solutions for cryptography by bringing together semiconductor manufacturers who are interested in creating silicon solutions specifically intended for cryptography with wallet creators and other cryptographic principals.
+The Silicon Salon seeks to create semiconductor solutions for cryptography by bringing together semiconductor manufacturers who are interested in creating silicon solutions specifically intended for cryptography with wallet creators and other cryptographic principals. Each event to date has included presentations from principles in the area and discussion among attendees. Our web site includes the presentations and summarizes the discussions.
 
 ### Rebooting the Web of Trust
 

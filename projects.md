@@ -173,6 +173,23 @@ _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Contr
 
 A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
 
+## Advocacy Projects
+
+_Blockchain Commons isn't just about technological development. It also works to ensure that there's a solid legal foundation for our blockchain technologies. That's where Advocacy comes in_.
+
+### Law & Advocacy
+
+**Repo:** [Law & Advocacy Repo](https://github.com/BlockchainCommons/law-and-advocacy)<br>
+**Articles:** [Principal Authority](https://www.blockchaincommons.com/articles/Principal-Authority/), [Private Key Disclosure](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
+
+Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
+
+### Testimony
+
+**Repo:** [Testimony Repo](https://github.com/BlockchainCommons/Testimony)
+
+Blockchain Commons has regularly provided testimony to various agencies and instutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
+
 ## Events
 
 _One of the prime goals of Blockchain Commons is to bring together different parties to educate and to create consensus on the future development of our technologies and specifications. This happens through events._

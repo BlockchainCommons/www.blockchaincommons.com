@@ -6,6 +6,8 @@
   url: vision.html
 - title: Posts
   url: /posts/
+- title: About
+  url: about.html
 - title: Sponsors
   url: sponsors.html
 - title: "Projects"

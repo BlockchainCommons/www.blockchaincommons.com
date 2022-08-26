@@ -214,6 +214,7 @@ _Open infrastructure projects create resources that can be used by the entire in
 
 ### Esplora Server
 
+**HTML Address:** http://esplora.blockchaincommons.com/<br>
 **Onion Address (http):** http://pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion<br>
 **Onion Address (electrs):** pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion:50001<br>
 

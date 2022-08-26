@@ -16,12 +16,19 @@ _The Gordian system is the heart of Blockchain Commons' work. It's intended to s
 ### The Gordian Architecture
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)
+**Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Overview-Architecture.md), [Roles](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Overview-Roles.md)
 
 The Gordian Architecture puts the Gordian Principles into use through an overall design that covers everything that from the high-level architecture of a Gordian ecosystem through the specification and UX best practices that make it possible.
 
 <center>
   <a href="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/video-tech-overview.png"></a>
 </center>
+
+### Collaborative Seed Recovery
+
+**Introduction:** [CSR Overview](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CSR.md)
+
+Collaborative Seed Recovery, or CSR, is a new system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
 
 ### Gordian Reference App: Coordinator (iOS)
 

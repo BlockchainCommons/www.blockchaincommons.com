@@ -24,7 +24,7 @@ Today, he is Founder and Executive Director of Blockchain Commons, focused on cr
 
 Christopher is also a digital civil-liberty & human-rights privacy advisor. He was part of the team that led the first UN summit on Digital Identity & Human Rights #ID2020 in 2016, There he first offered the term "Self-Sovereign Identity" as the name for a new manifesto of [10 foundational principles for digital identity](https://www.coindesk.com/markets/2016/04/27/the-path-to-self-sovereign-identity/). In 2019 he was cited as a "Top 100 Influencers in Identity". Since 2019 he has helped as an advisor to the Wyoming legislature, including drafting new laws that established [a legal definition for Digital Identity under Agency Law](https://www.blockchaincommons.com/articles/Principal-Authority/), enabling legislation for registering and domiciling DAOs, and laws supporting the regulation of digital assets and custody.
 
-## About Wolf McNally, Lead Engineer
+## About Wolf McNally, Lead Researcher
 
 Wolf McNally is an engineer with a passion for doing creative things with technology. Apple's technology has been one of his particular inspirations: he has worked with iOS for as long as it existed and with Macs for as long as they existed, long before that.
 

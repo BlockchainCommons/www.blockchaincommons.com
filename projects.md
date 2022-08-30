@@ -182,6 +182,8 @@ _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Contr
 
 A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
 
+<hr>
+
 ## Advocacy Projects
 
 _Blockchain Commons isn't just about technological development. It also works to ensure that there's a solid legal foundation for our blockchain technologies. That's where Advocacy comes in_.
@@ -198,6 +200,8 @@ Our Law & Advocacy repo includes both research that we've done on the current st
 **Repo:** [Testimony Repo](https://github.com/BlockchainCommons/Testimony)
 
 Blockchain Commons has regularly provided testimony to various agencies and instutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
+
+<hr>
 
 ## Events
 
@@ -216,6 +220,8 @@ The Silicon Salon seeks to create semiconductor solutions for cryptography by br
 **GitHub Repos:** [WebofTrust Repos](https://github.com/WebofTrustInfo)
 
 Rebooting the Web of Trust is a semiannual design workshop that was founded by Christopher Allen prior to the foundation of Blockchain Commons; many of its ideas in turn became the heart of our initial work. We continue to attend and support the workshops.
+
+<hr>
 
 ## Open Infrastructure Projects
 

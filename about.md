@@ -26,11 +26,11 @@ Christopher is also a digital civil-liberty & human-rights privacy advisor. He w
 
 ## About Wolf McNally, Lead Researcher
 
-Wolf McNally is an engineer with a passion for doing creative things with technology. Apple's technology has been one of his particular inspirations: he has worked with iOS for as long as it existed and with Macs for as long as they existed, long before that.
-
-Beyond that, Wolf has worked with a wide range of other technologies, including location-based systems and experiences, advanced LED lighting systems, cryptocurrency and blockchain, mobile apps, embedded systems, scalable server solutions, UX/UI design, games, robotics, and AR/VR. He has led small and large teams and loves working closely with artists, designers, and engineers.
+Wolf McNally is an engineer with a passion for doing creative things with technology. Apple's technology has been one of his particular inspirations: he has worked with iOS for as long as it existed and with Macs for as long as they existed, long before that. Beyond that, Wolf has worked with a wide range of other technologies, including location-based systems and experiences, advanced LED lighting systems, cryptocurrency and blockchain, mobile apps, embedded systems, scalable server solutions, UX/UI design, games, robotics, and AR/VR. He has led small and large teams and loves working closely with artists, designers, and engineers.
 
 At Blockchain Commons, Wolf has collaborated with Christopher Allen to develop the [specifications](https://github.com/BlockchainCommons/Research#readme) that underlie the Gordian Architecture, including descriptions, CDDL definitions, and test vectors for those specs. He also created the [Lifehash visual hash algorithm](https://wolfmcnally.com/189/lifehash-visual-hash-blockchain-commons/) that Blockchain Commons has adopted. After creating specifications, Wolf also leads work on adopting those specifications into [reference libraries](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries) and also authoring Blockchain Commons' major reference apps, such as [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS) and [Gordian Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator) and a whole battallion of [CLI apps](https://github.com/BlockchainCommons/iOS-GordianCoordinator).
+
+Wolf is also the creator and publisher of [Flying Logic](https://flyinglogic.com/), a tool for critical thinking and process improvement used around the world.
 
 ## About Shannon Appelcline, Lead Tech Writer
 

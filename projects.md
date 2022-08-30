@@ -8,6 +8,8 @@ Blockchain Commons produces projects that fulfill its [Vision](https://www.block
 
 {% include toc %}
 
+<hr>
+
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
 ## The Gordian System
 
@@ -73,6 +75,8 @@ Spotbit is a portable Flask API for Bitcoin price data and candles. It can eithe
 
 Several legacy reference apps were initially released to demonstrate specific Principles but have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
 
+<hr>
+
 ## Gordian Reference Libraries
 
 _The Gordian Reference Libraries adopt Gordian specifications for programming use. In addition, CLI apps and web apps offer other ways to demonstrate their application._
@@ -97,6 +101,8 @@ Blockchain Commons also provides many references apps that are meant to be run f
 **Seedtool Demo:** [Seedtool Demo](https://seedtool.info/), [Seedtool Repo](https://github.com/BlockchainCommons/seedtool.info)
 
 Some Blockchain Commons apps have also been converted to web demos.
+
+<hr>
 
 ## Gordian Specifications
 
@@ -139,10 +145,13 @@ Blockchain Commons SSKR is an implementation of Sharded Secret Key Reconstructio
 **Papers:** [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), [Registry of UR Types](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md), [UR Type Definitions for Transactions Between Airgapped Devices](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md), and others<br>
 **Documents:** [UR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-overview.md), [UR Introduction](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md)<br>
 **Blog:** [Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs & More](https://www.blockchaincommons.com/specifications/Blockchain-Commons-URs-Support-Airgapped-PSBTs/) (12/8/20)
+**Test Vectors:** [crypto-request](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/crypto-request-test-vectors.md), [crypto-seed](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/crypto-seed-test-vectors.md), [SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-test-vector.md)
 
 UR stands for Uniform Resources, a method for encoding structured binary data in plain-text strings that are also well-formed URIs. It's an interoperability specification that allows for the reliable, typed transfer of data and was designed in particular to allow for reliable transmission of crypto-seeds, crypto-keys, PSBTs, and other data related to cryptocurrency.
 
 One of the particular advantages of UR is careful integration with QR codes, a prime method for transmitting data across airgaps. URs are built to be efficient when encoded as QRs. In addition, multi-part URs allow for the creation of animated QRs, overall containing more information than any single QR could have.
+
+<hr>
 
 ## Educational Projects
 

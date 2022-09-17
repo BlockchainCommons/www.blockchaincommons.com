@@ -9,7 +9,7 @@ tags:
 image: https://www.siliconsalon.info/assets/silicon-salon-2/images/silicon-salon2.jpg
 ---
 
-![](https://www.siliconsalon.info/assets/silicon-salon-2/images/silicon-salon2.jpg)
+[![](https://www.siliconsalon.info/assets/silicon-salon-2/images/silicon-salon2.jpg)](https://www.siliconsalon.info/salon2/)
 
 Thanks to everyone who joined us for our second Silicon Salon, this one focused on **Secure Boot, Supply-Chain Security, and Firmware Upgrades**. Courtesy of some terrific presentations, we were able to get into good depth on these topics, both discussing the state of the art and what we could do better. You can find all the info on the [Silicon Salon 2 pages](https://www.siliconsalon.info/salon2/) of [siliconsalon.info](https://siliconsalon.info).
 

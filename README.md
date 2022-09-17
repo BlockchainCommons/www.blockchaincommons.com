@@ -14,7 +14,7 @@ Blockchain Commons is proudly a “not-for-profit” social benefit corporation,
 _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
-* *9/16/22:** [Silicon Salon a Success!](https://www.blockchaincommons.com/salons/silicon-salon-2/)
+* **9/16/22:** [Silicon Salon a Success!](https://www.blockchaincommons.com/salons/silicon-salon-2/)
 * **8/16/22:** [Private Key Disclosure: A Needless Threat to Rights and Assets](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
 * **7/19/22:** [Seven Years Later: DIDs Have Been Ratified](https://www.blockchaincommons.com/specifications/DIDs-Ratified/)
 * **7/14/22:** [Q2, 2022 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q2-2022/)

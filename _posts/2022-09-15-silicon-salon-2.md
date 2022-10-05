@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Salons
 tags:
-  - semiconductors
+  - Silicon Salon
   
 image: https://www.siliconsalon.info/assets/silicon-salon-2/images/silicon-salon2.jpg
 ---

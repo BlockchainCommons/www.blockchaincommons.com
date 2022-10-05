@@ -34,15 +34,15 @@ plugins:
 locale: en-US
 baseurl: "/"
 url: "https://www.BlockchainCommons.com"
-logo: images/Borromean-rings_minimal-overlap(256x256).png
+logo: images/bc-logo-white-avatar.png
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
 mathjax: # MathJax equations, e.g. true
 image:
-  path: images/Borromean-rings_minimal-overlap(256x256).png
-  height: 256
-  width: 256
+  path: images/bc-logo-white-avatar.png
+  height: 400
+  width: 400
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"

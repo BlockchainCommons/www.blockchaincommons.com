@@ -4,7 +4,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Salons
 tags:
-  - semiconductors
+  - Silicon Salon
   
 image: https://github.com/BlockchainCommons/www.blockchaincommons.com/blob/master/images/silicon-salon.jpg
 ---

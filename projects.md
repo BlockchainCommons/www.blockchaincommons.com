@@ -89,7 +89,7 @@ All of the Gordian reference libraries can be found linked from the Crypto Commo
 
 ### Gordian Reference CLI Apps
 
-**CLI Repos:** [bytewords-cli](https://github.com/BlockchainCommons/bytewords-cli), [keytool-cli](https://github.com/BlockchainCommons/keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)
+**CLI Repos:** [bytewords-cli](https://github.com/BlockchainCommons/bytewords-cli), [envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift), [keytool-cli](https://github.com/BlockchainCommons/keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)
 
 Blockchain Commons also provides many references apps that are meant to be run from the command line, explicitly exercising and demonstrating our reference libraries.
 
@@ -117,11 +117,11 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 
 ### Envelope Specification
 
-**Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents)<br>
+**Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
 **Introduction:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
 
-The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that allows for the easy representation of common cryptographic design patterns, with efficient binary formatting, strong interoperability, and the ability to support cutting-edge cryptographic and decentralized identity specifications.
-
+ The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that supports the storage, backup, encryption & authentication of data, with explicit support for Merkle-based selective disclosure.
+ 
 <a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
 ### Lifehash Specification
 

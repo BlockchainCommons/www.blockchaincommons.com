@@ -28,11 +28,12 @@ The Gordian Architecture puts the Gordian Principles into use through an overall
 
 ### Collaborative Seed Recovery
 
-**Introduction:** [CSR Overview](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CSR.md)
+**Introduction:** [CSR Overview](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CSR.md)<br>
+**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CKM.md)
 
 Collaborative Seed Recovery, or CSR, is a new system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
 
-CSR is a step toward Collaborative Key Management (CKM), which is expected to become an active project following the deployment of current CSR systems.
+CSR is a step toward [Collaborative Key Management (CKM)](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CKM.md), which is expected to become an active project following the deployment of current CSR systems. Currently, CSR is planned for 2022 and CKM for 2023-2024.
 
 ### Gordian Reference App: Coordinator (iOS)
 

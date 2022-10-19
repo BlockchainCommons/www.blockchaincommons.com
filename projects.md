@@ -30,6 +30,7 @@ The Gordian Architecture puts the Gordian Principles into use through an overall
 
 **Introduction:** [CSR Overview](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CSR.md)<br>
 **Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CKM.md)
+**Videos:** [CSR Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1Fbp-P1Yv-7gmu75i2QS2Z6vk)
 
 Collaborative Seed Recovery, or CSR, is a new system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
 
@@ -120,6 +121,7 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 
 **Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
 **Introduction:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
+**Videos:** [Introduction](https://www.youtube.com/watch?v=tQ9SPek0mnI&list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
 
  The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that supports the storage, backup, encryption & authentication of data, with explicit support for Merkle-based selective disclosure.
  

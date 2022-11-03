@@ -15,10 +15,9 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 
+* **11/2/22:** [Gordian Envelope Introduction](https://www.blockchaincommons.com/introduction/Envelope-Intro/)
 * **10/6/22:** [Q3, 2022 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2022/)
 * **9/16/22:** [Silicon Salon 2 a Success!](https://www.blockchaincommons.com/salons/silicon-salon-2/)
-* **8/16/22:** [Private Key Disclosure: A Needless Threat to Rights and Assets](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
-* **7/19/22:** [Seven Years Later: DIDs Have Been Ratified](https://www.blockchaincommons.com/specifications/DIDs-Ratified/)
 
 _[Complete Posts Archive](https://www.blockchaincommons.com/posts/)._
 

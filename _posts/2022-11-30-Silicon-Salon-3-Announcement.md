@@ -8,9 +8,8 @@ tags:
   
 image: https://www.siliconsalon.info/assets/silicon-salon-3/images/silicon-salon3.jpg
 ---
----
-robots: noindex, nofollow
----
+
+![](https://www.siliconsalon.info/assets/silicon-salon-3/images/silicon-salon3.jpg)
 
 The Silicon Salon is Back! Again!
 

@@ -11,7 +11,7 @@ image: https://www.siliconsalon.info/assets/silicon-salon-3/images/silicon-salon
 
 ![](https://www.siliconsalon.info/assets/silicon-salon-3/images/silicon-salon3.jpg)
 
-The Silicon Salon is Back! Again!
+The Silicon Salon is Back for the New Year!
 
 Blockchain Commons will be facilitating Silicon Salon 3 in mid-January, tentatively on January 18th. These Silicon Salons are an ongoing series of virtual events intended to bridge the gap between wallet requirements and semiconductor development, between academic research and real-world practice. Our ultimate objective is to ensure that the next generation of cryptographic semiconductors meets everyone’s needs, advancing the entire cryptography industry. 
  

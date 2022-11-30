@@ -13,11 +13,11 @@ image: https://www.siliconsalon.info/assets/silicon-salon-3/images/silicon-salon
 
 The Silicon Salon is Back! Again!
 
-Blockchain Commons will be running Silicon Salon 3 in mid January, tentatively on January 18th. These Silicon Salons are an ongoing series of virtual events intended to bridge the gap between wallet requirements and semiconductor development, between academic research and real-world practice. Our ultimate objective is to ensure that the next generation of cryptographic semiconductors meets everyone’s needs, advancing the entire cryptography industry. 
+Blockchain Commons will be facilitating Silicon Salon 3 in mid-January, tentatively on January 18th. These Silicon Salons are an ongoing series of virtual events intended to bridge the gap between wallet requirements and semiconductor development, between academic research and real-world practice. Our ultimate objective is to ensure that the next generation of cryptographic semiconductors meets everyone’s needs, advancing the entire cryptography industry. 
+ 
+We will bring together semiconductor designers, secure hardware developers, academics, and other experts to present at Silicon Salon 3 and are calling for other contributors who are interested in making a presentation focused on silicon-logic-based cryptographic acceleration or support for new functionality such as Multi-Party Computation (MPC) leveraging hardened semiconductor-based security.
 
-We will bring together semiconductor designers, secure hardware developers, academics, and other experts to present at Silicon Salon 3 and are calling for other contributors who are interested in making a presentation focused on silicon-logic-based cryptographic acceleration or support for new functionality such as Multi-Party Computation (MPC) leveraging hardened semiconductor-based security..
-
-The field of MPC (Multi-Party Computation) for security applications has been an area of energetic academic research since first introduced by Andrew Yao in 1986. More recently, increases in computation capability and improvement in the efficiency of algorithms have enabled MPC to move from the theoretical to the practical. Varous MPC-TSS (MPC-Threshold Signature System) approaches offers significant benefits in security, robustness, and recovery versus traditional “single private key” systems. However, practical MPC is still in its infancy and is rapidly evolving, which introduces challenges in providing silicon support for the future of cryptography.
+The field of MPC (Multi-Party Computation) for security applications has been an area of energetic academic research since first introduced by Andrew Yao in 1986. More recently, increases in computation capability and improvement in the efficiency of algorithms have enabled MPC to move from the theoretical to the practical. Varous MPC-TSS (MPC-Threshold Signature System) approaches offer significant benefits in security, robustness, and recovery versus traditional “single private key” systems. However, practical MPC is still in its infancy and is rapidly evolving, which introduces challenges in providing silicon support for the future of cryptography.
 
 <div class="bold--excerpt--node">Read More</div>
 
@@ -35,7 +35,7 @@ If you are interested in making a presentation at Silicon Salon 3, please [conta
 4. The name of the presenter(s). 
 5. A description of who they are and how they or their company have the expertise, capability, or reach to benefit the Silicon Salon conversation.
 
-Final presentations should be about five minutes long, supported by a slidedeck or some sort, which you will present in our Zoom salon on the date of the salon.
+Final presentations should be about five minutes long, supported by a slide deck or some sort, which you will present in our Zoom salon on the date of the salon.
 
 Please note the following deadlines for Silicon Salon 3 proposals and contributions:
 

@@ -15,6 +15,7 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 
+* **11/30/22:** [Sailicon Salon 3 Call for Contributors](https://www.blockchaincommons.com/salons/Silicon-Salon-3-Announcement/)
 * **11/2/22:** [Gordian Envelope Introduction](https://www.blockchaincommons.com/introduction/Envelope-Intro/)
 * **10/6/22:** [Q3, 2022 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2022/)
 * **9/16/22:** [Silicon Salon 2 a Success!](https://www.blockchaincommons.com/salons/silicon-salon-2/)

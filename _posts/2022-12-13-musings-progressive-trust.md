@@ -53,8 +53,7 @@ Ultimately, mechanisms must be put in place to ensure that the progressive trust
 
 Progressive trust offers an important new alternative to traditional and zero-trust models for online trust. By understanding and applying the principles of how human trust and collaboration work in real life, we can build trust and collaboration more naturally and effectively. Progressive trust supports each party's autonomy and agency and allows trust to evolve and adapt to changing requirements and information. As more organizations and individuals begin to explore decentralized systems, progressive trust architecture usage will only continue to grow.
 
-[^1]:
-Allen, Christopher (2004). **Progressive Trust**. [online] _Life With Alacrity_ (blog). Available at: <http://www.lifewithalacrity.com/2004/08/progressive_tru.html> [Accessed 8 December 2022]
+[^1]: Allen, Christopher (2004). **Progressive Trust**. [online] _Life With Alacrity_ (blog). Available at: <http://www.lifewithalacrity.com/2004/08/progressive_tru.html> [Accessed 8 December 2022]
 
 [^2]: MATTR (2021) **Trust Frameworks** _MATTR Inc._ (website) Available at: <https://learn.mattr.global/docs/concepts/trust-frameworks> [Accessed 8 December 2022]
 

@@ -20,6 +20,7 @@ _Musings of an Architect is a series of articles by [Life with Alacrity author](
 <!--more-->
 
 <img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png" align="right" width=250 height=250>
+
 I first wrote about progressive trust back in 2004[^1]. There, I suggested that software should "better serve our needs and the needs of the groups that we are involved in" and that to do so, "we need to figure out how to apply an understanding of how human groups behave and work." Recently, that concept has finally been gaining traction: in the world of decentralized systems, it can be used as a new approach for modeling and building trust.
 
 The basic idea behind progressive trust is to model how trust works in the real world, between real people, groups, and businesses, rather than solely relying on mathematical or cryptographic trust. To explain this concept, I often use the example of meeting someone at a conference.

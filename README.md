@@ -15,7 +15,7 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 
-* **12/13/22:** [Musing of an Architect: Progressive Trust](https://www.blockchaincommons.com/musings/musings-progressive-trust/)
+* **12/13/22:** [Musings of an Architect: Progressive Trust](https://www.blockchaincommons.com/musings/musings-progressive-trust/)
 * **11/30/22:** [Silicon Salon 3 Call for Contributors](https://www.blockchaincommons.com/salons/Silicon-Salon-3-Announcement/)
 * **11/2/22:** [Gordian Envelope Introduction](https://www.blockchaincommons.com/introduction/Envelope-Intro/)
 * **10/6/22:** [Q3, 2022 Blockchain Commons Report](https://www.blockchaincommons.com/quarterlies/Q3-2022/)

@@ -15,12 +15,11 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 
+See the _[Complete Posts Archive](https://www.blockchaincommons.com/posts/)._
+
 {% for post in site.posts limit: 7 %}
 <li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-
-
-_[Complete Posts Archive](https://www.blockchaincommons.com/posts/)._
 
 ## Projects
 

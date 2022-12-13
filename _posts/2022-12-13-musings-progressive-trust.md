@@ -13,13 +13,13 @@ tags:
 
 _Musings of an Architect is a series of articles by [Life with Alacrity author](http://www.lifewithalacrity.com/) and Blockchain Commons founder Christopher Allen that lays out some of the foundational ideas and philosophies behind the technology of Blockchain Commons._
 
-<img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png" width=200 height=200 style="border: 1px solid black; float: right;">
-
 > ABSTRACT: Progressive trust is the concept of gradually building trust over time. It differs from classical models of trust, which rely on authentication mechanisms and centralization; and zero-trust models, which assume that trust should never be relied upon or which mandate the use of "trust frameworks" or "trust registries". Progressive trust is based on the idea that trust is not a binary state but instead a dynamic and evolving process involving gradually learning about your partners through successful interactions. It's how trust works in the real world, between people and groups. This architecture is critical for protecting human rights and dignity, as it allows individuals to defend against coercion and violations of their privacy, autonomy, agency, and control. To support a progressive trust architecture, capabilities such as data minimization, elision/redaction, escrowed encryption, and cryptographic selective disclosure must be used. 
 
 <div class="bold--excerpt--node">Read More</div>
 
 <!--more-->
+
+<img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png" width=200 height=200 style="border: 1px solid black; float: right;">
 
 I first wrote about progressive trust back in 2004[^1]. There, I suggested that software should "better serve our needs and the needs of the groups that we are involved in" and that to do so, "we need to figure out how to apply an understanding of how human groups behave and work." Recently, that concept has finally been gaining traction: in the world of decentralized systems, it can be used as a new approach for modeling and building trust.
 

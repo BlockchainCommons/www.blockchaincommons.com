@@ -1,10 +1,9 @@
 ---
+title: Musings of an Architect
 cover: false
 hide_description: true
 permalink: /musings.html
 ---
-
-## Musings of an Architect
 
 _Musings of an Architect is a series of articles by [Life with Alacrity author](http://www.lifewithalacrity.com/) and Blockchain Commons founder Christopher Allen that lays out some of the foundational ideas and philosophies behind the technology of Blockchain Commons._
 

@@ -1,5 +1,5 @@
 ---
-title: Musings of an Architect
+title: Musings of a Trust Architect
 cover: false
 hide_description: true
 permalink: /musings.html

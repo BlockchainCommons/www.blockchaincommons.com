@@ -4,7 +4,7 @@ hide_description: true
 permalink: /musings.html
 ---
 <ul>
-  {% for post in site.categories.musings %}
+  {% for post in site.categories.Musings %}
     {% if post.url %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}

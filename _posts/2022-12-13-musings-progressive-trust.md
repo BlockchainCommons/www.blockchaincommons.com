@@ -1,5 +1,5 @@
 ---
-title: "Musings of an Architect: Progressive Trust"
+title: "Musings of a Trust Architect: Progressive Trust"
 excerpt_separator: "<!--more-->"
 categories:
   - Musings

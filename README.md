@@ -15,6 +15,15 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 ## News
 
+<ul>
+{% for post in site.posts limit: 3 %}
+ 
+<li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a>
+
+{% endfor %}
+</ul>
+--
+
 * **12/13/22:** [Musings of an Architect: Progressive Trust](https://www.blockchaincommons.com/musings/musings-progressive-trust/)
 * **11/30/22:** [Silicon Salon 3 Call for Contributors](https://www.blockchaincommons.com/salons/Silicon-Salon-3-Announcement/)
 * **11/2/22:** [Gordian Envelope Introduction](https://www.blockchaincommons.com/introduction/Envelope-Intro/)

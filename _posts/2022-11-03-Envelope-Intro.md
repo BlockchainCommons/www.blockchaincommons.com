@@ -10,7 +10,7 @@ tags:
 image: https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/Envelope-Examples-DO.jpg
 ---
 
-Gordian Envelope is a specification for the achitecture of a “smart document". It supports the secure, reliable, and deterministic storage and transmission of data such as seeds, keys, decentralized identifiers, and verifiable credentials  in a way that enables privacy while preserving structure. Gordian Envelope's privacy features are built on a hashed Merkle Tree that provides implicit support for cryptography of your choice and explicit support for privacy-related methodologies such as progressive trust and Merkle-based selective disclosure.
+Gordian Envelope is a specification for the achitecture of a “smart document". It supports the secure, reliable, and deterministic storage and transmission of data such as seeds, keys, decentralized identifiers, and verifiable credentials  in a way that enables privacy while preserving structure. Gordian Envelope's privacy features are built on a hashed Merkle Tree that provides implicit support for cryptography of your choice and explicit support for privacy-related methodologies such as [progressive trust](https://www.blockchaincommons.com/musings/musings-progressive-trust/) and Merkle-based selective disclosure.
 
 Blockchain Commons is currently working with multiple companies on the development and deployment of Gordian Envelopes via regular biweekly meetings; [contact us](mailto:team@blockchaincommons.com) if you'd like to be involved. We are also presenting Envelopes as a prospective Informational Draft for the IETF and engaging in discussions with the W3C Credentials Community Group.
 
@@ -62,7 +62,7 @@ The following structural decisions support these goals:
 * **Redaction, Compression, and Encryption.** Elision can be used for a variety of purposes including redaction (removing information), compression (removing duplicate information), and encryption (enciphering information).
 * **Holder-initiated Redaction.** Elision can be performed by the Holder of a Gordian Envelope, not just the Issuer.
 * **Granular Holder Control.** Elision can not only be performed by any Holder, but also for any data, allowing each entity to elide data as is appropriate for the management of their personal (or business) risk.
-* **Progressive Trust.** The elision mechanics in Gordian Envelopes allow for progressive trust, where increasing amounts of data are revealed over time. It can even be combined with encryption to escrow data to later be revealed.
+* **Progressive Trust.** The elision mechanics in Gordian Envelopes allow for [progressive trust](https://www.blockchaincommons.com/musings/musings-progressive-trust/), where increasing amounts of data are revealed over time. It can even be combined with encryption to escrow data to later be revealed.
 * **Consistent Hashing.** Even when elided or encrypted, hashes for those parts of the Gordian Envelope remain the same.
 
 ### Privacy Support

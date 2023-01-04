@@ -120,7 +120,7 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 ### Envelope Specification
 
 **Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
-**Intros:** [Introduction to Gordian Envelopes](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Envelope-Intro.md), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Envelope-Tech-Intro.md)
+**Intros:** [Introduction to Gordian Envelopes](https://www.blockchaincommons.com/introduction/Envelope-Intro/), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Envelope-Tech-Intro.md), [Use Cases Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Envelope-Use-Cases.md)
 **Docs:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
 **Videos:** [Introduction](https://www.youtube.com/watch?v=tQ9SPek0mnI&list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
 

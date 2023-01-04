@@ -54,7 +54,7 @@ Gordian Envelope was designed with two key goals in mind: to be _Structure-Ready
 The following structural decisions support these goals:
 
 * **Structured Merkle Tree.** A variant of the Merkle Tree structure is created by forming the hashing of  the elements in the Envelope into a tree of digests. (In this "structured Merkele Tree", all nodes contain both semantic content _and_ digests, rather than semantic content being limited to leaves.)
-* **Deterministic Representation.** There is only one way to encode any semantic representation within a Gordian Envelope. This is accomplished through the use of [Deterministic CBOR](Why-CBOR.md) and the sorting of the Envelope by hashes to create a lexicographic order. Any Envelope that doesn't follow these strict rules can be rejected; as a result, there's no need to worry about different people adding the assertions in a different order or at different times: if two Envelopes contain the same data, they will be encoded the same way.
+* **Deterministic Representation.** There is only one way to encode any semantic representation within a Gordian Envelope. This is accomplished through the use of [Deterministic CBOR](https://www.blockchaincommons.com/introduction/Why-CBOR/) and the sorting of the Envelope by hashes to create a lexicographic order. Any Envelope that doesn't follow these strict rules can be rejected; as a result, there's no need to worry about different people adding the assertions in a different order or at different times: if two Envelopes contain the same data, they will be encoded the same way.
 
 ### Elision Support
 

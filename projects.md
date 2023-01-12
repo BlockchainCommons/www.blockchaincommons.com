@@ -18,7 +18,7 @@ _The Gordian system is the heart of Blockchain Commons' work. It's intended to s
 ### The Gordian Architecture
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
-**Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Overview-Architecture.md), [Roles](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Overview-Roles.md)
+**Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)
 
 The Gordian Architecture puts the Gordian Principles into use through an overall design that covers everything that from the high-level architecture of a Gordian ecosystem through the specification and UX best practices that make it possible.
 
@@ -28,13 +28,13 @@ The Gordian Architecture puts the Gordian Principles into use through an overall
 
 ### Collaborative Seed Recovery
 
-**Introduction:** [CSR Overview](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CSR.md)<br>
-**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CKM.md)
+**Introduction:** [CSR Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CSR/README.md)<br>
+**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)
 **Videos:** [CSR Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1Fbp-P1Yv-7gmu75i2QS2Z6vk)
 
 Collaborative Seed Recovery, or CSR, is a new system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
 
-CSR is a step toward [Collaborative Key Management (CKM)](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/CKM.md), which is expected to become an active project following the deployment of current CSR systems. Currently, CSR is planned for 2022 and CKM for 2023-2024.
+CSR is a step toward [Collaborative Key Management (CKM)](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md), which is expected to become an active project following the deployment of current CSR systems. Currently, CSR is planned for 2022 and CKM for 2023-2024.
 
 ### Gordian Reference App: Coordinator (iOS)
 
@@ -54,7 +54,7 @@ Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It d
 
 **Repo:** [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS)<br>
 
-Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Quick-Connect-API.md).
+Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/QuickConnect/README.md).
 
 <a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
 ### Gordian Reference App: LetheKit (kit)
@@ -120,7 +120,7 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 ### Envelope Specification
 
 **Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
-**Intros:** [Introduction to Gordian Envelopes](https://www.blockchaincommons.com/introduction/Envelope-Intro/), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Envelope-Tech-Intro.md), [Use Cases Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Envelope-Use-Cases.md)
+**Intros:** [Introduction to Gordian Envelopes](https://www.blockchaincommons.com/introduction/Envelope-Intro/), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Intro-Tech.md), [Use Cases Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/README.md)
 **Docs:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
 **Videos:** [Introduction](https://www.youtube.com/watch?v=tQ9SPek0mnI&list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
 
@@ -184,7 +184,7 @@ This is a complete twenty-chapter course intended to teach system administrators
 
 _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
 
-A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/Gordian/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
+A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
 
 <hr>
 

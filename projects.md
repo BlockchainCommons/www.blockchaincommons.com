@@ -14,8 +14,8 @@ Blockchain Commons produces projects that fulfill its [Vision](https://www.block
 ## The Gordian Architecture
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
-**Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)
-**Q&A:&& [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/)
+**Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)<br>
+**Q&A:** [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/)
 
 _The Gordian Architecture is the heart of Blockchain Commons' work. It's a partitioned architecture and a set of backup, communication, and encoding specifications, built to support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles)._
 

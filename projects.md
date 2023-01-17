@@ -32,13 +32,17 @@ The Gordian Architecture is an future-looking design that covers everything that
   <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg"></a>
 </center>
 
+<hr>
+
 ## Gordian Use Cases
 
 **Gordian Envelope Use Cases:** [Overview](https://www.blockchaincommons.com/introduction/Gordian-Envelope-Use-Cases/), [Educational & Credential Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Educational.md), [Data Distribution Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Data.md), [Software & AI Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Software.md), [Financial Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Financial.md)
 **Other Use Cases:** [Collaborative Seed Recovery (CSR) Use Cases](https://hackmd.io/ZbRiwvUfQSy-1RKM15bM8Q#CSR-Focused-Use-Cases), [Collaborative Key Management (CKM) Use Case](https://hackmd.io/ZbRiwvUfQSy-1RKM15bM8Q#Secret-Sharing-Use-Cases)
 
 Why use the Gordian Architecture? Use Cases explain the real world applications of many Gordian reference apps and specifications. They can impact and improve data distribution, software distribution, credential usage, the financial industry, and more.
-                                                                                                                      
+   
+<hr>
+
 ## Gordian Reference Apps
 
 The Gordian Reference Apps demonstrate the Gordian Specifications and their support of the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), offering best practices and examples for other developers.

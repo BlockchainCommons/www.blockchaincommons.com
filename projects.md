@@ -11,20 +11,30 @@ Blockchain Commons produces projects that fulfill its [Vision](https://www.block
 <hr>
 
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
-## The Gordian System
-
-_The Gordian system is the heart of Blockchain Commons' work. It's intended to support the self-sovereign control of digital assets in a way that's safe, secure, and private by enabling responsible key management. It's built on a foundation of [Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) that have been fulfilled in an [Architecture](https://github.com/BlockchainCommons/Gordian#gordian-architecture) that is embodied in Reference Apps and supported by Reference Libraries._
-
-### The Gordian Architecture
+## The Gordian Architecture
 
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)
+**Q&A:&& [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/)
 
-The Gordian Architecture puts the Gordian Principles into use through an overall design that covers everything that from the high-level architecture of a Gordian ecosystem through the specification and UX best practices that make it possible.
+_The Gordian Architecture is the heart of Blockchain Commons' work. It's a partitioned architecture and a set of backup, communication, and encoding specifications, built to support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles)._
+
+The Gordian Architecture supports users through those four principles.
+
+* **Independence.** The Gordian Architecture supports self-sovereign control of digital assets. Users are in control, not centralized organizations.
+* **Privacy.** The Gordian Architecture is privacy-protecting, allowing selective protection and disclosure of data.
+* **Resilience.** The Gordian Architecture focuses on [#SmartCustody](https://www.smartcustody.com/index.html) to eliminate Single Points of Failure and Compromise; controlling your own assets can be tricky, and the Gordian Architecture makes it as safe as possible while also maximizing security.
+* **Openness.** The Gordian Architecture helps developers to come together using open specifications that allow interoperability.
+
+The Gordian Architecture is an future-looking design that covers everything that from the high-level architecture of a Gordian ecosystem through the specifications and UX best practices that make it possible. It allows blockchain, wallet, and web developers to deploy fully featured applications that incorporate all the current best practices of the digital-asset community.
 
 <center>
-  <a href="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/video-tech-overview.png"></a>
-</center>
+  <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg"></a>
+ </center>
+
+## Gordian Reference Apps
+
+The Gordian Reference Apps demonstrate the Gordian Specifications and their support of the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), offering best practices and examples for other developers.
 
 ### Collaborative Seed Recovery
 
@@ -32,7 +42,7 @@ The Gordian Architecture puts the Gordian Principles into use through an overall
 **Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)
 **Videos:** [CSR Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1Fbp-P1Yv-7gmu75i2QS2Z6vk)
 
-Collaborative Seed Recovery, or CSR, is a new system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
+Collaborative Seed Recovery, or CSR, is currrently Blockchain Commons' major project, being developed in coordination with a number of partners. It's a system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
 
 CSR is a step toward [Collaborative Key Management (CKM)](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md), which is expected to become an active project following the deployment of current CSR systems. Currently, CSR is planned for 2022 and CKM for 2023-2024.
 
@@ -64,18 +74,15 @@ Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, 
 
 LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the [mythological river](https://en.wikipedia.org/wiki/Lethe) of forgetfulness and oblivion.
 
-### Gordian Reference App: Spotbit (web)
-
-**Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)<br>
-
-Spotbit is a portable Flask API for Bitcoin price data and candles. It can either be used as a repository of historical data that allows for more frequent API requests, or as a simple wrapper around exchange APIs that permits the user to collect information over Tor. It can aggregate data from over 100 exchanges and serve them from a single URL or using Tor as an onion hidden service. It's extremely flexible: the user can decide which base currencies to use (USDT, USD, EUR etc), which exchanges to keep data for, and how much data to keep.
-
 ### Other Gordian Reference Apps
 
+**CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) 
+**iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)
+**Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)
 **Legacy Repos:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
 **Research Repos:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli), [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
 
-Several legacy reference apps were initially released to demonstrate specific Principles but have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
+Several other reference apps have been released to demonstrate specific Principles. Some have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
 
 <hr>
 

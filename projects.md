@@ -13,6 +13,7 @@ Blockchain Commons produces projects that fulfill its [Vision](https://www.block
 <a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
 ## The Gordian Architecture
 
+<a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg" style="float: right; border: 2px solid blue"></a>
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)<br>
 **Q&A:** [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/)
@@ -28,9 +29,6 @@ The Gordian Architecture supports users through those four principles.
 
 The Gordian Architecture is an future-looking design that covers everything that from the high-level architecture of a Gordian ecosystem through the specifications and UX best practices that make it possible. It allows blockchain, wallet, and web developers to deploy fully featured applications that incorporate all the current best practices of the digital-asset community.
 
-<center>
-  <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg"></a>
-</center>
 
 <hr>
 
@@ -107,19 +105,14 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 
 ### Envelope Specification
 
+  <a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/hqdefault.jpg" style="float: right; border: 2px solid blue"></a>
 **Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
 **Intros:** [Introduction to Gordian Envelopes](https://www.blockchaincommons.com/introduction/Envelope-Intro/), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Intro-Tech.md), [Use Cases Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/README.md)
 **Docs:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
-**Videos:** [Introduction](https://www.youtube.com/watch?v=tQ9SPek0mnI&list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
+**Videos:** [Introduction](https://www.youtube.com/watch?v=OcnpYqHn8NQ), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
 
  The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that supports the storage, backup, encryption & authentication of data, with explicit support for Merkle-based selective disclosure.
  
-
-<center>
-  <a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/hqdefault.jpg"></a>
-</center>
-
-
 <a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
 ### Lifehash Specification
 

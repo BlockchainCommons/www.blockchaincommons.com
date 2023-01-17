@@ -29,9 +29,11 @@ The Gordian Architecture supports users through those four principles.
 The Gordian Architecture is an future-looking design that covers everything that from the high-level architecture of a Gordian ecosystem through the specifications and UX best practices that make it possible. It allows blockchain, wallet, and web developers to deploy fully featured applications that incorporate all the current best practices of the digital-asset community.
 
 <center>
-  <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg"></a>
+  <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg"></a>
  </center>
 
+## Gordian Use Cases
+                                                                                                                      
 ## Gordian Reference Apps
 
 The Gordian Reference Apps demonstrate the Gordian Specifications and their support of the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), offering best practices and examples for other developers.
@@ -76,13 +78,13 @@ LetheKit is a do-it-youself platform for performing various sensitive cryptograp
 
 ### Other Gordian Reference Apps
 
-**CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) 
+**CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) 
 **iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)
 **Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)
 **Legacy Repos:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
 **Research Repos:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli), [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
 
-Several other reference apps have been released to demonstrate specific Principles. Some have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
+Several other reference apps have been released to demonstrate specific Principles, including not just apps for iOS but also CLI apps and apps for the web. Some apps have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
 
 <hr>
 
@@ -95,21 +97,6 @@ _The Gordian Reference Libraries adopt Gordian specifications for programming us
 **Repos:** [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries)
 
 All of the Gordian reference libraries can be found linked from the Crypto Commons repo. Libraries are originally coded in C or C++, but the repo also contains implementations of some libraries for Java, Python, Swift, or other languages.
-
-### Gordian Reference CLI Apps
-
-**CLI Repos:** [bytewords-cli](https://github.com/BlockchainCommons/bytewords-cli), [envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift), [keytool-cli](https://github.com/BlockchainCommons/keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [seedtool-cli](https://github.com/BlockchainCommons/seedtool-cli)
-
-Blockchain Commons also provides many references apps that are meant to be run from the command line, explicitly exercising and demonstrating our reference libraries.
-
-<center><a href="images/projects/keytool.png"><img src="images/projects/keytool.png" align="right" border="1" width="500"></a></center>
-
-### Gordian Web Apps
-
-**LifeHash Demo:** [Lifehash Demo](https://lifehash.info/), [Lifehash Repo](https://github.com/BlockchainCommons/lifehash.info)
-**Seedtool Demo:** [Seedtool Demo](https://seedtool.info/), [Seedtool Repo](https://github.com/BlockchainCommons/seedtool.info)
-
-Some Blockchain Commons apps have also been converted to web demos.
 
 <hr>
 

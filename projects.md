@@ -48,7 +48,7 @@ The Gordian Reference Apps demonstrate the Gordian Specifications and their supp
 ### Collaborative Seed Recovery
 
 **Introduction:** [CSR Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CSR/README.md)<br>
-**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)
+**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)<br>
 **Videos:** [CSR Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1Fbp-P1Yv-7gmu75i2QS2Z6vk)
 
 Collaborative Seed Recovery, or CSR, is currrently Blockchain Commons' major project, being developed in coordination with a number of partners. It's a system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.

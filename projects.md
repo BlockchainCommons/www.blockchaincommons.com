@@ -30,7 +30,7 @@ The Gordian Architecture is an future-looking design that covers everything that
 
 <center>
   <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg"></a>
- </center>
+</center>
 
 ## Gordian Use Cases
 
@@ -83,31 +83,16 @@ LetheKit is a do-it-youself platform for performing various sensitive cryptograp
 
 ### Other Gordian Reference Apps
 
-**CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) 
-**iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)
-**Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)
 **Legacy Repos:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
 **Research Repos:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli), [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
 
-Several other reference apps have been released to demonstrate specific Principles, including not just apps for iOS but also CLI apps and apps for the web. Some apps have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
-
-<hr>
-
-## Gordian Reference Libraries
-
-_The Gordian Reference Libraries adopt Gordian specifications for programming use. In addition, CLI apps and web apps offer other ways to demonstrate their application._
-
-### Crypto Commons Libraries
-
-**Repos:** [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries)
-
-All of the Gordian reference libraries can be found linked from the Crypto Commons repo. Libraries are originally coded in C or C++, but the repo also contains implementations of some libraries for Java, Python, Swift, or other languages.
+Several other reference apps have been released to demonstrate specific Principles. Some of these apps have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
 
 <hr>
 
 ## Gordian Specifications
 
-The Gordian architecture is ultimately built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html).
+The Gordian architecture is ultimately built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications for encoding, communication, and backup are what create the independence, privacy, resilience, and openness of our designs.
 
 ### Research Papers
 
@@ -125,6 +110,12 @@ Much of Blockchain Commons' work on specifications begins with Research papers, 
 
  The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that supports the storage, backup, encryption & authentication of data, with explicit support for Merkle-based selective disclosure.
  
+
+<center>
+  <a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/hqdefault.jpg"></a>
+</center>
+
+
 <a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
 ### Lifehash Specification
 
@@ -156,6 +147,43 @@ One of the particular advantages of UR is careful integration with QR codes, a p
 
 <hr>
 
+## Gordian Reference
+
+_Gordian References help developers to develop and test the Gordian specifications._
+
+### Crypto Commons Libraries
+
+**Repos:** [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries)
+
+All of the Gordian reference libraries can be found linked from the Crypto Commons repo. Libraries are originally coded in C or C++, but the repo also contains implementations of some libraries for Java, Python, Swift, or other languages.
+
+### Developer Apps
+
+**CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) 
+**iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)
+**Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)
+
+Apps for the command-line and for iOS and the web can aid developers in testing out their work.
+
+## Advocacy Projects
+
+_Blockchain Commons isn't just about technological development. It also works to ensure that there's a solid legal foundation for our blockchain technologies. That's where Advocacy comes in_.
+
+### Law & Advocacy
+
+**Repo:** [Law & Advocacy Repo](https://github.com/BlockchainCommons/law-and-advocacy)<br>
+**Articles:** [Principal Authority](https://www.blockchaincommons.com/articles/Principal-Authority/), [Private Key Disclosure](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
+
+Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
+
+### Testimony
+
+**Repo:** [Testimony Repo](https://github.com/BlockchainCommons/Testimony)
+
+Blockchain Commons has regularly provided testimony to various agencies and instutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
+
+<hr>
+
 ## Educational Projects
 
 _Educational projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
@@ -184,25 +212,6 @@ This is a complete twenty-chapter course intended to teach system administrators
 _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
 
 A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
-
-<hr>
-
-## Advocacy Projects
-
-_Blockchain Commons isn't just about technological development. It also works to ensure that there's a solid legal foundation for our blockchain technologies. That's where Advocacy comes in_.
-
-### Law & Advocacy
-
-**Repo:** [Law & Advocacy Repo](https://github.com/BlockchainCommons/law-and-advocacy)<br>
-**Articles:** [Principal Authority](https://www.blockchaincommons.com/articles/Principal-Authority/), [Private Key Disclosure](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
-
-Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
-
-### Testimony
-
-**Repo:** [Testimony Repo](https://github.com/BlockchainCommons/Testimony)
-
-Blockchain Commons has regularly provided testimony to various agencies and instutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
 
 <hr>
 

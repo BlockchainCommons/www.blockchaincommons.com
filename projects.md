@@ -273,7 +273,9 @@ Blockchain Commons supports the open infrastructure of Tor by running its own ex
 <center>
 <img align="center" src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/tor-graph.png" width="100%">
   </center>
-  
+
+<hr>
+
 ## How to Get Involved
 
 _Want to become involved in Blockchain Commons' projects? Here's how!_

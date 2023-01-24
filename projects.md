@@ -34,6 +34,8 @@ The Gordian Architecture is an future-looking design that covers everything that
 
 The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs.
 
+<a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
+
 ### Envelope Specification
 
 **Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
@@ -79,8 +81,6 @@ One of the particular advantages of UR is careful integration with QR codes, a p
 **Video:** [Overview](https://www.youtube.com/watch?v=RYgOFSdUqWY)
 
 Most of our specifications begin with Research papers, which describe and detail the use of new, interoperable specifications for blockchain and Bitcoin.
-
-<a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
 
 <hr>
 

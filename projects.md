@@ -28,6 +28,59 @@ The Gordian Architecture supports users through those four principles.
 
 The Gordian Architecture is an future-looking design that covers everything that from the high-level architecture of a Gordian ecosystem through the specifications and UX best practices that make it possible. It allows blockchain, wallet, and web developers to deploy fully featured applications that incorporate all the current best practices of the digital-asset community.
 
+<hr>
+
+## Gordian Specifications
+
+The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs.
+
+### Envelope Specification
+
+**Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
+**Intros:** [Introduction to Gordian Envelopes](https://www.blockchaincommons.com/introduction/Envelope-Intro/), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Intro-Tech.md), [Use Cases Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/README.md)
+**Docs:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
+**Videos:** [Introduction](https://www.youtube.com/watch?v=OcnpYqHn8NQ), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
+
+ The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that supports the storage, backup, encryption & authentication of data, with explicit support for Merkle-based selective disclosure.
+ 
+<a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
+
+### Lifehash Specification
+
+**Repo:** [Overview & Web Demo](https://github.com/BlockchainCommons/lifehash-web)<br>
+**Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
+
+LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
+
+LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance.
+
+### SSKR Specification
+
+**Paper:** [UR Type Definition for Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-011-sskr.md)<br>
+**Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
+**Documents:** [SSKR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-overview.md), [SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), [SSKR Dangers](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md)
+
+Blockchain Commons SSKR is an implementation of Sharded Secret Key Reconstruction (SSKR) for use in Blockchain Commons Software Projects. It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key, to improve Resilience.
+
+### Uniform Resource (UR) Specification
+
+**Papers:** [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), [Registry of UR Types](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md), [UR Type Definitions for Transactions Between Airgapped Devices](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md), and others<br>
+**Documents:** [UR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-overview.md), [UR Introduction](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md)<br>
+**Blog:** [Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs & More](https://www.blockchaincommons.com/specifications/Blockchain-Commons-URs-Support-Airgapped-PSBTs/) (12/8/20)<br>
+**Test Vectors:** [crypto-request](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/crypto-request-test-vectors.md), [crypto-seed](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/crypto-seed-test-vectors.md), [SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-test-vector.md)
+
+UR stands for Uniform Resources, a method for encoding structured binary data in plain-text strings that are also well-formed URIs. It's an interoperability specification that allows for the reliable, typed transfer of data and was designed in particular to allow for reliable transmission of crypto-seeds, crypto-keys, PSBTs, and other data related to cryptocurrency.
+
+One of the particular advantages of UR is careful integration with QR codes, a prime method for transmitting data across airgaps. URs are built to be efficient when encoded as QRs. In addition, multi-part URs allow for the creation of animated QRs, overall containing more information than any single QR could have.
+
+### Research Papers
+
+**Repo:** [Research](https://github.com/BlockchainCommons/Research)<br>
+**Video:** [Overview](https://www.youtube.com/watch?v=RYgOFSdUqWY)
+
+Most of our specifications begin with Research papers, which describe and detail the use of new, interoperable specifications for blockchain and Bitcoin.
+
+<a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
 
 <hr>
 
@@ -37,13 +90,33 @@ The Gordian Architecture is an future-looking design that covers everything that
 **Gordian Envelope Use Cases:** [Overview](https://www.blockchaincommons.com/introduction/Gordian-Envelope-Use-Cases/), [Educational & Credential Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Educational.md), [Data Distribution Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Data.md), [Software & AI Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Software.md), [Financial Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Financial.md)<br>
 **Other Use Cases:** [Collaborative Seed Recovery (CSR) Use Cases](https://hackmd.io/ZbRiwvUfQSy-1RKM15bM8Q#CSR-Focused-Use-Cases), [Collaborative Key Management (CKM) Use Case](https://hackmd.io/ZbRiwvUfQSy-1RKM15bM8Q#Secret-Sharing-Use-Cases)
 
-Why use the Gordian Architecture? Use Cases explain the real world applications of many Gordian reference apps and specifications. They can impact and improve data distribution, software distribution, credential usage, the financial industry, and more.
+Why use the Gordian Architecture? Use Cases explain the real world applications of many Gordian specifications. They can impact and improve data distribution, software distribution, credential usage, the financial industry, and more.
    
+<hr>
+
+## Gordian Developer Support
+
+_The Blockchain Commons repos include libraries and apps that help developers to develop and test the Gordian specifications._
+
+### Crypto Commons Libraries
+
+**Repos:** [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries)
+
+All of the Gordian reference libraries can be found in the Crypto Commons repo. Libraries are originally coded in C or C++, but the repo also contains implementations of some libraries for Java, Python, Swift, or other languages.
+
+### Developer Apps
+
+**CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) <br>
+**iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
+**Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)
+
+Apps for the command-line and for iOS and the web can aid developers in testing out their work.
+
 <hr>
 
 ## Gordian Reference Apps
 
-The Gordian Reference Apps demonstrate the Gordian Specifications and their support of the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), offering best practices and examples for other developers.
+Whereas Developer Apps are meant for testing, the Gordian Reference Apps offer best practices and examples of how to incorporate Reference Libraries into applies that support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
 
 ### Collaborative Seed Recovery
 
@@ -92,94 +165,23 @@ Several other reference apps have been released to demonstrate specific Principl
 
 <hr>
 
-## Gordian Specifications
+## Events
 
-The Gordian architecture is ultimately built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications for encoding, communication, and backup are what create the independence, privacy, resilience, and openness of our designs.
+_One of the prime goals of Blockchain Commons is to bring together different parties to educate and to create consensus on the future development of our technologies and specifications. This happens through events._
 
-### Research Papers
+<a href="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg" border=1 width=300 align="right"></a>
+### Silicon Salon
 
-**Repo:** [Research](https://github.com/BlockchainCommons/Research)<br>
-**Video:** [Overview](https://www.youtube.com/watch?v=RYgOFSdUqWY)
+**Website:** [Siliconsalon.info](https://www.siliconsalon.info/)
 
-Much of Blockchain Commons' work on specifications begins with Research papers, which describe and detail the use of a new, interoperable specification for blockchain and Bitcoin.
+The Silicon Salon seeks to create semiconductor solutions for cryptography by bringing together semiconductor manufacturers who are interested in creating silicon solutions specifically intended for cryptography with wallet creators and other cryptographic principals. Each event to date has included presentations from principles in the area and discussion among attendees. Our web site includes the presentations and summarizes the discussions.
 
-<a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
+### Rebooting the Web of Trust
 
-### Envelope Specification
+**Website:** [weboftrust.info](https://www.weboftrust.info/)<br>
+**GitHub Repos:** [WebofTrust Repos](https://github.com/WebofTrustInfo)
 
-**Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
-**Intros:** [Introduction to Gordian Envelopes](https://www.blockchaincommons.com/introduction/Envelope-Intro/), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Intro-Tech.md), [Use Cases Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/README.md)
-**Docs:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
-**Videos:** [Introduction](https://www.youtube.com/watch?v=OcnpYqHn8NQ), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
-
- The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that supports the storage, backup, encryption & authentication of data, with explicit support for Merkle-based selective disclosure.
- 
-<a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
-
-### Lifehash Specification
-
-**Repo:** [Overview & Web Demo](https://github.com/BlockchainCommons/lifehash-web)<br>
-**Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
-
-LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
-
-LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance.
-
-### SSKR Specification
-
-**Paper:** [UR Type Definition for Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-011-sskr.md)<br>
-**Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
-**Documents:** [SSKR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-overview.md), [SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), [SSKR Dangers](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md)
-
-Blockchain Commons SSKR is an implementation of Sharded Secret Key Reconstruction (SSKR) for use in Blockchain Commons Software Projects. It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key, to improve Resilience.
-
-### Uniform Resource (UR) Specification
-
-**Papers:** [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), [Registry of UR Types](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md), [UR Type Definitions for Transactions Between Airgapped Devices](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md), and others<br>
-**Documents:** [UR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-overview.md), [UR Introduction](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md)<br>
-**Blog:** [Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs & More](https://www.blockchaincommons.com/specifications/Blockchain-Commons-URs-Support-Airgapped-PSBTs/) (12/8/20)<br>
-**Test Vectors:** [crypto-request](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/crypto-request-test-vectors.md), [crypto-seed](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/crypto-seed-test-vectors.md), [SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-test-vector.md)
-
-UR stands for Uniform Resources, a method for encoding structured binary data in plain-text strings that are also well-formed URIs. It's an interoperability specification that allows for the reliable, typed transfer of data and was designed in particular to allow for reliable transmission of crypto-seeds, crypto-keys, PSBTs, and other data related to cryptocurrency.
-
-One of the particular advantages of UR is careful integration with QR codes, a prime method for transmitting data across airgaps. URs are built to be efficient when encoded as QRs. In addition, multi-part URs allow for the creation of animated QRs, overall containing more information than any single QR could have.
-
-<hr>
-
-## Gordian Reference
-
-_Gordian References help developers to develop and test the Gordian specifications._
-
-### Crypto Commons Libraries
-
-**Repos:** [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries)
-
-All of the Gordian reference libraries can be found linked from the Crypto Commons repo. Libraries are originally coded in C or C++, but the repo also contains implementations of some libraries for Java, Python, Swift, or other languages.
-
-### Developer Apps
-
-**CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) <br>
-**iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
-**Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)
-
-Apps for the command-line and for iOS and the web can aid developers in testing out their work.
-
-## Advocacy Projects
-
-_Blockchain Commons isn't just about technological development. It also works to ensure that there's a solid legal foundation for our blockchain technologies. That's where Advocacy comes in_.
-
-### Law & Advocacy
-
-**Repo:** [Law & Advocacy Repo](https://github.com/BlockchainCommons/law-and-advocacy)<br>
-**Articles:** [Principal Authority](https://www.blockchaincommons.com/articles/Principal-Authority/), [Private Key Disclosure](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
-
-Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
-
-### Testimony
-
-**Repo:** [Testimony Repo](https://github.com/BlockchainCommons/Testimony)
-
-Blockchain Commons has regularly provided testimony to various agencies and instutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
+Rebooting the Web of Trust is a semiannual design workshop that was founded by Christopher Allen prior to the foundation of Blockchain Commons; many of its ideas in turn became the heart of our initial work. We continue to attend and support the workshops.
 
 <hr>
 
@@ -212,25 +214,26 @@ _The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Contr
 
 A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
 
+
 <hr>
 
-## Events
+## Advocacy Projects
 
-_One of the prime goals of Blockchain Commons is to bring together different parties to educate and to create consensus on the future development of our technologies and specifications. This happens through events._
+_Blockchain Commons isn't just about technological development. It also works to ensure that there's a solid legal foundation for our blockchain technologies. That's where Advocacy comes in_.
 
-<a href="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg" border=1 width=300 align="right"></a>
-### Silicon Salon
+### Law & Advocacy
 
-**Website:** [Siliconsalon.info](https://www.siliconsalon.info/)
+**Repo:** [Law & Advocacy Repo](https://github.com/BlockchainCommons/law-and-advocacy)<br>
+**Articles:** [Principal Authority](https://www.blockchaincommons.com/articles/Principal-Authority/), [Private Key Disclosure](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
 
-The Silicon Salon seeks to create semiconductor solutions for cryptography by bringing together semiconductor manufacturers who are interested in creating silicon solutions specifically intended for cryptography with wallet creators and other cryptographic principals. Each event to date has included presentations from principles in the area and discussion among attendees. Our web site includes the presentations and summarizes the discussions.
+Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
 
-### Rebooting the Web of Trust
+### Testimony
 
-**Website:** [weboftrust.info](https://www.weboftrust.info/)<br>
-**GitHub Repos:** [WebofTrust Repos](https://github.com/WebofTrustInfo)
+**Repo:** [Testimony Repo](https://github.com/BlockchainCommons/Testimony)
 
-Rebooting the Web of Trust is a semiannual design workshop that was founded by Christopher Allen prior to the foundation of Blockchain Commons; many of its ideas in turn became the heart of our initial work. We continue to attend and support the workshops.
+Blockchain Commons has regularly provided testimony to various agencies and instutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
+
 
 <hr>
 
@@ -270,3 +273,11 @@ Blockchain Commons supports the open infrastructure of Tor by running its own ex
 <center>
 <img align="center" src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/tor-graph.png" width="100%">
   </center>
+  
+## How to Get Involved
+
+_Want to become involved in Blockchain Commons' projects? Here's how!_
+
+* **Participate in the Gordian Developer Community.** Join our [Developer Discussions on GitHub](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions). If you want more more, [talk with us](mailto:team@blockchaincommons.com) to get access to our Gordian Signal group.
+* **Contribute to Projects.** Submit Issues to Projects or (even better) PRs, offering clear improvements. We welcome them on all our repos!
+* **Become a Sponsor.** Support Blockchain Commons by becoming a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). We welcome all donations, as they allow us to continue our industry-supporting work. If you're a company interested in becoming more involved [talk with us](mailto:team@blockchaincommons.com) about becoming a Project Sponsor or a Sustaining Sponsor!

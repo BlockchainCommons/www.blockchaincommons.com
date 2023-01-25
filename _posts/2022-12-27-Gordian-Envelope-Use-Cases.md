@@ -112,3 +112,11 @@ However, resilience can be further improved with Gordian Envelope permits.
 
 4. [**Sam Gets Rigorous about Resilience (SSKR Permit)**](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Financial.md#4-sam-gets-rigorous-about-resilience-sskr-permit) — Sharding keys to improve resilience.
 5. [**Sam Promotes a Partner (Multi-Permit)**](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Financial.md#5-sam-promotes-a-partner-multi-permit) — Improving resilience through multiple permits.
+
+## The Common Thread of Use Cases
+
+The first common thread among the use cases for Gordian Envelopes is the need for secure and privacy-enhancing solutions for transmitting and storing complex, sensitive data. Gordian Envelopes can help to prevent tampering or other security breaches and ensure that only verified, trustworthy data is transmitted. This can be particularly important in industries such as healthcare, finance, and government, where the verifiability of personal data is of utmost concern.
+
+The second common thread is a focus on protecting human rights. The core value proposition of the privacy features of Gordian Envelopes cannot be overstated: through its support for selective disclosure and [progressive trust](https://www.blockchaincommons.com/musings/musings-progressive-trust/), Gordian Envelopes allow for disclosure of only specific parts of the data, and only to authorized parties, ensuring that the privacy rights of individuals are respected.
+
+The final common thread is diversity. Data stored in Gordian Envelope may be related to a wide range of industries, have cross-industry contexts, or cross international borders. It often involves diverse parties with different business models, risk models, and trust boundaries. When you have a diversity of users, requirements, and models, Gordian Envelopes can offer a flexible solution that allows different uses for different entities.

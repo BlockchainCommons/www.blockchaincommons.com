@@ -110,16 +110,32 @@ There are a broad swath of additional use cases, some of which can be found in o
 
 ## Envelope Links
 
+### Introductions
+
 * [Doc: A Technical Overview of Envelopes](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Intro-Tech.md)
+* [Doc: Envelope Technical Documents](https://github.com/BlockchainCommons/Gordian/tree/master/Envelope#articles)
+* [IETF Draft: The Envelope Structured Data Format](https://blockchaincommons.github.io/WIPs-IETF-draft-envelope/draft-mcnally-envelope.html)
+* [CLI Usage Overview Transcript](https://github.com/BlockchainCommons/envelope-cli-swift/blob/master/Transcripts/1-OVERVIEW-TRANSCRIPT.md)
+
+### Videos
+
+* [Playlist: Full Gordian Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
+  * [Video: Introduction to Envelopes](https://www.youtube.com/watch?v=OcnpYqHn8NQ)
+  * [Video: Envelope MVA & Cipher Choices](https://www.youtube.com/watch?v=S0deyIHXukk)
+
+### Use Cases
+
 * [Doc: Overview of Envelope Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/README.md)
   * [Article: Summary of Use Cases](https://www.blockchaincommons.com/introduction/Gordian-Envelope-Use-Cases/)
   * [Doc: Educational Use Case](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Educational.md)
   * [Doc: Data Distribution Use Case](https://github.com/BlockchainCommons/Gordian/blob/masterEnvelope/Use-Cases/Data.md)
   * [Doc: Asset Control Use Case](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Financial.md)
   * [Doc: Software Release Use Case](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Software.md)
-* [Video: Introduction to Envelopes](https://www.youtube.com/watch?v=OcnpYqHn8NQ)
-* [Video: Envelope MVA & Cipher Choices](https://www.youtube.com/watch?v=S0deyIHXukk)
+
+### Envelope CLI
+
 * [Reference App: Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift)
 * [Docs: Envelope-CLI Docs](https://github.com/BlockchainCommons/envelope-cli-swift/tree/master/Docs)
-* [Video: Envelope-CLI Commands Overview](https://www.youtube.com/watch?v=K2gFTyjbiYk)
 * [Videos: Envelope-CLI Complete Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
+  * [Video: Envelope-CLI Commands Overview](https://www.youtube.com/watch?v=K2gFTyjbiYk)
+  * [Transcripts: Transcripts of Videos](https://github.com/BlockchainCommons/envelope-cli-swift/tree/master/Transcripts)

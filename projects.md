@@ -40,7 +40,7 @@ The Gordian architecture is built on specifications that empower our [Vision](ht
 
 **Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
 **Intros:** [Introduction to Gordian Envelopes](https://www.blockchaincommons.com/introduction/Envelope-Intro/), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Intro-Tech.md), [Use Cases Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/README.md)
-**Docs:** [Docs](https://github.com/BlockchainCommons/BCSwiftSecureComponents/tree/master/Docs)
+**Docs:** [Docs](https://github.com/BlockchainCommons/Gordian/tree/master/Envelope#articles)
 **Videos:** [Introduction](https://www.youtube.com/watch?v=OcnpYqHn8NQ), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
 
  The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that supports the storage, backup, encryption & authentication of data, with explicit support for Merkle-based selective disclosure.

@@ -24,7 +24,7 @@ _This year I gave it a new try by authoring [an advanced-reading paper for RWOT 
 
 Data Minimization is the practice of limiting the amount of shared data to the minimum necessary: just enough for parties to successfully transact, accomplish a task, or otherwise meet a goal with each other, while minimizing risks to all parties by omitting unnecessary content. 
 
-Though essential as part of security best practices (along with [Least Priviledge](https://en.wikipedia.org/wiki/Principle_of_least_privilege), a topic for a future musing), Minimimal Disclosure is, in particular, is mandated practice for maintaining the privacy of people using digital identities and thus requires special attention  when collecting and sharing, to curtail personal information to only that which is absolutely necessary.
+Though essential as part of security best practices (along with [Least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege), a topic for a future musing), Minimimal Disclosure is, in particular, is mandated practice for maintaining the privacy of people using digital identities and thus requires special attention  when collecting and sharing, to curtail personal information to only that which is absolutely necessary.
 
 The best practices of Data Minimization guide the design and implementation of personal data protection regulations, such as the General Data Protection Regulation (GDPR) in the European Union. They include:
 
@@ -75,7 +75,7 @@ GDPR does not mandate the use of Selective Disclosure, but the GDPR does gives i
 
 In addition, some organizations have developed their own standards for Selective Disclosure, such as the Platform for Privacy Preferences (P3P) which provides a mechanism for websites to disclose their data collection and sharing practices and for individuals to set their privacy preferences.
 
-Some principles of Selective Disclosure include:
+Some requirements for Selective Disclosure include:
 
 * **Granularity:** Allow individual or organizations to share only specific pieces of information, rather than sharing all of their personal information. This enables users to share only the information that is necessary to accomplish a specific task or goal.
 * **Control:** Give users more control over their personal information by allowing them to decide what information they want to share, and with whom they want to share it.

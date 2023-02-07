@@ -5,7 +5,8 @@ categories:
   - Salons
 tags:
   - Silicon Salon
-  
+classes:
+  - wide  
 image: https://www.siliconsalon.info/assets/silicon-salon-2/images/silicon-salon2.jpg
 ---
 

@@ -6,6 +6,8 @@ categories:
 tags:
   - QR Tool
   - Gordian Architecture
+classes:
+  - wide
 image: https://raw.githubusercontent.com/BlockchainCommons/GordianQRTool-iOS/master/images/ca-digital-vaccine-record.png
 ---
 

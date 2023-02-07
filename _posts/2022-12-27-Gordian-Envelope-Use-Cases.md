@@ -6,6 +6,8 @@ categories:
 tags:
   - Gordian Architecture
   - Gordian Envelope
+classes:
+  - wide
 image: https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/Envelope-Examples-DO.jpg
 ---
 

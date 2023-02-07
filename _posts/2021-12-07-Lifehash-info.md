@@ -7,6 +7,8 @@ tags:
   - LifeHash
   - Airgap
   - Web Page
+classes:
+  - wide
 image: http://www.blockchaincommons.com/images/lifehash-info.png
 ---
 

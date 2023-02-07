@@ -7,6 +7,8 @@ tags:
   - Advocacy
   - Legislation
   - Self-Sovereign Identity
+classes:
+  - wide
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
 

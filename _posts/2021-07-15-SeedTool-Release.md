@@ -6,6 +6,8 @@ categories:
 tags:
   - Seed Tool
   - Gordian Architecture
+classes:
+  - wide
 image: https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/master/images/gg-list.jpg
 ---
 

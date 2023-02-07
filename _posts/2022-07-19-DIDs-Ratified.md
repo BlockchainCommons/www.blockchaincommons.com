@@ -6,6 +6,8 @@ categories:
 tags:
   - DID
   - W3C
+classes:
+  - wide
 ---
 Congratulations to W3C on the ratification of [DID v1.0](https://www.w3.org/TR/did-core/) as a W3C standard!
 

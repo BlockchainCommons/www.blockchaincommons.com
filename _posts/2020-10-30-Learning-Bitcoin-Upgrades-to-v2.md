@@ -5,6 +5,8 @@ categories:
   - Courses
 tags:
   - Learning Bitcoin
+classes:
+  - wide
 ---
 
 <img src="https://www.blockchaincommons.com/images/projects/lbtc-screen.png" width=350 align="right">

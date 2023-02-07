@@ -6,6 +6,8 @@ categories:
 tags:
   - Bitcoin Framework
   - iOS Libraries
+classes:
+  - wide
 ---
 
 ### Building on Libbitcoin

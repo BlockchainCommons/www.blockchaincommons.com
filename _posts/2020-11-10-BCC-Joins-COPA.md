@@ -6,6 +6,8 @@ categories:
 tags:
   - Patents
   - COPA
+classes:
+  - wide
 # image: images/copa-logo-small.png
 ---
 

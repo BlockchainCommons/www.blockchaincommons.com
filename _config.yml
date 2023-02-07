@@ -1,81 +1,39 @@
-title: "Blockchain Commons Website"
-project: "Blockchain Commons"
-description: "Creating Open & Interoperable, Secure & Compassionate Digital Infrastructure"
-author: Blockchain Commons
-email: info@BlockchainCommons.com
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Blockchain Commons
+email: team@blockchaincommons.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 twitter_username: BlockchainComns
-github_username:  BlockchainCommons
-show_downloads: false
-encoding: UTF-8
-kramdown:
-  input: GFM
-  hard_wrap: false
-future: true
-jailed: false
-remote_theme: blockchaincommons/so-simple-theme
-gfm_quirks: paragraph_end
-
-# Plugins
-# ========================================================================================
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-default-layout
-  - jekyll-feed
-  - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
-  - jekyll-redirect-from
-  - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-titles-from-headings
-
-locale: en-US
-baseurl: "/"
-url: "https://www.BlockchainCommons.com"
-logo: images/bc-logo-white-avatar.png
-date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
-mathjax: # MathJax equations, e.g. true
-image:
-  path: images/bc-logo-white-avatar.png
-  height: 400
-  width: 400
-google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
-# google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-# disqus:
-#   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
-twitter:
-  username: BlockchainComns
-
-# Liquid
-liquid:
-  error_mode: strict
-
-excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+minimal_mistakes_skin: default
+search: true
 
 # Build settings
-permalink: /:categories/:title/
 markdown: kramdown
-feed:
-  path: atom.xml
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
-
-# Search
-search_full_content: false # can have performance implications for large sites
-
-# Taxonomy pages
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -89,36 +47,65 @@ tag_archive_path: "/tags/#"
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Front Matter Defaults
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Blockchain Commons"
+  avatar : "/images/bc-logo-white-avatar.png"
+  bio    : "Creating Open & Interoperable, Secure & Compassionate Digital Infrastructure"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/blockchaincommons"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BlockchainComns"
+    - label: "Discussions"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BlockchainCommons/Community/discussions"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/blockchaincommons"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BlockchainComns"
+    - label: "Discussions"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BlockchainCommons/Community/discussions"
+
 defaults:
-  # Posts defaults
+  # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
-      layout: post
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
       share: true
-      is_post: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-# Site Author
-author:
-  name:
-  picture:
-  email:
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
-
-# Footer Links
-footer_links:
-  - title: Twitter
-    url: https://twitter.com/BlockchainComns
-    icon: fab fa-twitter-square
-  - title: Github
-    url: https://github.com/BlockchainCommons/
-    icon: fab fa-github-square
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

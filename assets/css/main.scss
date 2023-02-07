@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@import "minimal-mistakes";
+
+.page__subtitle {
+  color: white;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.notice--info {
+    font-size: .9em !important; // Between type-size-5 and type-size-6
+}
+
+hr { 
+  background-color: #3d4144;
+  height: 1px;
+  border: 0; 
+}
+
+$max-width:90%;
+
+

@@ -6,6 +6,8 @@ categories:
 tags:
   - Airgap
   - Gordian Architecture
+classes:
+  - wide
 ---
 
 Blockchain Commons has been accepted into the new GitHub discussion program, allowing for more freeform discussions within the context of our GitHub repos. As we are a GitHub-centric organization, we are now using this as the main venue for discussions about philosophies, goals, standards, and projects. Please join us!

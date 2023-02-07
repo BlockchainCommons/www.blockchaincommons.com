@@ -1,19 +1,14 @@
-# Sample site navigation bar links
-
-- title: Home
-  url: /
-- title: Vision
-  url: vision.html
-- title: Posts
-  url: /posts/
-- title: About
-  url: about.html
-- title: Sponsors
-  url: sponsors.html
-- title: "Projects"
-  url: /projects.html
-- title: "Github"
-  url: https://github.com/BlockchainCommons
-- title: "Discussion"
-  url: https://github.com/BlockchainCommons/Community/discussions
-  
+main:
+  - title: "Home"
+    url: /
+  - title: "Vision"
+    url: /vision.html
+  - title: "Posts"
+    url: /posts/
+  - title: "About"
+    url: /about.html
+  - title: "Sponsors"
+    url: /sponsors.html
+  - title: "Projects"
+    url: /projects.html
+    

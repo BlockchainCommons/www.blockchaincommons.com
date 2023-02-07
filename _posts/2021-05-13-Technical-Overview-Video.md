@@ -11,6 +11,8 @@ tags:
   - SSKR
   - Torgap
   - Airgap
+classes:
+  - wide
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-2.png
 ---
 

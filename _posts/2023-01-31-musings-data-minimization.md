@@ -1,6 +1,8 @@
 ---
 title: "Musings of a Trust Architect: Data Minimization & Selective Disclosure"
 excerpt_separator: "<!--more-->"
+classes:
+  - wide
 categories:
   - Musings
 tags:

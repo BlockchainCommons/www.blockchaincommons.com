@@ -6,6 +6,8 @@ categories:
 tags:
   - AirGap
   - LetheKit
+classes:
+  - wide
 ---
 
 Blockchain Commons has released a feature-complete version of LetheKit, a do-it-yourself hardware platform that allows you to conduct cryptographic operations on an airgapped device. Complete information for creating your own LetheKit and downloading its software can be found in Blockchain Commons' LetheKit repo.

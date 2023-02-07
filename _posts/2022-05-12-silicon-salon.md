@@ -5,7 +5,8 @@ categories:
   - Salons
 tags:
   - Silicon Salon
-  
+classes:
+  - wide
 image: https://github.com/BlockchainCommons/www.blockchaincommons.com/blob/master/images/silicon-salon.jpg
 ---
 

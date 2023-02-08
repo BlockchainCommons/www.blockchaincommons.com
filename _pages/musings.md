@@ -1,14 +1,14 @@
 ---
 header:
   overlay_color: "#00f"
-  overlay_filter: "0.75"
+  overlay_filter: "0.35"
   overlay_image: /images/blueprints.jpg
   og_image: /images/musings-card.jpg
 title: Musings of a Trust Architect
 cover: false
 classes:
 - wide
-hide_description: true
+description: Musings of a Trust Architect contains Christopher Allen's foundational ideas and philosophies behind the technology of Blockchain Commons.
 permalink: /musings.html
 ---
 

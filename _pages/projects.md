@@ -31,9 +31,9 @@ _Beyond its architectural core, Blockchain Commons also supports
 
 <hr>
 
-<a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
 ## The Gordian Architecture
 
+<a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)<br>
 **Q&A:** [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/)

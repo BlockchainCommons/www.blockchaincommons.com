@@ -12,7 +12,7 @@ permalink: /projects.html
 ---
 
 _Blockchain Commons produces projects that fulfill its
-[Vision](https://www.blockchaincommons.com/vision.html)._
+[**Vision**](https://www.blockchaincommons.com/vision.html)._
 
 _Much of this centers on an
 [**Architecture**](#the-gordian-architecture) that focuses on our

@@ -3,7 +3,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/qr-background.jpg
-  og_image: /images/bcc-card.jpg
+  og_image: /images/musings.png
 title: Musings of a Trust Architect
 cover: false
 classes:

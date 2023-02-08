@@ -1,6 +1,13 @@
 ---
 header:
+  overlay_color: "#00f"
+  overlay_filter: "0.35"
+  overlay_image: /images/blueprints.jpg
   og_image: /images/musings-card.jpg
+  actions:
+    - label: "See All Musings"
+      url: /musings.html
+tagline: "Limiting Shared Data & Minimizing Undesirable Correlation"
 title: "Musings of a Trust Architect: Data Minimization & Selective Disclosure"
 excerpt_separator: "<!--more-->"
 classes:

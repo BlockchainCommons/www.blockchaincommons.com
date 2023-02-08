@@ -42,7 +42,7 @@ This video overviews many of our specifications and other initiatives:
 </p>
 
 The Blockchain Commons projects are built atop the [Gordian
-Architecture](https://www.blockchaincommons.com/projects.html#the-gordian-architecture)
+Architecture](https://www.blockchaincommons.com/projects.html#the-gordian-architecture),
 the [Gordian
 Specifications](https://www.blockchaincommons.com/projects.html#gordian-specifications),
 and our [Gordian Use

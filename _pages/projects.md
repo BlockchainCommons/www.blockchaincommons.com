@@ -11,7 +11,21 @@ hide_description: true
 permalink: /projects.html
 ---
 
-Blockchain Commons produces projects that fulfill its [Vision](https://www.blockchaincommons.com/vision.html). Much of this centers on an **Architecture** that focuses on our Gordian Principles of independence, privacy, resilience, and openness and that encourages responsible key management. This Architecture is built upon **Use Cases**, **Specifications** that enable those Use Cases, and **Developer Support** for incorporating those Specifications including Reference Libraries and CLI Apps. **Reference Apps** offer further examples to ensure that Specifications are integrated using best practices. Beyond its architectural core, Blockchain Commons also supports **Events**, **Educational Projects**, **Advocacy Projects**, and **Open Infastructure Projects**.
+_Blockchain Commons produces projects that fulfill its
+[Vision](https://www.blockchaincommons.com/vision.html)._
+
+_Much of this centers on an **Architecture** that focuses on our
+Gordian Principles of independence, privacy, resilience, and openness
+and that encourages responsible key management. This Architecture is
+built upon **Use Cases**, **Specifications** that enable those Use
+Cases, and **Developer Support** for incorporating those
+Specifications including Reference Libraries and CLI Apps. **Reference
+Apps** offer further examples to ensure that Specifications are
+integrated using best practices._
+
+_Beyond its architectural core, Blockchain Commons also supports
+**Events**, **Educational Projects**, **Advocacy Projects**, and
+**Open Infastructure Projects**._
 
 <hr>
 

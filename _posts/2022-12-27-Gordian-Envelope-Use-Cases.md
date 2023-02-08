@@ -19,7 +19,6 @@ But what does that mean? Why would you use it? To answer these questions we've p
 Most of the following use cases are offered progressively: additional use cases build on earlier ones, expanding the fundamental ideas with new functionality in each example. (That functionality is listed as part of each use case's name.)
 
 <!--more-->
-<div class="bold--excerpt--node">Read More</div>
 
 ## [Educational & Credential Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Educational.md)
 

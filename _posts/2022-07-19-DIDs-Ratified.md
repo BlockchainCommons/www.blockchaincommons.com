@@ -15,8 +15,6 @@ Congratulations to W3C on the ratification of [DID v1.0](https://www.w3.org/TR/d
 
 Though Blockchain Commons has only lightly touched upon DIDs to date, they nonetheless are a crucial part of our history. In addition, their ratification today as an international standard demonstrates the ability of a cooperative commons to incubate ideas that will eventually be adopted as standards to be used widely by governments, corporations, and individuals.
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 Blockchain Commons' Christopher Allen began experiments with decentralized identifiers in late 2014 when he built on his previous work as the co-author of the TLS spec by suggesting a [hack to TLS](https://github.com/ChristopherA/revocable-self-signed-tls-certificates-hack) that associated X.509 certificates with Bitcoin addresses and then allowed revocation of those certs by spending the Bitcoin. It was a decentralized solution to the centralized problem of certificate authorities. Around the same time, Dave Longley and Manu Sporny were exploring similar ideas around identifiers and decentralization in the [W3C Web Payments Community Group](https://web-payments.org/minutes/2014-05-07/). Then, in 2015, Christopher began work with Drummond Reed and others from Respect Network as part of the XDI Registry Working Group, whose goal was to explore possibilities for a decentralized and rootless registry of identifiers; a strawman was presented at [IIW 21](https://iiw.idcommons.net/A_Registry_Directory_~_based_on_BLOCKCHAIN_that_is_ROOTless_%26_NOT_Centralized).

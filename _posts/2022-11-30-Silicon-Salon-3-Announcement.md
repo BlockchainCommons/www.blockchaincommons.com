@@ -22,8 +22,6 @@ We will bring together semiconductor developers, cryptographers, and other exper
 
 The field of MPC (Multi-Party Computation) for security applications has been an area of energetic academic research since first introduced by Andrew Yao in 1986. More recently, increases in computation capability and improvement in the efficiency of algorithms have enabled MPC to move from the theoretical to the practical. Varous MPC-TSS (MPC-Threshold Signature System) approaches offer significant benefits in security, robustness, and recovery versus traditional “single private key” systems. However, practical MPC is still in its infancy and is rapidly evolving, which introduces challenges in providing silicon support for the future of cryptography.
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 Some presentations lined up so far are:

@@ -18,8 +18,6 @@ _Musings of a Trust Architect is a series of articles by [Life with Alacrity aut
 
 > ABSTRACT: Progressive trust is the concept of gradually building trust over time. It differs from classical models of trust, which rely on authentication mechanisms and centralization; and zero-trust models, which assume that trust should never be relied upon or which mandate the use of "trust frameworks" or "trust registries". Progressive trust is based on the idea that trust is not a binary state but instead a dynamic and evolving process involving gradually learning about your partners through successful interactions. It's how trust works in the real world, between people and groups. This architecture is critical for protecting human rights and dignity, as it allows individuals to defend against coercion and violations of their privacy, autonomy, agency, and control. To support a progressive trust architecture, capabilities such as data minimization, elision/redaction, escrowed encryption, and cryptographic selective disclosure must be used. 
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 <a href="/musings.html"><img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png" width=200 height=200 style="border: 1px solid black; float: right;"></a>

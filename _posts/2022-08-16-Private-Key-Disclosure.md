@@ -26,7 +26,6 @@ Unfortunately, today's attacks on private keys in the courtroom have been more s
 
 As a result, we need to support legislation that will protect digital keys while allowing courts to access information and assets in a way that better recognizes those realities. The private-key disclosure law [currently being considered in Wyoming](https://youtu.be/61c3sYGqO-E?t=1063) is an excellent example of the sort of legislation that we could put forth and advocate for in order to maintain the proper protection for our digital assets and identities.
 
-<div class="bold--excerpt--node">Read More</div>
 <!--more-->
 
 [Wyoming Senate Filing 2021-0105](https://wyoleg.gov/Legislation/2021/SF0105):

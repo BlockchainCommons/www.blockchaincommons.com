@@ -18,8 +18,6 @@ Gordian Envelope is a specification for the achitecture of a “smart document".
 
 Blockchain Commons is currently working with multiple companies on the development and deployment of Gordian Envelopes via regular biweekly meetings; [contact us](mailto:team@blockchaincommons.com) if you'd like to be involved. We are also presenting Envelopes as a prospective Informational Draft for the IETF and engaging in discussions with the W3C Credentials Community Group.
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 ## The Envelope as Metaphor

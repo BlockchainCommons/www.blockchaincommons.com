@@ -22,8 +22,6 @@ So, _what do Blockchain Commons' technologies do?_ We've just released [a Techno
 
 <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img width="100%" src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/video-news-1.png" style="border:1px solid black;"></a>
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 As the video notes, our work is built on a considerable volume of existing literature. We work with [entropy](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=2m56s), [seeds](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=2m39s), and [keys](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=4m45s) and use [airgaps](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=6m34s), [multisigs](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=5m12s), and [secure storage](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=4m6s) to ensure robust key creation, safe key usage, and responsible key management. We also build on crucial technological foundations such as [CBOR](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=11m13s), [CRC-32](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=11m37s), [Fountain Codes](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=14m53s), [QRs](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=8m15s), [SHA-256](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=12m55s), and [Shamir's Secret Sharing](https://www.youtube.com/watch?v=RYgOFSdUqWY#t=13m36s).

@@ -16,8 +16,6 @@ _A few years ago, I supported an RWOT paper on [the topic](https://nbviewer.org/
 
 _This year I gave it a new try by authoring [an advanced-reading paper for RWOT 11](https://github.com/WebOfTrustInfo/rwot11-the-hague/blob/master/advance-readings/elision-redaction-correlation-smart-documents.md) talking about our use of redaction and noncorrelation in Gordian Envelope. It's generated an interesting discussion (and upcoming collaborative RWOT white paper) on when correlation is purposeful and when it's accidental. It's also provided me with the opportunity to more explicitly write down my thoughts on data minimization and selective disclosure, which I've excerpted below to continue my series of [Musings of a Trust Architect](https://www.blockchaincommons.com/categories/#musings)._
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 ## Data Minimization

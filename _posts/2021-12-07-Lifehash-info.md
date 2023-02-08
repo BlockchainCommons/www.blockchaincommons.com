@@ -18,8 +18,6 @@ Wolf McNally's [LifeHash](https://github.com/BlockchainCommons/bc-lifehash) is o
 
 You can now play with LifeHashes at [LifeHash.info](http://lifehash.info/). This [C++ implementation compiled to WebAssembly](https://github.com/BlockchainCommons/lifehash-web/) allows you to enter an arbitrary text string or a SHA-256 digest and view the corresponding LifeHash — using one of a few different LifeHash variants. (We recommend v2 as the "official" LifeHash.) Because it's compiled into Webassembly, LifeHash.info does all the work in your browser, ensuring your secrets stay safe!
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 A similar idea called [Blockies](https://www.npmjs.com/package/ethereum-blockies) already exists to identify Ethereum addresses. They're a great addition to the Ethereum ecosystem, but LifeHashes incorporate a few additional features. Because each one is built from an iteration of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), they're more detailed. They also have been carefully formatted to display well on grayscale screens and low-resolution screens, with our [LetheKit offering a proof of concept](https://www.blockchaincommons.com/quarterlies/Q1-2021-Report/).

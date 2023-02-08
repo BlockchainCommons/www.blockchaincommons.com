@@ -15,8 +15,6 @@ image: https://raw.githubusercontent.com/BlockchainCommons/GordianSeedTool-iOS/m
 
 Blockchain Commons has released Gordian Seed Tool, a new iOS app that allows for the creation, storage, backup, and transformation of cryptographic seeds is now available on the [Apple appstore](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229). It is an independent, private, and resilient vault, which can protect the most important underlying secret used by most cryptocurrencies: the cryptographic seed.
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 Though most wallets focus on the private keys used to unlock their cryptocurrency transactions, Gordian Seed Tool takes a step back and allows you to manage the fundamentals upon which private keys are built: entropy and seeds. You can use coin flips, die rolls, card draws, or iOS randomness as the entropy to generate your seeds, or you can import them from other applications. Using those seeds, Gordian Seed Tool can then derive unique, non-correlatable public and private keys as you need them.

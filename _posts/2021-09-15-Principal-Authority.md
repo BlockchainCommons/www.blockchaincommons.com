@@ -56,7 +56,6 @@ the concept. However, recent legal efforts to define self-sovereign
 identity may be just as important for catapulting it into the mass
 market.
 
-<div class="bold--excerpt--node">Read More</div>
 <!--more-->
 
 ## Defining Identity

@@ -18,8 +18,6 @@ Because Blockchain Commons is dedicated to bringing together a community of deve
 
 The Silicon Salon is scheduled for June 1st, running three hours beginning at 9am PT (noon ET, 6pm CET). Signups for the Salon are now available on [Eventbrite](https://www.eventbrite.com/e/silicon-salon-hosted-by-blockchain-commons-tickets-338323152657), with tickets limited to the first 40 participants. 
 
-<div class="bold--excerpt--node">Read More</div>
-
 <!--more-->
 
 The first hour of the Salon will feature presentations from silicon manufacturers, crypto-wallet makers, and experts in the field about how semiconductor design can support cryptographic functionality. Companies CrossBar, Tropic Square, and Proxy and experts Bryan Bishop and Christopher Allen are all scheduled to talk.

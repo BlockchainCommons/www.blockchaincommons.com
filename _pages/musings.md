@@ -1,7 +1,7 @@
 ---
 header:
   overlay_color: "#00f"
-  overlay_filter: "0.35"
+  overlay_filter: "0.75"
   overlay_image: /images/blueprints.jpg
   og_image: /images/musings-card.jpg
 title: Musings of a Trust Architect
@@ -23,3 +23,5 @@ _Musings of a Trust Architect is a series of articles by [Life with Alacrity aut
     {% endif %}
   {% endfor %}
 </ul>
+
+_Header image by <a href="https://pixabay.com/users/elasticcomputefarm-1865639/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1474454">ElasticComputeFarm</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1474454">Pixabay</a>._

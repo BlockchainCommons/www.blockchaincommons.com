@@ -18,15 +18,15 @@ _Much of this centers on an
 [**Architecture**](#the-gordian-architecture) that focuses on our
 Gordian Principles of independence, privacy, resilience, and openness
 and that encourages responsible key management. This Architecture is
-built upon **Use Cases**, **Specifications** that enable those Use
-Cases, and **Developer Support** for incorporating those
-Specifications including Reference Libraries and CLI Apps. **Reference
-Apps** offer further examples to ensure that Specifications are
+built upon [**Use Cases**](#gordian-use-cases), [**Specifications**](#gordian-specifications) that enable those Use
+Cases, and [**Developer Support**](#gordian-developer-support) for incorporating those
+Specifications including Reference Libraries and CLI Apps. [**Reference
+Apps**](#gordian-reference-apps) offer further examples to ensure that Specifications are
 integrated using best practices._
 
 _Beyond its architectural core, Blockchain Commons also supports
-**Events**, **Educational Projects**, **Advocacy Projects**, and
-**Open Infastructure Projects**._
+[**Events**](#events), [**Educational Projects**](#educational-projects), [**Advocacy Projects**](#advocacy-projects), and
+[**Open Infastructure Projects**](#open-infrastructure-projects)._
 
 <hr>
 

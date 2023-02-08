@@ -7,7 +7,7 @@ header:
   actions:
     - label: "See All Musings"
       url: /musings.html
-tagline: "Gradually building trust over time"
+tagline: "A New Approach to Building Trust in Decentralized Systems"
 title: "Musings of a Trust Architect: Progressive Trust"
 excerpt_separator: "<!--more-->"
 categories:

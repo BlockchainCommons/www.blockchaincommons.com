@@ -1,4 +1,9 @@
 ---
+header:
+  overlay_color: "#00f"
+  overlay_filter: "0.35"
+  overlay_image: /images/blueprints.jpg
+  og_image: /images/musings-card.jpg
 title: "Musings of a Trust Architect: Progressive Trust"
 excerpt_separator: "<!--more-->"
 categories:

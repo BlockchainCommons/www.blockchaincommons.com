@@ -1,6 +1,13 @@
 ---
 header:
+  overlay_color: "#00f"
+  overlay_filter: "0.35"
+  overlay_image: /images/blueprints.jpg
   og_image: /images/musings-card.jpg
+  actions:
+    - label: "See All Musings"
+      url: /musings.html
+tagline: "Gradually building trust over time"
 title: "Musings of a Trust Architect: Progressive Trust"
 excerpt_separator: "<!--more-->"
 categories:

@@ -82,7 +82,7 @@ footer:
     - label: "Discussions"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BlockchainCommons/Community/discussions"
-og_image: /images/bc-logo-white-avatar.png
+og_image: /images/bcc-card.jpg
 
 defaults:
   # _posts

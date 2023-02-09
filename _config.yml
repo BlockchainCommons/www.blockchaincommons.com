@@ -61,24 +61,24 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/blockchaincommons"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/BlockchainComns"
     - label: "Discussions"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BlockchainCommons/Community/discussions"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BlockchainComns"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/blockchaincommons"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/BlockchainComns"
     - label: "Discussions"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BlockchainCommons/Community/discussions"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/BlockchainComns"
 og_image: /images/bcc-card.jpg
 
 defaults:

@@ -66,7 +66,7 @@ For more information, see our [Posts](https://www.blockchaincommons.com/posts/) 
 
 Thank you to the following companies who have become [sustaining sponsors](sponsors.html) .
 
-<div style="background-color: white; border: 2px solid #699EA0">
+<div style="background-color: gray; border: 2px solid #699EA0">
 <figure class="third">
   <a href="https://bitmark.com/"><img src="images/sponsors/bitmark-logo.png"></a>
   <a href="https://www.chia.net/"><img src="images/sponsors/chia-logo.png"></a>
@@ -77,7 +77,7 @@ Thank you to the following companies who have become [sustaining sponsors](spons
 </figure>
 </div>
 
-_Please support Blockchain Commons by becoming a [GitHub sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/)._
+<p>_Please support Blockchain Commons by becoming a [GitHub sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/)._
 
 ## Organization Membership
 

@@ -77,7 +77,9 @@ Thank you to the following companies who have become [sustaining sponsors](spons
 </figure>
 </div>
 
-<p>_Please support Blockchain Commons by becoming a [GitHub sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/)._
+<br><br>
+
+_Please support Blockchain Commons by becoming a [GitHub sponsor](https://github.com/sponsors/BlockchainCommons) or making a [BTCPay donation](https://btcpay.blockchaincommons.com/)._
 
 ## Organization Membership
 

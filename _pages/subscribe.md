@@ -6,6 +6,8 @@ header:
   og_image: /images/bcc-card.jpg
 title: Become a Gordian Developer
 cover: false
+classes:
+- wide
 hide_description: true
 permalink: /subscribe.html
 ---

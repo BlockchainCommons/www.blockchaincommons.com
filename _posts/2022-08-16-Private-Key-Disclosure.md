@@ -12,6 +12,8 @@ classes:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
 
+***UPDATE 2022-02-16: This bill has passed the Wyoming Assembly 41-13, a day after the Wyoming Senate passed it by a vote of 31-0. If Wyoming Governor Mark Gordon signs the bill, it will go into effect on 1 July. Details of the current bill are at [wyoleg.gov tracker](https://wyoleg.gov/Legislation/2023/HB0086). If you have questions, ask at the [Twitter thread](https://twitter.com/ChristopherA/status/1626243594364526592).***
+
 > **ABSTRACT:** Digital assets are only as safe as their private keys. Securing private keys through responsible key management has thus been a major focus at Blockchain Commons, under our [#SmartCustody](https://www.smartcustody.com/) initiative. Unfortunately, securing keys ultimately isn't just a logistical problem or a technical problem. It's also a legal problem because US courts have inserted themselves into the process by demanding keys, often as a part of discovery.
 >
 > Turning over keys to courts not only introduces major threats to the digital assets controlled by the keys, but it also fundamentally misunderstands the purpose and use of private keys. There are better tools for court-based discovery, public keys prime among them. There are better, more traditional ways to enforce the turn over of assets. Requiring the disclosure of private keys instead is a needless threat not just to digital assets, but to our rights as well.

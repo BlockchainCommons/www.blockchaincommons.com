@@ -125,6 +125,12 @@ _The Blockchain Commons repos include libraries and apps that help developers to
 
 All of the Gordian reference libraries can be found in the Crypto Commons repo. Libraries are originally coded in C or C++, but the repo also contains implementations of some libraries for Java, Python, Swift, or other languages.
 
+### dCBOR Libraries
+
+**Repos:** [bc-dcbor-rust](https://github.com/BlockchainCommons/bc-dcbor-rust), [BCSwiftDCBOR](https://github.com/BlockchainCommons/BCSwiftDCBOR)
+
+Definitive libraries for using the [deterministic variant](https://www.rfc-editor.org/rfc/rfc8949.html#name-deterministically-encoded-c) of DCBOR.
+
 ### Developer Apps
 
 **CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) <br>

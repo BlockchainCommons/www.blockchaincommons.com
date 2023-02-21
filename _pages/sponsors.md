@@ -26,9 +26,7 @@ Please consider becoming a Patron of Blockchain Commons though ongoing monthly p
 
 Sustaining patrons have made an ongoing commitment of funds for the support of Blockchain Commons.
 
-<div style="background-color: white; border: 2px solid #699EA0">
-<img src="images/sponsors/bitmark-logo.png" width=500>
-</div>
+<img src="images/sponsors/bitmark-logo-black.png" width=500>
 
 **[Bitmark](https://bitmark.com/)** is a technology company focused on establishing and protecting your rights. It was founded in 2014 to fix and restore trust in the Internet. They wanted to show the world that being able to trust data would lead to a better future for all. Today, Bitmark builds not only the protocol to restore trust in data but also consumer apps that empower humans in the digital age.
 

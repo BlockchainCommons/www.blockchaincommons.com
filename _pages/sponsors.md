@@ -42,9 +42,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 **[CrossBar](https://www.crossbar-inc.com/)** is a leader in Resistive RAM (ReRAM) technology. ReRAM technology serves as the foundation for multiple flavors of non-volatile memory (NVM) — multi-time programmable (MTP), few time programmable (FTP) and one-time programmable (OTP) —  as well as for implementing high performance physical unclonable functions (PUFs). ReRAM memory and PUF solutions enable a new class of secure computing and storage, such as in digital asset and financial applications.
 
-<div style="background-color: white; border: 2px solid #699EA0">
-<img src="images/sponsors/foundation-logo.png" width=500>
-</div>
+<img src="images/sponsors/foundation-logo-black.png" width=500>
 
 **[Foundation](https://foundationdevices.com/)** is the creator of Passport, a next-gen hardware wallet that makes it easier than ever to securely store your Bitcoin. They believe that Bitcoin and decentralized technologies will empower the individual, leading to a better world where people control their own data and their own money. Foundation is building a new category of sovereign computing devices.
 

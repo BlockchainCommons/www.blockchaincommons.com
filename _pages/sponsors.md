@@ -40,6 +40,10 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 **[CrossBar](https://www.crossbar-inc.com/)** is a leader in Resistive RAM (ReRAM) technology. ReRAM technology serves as the foundation for multiple flavors of non-volatile memory (NVM) — multi-time programmable (MTP), few time programmable (FTP) and one-time programmable (OTP) —  as well as for implementing high performance physical unclonable functions (PUFs). ReRAM memory and PUF solutions enable a new class of secure computing and storage, such as in digital asset and financial applications.
 
+<img src="images/sponsors/dcd-logo.png" width=500>
+
+**[Digital Contract Design](https://contract.design/)** creates Contracts with Trust Minimization. Since 2017, unsecured loans of dollars have required large amounts of coin to be used as collateral with escrow agents, requiring trust in the escrow agent. DCD is working toward a variety of smart contracts that secure collateral on the blockchain (or a sidechain), based on receipt of triggering signatures from a reliable BTCUSD price oracle.
+
 <img src="images/sponsors/foundation-logo-black.png" width=500>
 
 **[Foundation](https://foundationdevices.com/)** is the creator of Passport, a next-gen hardware wallet that makes it easier than ever to securely store your Bitcoin. They believe that Bitcoin and decentralized technologies will empower the individual, leading to a better world where people control their own data and their own money. Foundation is building a new category of sovereign computing devices.

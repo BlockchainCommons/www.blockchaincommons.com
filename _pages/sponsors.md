@@ -46,9 +46,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 **[Foundation](https://foundationdevices.com/)** is the creator of Passport, a next-gen hardware wallet that makes it easier than ever to securely store your Bitcoin. They believe that Bitcoin and decentralized technologies will empower the individual, leading to a better world where people control their own data and their own money. Foundation is building a new category of sovereign computing devices.
 
-<div style="background-color: white; border: 2px solid #699EA0">
-<img src="images/sponsors/proxy.png" width=500>
-</div>
+<img src="images/sponsors/proxy-black.png" width=500>
 
 **[Proxy](https://www.proxy.com/)** has more than five years' experience in the digital-identity space and is now building on their work in innovating tokenized credential technology for use on the smartphone by creating a personal identity product for mass adoption, to bring the promise of web3, decentralization, and self-sovereign identity to everyone.
 

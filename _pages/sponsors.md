@@ -34,9 +34,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 **[Chia Network](https://www.chia.net/)** built a better blockchain to drive real-world use and application. Founded by Bram Cohen, inventor of BitTorrent, Chia provides a secure, sustainable and regulatory compliant blockchain setting the standard for the infrastructure of digital currency and inclusive access to global, decentralized finance. Through the innovative Proof of Space and Time consensus algorithm, Chia Network’s public, open-source blockchain leverages hard drive space to create the first new Nakamoto Consensus since Bitcoin in 2009.
 
-<div style="background-color: white; border: 2px solid #699EA0">
-<img src="images/sponsors/crossbar.png" width=500>
-</div>
+<img src="images/sponsors/crossbar-black.png" width=500>
 
 **[CrossBar](https://www.crossbar-inc.com/)** is a leader in Resistive RAM (ReRAM) technology. ReRAM technology serves as the foundation for multiple flavors of non-volatile memory (NVM) — multi-time programmable (MTP), few time programmable (FTP) and one-time programmable (OTP) —  as well as for implementing high performance physical unclonable functions (PUFs). ReRAM memory and PUF solutions enable a new class of secure computing and storage, such as in digital asset and financial applications.
 

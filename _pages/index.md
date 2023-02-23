@@ -68,17 +68,15 @@ If you are interested in actively developing our interoperable specs such as Col
 
 Thank you to the following companies who have become [sustaining sponsors](sponsors.html) .
 
-<div style="background-color: white; border: 2px solid #699EA0">
 <figure class="third">
-  <a href="https://bitmark.com/"><img src="images/sponsors/bitmark-logo.png"></a>
+  <a href="https://bitmark.com/"><img src="images/sponsors/bitmark-logo-black.png"></a>
   <a href="https://www.chia.net/"><img src="images/sponsors/chia-logo.png"></a>
-  <a href="https://www.crossbar-inc.com/"><img src="images/sponsors/crossbar.png"></a>
+  <a href="https://www.crossbar-inc.com/"><img src="images/sponsors/crossbar-black.png"></a>
   <a href="https://contract.design/"><img src="images/sponsors/dcd-logo.png"></a>
-  <a href="https://foundationdevices.com/"><img src="images/sponsors/foundation-logo.png"></a>
-  <a href="https://www.proxy.com/"><img src="images/sponsors/proxy.png"></a>
-  <a href="https://unchained-capital.com/"><img src="images/sponsors/unchained-capital.png"></a>
+  <a href="https://foundationdevices.com/"><img src="images/sponsors/foundation-logo-black.png"></a>
+  <a href="https://www.proxy.com/"><img src="images/sponsors/proxy-black.png"></a>
+  <a href="https://unchained-capital.com/"><img src="images/sponsors/unchained-capital-black.png"></a>
 </figure>
-</div>
 
 <br><br>
 

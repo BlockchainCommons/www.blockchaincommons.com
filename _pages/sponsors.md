@@ -30,7 +30,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 **[Bitmark](https://bitmark.com/)** is a technology company focused on establishing and protecting your rights. It was founded in 2014 to fix and restore trust in the Internet. They wanted to show the world that being able to trust data would lead to a better future for all. Today, Bitmark builds not only the protocol to restore trust in data but also consumer apps that empower humans in the digital age.
 
-<img src="images/sponsors/chia-logo.png" width=500>
+<img src="images/sponsors/chia-logo.png" width=400>
 
 **[Chia Network](https://www.chia.net/)** built a better blockchain to drive real-world use and application. Founded by Bram Cohen, inventor of BitTorrent, Chia provides a secure, sustainable and regulatory compliant blockchain setting the standard for the infrastructure of digital currency and inclusive access to global, decentralized finance. Through the innovative Proof of Space and Time consensus algorithm, Chia Network’s public, open-source blockchain leverages hard drive space to create the first new Nakamoto Consensus since Bitcoin in 2009.
 
@@ -50,9 +50,7 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 **[Proxy](https://www.proxy.com/)** has more than five years' experience in the digital-identity space and is now building on their work in innovating tokenized credential technology for use on the smartphone by creating a personal identity product for mass adoption, to bring the promise of web3, decentralization, and self-sovereign identity to everyone.
 
-<div style="background-color: white; border: 2px solid #699EA0">
-<img src="images/sponsors/unchained-capital.png" width=500>
-</div>
+<img src="images/sponsors/unchained-capital-black.png" width=500>
 
 **[Unchained Capital](https://www.unchained-capital.com/)** is a new kind of financial services company. They are the first collaborative asset management firm that offers loans and vaults for your Bitcoin. It was founded by people who believe that cryptocurrencies have the potential to change the world but only if they're useful. They set out to build financial products for long-term crypto-investors to get more value from their assets today and in the future.
 

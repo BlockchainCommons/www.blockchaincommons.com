@@ -9,6 +9,7 @@ cover: false
 classes:
 - wide
 hide_description: true
+toc: true
 permalink: /subscribe.html
 ---
 

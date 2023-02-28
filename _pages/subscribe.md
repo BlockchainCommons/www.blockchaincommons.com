@@ -42,6 +42,8 @@ You can also sign up for our low-volume Silicon Salon announcement list using th
 
 <iframe width="100%" height="690" src="https://4c957a4c.sibforms.com/serve/MUIEAC0l33cvDr_mXfSxoWnaUq0U7ThdG0rfp2HMv7k_nAzBvzrBdHsP_laHPtt59NZJ5_QYOzsjFkkRO0SJHAC8KMaj1Vnf_fEzGTYiKl6RfZqdF98oZ5v2kV5yfEu8vOWAmcScs7Jvdono-Dt_rltOS9-QNxr0VnIdimLsHBMeTzfIjgr-ctA0G4qpZBcY66FdKkG8vEKRrNR6" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
+<br>
+
 _For more on Silicon Salon, see the [Silicon Salon website](https://www.siliconsalon.info) and to make a proposal for a future Salon, see our [Call for Proposals](https://www.siliconsalon.info/proposals/)._
 
 ## Blockchain Commons Community

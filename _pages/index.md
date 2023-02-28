@@ -62,7 +62,7 @@ For more information, see our [Posts](https://www.blockchaincommons.com/posts/) 
 * [**Gordian User Community**](https://github.com/BlockchainCommons/Gordian/discussions). For users of the Gordian reference apps, including [Gordian Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator), [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS), [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS), [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), and [SpotBit](https://github.com/BlockchainCommons/spotbit) as well as our whole series of [CLI apps](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/Apps.md#cli-apps). This is a place to talk about bug reports and feature requests as well as to explore how our reference apps embody the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
 * [**Blockchain Commons Discussions**](https://github.com/BlockchainCommons/Community/discussions) — for developers, interns, and patrons of Blockchain Commons, please use the discussions area of the [Community repo](https://github.com/BlockchainCommons/Community) to talk about general Blockchain Commons issues, the intern program, or topics other than Gordian Development or Usage.
 
-If you are interested in actively developing our interoperable specs such as Collaborative Seed Recovery and Gordian Envelope, please also join our [Signal group or mailing list](subscribe.html).
+If you are interested in actively developing our interoperable specs such as Collaborative Seed Recovery and Gordian Envelope, please also join our [Signal groups or mailing lists](subscribe.html).
 
 ## Sustaining Sponsors
 

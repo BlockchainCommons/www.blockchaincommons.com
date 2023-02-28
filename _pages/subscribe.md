@@ -22,7 +22,7 @@ Please join us for topics that interest you!
 
 ## Gordian Developers
 
-If you'd like to become a member of the Gordian Developer community, and receive announcements about upcoming meetings and the release of new resources, you can do so by either joining us on Signal or subscribing to our low-volume Gordian Developers announcement list.
+If you'd like to become a member of the Gordian Developer community, and receive announcements about upcoming meetings and the release of new resources, you can do so by  joining us on Signal, participating in our Discussions forums, or subscribing to our low-volume Gordian Developers announcement list.
 
 You can find our Signal group at:
 [https://signal.group/#CjQKIL_aIHnJME16vZetIVkfUKtbGj0I-0HWS4VjbVQ-nbnqEhA43xkXc67FKwMi3G3HiUTc](https://signal.group/#CjQKIL_aIHnJME16vZetIVkfUKtbGj0I-0HWS4VjbVQ-nbnqEhA43xkXc67FKwMi3G3HiUTc)
@@ -37,7 +37,9 @@ You can sign up for our announcement list using the following form:
 
 ## Silicon Salon
 
-_Pending._
+If you'd like to participate in our quarterly Silicon Salons to talk about the future of cryptography and semiconductor technology, you can do so by either  joining us on Signal or subscribing to our low-volume Silicon Salon announcement list.
+
+You can find our Signal group at: [https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a94HouFQSXSreoQR6pbtc6JpRrEhBw2-O2uDKu7XjB_RupXaSy](https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a94HouFQSXSreoQR6pbtc6JpRrEhBw2-O2uDKu7XjB_RupXaSy).
 
 ## Blockchain Commons Community
 

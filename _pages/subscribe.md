@@ -40,7 +40,7 @@ You can find our Signal group at: [https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a
 
 Finally, you can sign up for our low-volume Silicon Salon announcement list using the following form:
 
-<iframe width="100%" height="675" src="https://4c957a4c.sibforms.com/serve/MUIEAC0l33cvDr_mXfSxoWnaUq0U7ThdG0rfp2HMv7k_nAzBvzrBdHsP_laHPtt59NZJ5_QYOzsjFkkRO0SJHAC8KMaj1Vnf_fEzGTYiKl6RfZqdF98oZ5v2kV5yfEu8vOWAmcScs7Jvdono-Dt_rltOS9-QNxr0VnIdimLsHBMeTzfIjgr-ctA0G4qpZBcY66FdKkG8vEKRrNR6" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+<iframe width="100%" height="680" src="https://4c957a4c.sibforms.com/serve/MUIEAC0l33cvDr_mXfSxoWnaUq0U7ThdG0rfp2HMv7k_nAzBvzrBdHsP_laHPtt59NZJ5_QYOzsjFkkRO0SJHAC8KMaj1Vnf_fEzGTYiKl6RfZqdF98oZ5v2kV5yfEu8vOWAmcScs7Jvdono-Dt_rltOS9-QNxr0VnIdimLsHBMeTzfIjgr-ctA0G4qpZBcY66FdKkG8vEKRrNR6" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
 ## Blockchain Commons Community
 

@@ -4,7 +4,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /images/qr-background.jpg
   og_image: /images/bcc-card.jpg
-title: Become a Gordian Developer
+title: Join the Blockchain Commons Conversation
 cover: false
 hide_description: true
 toc: true
@@ -38,9 +38,11 @@ If you'd like to participate in our quarterly Silicon Salons to talk about the f
 
 You can find our Signal group at: [https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a94HouFQSXSreoQR6pbtc6JpRrEhBw2-O2uDKu7XjB_RupXaSy](https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a94HouFQSXSreoQR6pbtc6JpRrEhBw2-O2uDKu7XjB_RupXaSy).
 
-You can sign up for our low-volume Silicon Salon announcement list using the following form:
+You can also sign up for our low-volume Silicon Salon announcement list using the following form:
 
 <iframe width="100%" height="690" src="https://4c957a4c.sibforms.com/serve/MUIEAC0l33cvDr_mXfSxoWnaUq0U7ThdG0rfp2HMv7k_nAzBvzrBdHsP_laHPtt59NZJ5_QYOzsjFkkRO0SJHAC8KMaj1Vnf_fEzGTYiKl6RfZqdF98oZ5v2kV5yfEu8vOWAmcScs7Jvdono-Dt_rltOS9-QNxr0VnIdimLsHBMeTzfIjgr-ctA0G4qpZBcY66FdKkG8vEKRrNR6" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+
+_For more on Silicon Salon, see the [Silicon Salon website](https://www.siliconsalon.info) and to make a proposal for a future Salon, see our [Call for Proposals](https://www.siliconsalon.info/proposals/)._
 
 ## Blockchain Commons Community
 

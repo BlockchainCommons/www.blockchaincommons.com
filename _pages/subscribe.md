@@ -17,6 +17,8 @@ If you'd like to become a member of the Gordian Developer community, and receive
 You can find our Signal group at:
 [https://signal.group/#CjQKIL_aIHnJME16vZetIVkfUKtbGj0I-0HWS4VjbVQ-nbnqEhA43xkXc67FKwMi3G3HiUTc](https://signal.group/#CjQKIL_aIHnJME16vZetIVkfUKtbGj0I-0HWS4VjbVQ-nbnqEhA43xkXc67FKwMi3G3HiUTc)
 
+You can find our GitHub Discussions forum at: [https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions)
+
 You can sign up for our announcement list using the following form:
 
 (The confirmation email will currently arrive from team@blockchaincommons.com, but with a name of "My Company". We're waiting for a fix on that from the provider.)

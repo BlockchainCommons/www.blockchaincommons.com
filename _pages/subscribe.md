@@ -28,9 +28,7 @@ You can find our Signal group at:
 
 You can find our GitHub Discussions forum at: [https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions)
 
-You can sign up for our announcement list using the following form:
-
-(The confirmation email will currently arrive from team@blockchaincommons.com, but with a name of "My Company". We're waiting for a fix on that from the provider.)
+Finally, you can sign up for our low-volume Gordian Developer announcement list using the following form:
 
 <iframe width="100%" height="820" src="https://4c957a4c.sibforms.com/serve/MUIEAHW5lZ3ENqiRER8BiJM81U2g_xu74SaK0QfUd_M8_w1q7Y5cahlLIPTU3z59dIxZhZzaIO5B6nE3OH6U04IXTjp-0k32vNyq5qMN7EJE9MwV8ezVR0ldW-ebKjNe6KcnTD5GMOKq80jwbolxjQszNtSyHHNcXLt8-0CHEdxBp_Jb1wnKXnRar-UZfvjoMepahGm-LhSee0Sb" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
@@ -39,6 +37,10 @@ You can sign up for our announcement list using the following form:
 If you'd like to participate in our quarterly Silicon Salons to talk about the future of cryptography and semiconductor technology, you can do so by either  joining us on Signal or subscribing to our low-volume Silicon Salon announcement list.
 
 You can find our Signal group at: [https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a94HouFQSXSreoQR6pbtc6JpRrEhBw2-O2uDKu7XjB_RupXaSy](https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a94HouFQSXSreoQR6pbtc6JpRrEhBw2-O2uDKu7XjB_RupXaSy).
+
+Finally, you can sign up for our low-volume Silicon Salon announcement list using the following form:
+
+<iframe width="540" height="305" src="https://4c957a4c.sibforms.com/serve/MUIEAC0l33cvDr_mXfSxoWnaUq0U7ThdG0rfp2HMv7k_nAzBvzrBdHsP_laHPtt59NZJ5_QYOzsjFkkRO0SJHAC8KMaj1Vnf_fEzGTYiKl6RfZqdF98oZ5v2kV5yfEu8vOWAmcScs7Jvdono-Dt_rltOS9-QNxr0VnIdimLsHBMeTzfIjgr-ctA0G4qpZBcY66FdKkG8vEKRrNR6" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
 ## Blockchain Commons Community
 

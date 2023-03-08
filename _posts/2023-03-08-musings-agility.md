@@ -133,8 +133,7 @@ presentation (from 2016) is well worth the time.
 
 [^1]: ***Classic Definition:***<br/>[Cryptographic agility - Wikipedia](https://en.wikipedia.org/wiki/Cryptographic_agility)
 [^2]: ***Other Criticism of Cryptographic Agility:***<br/>[Cryptographic Agility - Adam Langley](https://www.imperialviolet.org/2016/05/16/agility.html)
-[^VC]: ***Warnings about Cryptographic Agility:***<br/>
-[Verifiable Credential Data Integrity 1.0 - W3C Working Draft](https://www.w3.org/TR/vc-data-integrity/#protecting-application-developers)
+[^VC]: ***Warnings about Cryptographic Agility:***<br/>[Verifiable Credential Data Integrity 1.0 - W3C Working Draft](https://www.w3.org/TR/vc-data-integrity/#protecting-application-developers)
 [^cose]: ***COSE & JOSE:***<br/> [RFC 8152 Introduction](https://www.rfc-editor.org/rfc/rfc8152#section-1)
 [^3]: ***Criticisms of JWT:***<br/>[Should you use JWT/JOSE? - Neil Madden](https://neilmadden.blog/2017/03/15/should-you-use-jwt-jose/)
 [^4]: ***Criticism of cryptographic agiility, and support for limited choices:***<br/>[Against Cipher Agility in Cryptography Protocols - Scott Arciszewski](https://paragonie.com/blog/2019/10/against-agility-in-cryptography-protocols)

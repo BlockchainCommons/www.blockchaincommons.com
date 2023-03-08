@@ -86,7 +86,7 @@ I feel like cryptoagility has been adopted without question for too long now; we
 
 ## Inspirations
 
-_This article was inspired by a recent post in the Credentials Community Group (CCG) by Manu Sporny: https://lists.w3.org/Archives/Public/public-credentials/2023Jan/0092.html_
+_This article was inspired by a recent post in the Credentials Community Group (CCG) by Manu Sporny: [https://lists.w3.org/Archives/Public/public-credentials/2023Jan/0092.html](https://lists.w3.org/Archives/Public/public-credentials/2023Jan/0092.html)_
 
 > On Fri, Jan 27, 2023 at 4:24 PM Tomislav Markovski <tomislav@trinsic.id> wrote:
 > > Side comment: I always wondered why data integrity signatures suites define the canonicalization algorithm in the suite as a constant, instead as a proof parameter using the "canonicalizationAlgorithm" term defined in the security vocab v1.

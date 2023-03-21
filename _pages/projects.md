@@ -250,14 +250,15 @@ _Blockchain Commons isn't just about technological development. It also works to
 
 ### Law & Advocacy
 
-**Repo:** [Law & Advocacy Repo](https://github.com/BlockchainCommons/law-and-advocacy)<br>
+**Website:** [Law & Advocacy Website](https://advocacy.blockchaincommons.com)<Br>
+**Repo:** [Law & Advocacy Website Repo](https://github.com/BlockchainCommons/law-and-advocacy)<br>
 **Articles:** [Principal Authority](https://www.blockchaincommons.com/articles/Principal-Authority/), [Private Key Disclosure](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
 
 Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
 
 ### Testimony
 
-**Repo:** [Testimony Repo](https://github.com/BlockchainCommons/Testimony)
+**Repo:** [Testimony Webpage](https://advocacy.blockchaincommons.com/testimony/)
 
 Blockchain Commons has regularly provided testimony to various agencies and instutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
 

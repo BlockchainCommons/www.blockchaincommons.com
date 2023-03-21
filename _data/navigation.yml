@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Advocacy"
+    url: https://advocacy.blockchaincommons.com
   - title: "Vision"
     url: /vision.html
   - title: "Posts"

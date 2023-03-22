@@ -2,6 +2,7 @@
 title: "Blockchain Commons Joins COPA"
 excerpt_separator: "<!--more-->"
 categories:
+  - News
   - Partnerships
 tags:
   - Patents

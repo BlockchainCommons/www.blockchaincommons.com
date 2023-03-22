@@ -2,7 +2,7 @@
 title: "Wyoming Passes Private Key Protection & Digital Asset Registration Laws"
 excerpt_separator: "<!--more-->"
 categories:
-  - Articles
+  - News
 tags:
   - Advocacy
   - Legislation

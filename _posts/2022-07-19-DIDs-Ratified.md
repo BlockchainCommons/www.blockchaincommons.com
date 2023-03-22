@@ -2,6 +2,7 @@
 title: "Seven Years Later: DIDs Have Been Ratified!"
 excerpt_separator: "<!--more-->"
 categories:
+  - News
   - Specifications
 tags:
   - DID

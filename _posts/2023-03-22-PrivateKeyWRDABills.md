@@ -15,6 +15,8 @@ header:
   og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
 
+![](https://www.blockchaincommons.com/images/wyoming.png)
+
 Blockchain Commons advocates for the creation of open, interoperable, secure & compassionate digital infrastructure, to enable people to control their own digital destiny and to maintain their human dignity online. Much of our work is technical, focused on the creation and use of interoperable specifications, but other work is legislative, because creating a legal foundation for self-sovereign control of digital assets and identity online is just as important as building that technical foundation.
 
 Though we've worked with a variety of entities, from the City of Buenos Aires to United States government agencies, our most sustained work has been with the Wyoming legislature. That's because Wyoming is perhaps the most forward-looking legislature in the entire country thanks to its [Select Committee on Blockchain, Financial Technology and Digital Innovation Technology](https://www.wyoleg.gov/Committees/2023/S19), which has has been in existence for several years and already has passed crucial laws regarding digital assets and [digital identity](https://www.blockchaincommons.com/articles/Principal-Authority/).

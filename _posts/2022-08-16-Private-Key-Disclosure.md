@@ -10,7 +10,7 @@ tags:
 classes:
   - wide
 header:
-  - og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
+  og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
 
 ***UPDATE 2023-02-16: This bill has passed the Wyoming Assembly 41-13, a day after the Wyoming Senate passed it by a vote of 31-0. If Wyoming Governor Mark Gordon signs the bill, it will go into effect on 1 July. Details of the current bill are at [wyoleg.gov tracker](https://wyoleg.gov/Legislation/2023/HB0086). If you have questions, ask at the [Twitter thread](https://twitter.com/ChristopherA/status/1626243594364526592).***

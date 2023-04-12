@@ -24,6 +24,8 @@ permalink: /devs/animated-qrs.html
 
 ## Airgap Usage
 
+<img src="https://github.com/BlockchainCommons/Gordian/blob/master/Images/airgap.png" align="right">
+
 QRs came into use in the digital-asset community because they could be used in airgap architectures. This allows for the storage of sensitive data (such as seeds and keys) in a device not directly connected to the internet, such as a hardware wallet or (to a lesser extent) a phone. A coordinator that is linked to the internet can then communicate with the disconnected device by QRs, without any sort of direct connection.
 
 One of the earliest use cases for airgaps was Partially Signed Bitcoin Transactions (PSBTs). A networked coordinator could create a PSBT and then send it to the disconnected device for signing. After a PSBT was totally signed it could be returned to the networked coordinator for transmission to the Bitcoin network.

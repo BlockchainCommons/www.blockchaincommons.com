@@ -30,9 +30,9 @@ QRs came into use in the digital-asset community because they could be used in a
 
 One of the earliest use cases for airgaps was Partially Signed Bitcoin Transactions (PSBTs). A networked coordinator could create a PSBT and then send it to the disconnected device for signing. After a PSBT was totally signed it could be returned to the networked coordinator for transmission to the Bitcoin network.
 
-_Why Airgaps?_ Airgaps allow users to keep critical data in a location that's not connected to the internet, protecting them from most sorts of theft and hacking, which tend to rely on internet-connected devices. By limiting communication with the airgapped device to QRs, security is greatly improved, and even if some overflow were possible the requirement for a user to carry data back and forth across the airgap would greatly reduce the choice of an exploit. This means that even if a device coordinating a transaction were corrupted, then keys wouldn't be, and even if a transaction were produced incorrectly, a user could see this on their signing device.
+_Why Airgaps?_ Airgaps allow users to keep critical data in a location that's not connected to the internet, protecting them from most sorts of theft and hacking, which tend to rely on internet-connected devices. By usings QRs to constrain communication with the airgapped device, security is greatly improved, and even if some overflow were possible, the requirement for a user to carry data back and forth across the airgap would greatly reduce the choice of an exploit. This means that even if a device coordinating a transaction were corrupted, the keys wouldn't be, and even if a transaction were produced incorrectly, a user could see this on their signing device.
 
-_Why PSBTs?_ PSBTs are a perfect complement to airgaps because they allow transactions to be created on an internet-connected device (which knows about UTXOs) but signed on an airgapped device (which knows about keys). They also become more important as multisigs are increasingly used to protect digital assets, because they allow for individual key holders to each sign the PSBT on their own device, at their convenience.
+_Why PSBTs?_ PSBTs are a perfect complement to airgaps because they allow transactions to be created on an internet-connected device (which knows about UTXOs) but signed on an airgapped device (which knows about keys). They also become more important as multisigs are increasingly used to protect digital assets, because PSBTs allow for individual key holders to each sign on their own device, at their own convenience.
 
 ## Size Problems
 
@@ -50,15 +50,15 @@ Blockchain Commons' Animated QRs are built atop the [Uniform Resource (UR) speci
 
 Blockchain Commons' multipart Animated QRs are built from URs using [Luby transform codes](https://en.wikipedia.org/wiki/Luby_transform_code) (fountain codes). This rateless encoding method allows for the receipt of an animated QR to begin at any frame and for the transmission to overcome issues with missing frames.
 
-The [URKit](https://github.com/BlockchainCommons/URKit) allows for the encoding and decoding of URs in Swift, while the [URDemo](https://github.com/BlockchainCommons/URDemo) is an iOS demo that demonstrates how Animated QRs built on URs can be sent and received.
+The [URKit](https://github.com/BlockchainCommons/URKit) is a reference that allows for the encoding and decoding of URs in Swift, while the [URDemo](https://github.com/BlockchainCommons/URDemo) is an iOS demo that shows how Animated QRs built on URs can be sent and received.
 
-The use of an interoperable specification for encoding, fragmenting, sequencing, and transmitting data is what allows Animated QRs to defeat the NASCAR problem. Already, software wallets are building up huge menus of hardware devices, with different interactions required for each. Wallets using the UR standards can instead present a unified communication methodology, making it effortless for other devices to interact with them.
+The use of an interoperable specification for encoding, fragmenting, sequencing, transmitting, recombining, and decoding data is what allows Animated QRs to defeat the NASCAR problem. Already, software wallets are building up huge menus of hardware devices, with different interactions required for each. Wallets using the UR standard can instead present a unified communication methodology, making interaction with other devices effortless.
 
 ## Wide Adoption
 
-Prior to Blockchain Commons' release of URs and Animated QRs, PSBTs could not be reliably transmitted using QR codes. As a result, animated QRs have seen [wide adoption](https://github.com/BlockchainCommons/Gordian-Developer-Community#urs) in the wallet developer community. 
+Prior to Blockchain Commons' release of URs and Animated QRs, PSBTs could not be reliably transmitted using QR codes. As a result of this need, Blockchain Commons' Animated QRs have seen [wide adoption](https://github.com/BlockchainCommons/Gordian-Developer-Community#urs) in the wallet developer community. 
 
-However, URs can do much more than just allow the transmission of PSBTs. They were built to allow for the transmission of a [wide variety](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md) of data types in a way that is both self-describing and interoperable. They allow for the transmission of seeds, keys, envelopes, and other data between a wide variety of parties and increases the resilience of that valuable data because the self-describing tags ensure that it can be recovered by anyone at a later time.
+However, URs can do much more than just allow the transmission of PSBTs. They were built to allow for the transmission of a [wide variety](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md) of data types in a way that is both self-describing and interoperable. They support the transmission of seeds, keys, envelopes, and other data between a wide variety of parties and increase the resilience of that valuable data because the self-describing tags ensure that it can be recovered by anyone at a later time.
 
 See our [UR docs](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md) for more information on the foundational data format that allows for the creation of animated QRs.
 
@@ -70,7 +70,7 @@ See our [UR docs](https://github.com/BlockchainCommons/Research/blob/master/pape
 
 If you're a **Bitcoin User** who values the safety and resilience of your digital assets, don't take any chances with their safety. Use a wallet that supports interoperability specifications such as Animated QRs for PSBTs (and other future interoperability standards from Blockchain Commons). This not only increases the _convenience_ of your assets, because you can use them across multiple wallets and devices, but also their _resilience_, because you can use one of those alternative wallets if your main wallet's vendor goes out of business or suffers a catastrophic failure.
 
-If you're a **Wallet Developer** who wants to to support their users in this way, and also to take advantage of the innovations of Blockchain Commons and its members, join our Gordian Developer Community. Sign up for [announcements list](https://www.blockchaincommons.com/subscribe.html#gordian-developers) or join our [Signal channel](https://www.blockchaincommons.com/subscribe.html#gordian-developers). Moreso, join us on [GitHub](https://github.com/blockchaincommons) where we welcome your input on projects!
+If you're a **Wallet Developer** who wants to to support their users in this way, and also to take advantage of the innovations of Blockchain Commons and its members, join our Gordian Developer Community. Sign up for our [announcements list](https://www.blockchaincommons.com/subscribe.html#gordian-developers) or join our [Signal channel](https://www.blockchaincommons.com/subscribe.html#gordian-developers). Moreso, join us on [GitHub](https://github.com/blockchaincommons) where we welcome your input on projects!
 
 ## Links
 

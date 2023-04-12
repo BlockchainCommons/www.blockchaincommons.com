@@ -20,11 +20,11 @@ permalink: /devs/animated-qrs.html
 * To Support the Conveyance of More Data than Allowed by a Static QR.
 * To Especially Enable PSBT Signing That is Done on an Unconnected Device.
 * To Ensure Interoperability among Many Vendors by the Use of Uniform Resources.
-* To Resolve [The NASCAR Problem](https://indieweb.org/NASCAR_problem).
+* To Resolve [The NASCAR Problem](https://indieweb.org/NASCAR_problem) in Wallets.
 
 ## Airgap Usage
 
-<img src="https://github.com/BlockchainCommons/Gordian/blob/master/Images/airgap.png" align="right">
+<img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/airgap.png" align="right">
 
 QRs came into use in the digital-asset community because they could be used in airgap architectures. This allows for the storage of sensitive data (such as seeds and keys) in a device not directly connected to the internet, such as a hardware wallet or (to a lesser extent) a phone. A coordinator that is linked to the internet can then communicate with the disconnected device by QRs, without any sort of direct connection.
 

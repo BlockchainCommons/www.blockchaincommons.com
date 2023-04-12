@@ -37,6 +37,7 @@ _Beyond its architectural core, Blockchain Commons also supports
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)<br>
 **Q&A:** [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/)
+**Individual Topics:** [Animated QRs](https://www.blockchaincommons.com/devs/animated-qrs.html), [Musings of a Trust Architect](https://www.blockchaincommons.com/musings.html)
 
 _The Gordian Architecture is the heart of Blockchain Commons' work. It's a partitioned architecture and a set of backup, communication, and encoding specifications, built to support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles)._
 
@@ -95,6 +96,12 @@ Blockchain Commons SSKR is an implementation of Sharded Secret Key Reconstructio
 UR stands for Uniform Resources, a method for encoding structured binary data in plain-text strings that are also well-formed URIs. It's an interoperability specification that allows for the reliable, typed transfer of data and was designed in particular to allow for reliable transmission of crypto-seeds, crypto-keys, PSBTs, and other data related to cryptocurrency.
 
 One of the particular advantages of UR is careful integration with QR codes, a prime method for transmitting data across airgaps. URs are built to be efficient when encoded as QRs. In addition, multi-part URs allow for the creation of animated QRs, overall containing more information than any single QR could have.
+
+### Animated QRs
+
+**Intros:** [Animated QRs](https://www.blockchaincommons.com/devs/animated-qrs.html)
+
+Animated QRs are a variant of QRs that animate across several frames. Blockchain Commons' Animated QRs are built atop URs, using fountain codes. They're intended to allow the transmission of large amount of data across Airgaps, overcoming the built-in limits of individual QR Codes.
 
 ### Research Papers
 

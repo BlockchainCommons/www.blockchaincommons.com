@@ -7,6 +7,8 @@ header:
   og_image: /images/bcc-card.jpg
 title: Animated QRs
 hide_description: true
+class:
+  - wide
 permalink: /devs/animated-qrs.html
 ---
 **Animated QRs** are an interoperable specification for transmitting data that allows for the transmission of relatively large amounts of data (compared to standard QRs). They were created with the following goals:
@@ -51,6 +53,7 @@ See our [UR docs](https://github.com/BlockchainCommons/Research/blob/master/pape
 
 ## Links
 
+* [UR Overview](https://github.com/BlockchainCommons/crypto-commons/edit/master/Docs/ur-1-overview.md)
 * [UR Specification](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md)
 * [UR Data Type Registry](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md)
 * [URKit](https://github.com/BlockchainCommons/URKit)

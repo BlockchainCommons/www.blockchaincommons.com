@@ -58,19 +58,19 @@ The use of an interoperable specification for encoding, fragmenting, sequencing,
 
 Prior to Blockchain Commons' release of URs and Animated QRs, PSBTs could not be reliably transmitted using QR codes. As a result of this need, Blockchain Commons' Animated QRs have seen [wide adoption](https://github.com/BlockchainCommons/Gordian-Developer-Community#urs) in the wallet developer community. 
 
-However, URs can do much more than just allow the transmission of PSBTs. They were built to allow for the transmission of a [wide variety](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md) of data types in a way that is both self-describing and interoperable. They support the transmission of seeds, keys, envelopes, and other data between a wide variety of parties and increase the resilience of that valuable data because the self-describing tags ensure that it can be recovered by anyone at a later time.
-
-See our [UR docs](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md) for more information on the foundational data format that allows for the creation of animated QRs.
-
 <center>
 <img src="https://www.blockchaincommons.com/images/ur-adopters-bg.jpg" width="75%" style="border: 2px solid #699EA0">
 </center>
+
+However, URs can do much more than just allow the transmission of PSBTs. They were built to allow for the transmission of a [wide variety](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md) of data types in a way that is both self-describing and interoperable. They support the transmission of seeds, keys, envelopes, and other data between a wide variety of parties and increase the resilience of that valuable data because the self-describing tags ensure that it can be recovered by anyone at a later time.
+
+See our [UR docs](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md) for more information on the foundational data format that allows for the creation of animated QRs.
 
 ## Supporting Interoperability
 
 If you're a **Bitcoin User** who values the safety and resilience of your digital assets, don't take any chances with their safety. Use a wallet that supports interoperability specifications such as Animated QRs for PSBTs (and other future interoperability standards from Blockchain Commons). This not only increases the _convenience_ of your assets, because you can use them across multiple wallets and devices, but also their _resilience_, because you can use one of those alternative wallets if your main wallet's vendor goes out of business or suffers a catastrophic failure.
 
-If you're a **Wallet Developer** who wants to to support their users in this way, and also to take advantage of the innovations of Blockchain Commons and its members, join our Gordian Developer Community. Sign up for our [announcements list](https://www.blockchaincommons.com/subscribe.html#gordian-developers) or join our [Signal channel](https://www.blockchaincommons.com/subscribe.html#gordian-developers). Moreso, join us on [GitHub](https://github.com/blockchaincommons) where we welcome your input on projects!
+If you're a **Wallet Developer** who wants to to support their users in this way, and also to take advantage of the innovations of Blockchain Commons and its members, join our Gordian Developer Community. Sign up for our [announcements list](https://www.blockchaincommons.com/subscribe.html#gordian-developers) or join our [Signal channel](https://www.blockchaincommons.com/subscribe.html#gordian-developers). Even better, join us on [GitHub](https://github.com/blockchaincommons) where we welcome your input on projects!
 
 ## Links
 

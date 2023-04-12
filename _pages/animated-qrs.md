@@ -24,7 +24,7 @@ permalink: /devs/animated-qrs.html
 
 ## Airgap Usage
 
-<img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/airgap.png" align="right">
+<img src="https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/airgap.png" align="right" width=100px>
 
 QRs came into use in the digital-asset community because they could be used in airgap architectures. This allows for the storage of sensitive data (such as seeds and keys) in a device not directly connected to the internet, such as a hardware wallet or (to a lesser extent) a phone. A coordinator that is linked to the internet can then communicate with the disconnected device by QRs, without any sort of direct connection.
 

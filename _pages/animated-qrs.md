@@ -42,7 +42,7 @@ Blockchain Commons' Animated QRs are built atop the [Uniform Resource (UR) speci
 
 ## Fountain Code Tech
 
-<img src="https://raw.githubusercontent.com/BlockchainCommons/URDemo/master/Images/urdemo-animated.gif" align="right">
+<img src="https://raw.githubusercontent.com/BlockchainCommons/URDemo/master/Images/urdemo-animated.gif" align="right" width=200px>
 
 Blockchain Commons' multipart Animated QRs are built from URs using [Luby transform codes](https://en.wikipedia.org/wiki/Luby_transform_code) (fountain codes). This rateless encoding method allows for the receipt of an animated QR to begin at any frame and for the transmission to overcome issues with missing frames.
 

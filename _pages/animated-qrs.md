@@ -7,7 +7,7 @@ header:
   og_image: /images/bcc-card.jpg
 title: Animated QRs
 hide_description: true
-class:
+classes:
   - wide
 permalink: /devs/animated-qrs.html
 ---

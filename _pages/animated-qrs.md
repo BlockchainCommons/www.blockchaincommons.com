@@ -11,6 +11,9 @@ classes:
   - wide
 permalink: /devs/animated-qrs.html
 ---
+
+{% include video id="HsFF5HPKQIk" provider="youtube" %}
+
 **Animated QRs** are an interoperable specification for transmitting data that allows for the transmission of relatively large amounts of data (compared to standard QRs). They were created with the following goals:
 
 * To Allow for the Transmission of Data Across Airgaps.

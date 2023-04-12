@@ -50,7 +50,7 @@ Blockchain Commons' Animated QRs are built atop the [Uniform Resource (UR) speci
 
 Blockchain Commons' multipart Animated QRs are built from URs using [Luby transform codes](https://en.wikipedia.org/wiki/Luby_transform_code) (fountain codes). This rateless encoding method allows for the receipt of an animated QR to begin at any frame and for the transmission to overcome issues with missing frames.
 
-The [URKit](https://github.com/BlockchainCommons/URKit) is a reference that allows for the encoding and decoding of URs in Swift, while the [URDemo](https://github.com/BlockchainCommons/URDemo) is an iOS demo that shows how Animated QRs built on URs can be sent and received.
+This process is detailed in our references: [URKit](https://github.com/BlockchainCommons/URKit), a reference framework that allows for the encoding and decoding of URs in Swift; and [URDemo](https://github.com/BlockchainCommons/URDemo), an iOS demo that shows how Animated QRs built on URs can be sent and received. A variety of [UR libraries](https://github.com/BlockchainCommons/crypto-commons#bc-ur) in additional languages such as Java, Python, and Rust are available thanks to our community.
 
 The use of an interoperable specification for encoding, fragmenting, sequencing, transmitting, recombining, and decoding data is what allows Animated QRs to defeat the NASCAR problem. Already, software wallets are building up huge menus of hardware devices, with different interactions required for each. Wallets using the UR standard can instead present a unified communication methodology, making interaction with other devices effortless.
 

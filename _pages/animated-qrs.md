@@ -58,7 +58,7 @@ However, URs can do much more than just allow the transmission of PSBTs. They we
 
 See our [UR docs](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md) for more information on the foundational data format that allows for the creation of animated QRs.
 
-  <img src="https://www.blockchaincommons.com/images/ur-adopters.png" width=75% style="text-align: center">
+<img src="https://www.blockchaincommons.com/images/ur-adopters.png" width="75%" style="text-align: center">
 
 ## Links
 

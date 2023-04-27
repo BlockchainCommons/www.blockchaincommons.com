@@ -19,7 +19,7 @@ tags:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
-> **ABSTRACT:** Drawing inspiration from Ken Thompson's seminal work, "Reflections on Trusting Trust," there are deep-rooted challenges in establishing trust in computing systems that require us to consider security down to the level of semiconductor design. Open silicon offers numerous benefits, however, the path to its adoption is fraught with challenges. Blockchain Commons' series of Silicon Salons fosters collaboration to address these challenges, advancing open and secure cryptographic semiconductor development.
+> **ABSTRACT:** Drawing inspiration from Ken Thompson's seminal work, [Reflections on Trusting Trust](https://dl.acm.org/doi/pdf/10.1145/358198.358210), there are deep-rooted challenges in establishing trust in computing systems that require us to consider security down to the level of semiconductor design. Open silicon offers numerous benefits, however, the path to its adoption is fraught with challenges. Blockchain Commons' series of Silicon Salons fosters collaboration to address these challenges, advancing open and secure cryptographic semiconductor development.
 
 <!--more-->
 
@@ -33,7 +33,7 @@ In other words, the architecture of trust is not a superficial matter but rather
 
 Open silicon, or open-source hardware designs for cryptographic semiconductors, offers one solution to the lowest level of Thompson's trust dilemma. By opening up the design and development process of semiconductors, open silicon fosters collaboration, innovation, and transparency among developers, manufacturers, and researchers. This in turn creates trust, so that we can at least know the foundational level of our applications are secure.
 
-The principles of open silicon are aligned with Kerckhoffs' Principle, a core tenet of cryptography which states that a cryptographic system's security should rely solely on the secrecy of the key, not on the obscurity of the algorithm or its implementation. By making the design and development process transparent and open to scrutiny, open silicon ensures that security is built on a robust foundation, not on the concealment of potential weaknesses.
+The principles of open silicon are aligned with [Kerckhoffs' Principle](https://en.wikipedia.org/wiki/Kerckhoffs's_principle), a core tenet of cryptography which states that a cryptographic system's security should rely solely on the secrecy of the key, not on the obscurity of the algorithm or its implementation. By making the design and development process transparent and open to scrutiny, open silicon ensures that security is built on a robust foundation, not on the concealment of potential weaknesses.
 
 The primary benefits of open silicon include:
 
@@ -46,7 +46,7 @@ The primary benefits of open silicon include:
 * **Reduced vendor lock-in.** Open designs reduce dependency on specific manufacturers, promote competition, and ensure that users have a choice between multiple secure silicon chips. This in turn encourages chip manufacturers to improve their offerings to stay competitive, leading to yet more community-driven enhancements.
 * **Reduced costs.** Openly sharing designs and resources reduces the costs associated with research, development, and production of semiconductors, leading to more affordable secure silicon chips and promoting wider adoption.
 
-### Challenges
+## Challenges
 
 Despite the numerous benefits of open silicon, the path to its adoption is not without challenges:
 
@@ -57,11 +57,11 @@ Despite the numerous benefits of open silicon, the path to its adoption is not w
 * **Overcoming resistance to change.** Exposing proprietary technologies may lead to resistance from industry players fearing loss of control, revenue loss, or the need to adapt to new processes and standards.
 * **Making initial investments.** Transitioning to open and transparent chip designs may require significant initial investments in research, development, and infrastructure, posing financial challenges for companies, especially in the short term.
 
-### Overcoming Challenges
+## Overcoming Challenges
 
 To tackle these challenges, collaboration is key. The Silicon Salon series, hosted by Blockchain Commons, fosters cooperation and knowledge sharing among stakeholders to drive open, secure cryptographic semiconductor development. By participating, attendees will actively shape best practices and strategies, bridging the gap between digital wallet developers and semiconductor manufacturers to enhance cryptographic security and trust. There a number of videos and presentations about the future of open silicon in the Silicon Salon [event archives](https://www.SiliconSalon.info/salons/).
 
-The next Silicon Salon will feature Mark Davis, CEO of Cranium Labs, who will delve into the intricacies of open silicon, exploring the history, challenges, and potential open solutions to the problems that his semiconductor design company has encountered. Following his resentation, a facilitated discussion among the participants of the Salon whill help to define best practices and strategies for bridging the gap between the requirements of digital wallet developers and the offerings of semiconductor manufacturers.
+Our next Silicon Salon will feature Mark Davis, CEO of Cranium Labs, who will delve into the intricacies of open silicon, exploring the history, challenges, and potential open solutions to the problems that his semiconductor design company has encountered. Following his resentation, a facilitated discussion among the participants of the Salon whill help to define best practices and strategies for bridging the gap between the requirements of digital wallet developers and the offerings of semiconductor manufacturers.
 
 I cordially invite you to join us as an active participant in this conversation. Don't miss this opportunity to contribute to the advancement of cryptographic security and be part of an innovative community addressing crucial security topics.
 

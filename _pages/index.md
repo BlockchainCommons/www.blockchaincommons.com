@@ -33,7 +33,6 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 See the _[complete posts archive](https://www.blockchaincommons.com/posts/)._
 
-
 ## Projects
 
 This video overviews many of our specifications and other initiatives:

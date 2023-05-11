@@ -63,7 +63,7 @@ By allowing the holder of a credential to do this redaction, rather than dependi
 
 ## Ensuring Authenticity: Hashed Elision
 
-<img src="https://www.blockchaincommons.com/images/hashes.png" align="right" width=150>
+<img src="https://www.blockchaincommons.com/images/hashes.png" align="right" width=250>
 
 The problem with eliding a signed document is that you will invalidate the signature. That's where hashed-based elision comes in. It allows for elision while maintaining the authenticity of the credentials.
 
@@ -127,9 +127,11 @@ This topic was also presented to the [Verifiable Credentials for Education Task 
 <table width="100%">
   <tr>
     <td width="50%">
+      <b>Slides (PDF):</b><br>
       <a href="https://www.blockchaincommons.com/assets/pdfs/digital-credentials-next-step.pdf"><img src="https://www.blockchaincommons.com/assets/pdfs/vc-edu-thumb.jpg"></a>
     </td>
     <td width="50%">
+      <b>Video (YouTube):</b><br>
       
     {% include video id="0YvyhdwvvB0" provider="youtube" %}
 

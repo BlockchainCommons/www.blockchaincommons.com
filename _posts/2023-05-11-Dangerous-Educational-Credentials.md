@@ -13,7 +13,6 @@ classes:
 image: https://img.youtube.com/vi/0YvyhdwvvB0/mqdefault.jpg
 ---
 
-# The Dangers of Digital Credentials in Education
 ### _And How to Resolve them Using Holder-Based Hashed Elision_
 
 <img src="https://www.blockchaincommons.com/images/school.jpg" align="right" width=300>
@@ -125,9 +124,15 @@ Blockchain Commons' [Gordian Envelope](https://www.blockchaincommons.com/introdu
 
 This topic was also presented to the [Verifiable Credentials for Education Task Force at W3C](https://w3c-ccg.github.io/vc-ed/). The slides and video of that presentation are included below:
 
-<figure class="half">
-    <a href="https://www.blockchaincommons.com/assets/pdfs/digital-credentials-nex-step.pdf"><img src="https://www.blockchaincommons.com/assets/pdfs/vc-edu-thumb.jpg"></a>
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://www.blockchaincommons.com/assets/pdfs/digital-credentials-next-step.pdf"><img src="https://www.blockchaincommons.com/assets/pdfs/vc-edu-thumb.jpg"></a>
+    </td>
+    <td width="50%">
+      
     {% include video id="0YvyhdwvvB0" provider="youtube" %}
 
-</figure>
+    </td>
+  </tr>
+</table>

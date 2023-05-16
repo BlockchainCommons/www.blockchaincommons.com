@@ -50,7 +50,7 @@ However, new features of Gordian Envelope not available in JWT or JSON-LD offer 
 
 Gordian Envelope was designed with two key goals in mind: to be _Structure-Ready_, allowing for the reliable and interopable storage of information; and to be _Privacy-Ready_, ensuring that transmission of that data can occur in a privacy-protecting manner.
 
-* **Structure-Ready.** Gordian Envelope is designed as a Smart Document, meant to store information about a subject. More than that, it's a meta-document that can contain or refer to other documents. It can support multiple data formats, from simple hierarchical structures to labeled property graphs, semantic triples, and other forms of structured graphs. Though its fundamental structure is a tree, it can even be used to create DAGs through references between Envelopes.
+* **Structure-Ready.** Gordian Envelope is designed as a Smart Document, meant to store information about a subject. More than that, it's a meta-document that can contain or refer to other documents. It can support multiple data formats, from simple hierarchical structures to labeled property graphs, semantic triples, and other forms of structured graphs. Though its fundamental structure is a tree, it can even be used to create DAGs through references between Envelopes. Envelope is built upon [dCBOR](https://github.com/BlockchainCommons/crypto-commons/blob/master/dcbor.md), which ensures that its content is always deterministic, which is vital to maintain the consistency of its hashes.
 * **Privacy-Ready.** Gordian Envelope protects the privacy of its data through progressive trust, allowing for holders to minimally disclose information by using elision or encryption, and then to optionally increase that disclosure over time. The fact that a holder can control data revelation, not just an issuer, creates a new level of privacy for all stakeholders. The progressive trust in Gordian Envelopes is accomplished through hashing of all elements, which creates foundational support for cryptographic functions such as signing and encryption, without actually defining which cryptographic functions must be used. 
 
 The following structural decisions support these goals:
@@ -116,6 +116,7 @@ There are a broad swath of additional use cases, some of which can be found in o
 * [Doc: Envelope Technical Documents](https://github.com/BlockchainCommons/Gordian/tree/master/Envelope#articles)
 * [IETF Draft: The Envelope Structured Data Format](https://blockchaincommons.github.io/WIPs-IETF-draft-envelope/draft-mcnally-envelope.html)
 * [CLI Usage Overview Transcript](https://github.com/BlockchainCommons/envelope-cli-swift/blob/master/Transcripts/1-OVERVIEW-TRANSCRIPT.md)
+* [dCBOR: Deterministic CBOR](https://github.com/BlockchainCommons/crypto-commons/blob/master/dcbor.md)
 
 ### Videos
 

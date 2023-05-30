@@ -30,11 +30,21 @@ See the [Educational & Credential Industry Use Cases](https://github.com/Blockch
 
 ## Wellness Use Cases
 
-Wellness data, which can include everything from info collected by activity trackers to doctors' records, tends to be highly sensitive. However, it can also be highly helpful, able to not only detail an individual's health needs, but also to help society through clinical trials, contract tracing, and more. Gordian Envelopes can help wellness data to fulfill these two, opposed needs: privacy and appropriate sharing.
+Wellness data, which can include everything from info collected by activity trackers to doctors' records, tends to be highly sensitive. However, it can also be highly helpful, able to not only detail an individual's health needs, but also to help society through clinical trials, contract tracing, and more. Gordian Envelopes can help wellness data to fulfill these two opposed needs: privacy and appropriate sharing.
 
 The following privacy-presevering features are demonstrated in wellness use cases:
 
-* Data can be structured and encrypted to ensure its openness and privacy.
+* Envelope data can be structured and encrypted to ensure its openness and privacy.
+* Encryption can further protect intermediaries from toxic data.
+* SSKR can be used to ensure that encrypted data is not lost.
+* Envelope data can be elided to protect sensitive data while sharing.
+* Multipermits can support data-streaming to multiple parties.
+* Signatures can prove provenance of data.
+* Data can be further anonymized while provenance is maintained with those signatures.
+* Hashes can prove contribution of data without any other revelation.
+* People and places alike can be protect through herd privacy of hashing.
+
+See the [Wellness Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Wellness.md) for illustrated examples of these features and further discussion.
 
 ## Data Distribution Use Cases
 

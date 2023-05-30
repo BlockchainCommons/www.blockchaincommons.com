@@ -128,10 +128,11 @@ There are a broad swath of additional use cases, some of which can be found in o
 
 * [Doc: Overview of Envelope Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/README.md)
   * [Article: Summary of Use Cases](https://www.blockchaincommons.com/introduction/Gordian-Envelope-Use-Cases/)
-  * [Doc: Educational Use Case](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Educational.md)
-  * [Doc: Data Distribution Use Case](https://github.com/BlockchainCommons/Gordian/blob/masterEnvelope/Use-Cases/Data.md)
-  * [Doc: Asset Control Use Case](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Financial.md)
-  * [Doc: Software Release Use Case](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Software.md)
+  * [Doc: Educational Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Educational.md)
+  * [Doc: Wellness Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Wellness.md)
+  * [Doc: Data Distribution Use Cases](https://github.com/BlockchainCommons/Gordian/blob/masterEnvelope/Use-Cases/Data.md)
+  * [Doc: Asset Control Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Financial.md)
+  * [Doc: Software Release Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Software.md)
 
 ### Envelope CLI
 

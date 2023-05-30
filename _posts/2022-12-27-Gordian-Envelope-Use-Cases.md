@@ -28,6 +28,14 @@ The following privacy-preserving features are demonstrated in educational use ca
 
 See the [Educational & Credential Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Educational.md) for illustrated examples of these features as well as further discussions of their advantages.
 
+## Wellness Use Cases
+
+Wellness data, which can include everything from info collected by activity trackers to doctors' records, tends to be highly sensitive. However, it can also be highly helpful, able to not only detail an individual's health needs, but also to help society through clinical trials, contract tracing, and more. Gordian Envelopes can help wellness data to fulfill these two, opposed needs: privacy and appropriate sharing.
+
+The following privacy-presevering features are demonstrated in wellness use cases:
+
+* Data can be structured and encrypted to ensure its openness and privacy.
+
 ## Data Distribution Use Cases
 
 Because of their focus on privacy, Gordian Envelopes can be used to store sensitive data that might be revealed to different people in different ways under different circumstances. The data distribution use cases focus on how a simple user-data program such as `webfinger` could benefit from this new paradigm.

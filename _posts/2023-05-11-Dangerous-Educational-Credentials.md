@@ -10,7 +10,6 @@ tags:
   - W3C
 classes:
   - wide
-image: https://img.youtube.com/vi/0YvyhdwvvB0/mqdefault.jpg
 ---
 
 ### _And How to Resolve them Using Holder-Based Hashed Elision_

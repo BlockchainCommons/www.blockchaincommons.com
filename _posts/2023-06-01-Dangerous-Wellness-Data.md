@@ -9,9 +9,12 @@ tags:
   - Privacy
 classes:
   - wide
+image: https://www.blockchaincommons.com/images/Wellness-Data.jpg
 ---
 
 #### Or: How to Stay Heart Healthy, but Not Become the New Fitbit Murderer
+
+![](https://www.blockchaincommons.com/images/Wellness-Data.jpg)
 
 Many of us have heard of the [Fitbit murder case](https://www.cnn.com/2017/04/25/us/fitbit-womans-death-investigation-trnd/index.html): a husband killed his wife and then lied about there being a third party involved, but her Fitbit data contradicted his fabrications and ultimately exposed him as the murderer. There's a lesser-known case from the same time when someone was charged with [arson and insurance fraud](https://www.cnn.com/2017/02/08/us/pacemaker-arson---trnd/) based on data from his pacemaker.
 

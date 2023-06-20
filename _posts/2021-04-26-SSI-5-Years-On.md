@@ -7,7 +7,7 @@ header:
   actions:
     - label: "See All Musings"
       url: /musings.html
-tagline: "Design, Development, and Deployment of SSI"
+tagline: "The Initial Design, Development, and Deployment of SSI"
 title: "Self-Sovereign Identity: 5 Years On"
 excerpt_separator: "<!--more-->"
 classes:
@@ -15,7 +15,8 @@ classes:
 categories:
   - Musings
 tags:
-  - Trust
+  - Self-Sovereign Identity
+  - RWOT
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

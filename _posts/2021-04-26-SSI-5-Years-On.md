@@ -26,7 +26,7 @@ _Musings of a Trust Architect is a series of articles by [Life with Alacrity aut
 
 <!--more-->
 
-<a href="/musings.html"><img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png" width=200 height=200 style="border: 1px solid black; float: right;"></a>
+## Five Years Later
 
 It was five years ago today that I wrote <a href="http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html">"The Path to Self-Sovereign Identity"</a>, my foundational article discussing the history of digital identity and laying out principles for creating a new sort of identity, based on individual control and human rights. (They're not the only set of potential principles! Bethany Webster offers her own [13 Elements of Sovereignty](https://www.bethanywebster.com/blog/what-is-sovereignty-13-elements/), which focus on women's sovereignty rather than digital sovereignty, but is the exact sort of differing perspective that we need to successfully deploy digital identities that will be useful for a diverse population.)
 
@@ -41,6 +41,8 @@ I feel like the principles were the most important element of my original articl
 <figure><a href="https://www.blockchaincommons.com/images/ssi-principles-jolocom.jpeg"><img src="https://www.blockchaincommons.com/images/ssi-principles-jolocom.jpeg"></a><figcaption tabindex="0"><i>Icons by <a href="https://dribbble.com/shots/5103877-Jolocom-selected-Icons">Ira Nezhynska</a>, used courtesy a community contribution from <a href="https://jolocom.io/">Jolocom</a>.</i></figcaption></figure>
 
 There’s been a bit more resistance over the name of self-sovereign identity. There was always concern that it would get intellectually conflated with the <a href="https://www.splcenter.org/fighting-hate/extremist-files/ideology/sovereign-citizens-movement">sovereign citizen movement</a> in the United States, to which it has zero relation, but there was also concern whether it would cause unease with governments. Personally, I put the latter concern aside in May 2016 when I attended the ID2020 Summit at the United Nations and heard global ambassadors and leaders perfectly willing to use the new term.
+
+## SSI Growth
 
 Today, the language of self-sovereignty had spread far beyond its beginnings as a type of identity to users of many sorts of digital assets, such as cryptocurrency. Digital-asset holders speak of it as something that gives them the autonomy to make their own decisions about those assets, without any interference from third parties or other gatekeepers. So, even if there is still some question about the “self-sovereign” nomenclature in the digital-identity ecosystem, it seems to be increasingly accepted by the digital-assets community.
 
@@ -59,6 +61,8 @@ I’m proud that a lot of that initial movement came through work on two crucial
 > ***How do DIDs meet the requirements of self-sovereign identity?*** DIDs address many of the principles of self-sovereign identity, but particularly control, access, and portability. A user has personal authority over their identity, and in fact can create multiple, contextual identities to avoid correlation; a user knows all the data associated with the DID; and a user can use the DID in different contexts as they see fit. That is a big change from something like Facebook Connect, where a third-party could suddenly and arbitrarily remove a user’s access to a variety of websites. DIDs built upon the full set of self-sovereign identity principles can go far beyond that, allowing a user total understanding of the identity they are putting forth and what information it provides to other people.
 
 There are now any number of companies advancing these ideas: Self-sovereign identity is becoming a large industry. There are so many that the best way to talk about them is simply through an overview of the largest communities. A variety of companies are closely aligning to the W3C specs, including members of the <a href="https://www.w3.org/community/credentials/">W3C-CCG (Credential Community Group)</a> such as Digital Bazaar, which has persistently supported the work of Rebooting the Web of Trust; the <a href="https://identity.foundation/">Decentralized Identity Foundation</a> is also working on creating a decentralized identity ecosystem, with leadership from Microsoft and Consensys; and the Linux Foundation is working on <a href="https://www.hyperledger.org/use/hyperledger-indy">Hyperledger Indy</a> with companies such as International Business Machines and Evernym. It’s not just a large ecosystem, but a healthy one, with a number of different voices each suggesting different ways forward and with many new voices emerging.
+
+## SSI Challenges
 
 Mind you, I think there’s still room for improvement.
 

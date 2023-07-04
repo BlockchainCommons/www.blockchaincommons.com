@@ -13,7 +13,7 @@ classes:
   - wide
 ---
 
-<a href="https://www.youtube.com/watch?v=uoD5_Vr6qzw"><img src="https://img.youtube.com/vi/uoD5_Vr6qzw/mqdefault.jpg" style="float: right"></a>
+<a href="https://www.youtube.com/watch?v=uoD5_Vr6qzw"><img src="https://img.youtube.com/vi/uoD5_Vr6qzw/mqdefault.jpg" style="float: right; border: 1px solid white"></a>
 
 CBOR has been Blockchain Commons' data format of choice since we began work on [Uniform Resources](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md). The binary format is  concise, compact, and self-describing. It's also good in constrained environments and platform and language agnostic. But perhaps most importantly, it's standardized as an [IETF RFC](https://datatracker.ietf.org/doc/html/rfc8949). Altogether, that's made it a perfect data format for storing and transmitting the crucial data that protects cryptocurrency and other digital assets.
 

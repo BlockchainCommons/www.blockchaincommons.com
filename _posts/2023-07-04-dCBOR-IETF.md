@@ -40,6 +40,6 @@ None of this is final! We've presented to IETF Dispatch and we've been engaging 
 
 * [Many Links](https://github.com/BlockchainCommons/crypto-commons/blob/master/dcbor.md) — Our dCBOR links page
 
-At this point, we're expecting the CBOR community to produce the next iteration of the specification, which will split the work into one I-D that defines profiles for dCBOR and another that discusses dCBOR numeric reduction, which has been one of the biggest sticking points. We’re very enthusiastic to see this new iteration, as multiple perspectives and contributions from a number of collaborators is how internet standards come to be.
+At this point, we're expecting the CBOR community to produce the next iteration of the specification, which will split the work into one I-D that defines profiles for dCBOR and another that discusses dCBOR numeric reduction, which has been the focus of much discussion. We’re very enthusiastic to see this new iteration, as multiple perspectives and contributions from a number of collaborators is how internet standards come to be.
 
 If you're interested in a deterministic version of CBOR and/or if you're using our own Gordian Envelope, which requires it, we invite you to join our discussions on the [CBOR mailing list](https://www.ietf.org/mailman/listinfo/cbor) and as a member of our [Gordian Developer community](https://www.blockchaincommons.com/subscribe.html#gordian-developers).

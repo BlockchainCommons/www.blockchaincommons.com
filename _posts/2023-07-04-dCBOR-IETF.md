@@ -13,6 +13,8 @@ classes:
   - wide
 ---
 
+If you'll be at IETF 117, we hope you'll join us for dCBOR discussions there on Monday July 24th. The CBOR meeting will be 17:30-18:30 July 24th (Session IV) in the Continental 5 room. We have 15 minutes to discuss dCBOR. We'll also be holding a public side meeting on Gordian Envelope immediately before that, at 15:30-17:00 July 24th (Session III) in the Golden Gate 4 room, and we expect to have some discussions of dCBOR there too, since it's the foundation of Envelope. {: .notice--info}
+
 <a href="https://www.youtube.com/watch?v=uoD5_Vr6qzw"><img src="https://img.youtube.com/vi/uoD5_Vr6qzw/mqdefault.jpg" style="float: right; border: 1px solid white"></a>
 
 CBOR has been Blockchain Commons' data format of choice since we began work on [Uniform Resources](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md). The binary format is  concise, compact, and self-describing. It's also good in constrained environments and platform and language agnostic. But perhaps most importantly, it's standardized as an [IETF RFC](https://datatracker.ietf.org/doc/html/rfc8949). Altogether, that's made it a perfect data format for storing and transmitting the crucial data that protects cryptocurrency and other digital assets.
@@ -40,5 +42,3 @@ None of this is final! We've presented to IETF Dispatch and we've been engaging 
 At this point, we're expecting the CBOR community to produce the next iteration of the specification, which will split the work into one I-D that defines profiles for dCBOR and another that discusses dCBOR numeric reduction, which has been one of the biggest sticking points. We’re very enthusiastic to see this new iteration, as multiple perspectives and contributions from a number of collaborators is how internet standards come to be.
 
 If you're interested in a deterministic version of CBOR and/or if you're using our own Gordian Envelope, which requires it, we invite you to join our discussions on the [CBOR mailing list](https://www.ietf.org/mailman/listinfo/cbor) and as a member of our [Gordian Developer community](https://www.blockchaincommons.com/subscribe.html#gordian-developers).
-
-In addition, if you'll be at IETF 117, we hope you'll join us for discussions there on Monday July 24th. The CBOR meeting will be 17:30-18:30 July 24th (Session IV) in the Continental 5 room. We have 15 minutes to discuss dCBOR. We'll also be holding a public side meeting on Gordian Envelope at 15:30-17:00 July 24th (Session III) in the Golden Gate 4 room, and we expect to have some discussions of dCBOR there too, since it's the foundation of Envelope.

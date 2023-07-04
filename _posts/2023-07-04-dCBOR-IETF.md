@@ -13,7 +13,8 @@ classes:
   - wide
 ---
 
-If you'll be at IETF 117, we hope you'll join us for dCBOR discussions there on Monday July 24th. The CBOR meeting will be 17:30-18:30 July 24th (Session IV) in the Continental 5 room. We have 15 minutes to discuss dCBOR. We'll also be holding a public side meeting on Gordian Envelope immediately before that, at 15:30-17:00 July 24th (Session III) in the Golden Gate 4 room, and we expect to have some discussions of dCBOR there too, since it's the foundation of Envelope. {: .notice--info}
+If you'll be at IETF 117, we hope you'll join us for dCBOR discussions there on Monday July 24th. The CBOR meeting will be 17:30-18:30 July 24th (Session IV) in the Continental 5 room. We have 15 minutes to discuss dCBOR. We'll also be holding a public side meeting on Gordian Envelope immediately before that, at 15:30-17:00 July 24th (Session III) in the Golden Gate 4 room, and we expect to have some discussions of dCBOR there too, since it's the foundation of Envelope. 
+{: .notice--info}
 
 <a href="https://www.youtube.com/watch?v=uoD5_Vr6qzw"><img src="https://img.youtube.com/vi/uoD5_Vr6qzw/mqdefault.jpg" style="float: right; border: 1px solid white"></a>
 

@@ -35,7 +35,7 @@ We've supported that with Rust and Swift libraries plus a CLI program:
 
 None of this is final! We've presented to IETF Dispatch and we've been engaging in discussions on the CBOR mailing list since February. 
 
-* Many Links — https://github.com/BlockchainCommons/crypto-commons/blob/master/dcbor.md
+* [Many Links](https://github.com/BlockchainCommons/crypto-commons/blob/master/dcbor.md) — Our dCBOR links page
 
 At this point, we're expecting the CBOR community to produce the next iteration of the specification, which will split the work into one I-D that defines profiles for dCBOR and another that discusses dCBOR numeric reduction, which has been one of the biggest sticking points. We’re very enthusiastic to see this new iteration, as multiple perspectives and contributions from a number of collaborators is how internet standards come to be.
 

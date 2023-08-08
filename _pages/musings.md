@@ -12,7 +12,6 @@ redirect_from:
 classes:
 - wide
 description: Musings of a Trust Architect contains Christopher Allen's foundational ideas and philosophies behind the technology of Blockchain Commons.
-permalink: /musings.html
 ---
 
 _Musings of a Trust Architect is a series of articles by [Life with Alacrity author](http://www.lifewithalacrity.com/) and Blockchain Commons founder Christopher Allen that lays out some of the foundational ideas and philosophies behind the technology of Blockchain Commons._

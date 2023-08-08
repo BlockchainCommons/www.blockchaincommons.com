@@ -25,4 +25,4 @@ _Musings of a Trust Architect is a series of articles by [Life with Alacrity aut
   {% endfor %}
 </ul>
 
-_Header image by <a href="https://pixabay.com/users/elasticcomputefarm-1865639/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1474454">ElasticComputeFarm</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1474454">Pixabay</a>._
+<font size="-1">_Header image by <a href="https://pixabay.com/users/elasticcomputefarm-1865639/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1474454">ElasticComputeFarm</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1474454">Pixabay</a>._</font>

@@ -6,6 +6,9 @@ header:
   og_image: /images/musings-card.jpg
 title: Musings of a Trust Architect
 cover: false
+permalink: /Musings/
+redirect_from:
+  - /musings
 classes:
 - wide
 description: Musings of a Trust Architect contains Christopher Allen's foundational ideas and philosophies behind the technology of Blockchain Commons.

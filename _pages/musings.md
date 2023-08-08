@@ -6,9 +6,8 @@ header:
   og_image: /images/musings-card.jpg
 title: Musings of a Trust Architect
 cover: false
-permalink: /Musings/
+permalink: /musings/
 redirect_from:
-  - /musings/
   - /musings.html
 classes:
 - wide

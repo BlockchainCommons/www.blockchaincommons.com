@@ -8,8 +8,7 @@ title: Musings of a Trust Architect
 cover: false
 permalink: /Musings/
 redirect_from:
-  - /musings
-  - /Musings
+  - /musings/
   - /musings.html
 classes:
 - wide

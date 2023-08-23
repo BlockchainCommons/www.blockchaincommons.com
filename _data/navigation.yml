@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Advocacy"
-    url: https://advocacy.blockchaincommons.com
   - title: "Vision"
     url: /vision.html
   - title: "Posts"
@@ -13,4 +11,15 @@ main:
     url: /sponsors.html
   - title: "Projects"
     url: /projects.html
-    
+sites:
+  - title: Blockchain Commons Sites
+    children:
+    - title: "Main Site"
+      url: https://www.blockchaincommons.com
+    - title: "Advocacy"
+      url: https://advocacy.blockchaincommons.com
+    - title: "Developers"
+      url: https://developer.blockchaincommons.com
+    - title: "#SmartCustody"
+      url: https://www.smartcustody.com
+

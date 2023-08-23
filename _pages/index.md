@@ -10,6 +10,8 @@ hide_description: true
 classes:
   - wide
 permalink: /index.html
+sidebar:
+  nav: sites
 ---
 
 _Advocating for the creation of open, interoperable, secure &

@@ -7,8 +7,7 @@ header:
 title: Musings of a Trust Architect
 cover: false
 permalink: /musings/
-redirect_from:
-  - /musings.html
+redirect_from: /musings.html
 classes:
 - wide
 description: Musings of a Trust Architect contains Christopher Allen's foundational ideas and philosophies behind the technology of Blockchain Commons.

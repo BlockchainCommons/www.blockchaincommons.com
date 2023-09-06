@@ -53,7 +53,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
+  - jekyll-redirect-from
+  
 author:
   name   : "Blockchain Commons"
   avatar : "/images/bc-logo-white-avatar.png"

@@ -9,7 +9,7 @@ title: Welcome to Blockchain Commons
 hide_description: true
 classes:
   - wide
-permalink: /index/
+permalink: https://www.blockchaincommons.com
 redirect_from: /index.html
 sidebar:
   nav: sites

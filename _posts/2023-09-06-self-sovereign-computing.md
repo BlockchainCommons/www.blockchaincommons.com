@@ -8,8 +8,10 @@ tags:
   - Self-Sovereign Identity
 classes:
   - wide
-image: https://www.blockchaincommons.com/images/self-sovereign-computing.jpg
+og_image: https://www.blockchaincommons.com/images/self-sovereign-computing.jpg
 ---
+
+![](https://www.blockchaincommons.com/images/self-sovereign-computing.jpg)
 
 > ***ABSTRACT:*** Self-Sovereign Computing is a transformative paradigm designed to empower individuals to take command of their digital journey and to uphold their dignity, human rights, and resilience online. It encourages proactive collaboration among individuals, collectives, and platforms to enhance digital autonomy and to mitigate vulnerabilities. Building on Christopher’s initial ideas of self-sovereign identity, self-sovereign computing introduces an allegory that revisits some foundational influences and recognizes self-sovereignty not just as a personal choice but as something that’s part of a larger ecosystem._
 

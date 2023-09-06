@@ -6,11 +6,11 @@ main:
   - title: "Posts"
     url: /posts/
   - title: "About"
-    url: /about.html
+    url: /about/
   - title: "Sponsors"
-    url: /sponsors.html
+    url: /sponsors/
   - title: "Projects"
-    url: /projects.html
+    url: /projects/
 sites:
   - title: Blockchain Commons Sites
     children:

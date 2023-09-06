@@ -10,6 +10,7 @@ hide_description: true
 classes:
   - wide
 permalink: /devs/animated-qrs.html
+redirect_to: https://developer.blockchaincommons.com/animated-qrs/
 ---
 
 {% include video id="HsFF5HPKQIk" provider="youtube" %}

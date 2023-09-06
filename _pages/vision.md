@@ -9,7 +9,8 @@ cover: false
 classes:
   - wide
 hide_description: true
-permalink: /vision.html
+permalink: /vision/
+redirect_from: /vision.html
 ---
 
 Blockchain Commons advocates for the creation of open, interoperable, secure & compassionate digital infrastructure<br>

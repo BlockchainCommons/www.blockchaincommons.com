@@ -9,7 +9,8 @@ title: Our Projects
 toc: true
 toc_label: Projects
 hide_description: true
-permalink: /projects.html
+permalink: /projects/
+redirect_from: /projects.html
 ---
 
 _Blockchain Commons produces projects that fulfill its

@@ -9,7 +9,8 @@ title: Welcome to Blockchain Commons
 hide_description: true
 classes:
   - wide
-permalink: /index.html
+permalink: /
+redirect_from: /index.html
 sidebar:
   nav: sites
 ---

@@ -9,7 +9,8 @@ title: Our Sponsors
 classes:
   - wide
 hide_description: true
-permalink: /sponsors.html
+permalink: /sponsors/
+redirect_from: /sponsors.html
 ---
 
 Blockchain Commons' mission is to advocate for human dignity online by enabling people to control their own digital destiny. We are proudly a "not-for-profit" social benefit corporation committed to open source, open development, and defensive patents.

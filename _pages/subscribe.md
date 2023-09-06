@@ -9,7 +9,8 @@ cover: false
 hide_description: true
 toc: true
 toc_label: Groups
-permalink: /subscribe.html
+permalink: /subscribe/
+redirect_from: /subscribe.html
 ---
 
 To continue the discussions of our interoperable work, Blockchain Commons hosts:

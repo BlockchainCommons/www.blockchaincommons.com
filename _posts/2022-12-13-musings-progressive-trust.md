@@ -9,6 +9,7 @@ header:
       url: /musings.html
 tagline: "A New Approach to Building Trust in Decentralized Systems"
 title: "Musings of a Trust Architect: Progressive Trust"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 categories:
   - Musings

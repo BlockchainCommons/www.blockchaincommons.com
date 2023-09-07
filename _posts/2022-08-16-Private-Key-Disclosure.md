@@ -1,5 +1,6 @@
 ---
 title: "Private Key Disclosure: A Needless Threat to Rights and Assets"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 categories:
   - Articles

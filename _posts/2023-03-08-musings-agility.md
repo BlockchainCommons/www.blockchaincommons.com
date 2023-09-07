@@ -9,6 +9,7 @@ header:
       url: /musings.html
 tagline: "Why We Need Alternatives before It's Too Late"
 title: "Musings of a Trust Architect: Problems of Cryptographic Agility"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide

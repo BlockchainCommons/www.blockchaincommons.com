@@ -9,6 +9,7 @@ header:
       url: /musings.html
 tagline: "The Initial Design, Development, and Deployment of SSI"
 title: "Self-Sovereign Identity: 5 Years On"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide

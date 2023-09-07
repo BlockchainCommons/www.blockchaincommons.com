@@ -9,6 +9,7 @@ header:
       url: /musings.html
 tagline: "Limiting Shared Data & Minimizing Undesirable Correlation"
 title: "Musings of a Trust Architect: Data Minimization & Selective Disclosure"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide

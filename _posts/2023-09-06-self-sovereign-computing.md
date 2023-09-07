@@ -1,5 +1,6 @@
 ---
 title: "Self-Sovereign Computing"
+author: "Christopher Allen"
 header:
   og_image: /images/self-sovereign-computing.jpg
 excerpt_separator: "<!--more-->"

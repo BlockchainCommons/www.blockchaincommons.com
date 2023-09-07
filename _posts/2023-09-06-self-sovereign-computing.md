@@ -1,5 +1,7 @@
 ---
 title: "Self-Sovereign Computing"
+header:
+  og_image: /images/self-sovereign-computing.jpg
 excerpt_separator: "<!--more-->"
 categories:
   - Articles
@@ -8,7 +10,6 @@ tags:
   - Self-Sovereign Identity
 classes:
   - wide
-og_image: https://www.blockchaincommons.com/images/self-sovereign-computing.jpg
 ---
 
 ![](https://www.blockchaincommons.com/images/self-sovereign-computing.jpg)

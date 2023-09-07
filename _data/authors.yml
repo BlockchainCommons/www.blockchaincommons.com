@@ -1,6 +1,7 @@
 Christopher Allen:
   name        : "Christopher Allen"
   bio    : "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
+  avatar  : /images/authors/cra.jpeg
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

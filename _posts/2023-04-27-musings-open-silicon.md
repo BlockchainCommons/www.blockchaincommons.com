@@ -9,6 +9,7 @@ header:
       url: /musings.html
 tagline: "Help Shape the Future of Open Secure Chips"
 title: "Musings of a Trust Architect: Open Silicon"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide

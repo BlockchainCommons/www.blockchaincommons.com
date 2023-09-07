@@ -9,6 +9,7 @@ header:
       url: /musings.html
 tagline: "Feudalism, Ostrom, Living Systems Theory, and More"
 title: "Musings of a Trust Architect: The Origins of Self-Sovereign Identity"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide

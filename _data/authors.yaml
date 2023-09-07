@@ -1,0 +1,16 @@
+Christopher Allen:
+  name        : "Christopher Allen"
+  bio    : "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.LifeWithAlacrity.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ChristopherA"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BlockchainCommons"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/christophera/"

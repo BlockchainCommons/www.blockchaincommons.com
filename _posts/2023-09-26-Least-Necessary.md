@@ -48,6 +48,7 @@ The principle of least privilege has evolved and grown over the decades. In part
 
 "It is unclear whether Saltzer and Schroeder’s Principle of Least Privilege [SS75] is best interpreted as 'least permission' or 'least authority.' As we will see, there is an enormous difference between the two."<br>[—Mark S. Miller, "Robust Composition:
 Towards a Unified Approach to Access Control and Concurrency Control"](http://www.erights.org/talks/thesis/markm-thesis.pdf)
+{: .notice--info}
 
 The concept of least authority has become a standard principle in many modern security designs. In a least privilege system, a user might have been granted privileges to access a file or to utilize a database program; but a least authority system is more likely to additionally consider the access to files that the user might receive through access to the database.
 

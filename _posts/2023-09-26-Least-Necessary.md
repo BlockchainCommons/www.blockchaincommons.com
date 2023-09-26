@@ -37,7 +37,7 @@ At its core, the principle of least privilege is all about limiting the damage t
 
 "It also reduces the number of potential interactions among privileged programs to the minimum for correct operation, so
 that unintentional, unwanted, or improper uses of privilege are less likely to occur. Thus, if a question arises related
-to misuse of a privilege, the number of programs that must be audited is minimized." [—Jerry Saltzer & Michael Schroeder, "The Protection of Information in Computer Systems"](https://bitstreamllc.com/assets/documents/the-protection-of-information-in-computer-systems-saltzer-schroeder.pdf)
+to misuse of a privilege, the number of programs that must be audited is minimized."<br>[—Jerry Saltzer & Michael Schroeder, "The Protection of Information in Computer Systems"](https://bitstreamllc.com/assets/documents/the-protection-of-information-in-computer-systems-saltzer-schroeder.pdf)
 {: .notice--info}
 
 The principle of least privilege can be applied to a wide range of security domains, including access control, network security, and application security. In access control, for example, least privilege means that each user should be granted only the permissions necessary to perform their job functions, and no more. In network security, least privilege means that each network device should be configured to only allow the traffic that is necessary for its specific function, and no more. In application security, least privilege means that each application should be designed to only access the resources and data that are necessary to perform its intended function, and no more.
@@ -56,10 +56,10 @@ The least privilege and least access design patterns focus on the permission to 
 
 The ["data minimization" and "selective disclosure"](https://www.blockchaincommons.com/musings/musings-data-minimization/) design patterns already outline methods for reducing access to data. Combining that with "least privilege" and "least authority" reveals a larger, related design pattern that we can apply more specifically to digital data: "least access".
 
-> "Data Minimization is the practice of limiting the amount of shared data to the minimum necessary: just enough for parties to successfully transact, accomplish a task, or otherwise meet a goal with each other, while minimizing risks to all parties by omitting unnecessary content." [—Christopher Allen, "Musings of a Trust Architect: Data Minimization & Selective Disclosure"](https://www.blockchaincommons.com/musings/musings-data-minimization/)
+> "Data Minimization is the practice of limiting the amount of shared data to the minimum necessary: just enough for parties to successfully transact, accomplish a task, or otherwise meet a goal with each other, while minimizing risks to all parties by omitting unnecessary content."<br>[—Christopher Allen, "Musings of a Trust Architect: Data Minimization & Selective Disclosure"](https://www.blockchaincommons.com/musings/musings-data-minimization/)
 {: .notice--info}
 
-> "Data minimization mitigates the following threats: surveillance, stored data compromise, correlation, identification, secondary use, and disclosure." [—IETF RFC 6973](https://datatracker.ietf.org/doc/rfc6973/)
+> "Data minimization mitigates the following threats: surveillance, stored data compromise, correlation, identification, secondary use, and disclosure."<br>[—IETF RFC 6973](https://datatracker.ietf.org/doc/rfc6973/)
 {: .notice--info}
 
 Rather than just minimizing data, least access minimizes data access. We can state the principle as follows: _In order to protect privacy, respect individual entitlements, and maintain human dignity, only the minimum amount of data **access** necessary to achieve a specific goal should be granted._ 

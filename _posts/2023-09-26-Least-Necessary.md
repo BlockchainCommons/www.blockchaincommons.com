@@ -128,4 +128,3 @@ Saltzer, Jerome H. & Michael D. Schroeder. 1975. "The Protection of Information 
 Szabo, Nick. 2005. "Interpreting Power: The Principle of Least Authority". Nick Szabo's Essays, Papers, and Concise Tutorials. [https://archive.ph/TqjwS#selection-21.0-21.52](https://archive.ph/TqjwS#selection-21.0-21.52).
 
 Various. 2013. "RFC 6973: Privacy Considerations for Internet Protocols". IETF. [https://datatracker.ietf.org/doc/rfc6973/](https://datatracker.ietf.org/doc/rfc6973/). 
-

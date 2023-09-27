@@ -71,13 +71,13 @@ If you are interested in actively developing our interoperable specs such as Col
 Thank you to the following companies who have become [sustaining sponsors](sponsors.html) .
 
 <figure class="third">
-  <a href="https://bitmark.com/"><img src="images/sponsors/bitmark-logo-black.png"></a>
-  <a href="https://www.chia.net/"><img src="images/sponsors/chia-logo.png"></a>
-  <a href="https://www.crossbar-inc.com/"><img src="images/sponsors/crossbar-black.png"></a>
-  <a href="https://contract.design/"><img src="images/sponsors/dcd-logo.png"></a>
-  <a href="https://foundationdevices.com/"><img src="images/sponsors/foundation-logo-black.png"></a>
-  <a href="https://www.proxy.com/"><img src="images/sponsors/proxy-black.png"></a>
-  <a href="https://unchained-capital.com/"><img src="images/sponsors/unchained-capital-black.png"></a>
+  <a href="https://bitmark.com/"><img src="/images/sponsors/bitmark-logo-black.png"></a>
+  <a href="https://www.chia.net/"><img src="/images/sponsors/chia-logo.png"></a>
+  <a href="https://www.crossbar-inc.com/"><img src="/images/sponsors/crossbar-black.png"></a>
+  <a href="https://contract.design/"><img src="/images/sponsors/dcd-logo.png"></a>
+  <a href="https://foundationdevices.com/"><img src="/images/sponsors/foundation-logo-black.png"></a>
+  <a href="https://www.proxy.com/"><img src="/images/sponsors/proxy-black.png"></a>
+  <a href="https://unchained-capital.com/"><img src="/images/sponsors/unchained-capital-black.png"></a>
 </figure>
 
 <br><br>
@@ -89,5 +89,5 @@ _Please support Blockchain Commons by becoming a [GitHub sponsor](https://github
 We are a member of [COPA](https://open-patent.org/) , the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
 
 <p align="center">
-  <a href="https://www.opencrypto.org/"><img src="images/copa-logo.png" width="33%" align="center"></a>
+  <a href="https://www.opencrypto.org/"><img src="/images/copa-logo.png" width="33%" align="center"></a>
 </p>

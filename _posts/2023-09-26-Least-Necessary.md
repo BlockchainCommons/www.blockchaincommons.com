@@ -117,6 +117,8 @@ Allen, Christopher. 2023. "Musings of a Trust Architect: Data Minimization & Sel
 
 Miller, Mark S. 2006. "Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control" (Chapter 8). [http://www.erights.org/talks/thesis/markm-thesis.pdf](http://www.erights.org/talks/thesis/markm-thesis.pdf). 
 
+Miller, Mark S. Miller, Bill Tulloh, and Jonathan S. Shapiro. 2005. "The Structure of Authority: Why Security Is not a Separable Concern". Springer-Verlag Berlin Heidelberg. [https://papers.agoric.com/assets/pdf/papers/the-structure-of-authority-why-security-is-not-a-separable-concern.pdf](https://papers.agoric.com/assets/pdf/papers/the-structure-of-authority-why-security-is-not-a-separable-concern.pdf).
+
 Murray, Toby and Gavin Lowe. 2007. "Authority Analysis for Least Privilege Environments". Oxford University Computing Laboratory. [https://www.cs.ox.ac.uk/files/2689/analysing_authority.pdf](https://www.cs.ox.ac.uk/files/2689/analysing_authority.pdf).
 
 Saltzer, Jerome H. 1973. "Protection and Control of Information Sharing in Multics".[https://bitstreamllc.com/assets/documents/protection-control-info-sharing-multics-saltzer.pdf](https://bitstreamllc.com/assets/documents/protection-control-info-sharing-multics-saltzer.pdf).

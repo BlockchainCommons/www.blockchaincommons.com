@@ -111,3 +111,18 @@ Turning design patterns inside out forces us to think differently and creates ne
 
 Turning the "least" design patterns inside-out involves a shift in focus from limiting access and authority to enabling access and authority in a controlled and strategic way. It allows us to identify the specific needs of users and applications and to grant access and authority accordingly, creating security designs that are more effective, efficient, and user-friendly.
 
+## Bibliography
+
+Allen, Christopher. 2023. "Musings of a Trust Architect: Data Minimization & Selective Disclosure". Blockchain Commons. [https://www.blockchaincommons.com/musings/musings-data-minimization/](https://www.blockchaincommons.com/musings/musings-data-minimization/).
+
+Miller, Mark S. 2006. "Robust Composition: Towards a Unified Approach to Access Control and Concurrency Control" (Chapter 8). [http://www.erights.org/talks/thesis/markm-thesis.pdf](http://www.erights.org/talks/thesis/markm-thesis.pdf). 
+
+Murray, Toby and Gavin Lowe. 2007. "Authority Analysis for Least Privilege Environments". Oxford University Computing Laboratory. [https://www.cs.ox.ac.uk/files/2689/analysing_authority.pdf](https://www.cs.ox.ac.uk/files/2689/analysing_authority.pdf).
+
+Saltzer, Jerome H. 1973. "Protection and Control of Information Sharing in Multics".[https://bitstreamllc.com/assets/documents/protection-control-info-sharing-multics-saltzer.pdf](https://bitstreamllc.com/assets/documents/protection-control-info-sharing-multics-saltzer.pdf).
+
+Saltzer, Jerome H. & Michael D. Schroeder. 1975. "The Protection of Information in Computer Systems". MIT. [https://bitstreamllc.com/assets/documents/the-protection-of-information-in-computer-systems-saltzer-schroeder.pdf](https://bitstreamllc.com/assets/documents/the-protection-of-information-in-computer-systems-saltzer-schroeder.pdf). 
+
+Szabo, Nick. 2005. "Interpreting Power: The Principle of Least Authority". Nick Szabo's Essays, Papers, and Concise Tutorials. [https://archive.ph/TqjwS#selection-21.0-21.52](https://archive.ph/TqjwS#selection-21.0-21.52).
+
+Various. 2013. "RFC 6973: Privacy Considerations for Internet Protocols". IETF. [https://datatracker.ietf.org/doc/rfc6973/](https://datatracker.ietf.org/doc/rfc6973/). 

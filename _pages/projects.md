@@ -28,7 +28,7 @@ integrated using best practices._
 
 _Beyond its architectural core, Blockchain Commons also supports
 [**Events**](#events), [**Educational Projects**](#educational-projects), [**Advocacy Projects**](#advocacy-projects), and
-[**Open Infastructure Projects**](#open-infrastructure-projects)._
+[**Open Infrastructure Projects**](#open-infrastructure-projects)._
 
 <hr>
 
@@ -49,7 +49,7 @@ The Gordian Architecture supports users through those four principles.
 * **Resilience.** The Gordian Architecture focuses on [#SmartCustody](https://www.smartcustody.com/index.html) to eliminate Single Points of Failure and Compromise; controlling your own assets can be tricky, and the Gordian Architecture makes it as safe as possible while also maximizing security.
 * **Openness.** The Gordian Architecture helps developers to come together using open specifications that allow interoperability.
 
-The Gordian Architecture is an future-looking design that covers everything that from the high-level architecture of a Gordian ecosystem through the specifications and UX best practices that make it possible. It allows blockchain, wallet, and web developers to deploy fully featured applications that incorporate all the current best practices of the digital-asset community.
+The Gordian Architecture is a future-looking design that covers everything that from the high-level architecture of a Gordian ecosystem through the specifications and UX best practices that make it possible. It allows blockchain, wallet, and web developers to deploy fully featured applications that incorporate all the current best practices of the digital-asset community.
 
 <hr>
 
@@ -159,7 +159,7 @@ Whereas Developer Apps are meant for testing, the Gordian Reference Apps offer b
 **Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)<br>
 **Videos:** [CSR Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1Fbp-P1Yv-7gmu75i2QS2Z6vk)
 
-Collaborative Seed Recovery, or CSR, is currrently Blockchain Commons' major project, being developed in coordination with a number of partners. It's a system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
+Collaborative Seed Recovery, or CSR, is currently Blockchain Commons' major project, being developed in coordination with a number of partners. It's a system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
 
 CSR is a step toward [Collaborative Key Management (CKM)](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md), which is expected to become an active project following the deployment of current CSR systems. Currently, CSR is planned for 2022 and CKM for 2023-2024.
 
@@ -245,7 +245,7 @@ This is a complete twenty-chapter course intended to teach system administrators
 **Future:** [Outline for v2.0](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md)<br>
 **Blog:** [June TweetStorms on #SmartCustody Adversaries, 1-on-1 Advice, Supporting Smart Custody Book v2](https://www.smartcustody.com/2020-06-03-June-Tweetstorm/) (6/3/20)
 
-_The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accomodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
+_The Use of Advanced Cryptographic Tools to Improve the Care, Maintenance, Control, and Protection of Digital Assets._ This five-chapter (186-page) book is intended to make you rethink the security of your digital assets. It puts together a risk-modeling system with two additional building blocks: a cold-storage scenario for managing self-custody; and an extensively detailed list of potential adversaries. By working through the book, you can determine which adversaries are actually the most dangerous to your assets, and adjust your own self-custody scenario to accommodate them. Additional chapters talk about fiduciary duties with regard to digital assets. 
 
 A v2.0 of this book is in the planning stage, to improve the accessibility of the course, to support additional hardware tools, and to introduce multi-signature scenarios. Our [multisig design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Multisig.md), our [sharding design article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), our [SSKR Dangers article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md), [Timelock exploration article](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Timelocks.md), and our [multisig scenario](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/Scenario-Multisig.md) will all be incorporated into #SC 2.0 in some form, per our [#SC 2.0 outline](https://github.com/BlockchainCommons/SmartCustodyBook/blob/master/TODO.md).
 
@@ -268,7 +268,7 @@ Our Law & Advocacy repo includes both research that we've done on the current st
 
 **Repo:** [Testimony Webpage](https://advocacy.blockchaincommons.com/testimony/)
 
-Blockchain Commons has regularly provided testimony to various agencies and instutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
+Blockchain Commons has regularly provided testimony to various agencies and institutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
 
 
 <hr>
@@ -290,7 +290,7 @@ Blockchain Commons Esplora server.
 **Onion Address:** h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion<br>
 **Related Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)
 
-A instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, available for public usage.
+An instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, available for public usage.
 
 ### Testnet Public Node
 
@@ -316,6 +316,6 @@ Blockchain Commons supports the open infrastructure of Tor by running its own ex
 
 _Want to become involved in Blockchain Commons' projects? Here's how!_
 
-* **Participate in the Gordian Developer Community.** Join our [Developer Discussions on GitHub](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions). If you want more more, [talk with us](mailto:team@blockchaincommons.com) to get access to our Gordian Signal group.
+* **Participate in the Gordian Developer Community.** Join our [Developer Discussions on GitHub](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions). If you want more, [talk with us](mailto:team@blockchaincommons.com) to get access to our Gordian Signal group.
 * **Contribute to Projects.** Submit Issues to Projects or (even better) PRs, offering clear improvements. We welcome them on all our repos!
 * **Become a Sponsor.** Support Blockchain Commons by becoming a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). We welcome all donations, as they allow us to continue our industry-supporting work. If you're a company interested in becoming more involved [talk with us](mailto:team@blockchaincommons.com) about becoming a Project Sponsor or a Sustaining Sponsor!

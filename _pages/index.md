@@ -68,7 +68,7 @@ If you are interested in actively developing our interoperable specs such as Col
 
 ## Sustaining Sponsors
 
-Thank you to the following companies who have become [sustaining sponsors](sponsors.html) .
+Thank you to the following companies who have become [sustaining sponsors](sponsors.html).
 
 <figure class="third">
   <a href="https://bitmark.com/"><img src="/images/sponsors/bitmark-logo-black.png"></a>
@@ -86,7 +86,7 @@ _Please support Blockchain Commons by becoming a [GitHub sponsor](https://github
 
 ## Organization Membership
 
-We are a member of [COPA](https://open-patent.org/) , the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
+We are a member of [COPA](https://open-patent.org/), the Crypto Open Patent Alliance. We believe in open software and open access to patents covering foundational cryptocurrency techniques.
 
 <p align="center">
   <a href="https://www.opencrypto.org/"><img src="/images/copa-logo.png" width="33%" align="center"></a>

@@ -1,6 +1,5 @@
 ---
-title: "Echoes from History"
-tagline: "Designing Self-Sovereign Identity with Care"
+title: "Echoes from History: Designing Self-Sovereign Identity with Care"
 excerpt_separator: "<!--more-->"
 categories:
   - News

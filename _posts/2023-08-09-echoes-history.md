@@ -19,6 +19,8 @@ _This article was originally published as an advance reading for [RWOT12 in Köl
 
 > _**ABSTRACT:** Self-sovereign identity represents an innovative new architecture for identity management. But, we must ensure that it avoids the pitfalls of previous identity systems. During World War II, two identity pioneers, the Dutch Jacobus L. Lentz and the French René Carmille, took different approaches toward the collection and recording of personally identifiable data. As a result, 75% of Dutch Jews fell victim to the Holocaust versus 23% of the Jews in France. Our foundational work on self-sovereign identity today could have similar repercussions down the road, so it’s imperative that we design this foundation responsibly with diligence and foresight._
 
+<a href="/images/posts/amsterdam-memorial.jpg"><img src="/images/posts/amsterdam-memorial.jpg" width=350 style="float: right"></a>
+
 On January 26, 2020, on the 75th anniversary of the liberation of Auschwitz during World War II, Prime Minister Mark Rutte of the Netherlands offered a historic apology for how the country had failed its Jewish citizens during that War, which resulted in over 100,000 of them being deported and murdered by the Nazis. He acknowledged that one of the problems was the Netherlands' civil service, stating: "When state authority became a threat, our public institutions failed in their duty as guardians of justice and security. To be sure, within the government too there was resistance on an individual level. But too many Dutch officials simply did as they were told by the occupying forces."[^1]
 
 A similar acknowledgement had been offered almost 25 years earlier by President Jacques Chirac of France, who stated that "the criminal folly of the occupiers was seconded by the French, by the French state".[^2] In France, some 76,000 French and foreign Jews were deported by the Nazis, but it was from a larger population that also had a larger demographic of Jewish peoples.
@@ -28,6 +30,8 @@ When distilled down to the bare and heartless statistics, the difference between
 These harsh lessons also remain central to the new technologies of digital identity. That includes both self-sovereign identity, an ideology to reclaim human dignity and authority in the digital world and an emerging suite of applications designed to enable that movement, and other new digital-identity systems. We must heed the grave lessons of history as we look forward, to ensure that digital identity technology of all types is never used in a similar genocide.
 
 ## Impeccable Identity: Lentz's Tragic Legacy
+
+![](https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam-building.jpg)
 
 The story of identity in the Netherlands during World War II is still writ on the landscape of Amsterdam today, at the National Holocaust Names Monument, where Prime Minister Rutte gave his famous speech in 2020, and a few blocks away at the intersection of Plantage Kerklaan and Plantage Middenlaan, where the municipal building that held the records of the region’s population once lay.
 

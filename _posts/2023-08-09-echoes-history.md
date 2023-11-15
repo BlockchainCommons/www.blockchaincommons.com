@@ -1,5 +1,5 @@
 ---
-title: "WEchoes from History: _Designing Self-Sovereign Identity with Care"
+title: "Echoes from History: Designing Self-Sovereign Identity with Care"
 excerpt_separator: "<!--more-->"
 categories:
   - News

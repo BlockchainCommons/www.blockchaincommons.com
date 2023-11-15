@@ -25,7 +25,7 @@ A similar acknowledgement had been offered almost 25 years earlier by President 
 
 When distilled down to the bare and heartless statistics, the difference between the countries is stark: in the Netherlands, 75% of Jews tragically lost their lives, compared to 23% in France. The difference lies in how each country dealt with identity: what they were willing to record and what they were not. Since regimes inevitably change, since data inevitably changes hands from one person to another, this type of consideration is _crucial_. 
 
-These harsh lessons also remain central to the new technology of self-sovereign identity, an ideology to reclaim human dignity and authority in the digital world and an emerging suite of applications designed to enable that movement. We must heed the grave lessons of history as we look forward, to ensure that self-sovereign identity is never used in a similar genocide.
+These harsh lessons also remain central to the new technologies of digital identity. That includes both self-sovereign identity, an ideology to reclaim human dignity and authority in the digital world and an emerging suite of applications designed to enable that movement, and other new digital-identity systems. We must heed the grave lessons of history as we look forward, to ensure that digital identity technology of all types is never used in a similar genocide.
 
 ## Impeccable Identity: Lentz's Tragic Legacy
 
@@ -87,11 +87,13 @@ We must instead remember the past when identity was weaponized and six million a
 
 ## Conclusion
 
-The time for action is now. The dreams of self-sovereign identity that were first imagined at RWOT2 and ID2020 have been made realities by standards such as DIDs[^7] and Verifiable Credentials[^8]. Numerous companies have emerged to support these standards, while governments are beginning to adopt them. Perhaps most importantly, the European Union is in the process of rolling out eIDAS[^9] as an ecosystem of electronic identity. We are at a tipping point where the standards for future identity will be set in the days, months, and scant years ahead.
+The time for action is now. The dreams of self-sovereign identity that were first imagined at RWOT2 and ID2020 have been made realities by standards such as DIDs[^7] and Verifiable Credentials[^8]. Numerous companies have emerged to support these standards, while governments are beginning to adopt them. Simultaneously, the European Union is in the process of rolling out eIDAS[^9] as an ecosystem of electronic identity. We are at a tipping point where the standards for future identity will be set in the days, months, and scant years ahead.
 
-At this crossroads, we could go the way of recording too much information. We could create great honeypots of data for use or abuse by future regimes, or even by criminals. By recording our gender, our sexual orientation, our religion, our political affiliation, or even just our favorite books, movies, and songs, we could open ourselves up to future discrimination or worse. This would be the way of Lentz. Or, we could normalize the minimization of information. We could create systems that follow [the original goals of self-sovereign identity](https://www.blockchaincommons.com/musings/origins-SSI/) by allowing the person represented by an identity to decide what information goes out. This would be the way of Carmille.
+At this crossroads, we could go the way of recording too much information. We could create great honeypots of data for use or abuse by future regimes, or even by criminals. By recording our gender, our sexual orientation, our religion, our political affiliation, or even just our favorite books, movies, and songs, we could open ourselves up to future discrimination or worse. This would be the way of Lentz. 
 
-When the next history books are written, we must be Carmille, not Lentz.
+But there's another path, one that normalizes the minimization of information. As self-sovereign identity designers, we must ask if we are protecting our users; we can do so by following [the original goals of self-sovereign identity](https://www.blockchaincommons.com/musings/origins-SSI/), by allowing the person represented by an identity to decide what information goes out. Simultaneously, we can do our best to influence the design of eIDAS and other more centralized systems to similarly adopt rules of data minimization and selective disclosure. This would be the way of Carmille.
+
+We are a crucial crossroads in the design of digital identity. When the next history books are written, we must be Carmille, not Lentz.
 
 ---
 

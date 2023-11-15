@@ -21,7 +21,7 @@ tags:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
-**ABSTRACT:** Schnorr signatures have been a long time coming, but now that [they're finally here](https://twitter.com/ChristopherA/status/1716919363729801494), they open up broad new cryptographic frontiers, including the improved privacy of signature aggregation and blind signatures, the improved power of threshold signatures and adapter signatures, and much more. This article explores some of those frontiers and also offers a simplified look at how Schnorr works.
+> **ABSTRACT:** Schnorr signatures have been a long time coming, but now that [they're finally here](https://twitter.com/ChristopherA/status/1716919363729801494), they open up broad new cryptographic frontiers, including the improved privacy of signature aggregation and blind signatures, the improved power of threshold signatures and adapter signatures, and much more. This article explores some of those frontiers and also offers a simplified look at how Schnorr works.
 
 <!--more-->
 

@@ -8,6 +8,7 @@ tags:
   - Self-Sovereign Identity
 classes:
   - wide
+author: Christopher Allen
 header:
   og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg
 ---

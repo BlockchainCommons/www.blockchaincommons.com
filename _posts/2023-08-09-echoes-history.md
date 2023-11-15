@@ -92,6 +92,10 @@ At this crossroads, we could go the way of recording too much information. We co
 
 When the next history books are written, we must be Carmille, not Lentz.
 
+---
+
+### Footnotes
+
 [^1]: Uncredited. 2020. "Prime Minister of the Netherlands Issues Historic Apology". _International Holocaust Remembrance Alliance_. [https://www.holocaustremembrance.com/news-archive/prime-minister-netherlands-issues-historic-apology](https://www.holocaustremembrance.com/news-archive/prime-minister-netherlands-issues-historic-apology). 
 
 [^2]: Simons, Marlise. 1995. "Chirac Affirms France's Guilt in Fate of Jews". _New York Times_. [https://www.nytimes.com/1995/07/17/world/chirac-affirms-france-s-guilt-in-fate-of-jews.html](https://www.nytimes.com/1995/07/17/world/chirac-affirms-france-s-guilt-in-fate-of-jews.html).

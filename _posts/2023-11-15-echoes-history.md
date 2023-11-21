@@ -2,7 +2,7 @@
 title: "Echoes from History: Designing Self-Sovereign Identity with Care"
 excerpt_separator: "<!--more-->"
 categories:
-  - News
+  - Articles
 tags:
   - Advocacy
   - Self-Sovereign Identity

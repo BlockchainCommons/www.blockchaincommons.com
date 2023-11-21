@@ -15,7 +15,7 @@ header:
 
 ![](https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg)
 
-_This article was originally published as an advance reading for [RWOT12 in Köln, Germany](https://www.weboftrust.info/events/#rwot-12-cologne-2023). It has been slightly edited for this reprint._
+_This article was originally published as an advance reading for [RWOT12 in Köln, Germany](https://www.weboftrust.info/events/#rwot-12-cologne-2023) on August 9, 2023. It has been slightly edited for this reprint._
 
 > _**ABSTRACT:** Self-sovereign identity represents an innovative new architecture for identity management. But, we must ensure that it avoids the pitfalls of previous identity systems. During World War II, two identity pioneers, the Dutch Jacobus L. Lentz and the French René Carmille, took different approaches toward the collection and recording of personally identifiable data. As a result, 75% of Dutch Jews fell victim to the Holocaust versus 23% of the Jews in France. Our foundational work on self-sovereign identity today could have similar repercussions down the road, so it’s imperative that we design this foundation responsibly with diligence and foresight._
 

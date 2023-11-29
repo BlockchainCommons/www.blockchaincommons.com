@@ -17,7 +17,7 @@ header:
 
 _This article was originally published as an advance reading for [RWOT12 in Köln, Germany](https://www.weboftrust.info/events/#rwot-12-cologne-2023) on August 9, 2023. It has been slightly edited for this reprint._
 
-> _**ABSTRACT:** Self-sovereign identity represents an innovative new architecture for identity management. But, we must ensure that it avoids the pitfalls of previous identity systems. During World War II, two identity pioneers, the Dutch Jacobus L. Lentz and the French René Carmille, took different approaches toward the collection and recording of personally identifiable data. As a result, 75% of Dutch Jews fell victim to the Holocaust versus 23% of the Jews in France. Our foundational work on self-sovereign identity today could have similar repercussions down the road, so it’s imperative that we design this foundation responsibly with diligence and foresight._
+> _**ABSTRACT:** Self-sovereign identity represents an innovative new architecture for identity management. But, we must ensure that it avoids the pitfalls of previous identity systems. During World War II, two identity pioneers, the Dutch Jacobus L. Lentz and the French René Carmille, took different approaches toward the collection and recording of personally identifiable data. As a result, 75% of Dutch Jews fell victim to the Holocaust versus 23% of the Jews in France. Our foundational work on self-sovereign identity today could have similar repercussions down the road, so it’s imperative that we design this foundation responsibly with diligence and foresight, especially as the threat of significant regime change toward authoritarian governments looms ever larger across the world._
 
 <a href="/images/posts/amsterdam-memorial.jpg"><img src="/images/posts/amsterdam-memorial.jpg" width=350 style="float: right"></a>
 
@@ -27,7 +27,9 @@ A similar acknowledgement had been offered almost 25 years earlier by President 
 
 When distilled down to the bare and heartless statistics, the difference between the countries is stark: in the Netherlands, 75% of Jews tragically lost their lives, compared to 23% in France. The difference lies in how each country dealt with identity: what they were willing to record and what they were not. Since regimes inevitably change, since data inevitably changes hands from one person to another, this type of consideration is _crucial_. 
 
-These harsh lessons also remain central to the new technologies of digital identity. That includes both self-sovereign identity, an ideology to reclaim human dignity and authority in the digital world and an emerging suite of applications designed to enable that movement, and other new digital-identity systems. We must heed the grave lessons of history as we look forward, to ensure that digital identity technology of all types is never used in a similar genocide.
+It is especially crucial today because regimes have been changing quickly and drastically across the world and many of the new governments have been raised up through their declarations of intolerance and hatred. The freshest example is ironically in the Netherlands, where Islamophobe and isolationist Geert Wilders' PVV party won a plurality of votes, giving him the opportunity to become Prime Minister[^nlnews]. He's promised to ban the Quran, and one shudders to think of what he might do with identity records of Muslims. But, he's far from alone. Victor Orbán, the authoritarian Prime Minister Hungary, has conducted attacks against the LGBT community[^polandnews]. Marine Le Pen has made increasingly credible runs for French President as the head of the National Front. In the United States, Donald Trump, the Fifth Circuit Court of Appeals, and even the Supreme Court have attacked disadvantaged peoples and taken away rights. Many of these ingredients are the same as those seen in World War II, but our data collection has reached new heights, and thus offers even greater dangers.
+
+These harsh lessons remain especially important for the new technologies of digital identity, which have boosted information compilation even beyond that of the physical world. That includes both self-sovereign identity, an ideology to reclaim human dignity and authority in the digital world and an emerging suite of applications designed to enable that movement, and other new digital-identity systems. We must heed the grave lessons of history as we look forward, to ensure that digital identity technology of all types is never used in a similar genocide.
 
 ## Impeccable Identity: Lentz's Tragic Legacy
 
@@ -120,3 +122,7 @@ We are a crucial crossroads in the design of digital identity. When the next his
 [^8]: W3C. 2022. Verifiable Credentials Data Model. [https://www.w3.org/TR/vc-data-model/](https://www.w3.org/TR/vc-data-model/).
 
 [^9]: European Commission. Retrieved 2023. eIDAS Regulation. [https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation](https://digital-strategy.ec.europa.eu/en/policies/eidas-regulation).
+
+[^nlnews]: Faiola, Anthony, EMily Rauhala, and Loveday Morris. 2023. "Dutch Election Shows Far Right Rising and Reshaping Europe". _Washington Post_. https://www.washingtonpost.com/world/2023/11/25/europe-far-right-netherlands-election/. 
+
+[^polandnews]: Beauchamp, Zack. 2021. "How hatred of gay people became a key plank in Hungary’s authoritarian turn". _Vox_. https://www.vox.com/22547228/hungary-orban-lgbt-law-pedophilia-authoritarian. 

@@ -2,11 +2,10 @@
 title: "Open Development: The Necessary Next Step for Open Source"
 excerpt_separator: "<!--more-->"
 categories:
-  - Introduction
+  - Articles
 tags:
-  - CSR
-  - Gordian Architecture
-  - Gordian Envelope
+  - Open Source
+  - Open Development
 classes:
   - wide
 image: https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/Envelope-Examples-DO.jpg

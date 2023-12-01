@@ -170,6 +170,8 @@ Fast forward fifteen years and the success of TLS was obvious. It secured almost
 
 This is a common problem in the open-source model. The source is created by enthusiastic developers, but eventually, they move on. Meanwhile, the corporations that are making extensive use of the open-source projects aren't supporting the community. This is one of the prime reasons that a larger open-development movement is required.
 
+---
+
 [^1]: Meriam-Webster Dictionary. Retrieved November 2019. "Open-source". _Meriam-Webster Dictionary_. [https://www.merriam-webster.com/dictionary/open-source](https://www.merriam-webster.com/dictionary/open-source).
 
 [^2]: Oxford Dictionaries. Retrieved November 2019. "Open-source". Lexico: Powered by Oxford. [https://www.lexico.com/en/definition/open-source](https://www.lexico.com/en/definition/open-source)

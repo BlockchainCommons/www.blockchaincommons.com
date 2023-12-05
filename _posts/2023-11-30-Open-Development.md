@@ -8,10 +8,12 @@ tags:
   - Open Development
 classes:
   - wide
-image: https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/Envelope-Examples-DO.jpg
+og_image: https://developer.blockchaincommons.com/assets/images/open-dev-wc.png
 ---
 
-![](https://developer.blockchaincommons.com/assets/images/open-dev-wc.png)
+<center>
+<img src="https://developer.blockchaincommons.com/assets/images/open-dev-wc.png" width=500>
+</center>
 
 > This is the meant to be the beginning of a discussion on the topic of Open Development as a growth beyond Open Source. It outlines how we think about it at Blockchain Commons, and why we think it's important. Please [join us in those discussions](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions/121) and how you might think about the topic differently and on how we can make Open Development a reality.
 
@@ -58,7 +60,7 @@ These principles include:
 1. _Openness_. The final principle of open development is simply _openness_. An open-development community must ultimately commit to interoperability within its ecosystem such that there is no lock-in, allowing users the opportunity for open choice among ecosystem elements and the ability to move their own information and assets to other platforms as they see fit.
 
 <center>
-<img src="https://developer.blockchaincommons.com/assets/images/open-vs" width=500>
+<img src="https://developer.blockchaincommons.com/assets/images/open-vs.png" width=500>
 </center>
 
 ## Best Practices of Open Development

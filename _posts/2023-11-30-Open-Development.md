@@ -21,7 +21,7 @@ Open-source software is very important to a variety of modern computer platforms
 
 ## The Limits of Open Source
 
-<img src="https://developer.blockchaincommons.com/assets/images/open-source.png" width=350 style="float: right">
+<img src="https://developer.blockchaincommons.com/assets/images/open-source-red.png" width=350 style="float: right">
 
 The biggest limitation of the traditional open-source model is that it's just a licensing regime: no less, no more. A license describes how software can be distributed and used but it doesn't require a project to be designed, developed, or supported in an open way. And those additional levels of consideration are crucially important: whereas the open-source model describes how you can _use_ a product, a larger open-development movement is needed to reveal whether that product is actually _useful_ or not.
 
@@ -57,7 +57,9 @@ These principles include:
 
 1. _Openness_. The final principle of open development is simply _openness_. An open-development community must ultimately commit to interoperability within its ecosystem such that there is no lock-in, allowing users the opportunity for open choice among ecosystem elements and the ability to move their own information and assets to other platforms as they see fit.
 
-![](https://developer.blockchaincommons.com/assets/images/open-vs.png)
+<center>
+<img src="https://developer.blockchaincommons.com/assets/images/open-vs" width=500>
+</center>
 
 ## Best Practices of Open Development
 

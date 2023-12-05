@@ -10,6 +10,9 @@ classes:
   - wide
 image: https://raw.githubusercontent.com/BlockchainCommons/Gordian/master/Images/Envelope-Examples-DO.jpg
 ---
+
+![](https://developer.blockchaincommons.com/assets/images/open-dev-wc.png)
+
 > This is the meant to be the beginning of a discussion on the topic of Open Development as a growth beyond Open Source. It outlines how we think about it at Blockchain Commons, and why we think it's important. Please [join us in those discussions](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions/121) and how you might think about the topic differently and on how we can make Open Development a reality.
 
 The term "open source" gets a lot of attention. It usually refers to the open-source model, where developers collaboratively create software and then release their source code for free distribution, modification, and usage. The idea has entered the modern culture: definitions can be found in the Meriam-Webster Dictionary[^1] and the OED[^2]. 
@@ -17,6 +20,8 @@ The term "open source" gets a lot of attention. It usually refers to the open-so
 Open-source software is very important to a variety of modern computer platforms. It's the heart of blog publishing in WordPress, the core of cryptocurrency in Bitcoin, and the foundation of web browsers in projects such as Firefox and Chromium. Unfortunately, open source is all too often seen as all that's needed. Though there are innovators who are thinking about open source as part of a larger ecosystem[^3], they're the exceptions. We need to more broadly realize that the open-source model needs to become a larger **open development** movement[^4] that can fill in the gaps and resolve the problems of traditional open-source software.
 
 ## The Limits of Open Source
+
+<img src="https://developer.blockchaincommons.com/assets/images/open-source.png" width=350 style="float: right">
 
 The biggest limitation of the traditional open-source model is that it's just a licensing regime: no less, no more. A license describes how software can be distributed and used but it doesn't require a project to be designed, developed, or supported in an open way. And those additional levels of consideration are crucially important: whereas the open-source model describes how you can _use_ a product, a larger open-development movement is needed to reveal whether that product is actually _useful_ or not.
 
@@ -51,6 +56,8 @@ These principles include:
 1. _Sustainability_. Open development must be something that consumers and distributors can depend on over the entire lifespan of the software. That means that a concept of long-term commitment must be built in from the beginning, to provide for both upgrades and for fixes for the project. (The lack of this type of _support_ is one of the biggest limitations of the traditional open-source model to date.)
 
 1. _Openness_. The final principle of open development is simply _openness_. An open-development community must ultimately commit to interoperability within its ecosystem such that there is no lock-in, allowing users the opportunity for open choice among ecosystem elements and the ability to move their own information and assets to other platforms as they see fit.
+
+![](https://developer.blockchaincommons.com/assets/images/open-vs.png)
 
 ## Best Practices of Open Development
 

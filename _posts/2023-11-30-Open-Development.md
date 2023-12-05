@@ -59,10 +59,6 @@ These principles include:
 
 1. _Openness_. The final principle of open development is simply _openness_. An open-development community must ultimately commit to interoperability within its ecosystem such that there is no lock-in, allowing users the opportunity for open choice among ecosystem elements and the ability to move their own information and assets to other platforms as they see fit.
 
-<center>
-<img src="https://developer.blockchaincommons.com/assets/images/open-vs.png" width=500>
-</center>
-
 ## Best Practices of Open Development
 
 <img src="https://developer.blockchaincommons.com/assets/images/open-development-green.png" width=400 style="float: right">

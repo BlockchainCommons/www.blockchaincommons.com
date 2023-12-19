@@ -11,7 +11,7 @@ main:
     url: https://www.blockchaincommons.com/sponsors/
 subpages:
   - title: "Main Site"
-  - children:
+    children:
     - title: "Home"
       url: /
     - title: "Vision"

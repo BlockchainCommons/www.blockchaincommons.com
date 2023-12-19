@@ -9,7 +9,7 @@ tags:
   - Self-Sovereign Identity
   - Wyoming
   - Digital Assets
-  - Top-Articles
+  - Top Articles
 classes:
   - wide
 header:

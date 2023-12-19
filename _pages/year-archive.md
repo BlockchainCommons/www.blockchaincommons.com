@@ -10,4 +10,6 @@ header:
   overlay_image: /images/qr-background.jpg
   og_image: /images/bcc-card.jpg
 author_profile: true
+sidebar:
+  nav: subpages
 ---

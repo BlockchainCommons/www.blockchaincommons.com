@@ -18,7 +18,7 @@ categories:
 tags:
   - Schnorr
   - Signatures
-  - Top-Articles
+  - Top Articles
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

@@ -58,9 +58,9 @@ The Gordian Architecture is a future-looking design that covers everything that 
 
 ## Gordian Specifications
 
-The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs. They are broken into three main category: [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Sovereign & Society Recovery](https://developer.blockchaincommons.com/seedrecovery/), and [UX Design](https://developer.blockchaincommons.com/ux/).
-
 <a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
+
+The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs. They are broken into three main category: [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Sovereign & Society Recovery](https://developer.blockchaincommons.com/seedrecovery/), and [UX Design](https://developer.blockchaincommons.com/ux/).
 
 ### Data Format Specifications
 

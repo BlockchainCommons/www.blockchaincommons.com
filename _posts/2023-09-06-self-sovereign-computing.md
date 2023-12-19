@@ -9,7 +9,7 @@ categories:
 tags:
   - Self-Sovereign Computing
   - Self-Sovereign Identit
-  - Top-Articles
+  - Top Articles
 classes:
   - wide
 ---

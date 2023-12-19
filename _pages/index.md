@@ -68,7 +68,7 @@ support](https://www.blockchaincommons.com/projects.html#gordian-developer-suppo
 and [reference
 apps](https://www.blockchaincommons.com/projects.html#gordian-reference-apps), plus [events](https://www.blockchaincommons.com/projects.html#events), [educational projects](https://www.blockchaincommons.com/projects.html#events), [advocacy projects](https://www.blockchaincommons.com/projects.html#advocacy-projects), and [open infrastructure projects](https://www.blockchaincommons.com/projects.html#open-infrastructure-projects).
 
-_See the complete list of Blockchain Commons' [projects](projects.html)._
+_See the complete list of Blockchain Commons' [projects](/projects/)._
 
 ## More Info
 

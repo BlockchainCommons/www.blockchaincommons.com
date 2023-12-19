@@ -11,6 +11,8 @@ toc_label: Projects
 hide_description: true
 permalink: /projects/
 redirect_from: /projects.html
+sidebar:
+  nav: subpages
 ---
 
 _Blockchain Commons produces projects that fulfill its

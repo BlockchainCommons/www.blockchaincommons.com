@@ -11,6 +11,8 @@ toc: true
 toc_label: Groups
 permalink: /subscribe/
 redirect_from: /subscribe.html
+sidebar:
+  nav: subpages
 ---
 
 To continue the discussions of our interoperable work, Blockchain Commons hosts:

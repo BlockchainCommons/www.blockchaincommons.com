@@ -8,7 +8,8 @@ categories:
   - Articles
 tags:
   - Self-Sovereign Computing
-  - Self-Sovereign Identity
+  - Self-Sovereign Identit
+  - Top-Articles
 classes:
   - wide
 ---

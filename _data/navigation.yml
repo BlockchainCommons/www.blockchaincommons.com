@@ -13,9 +13,9 @@ subpages:
   - title: "Main Site"
     children:
     - title: "Home"
-      url: /
+      url: /home/
     - title: "Vision"
-      url: /vision.html
+      url: /vision/
     - title: "Projects"
       url: /projects/
     - title: "Posts"

@@ -41,7 +41,7 @@ See the _[complete posts archive](https://www.blockchaincommons.com/posts/)._
 The following blog posts are among our most important:
 
 <ul>
-{% assign top_posts = site.posts | where_exp: "post", "post.tags contains 'Top Posts'" %}
+{% assign top_posts = site.posts | where_exp: "post", "post.tags contains 'Top Articles'" %}
 {% for post in top_posts limit:7 %}
 <li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}

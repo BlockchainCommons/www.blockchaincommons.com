@@ -7,7 +7,7 @@ main:
     url: https://developer.blockchaincommons.com
   - title: "#SmartCustody"
     url: https://www.smartcustody.com
-  - title "Sponsors"
+  - title: "Sponsors"
     url: /sponsors/
 subpages:
   - title: "Home"

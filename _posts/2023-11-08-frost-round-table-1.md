@@ -1,5 +1,5 @@
 ---
-title: "First FROST Round Table Published"
+title: "Results of First FROST Round Table Published"
 excerpt_separator: "<!--more-->"
 categories:
   - Articles

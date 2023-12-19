@@ -36,6 +36,16 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 See the _[complete posts archive](https://www.blockchaincommons.com/posts/)._
 
+## Top Articles
+
+The following blog posts are among our most important:
+
+<ul>
+{% for post in site.posts | where: "tags", "Top Posts" %}
+<li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
 ## Projects
 
 This video overviews many of our specifications and other initiatives:

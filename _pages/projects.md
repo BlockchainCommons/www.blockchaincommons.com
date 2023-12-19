@@ -37,6 +37,7 @@ _Beyond its architectural core, Blockchain Commons also supports
 ## The Gordian Architecture
 
 <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
+**Developers:** [Architecture](https://developer.blockchaincommons.com/architecture/)<br>
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)<br>
 **Q&A:** [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/)
@@ -57,71 +58,52 @@ The Gordian Architecture is a future-looking design that covers everything that 
 
 ## Gordian Specifications
 
-The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs.
+The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs. They are broken into three main category: [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Sovereign & Society Recovery](https://developer.blockchaincommons.com/seedrecovery/), and [UX Design](https://developer.blockchaincommons.com/ux/).
 
 <a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
 
-### Envelope Specification
+### Data Format Specifications
 
-**Repo:** [Secure Components](https://github.com/BlockchainCommons/BCSwiftSecureComponents), [Envelope-CLI](https://github.com/BlockchainCommons/envelope-cli-swift) <br>
-**Intros:** [Introduction to Gordian Envelopes](https://www.blockchaincommons.com/introduction/Envelope-Intro/), [Technical Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Intro-Tech.md), [Use Cases Intro](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/README.md)
-**Docs:** [Docs](https://github.com/BlockchainCommons/Gordian/tree/master/Envelope#articles)
+**Developers:** [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Envelopes](https://developer.blockchaincommons.com/envelope/), [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/), [URs](https://developer.blockchaincommons.com/ur/), [dCBOR](https://developer.blockchaincommons.com/dcbor/), [QuickConnect](https://developer.blockchaincommons.com/quickconnect/)
+**Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)
+**Libraries:** [Library Listing](https://developer.blockchaincommons.com/libraries/)
 **Videos:** [Introduction](https://www.youtube.com/watch?v=OcnpYqHn8NQ), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
 
- The Secure Components suite provides tools for easily implementing encryption (symmetric or public key), signing, and sharding of messages, and representation of knowledge graphs, including serialization to and from CBOR and UR formats. The core of the Secure Components capability suite is the Envelope. This is a smart-document structure that supports the storage, backup, encryption & authentication of data, with explicit support for Merkle-based selective disclosure.
- 
-<a href="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png"><img src="https://raw.githubusercontent.com/BlockchainCommons/LifeHash/master/images/lifehash-grayscale-v2.png" align="right" border="1" width="400"></a>
+Blockchain Commons has produced a number of specifications that are intended to support interoperability among wallet developers and other digital-asset holders as well as resilience, privacy, and independence. 
 
-### Lifehash Specification
+* [Envelope](https://developer.blockchaincommons.com/envelope/) allows for the compact storage and transmission of data, as well as hashed elision and encryption.
+* [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/) support the transmission of larger amounts of data across air gaps.
+* [URs](https://developer.blockchaincommons.com/ur/) underlie Envelope and Animated QRs and ensure interoperability.
+* [dCBOR](https://developer.blockchaincommons.com/dcbor/) defines a deterministic version of CBOR, crucial for a variety of tasks including the hashed storage of data.
+* [QuickConnect](https://developer.blockchaincommons.com/quickconnect/) defines a deep-link URI to provide further interoperability. 
 
-**Repo:** [Overview & Web Demo](https://github.com/BlockchainCommons/lifehash-web)<br>
+### Lifehash & OIB Specifications
+
+**Developers:** [UX Design](https://developer.blockchaincommons.com/ux/), [LifeHash](https://developer.blockchaincommons.com/lifehash/), [OIB](https://developer.blockchaincommons.com/oib/)
+**Online Demo:** [Lifehash.info](https://lifehash.info/)
 **Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
 
 LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
 
-LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance.
+LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance. It appears as part of the Object Identity Block (OIB), which supplements that LifeHash with additional information on a digital object.
 
-### SSKR Specification
+### CSR & SSKR Specification
 
-**Paper:** [UR Type Definition for Sharded Secret Key Reconstruction (SSKR)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-011-sskr.md)<br>
-**Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
-**Documents:** [SSKR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-overview.md), [SSKR Share Scenarios](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Sharing.md), [SSKR Dangers](https://github.com/BlockchainCommons/SmartCustody/blob/master/Docs/SSKR-Dangers.md)
+**Developers:** [Sovereign & Social Recovery](https://developer.blockchaincommons.com/seedrecovery/), [Collaborative Seed Recovery](https://developer.blockchaincommons.com/csr/), [SSKR](https://developer.blockchaincommons.com/sskr/)
+**Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)
+**Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)
+**SSKR Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
 
-Blockchain Commons SSKR is an implementation of Sharded Secret Key Reconstruction (SSKR) for use in Blockchain Commons Software Projects. It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key, to improve Resilience.
+Collaborative Seed Recovery (CSR) is a system intended to improve the resilience of seeds and other digital assets by allowing them to be split up and those shares then stored on a variety of share servers. 
 
-### Uniform Resource (UR) Specification
-
-**Papers:** [Uniform Resources (URs)](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-005-ur.md), [Registry of UR Types](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2020-006-urtypes.md), [UR Type Definitions for Transactions Between Airgapped Devices](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2021-001-request.md), and others<br>
-**Documents:** [UR Overview](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-overview.md), [UR Introduction](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/ur-1-overview.md)<br>
-**Blog:** [Blockchain Commons’ Uniform Resources (URs) Support Airgapped PSBTs & More](https://www.blockchaincommons.com/specifications/Blockchain-Commons-URs-Support-Airgapped-PSBTs/) (12/8/20)<br>
-**Test Vectors:** [crypto-request](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/crypto-request-test-vectors.md), [crypto-seed](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/crypto-seed-test-vectors.md), [SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/sskr-test-vector.md)
-
-UR stands for Uniform Resources, a method for encoding structured binary data in plain-text strings that are also well-formed URIs. It's an interoperability specification that allows for the reliable, typed transfer of data and was designed in particular to allow for reliable transmission of crypto-seeds, crypto-keys, PSBTs, and other data related to cryptocurrency.
-
-One of the particular advantages of UR is careful integration with QR codes, a prime method for transmitting data across airgaps. URs are built to be efficient when encoded as QRs. In addition, multi-part URs allow for the creation of animated QRs, overall containing more information than any single QR could have.
-
-### Animated QRs
-
-**Intros:** [Animated QRs](https://www.blockchaincommons.com/devs/animated-qrs.html)
-
-Animated QRs are a variant of QRs that animate across several frames. Blockchain Commons' Animated QRs are built atop URs, using fountain codes. They're intended to allow the transmission of large amount of data across Airgaps, overcoming the built-in limits of individual QR Codes.
+SSKR is Sharded Secret Key Reconstruction (SSKR). It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key, to improve Resilience.
 
 ### Research Papers
 
 **Repo:** [Research](https://github.com/BlockchainCommons/Research)<br>
 **Video:** [Overview](https://www.youtube.com/watch?v=RYgOFSdUqWY)
 
-Most of our specifications begin with Research papers, which describe and detail the use of new, interoperable specifications for blockchain and Bitcoin.
-
-<hr>
-
-<a href="images/projects/gordian-logo-white.png"><img src="images/projects/gordian-logo-white.png" align="right" border="1" width="400"></a>
-## Gordian Use Cases
-
-**Gordian Envelope Use Cases:** [Overview](https://www.blockchaincommons.com/introduction/Gordian-Envelope-Use-Cases/), [Educational & Credential Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Educational.md), [Wellness Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Wellness.md), [Data Distribution Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Data.md), [Software & AI Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Software.md), [Financial Industry Use Cases](https://github.com/BlockchainCommons/Gordian/blob/master/Envelope/Use-Cases/Financial.md)<br>
-**Other Use Cases:** [Collaborative Seed Recovery (CSR) Use Cases](https://hackmd.io/ZbRiwvUfQSy-1RKM15bM8Q#CSR-Focused-Use-Cases), [Collaborative Key Management (CKM) Use Case](https://hackmd.io/ZbRiwvUfQSy-1RKM15bM8Q#Secret-Sharing-Use-Cases)
-
-Why use the Gordian Architecture? Use Cases explain the real world applications of many Gordian specifications. They can impact and improve data distribution, software distribution, credential usage, the financial industry, and more.
+Most of our specifications begin with "BCR" Research papers, which describe and detail the use of new, interoperable specifications for blockchain and Bitcoin. The ultimate goal is to upgrade BCRs to BCPs when they come into use by multiple parties, then to turn them into specifications. 
    
 <hr>
 

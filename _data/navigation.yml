@@ -1,25 +1,22 @@
 main:
+  - title: "Main Site"
+    url: https://www.blockchaincommons.com
+  - title: "Advocacy"
+    url: https://advocacy.blockchaincommons.com
+  - title: "Developers"
+    url: https://developer.blockchaincommons.com
+  - title: "#SmartCustody"
+    url: https://www.smartcustody.com
+  - title "Sponsors"
+    url: /sponsors/
+mainsubs:
   - title: "Home"
     url: /
   - title: "Vision"
     url: /vision.html
+  - title: "Projects"
+    url: /projects/
   - title: "Posts"
     url: /posts/
   - title: "About"
     url: /about/
-  - title: "Sponsors"
-    url: /sponsors/
-  - title: "Projects"
-    url: /projects/
-sites:
-  - title: Blockchain Commons Sites
-    children:
-    - title: "Main Site"
-      url: https://www.blockchaincommons.com
-    - title: "Advocacy"
-      url: https://advocacy.blockchaincommons.com
-    - title: "Developers"
-      url: https://developer.blockchaincommons.com
-    - title: "#SmartCustody"
-      url: https://www.smartcustody.com
-

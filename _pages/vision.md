@@ -11,6 +11,8 @@ classes:
 hide_description: true
 permalink: /vision/
 redirect_from: /vision.html
+sidebar:
+  nav: subpages
 ---
 
 Blockchain Commons advocates for the creation of open, interoperable, secure & compassionate digital infrastructure<br>

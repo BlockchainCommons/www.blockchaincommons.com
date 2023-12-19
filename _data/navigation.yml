@@ -1,11 +1,11 @@
 main:
   - title: "Main Site"
     url: https://www.blockchaincommons.com
-  - title: "Advocacy"
-    url: https://advocacy.blockchaincommons.com
   - title: "Developers"
     url: https://developer.blockchaincommons.com
-  - title: "#SmartCustody"
+  - title: "Advocacy"
+    url: https://advocacy.blockchaincommons.com
+  - title: "Smart Custody"
     url: https://www.smartcustody.com
   - title: "Sponsors"
     url: /sponsors/

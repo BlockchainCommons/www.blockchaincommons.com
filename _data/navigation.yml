@@ -9,7 +9,7 @@ main:
     url: https://www.smartcustody.com
   - title "Sponsors"
     url: /sponsors/
-mainsubs:
+subpages:
   - title: "Home"
     url: /
   - title: "Vision"

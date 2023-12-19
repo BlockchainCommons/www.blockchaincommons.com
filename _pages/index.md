@@ -12,7 +12,7 @@ classes:
 permalink: /home/
 redirect_from: /index.html
 sidebar:
-  nav: sites
+  nav: subpages
 ---
 
 _Advocating for the creation of open, interoperable, secure &

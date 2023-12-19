@@ -8,15 +8,17 @@ main:
   - title: "Smart Custody"
     url: https://www.smartcustody.com
   - title: "Sponsors"
-    url: /sponsors/
+    url: https://www.blockchaincommons.com/sponsors/
 subpages:
-  - title: "Home"
-    url: /
-  - title: "Vision"
-    url: /vision.html
-  - title: "Projects"
-    url: /projects/
-  - title: "Posts"
-    url: /posts/
-  - title: "About"
-    url: /about/
+  - title: "Main Site"
+  - children:
+    - title: "Home"
+      url: /
+    - title: "Vision"
+      url: /vision.html
+    - title: "Projects"
+      url: /projects/
+    - title: "Posts"
+      url: /posts/
+    - title: "About"
+      url: /about/

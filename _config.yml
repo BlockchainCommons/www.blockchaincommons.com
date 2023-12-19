@@ -95,6 +95,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: subpages
   # _pages
   - scope:
       path: "_pages"
@@ -102,11 +104,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: subpages
-      sidebar:
-        nav: subpages
 
 category_archive:
   type: liquid

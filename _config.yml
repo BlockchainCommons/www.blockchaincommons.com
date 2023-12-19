@@ -99,11 +99,12 @@ defaults:
   - scope:
       path: "_pages"
       type: pages
-      path: ""
-      type: subpages
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: subpages
       sidebar:
         nav: subpages
 

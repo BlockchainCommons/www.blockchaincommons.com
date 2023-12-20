@@ -36,7 +36,8 @@ _Beyond its architectural core, Blockchain Commons also supports
 
 ## The Gordian Architecture
 
-<a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
+<a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg" style="border: 2px solid blue"></a>
+
 **Developers:** [Architecture](https://developer.blockchaincommons.com/architecture/)<br>
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)<br>
@@ -58,16 +59,13 @@ The Gordian Architecture is a future-looking design that covers everything that 
 
 ## Gordian Specifications
 
-<a href="https://www.youtube.com/watch?v=OcnpYqHn8NQ"><img src="https://img.youtube.com/vi/OcnpYqHn8NQ/mqdefault.jpg" style="float: right; border: 2px solid blue"></a>
-
 The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs. They are broken into three main category: [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Sovereign & Society Recovery](https://developer.blockchaincommons.com/seedrecovery/), and [UX Design](https://developer.blockchaincommons.com/ux/).
 
 ### Data Format Specifications
 
-**Developers:** [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Envelopes](https://developer.blockchaincommons.com/envelope/), [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/), [URs](https://developer.blockchaincommons.com/ur/), [dCBOR](https://developer.blockchaincommons.com/dcbor/), [QuickConnect](https://developer.blockchaincommons.com/quickconnect/)
-**Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)
-**Libraries:** [Library Listing](https://developer.blockchaincommons.com/libraries/)
-**Videos:** [Introduction](https://www.youtube.com/watch?v=OcnpYqHn8NQ), [Envelope Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
+**Developers:** [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Envelopes](https://developer.blockchaincommons.com/envelope/), [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/), [URs](https://developer.blockchaincommons.com/ur/), [dCBOR](https://developer.blockchaincommons.com/dcbor/), [QuickConnect](https://developer.blockchaincommons.com/quickconnect/)<br>
+**Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)<br>
+**Libraries:** [Library Listing](https://developer.blockchaincommons.com/libraries/)<br>
 
 Blockchain Commons has produced a number of specifications that are intended to support interoperability among wallet developers and other digital-asset holders as well as resilience, privacy, and independence. 
 
@@ -79,8 +77,8 @@ Blockchain Commons has produced a number of specifications that are intended to 
 
 ### Lifehash & OIB Specifications
 
-**Developers:** [UX Design](https://developer.blockchaincommons.com/ux/), [LifeHash](https://developer.blockchaincommons.com/lifehash/), [OIB](https://developer.blockchaincommons.com/oib/)
-**Online Demo:** [Lifehash.info](https://lifehash.info/)
+**Developers:** [UX Design](https://developer.blockchaincommons.com/ux/), [LifeHash](https://developer.blockchaincommons.com/lifehash/), [OIB](https://developer.blockchaincommons.com/oib/)<br>
+**Online Demo:** [Lifehash.info](https://lifehash.info/)<br>
 **Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
 
 LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
@@ -89,9 +87,9 @@ LifeHash is used by Blockchain Commons to create distinct and unique visual repr
 
 ### CSR & SSKR Specification
 
-**Developers:** [Sovereign & Social Recovery](https://developer.blockchaincommons.com/seedrecovery/), [Collaborative Seed Recovery](https://developer.blockchaincommons.com/csr/), [SSKR](https://developer.blockchaincommons.com/sskr/)
-**Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)
-**Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)
+**Developers:** [Sovereign & Social Recovery](https://developer.blockchaincommons.com/seedrecovery/), [Collaborative Seed Recovery](https://developer.blockchaincommons.com/csr/), [SSKR](https://developer.blockchaincommons.com/sskr/)<br>
+**Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)<br>
+**Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)<br>
 **SSKR Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
 
 Collaborative Seed Recovery (CSR) is a system intended to improve the resilience of seeds and other digital assets by allowing them to be split up and those shares then stored on a variety of share servers. 
@@ -111,21 +109,15 @@ Most of our specifications begin with "BCR" Research papers, which describe and 
 
 _The Blockchain Commons repos include libraries and apps that help developers to develop and test the Gordian specifications._
 
-### Crypto Commons Libraries
+### Developer Libraries
 
-**Repos:** [Crypto Commons](https://github.com/BlockchainCommons/crypto-commons#gordian-reference-libraries)
+**Developers:** [Library Listing](https://developer.blockchaincommons.com/libraries/)
 
-All of the Gordian reference libraries can be found in the Crypto Commons repo. Libraries are originally coded in C or C++, but the repo also contains implementations of some libraries for Java, Python, Swift, or other languages.
-
-### dCBOR Libraries
-
-**Repos:** [bc-dcbor-rust](https://github.com/BlockchainCommons/bc-dcbor-rust), [BCSwiftDCBOR](https://github.com/BlockchainCommons/BCSwiftDCBOR)
-
-Definitive libraries for using the [deterministic variant](https://www.rfc-editor.org/rfc/rfc8949.html#name-deterministically-encoded-c) of DCBOR.
+Reference libraries demonstrate the use of our specifications. They were originally coded in C or C++, and some have been recoded by us in Rust and Swift. Other developers have also produced conversions for Java, Python, and other languages.
 
 ### Developer Apps
 
-**CLI Apps:** [Bytewords](https://github.com/BlockchainCommons/bc-bytewords-cli), [Envelope](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHashTool](https://github.com/BlockchainCommons/LifeHashTool), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool](https://github.com/BlockchainCommons/bc-seedtool-cli) <br>
+**CLI Apps:** [Bytewords-CLI](https://github.com/BlockchainCommons/bc-bytewords-cli), [dCBOR-CLI](https://github.com/BlockchainCommons/bc-dcbor-cli), [Envelope-CLI-Rust](https://github.com/BlockchainCommons/bc-envelope-cli-rust), [Envelope-CLI-Swift](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool-CLI](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHash-CLI](https://github.com/BlockchainCommons/lifehash-cli), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool-CLI](https://github.com/BlockchainCommons/bc-seedtool-cli) <br>
 **iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
 **Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)
 
@@ -137,21 +129,22 @@ Apps for the command-line and for iOS and the web can aid developers in testing 
 
 Whereas Developer Apps are meant for testing, the Gordian Reference Apps offer best practices and examples of how to incorporate Reference Libraries into applies that support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
 
-### Collaborative Seed Recovery
-
-**Introduction:** [CSR Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CSR/README.md)<br>
-**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)<br>
-**Videos:** [CSR Playlist](https://www.youtube.com/playlist?list=PLCkrqxOY1Fbp-P1Yv-7gmu75i2QS2Z6vk)
-
-Collaborative Seed Recovery, or CSR, is currently Blockchain Commons' major project, being developed in coordination with a number of partners. It's a system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
-
-CSR is a step toward [Collaborative Key Management (CKM)](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md), which is expected to become an active project following the deployment of current CSR systems. Currently, CSR is planned for 2022 and CKM for 2023-2024.
-
 ### Gordian Reference App: Coordinator (iOS)
 
 **Repo:** [Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator)
 
 Gordian Coordinator is a Multisig Bitcoin transaction coordinator for iOS. It demonstrates the use of request and response envelopes to communicate when creating multisig transactions in a way that is both resilient and easy to use.
+
+### Gordian Reference App: Depo (CSR)
+
+**Repo:** [Depo](https://github.com/BlockchainCommons/bc-depo-rust)
+**API:** [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust)
+**Intro:** [Architectural Overview](https://developer.blockchaincommons.com/csr/architecture/)
+**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)<br>
+
+Collaborative Seed Recovery, or CSR, is currently Blockchain Commons' major project, being developed in coordination with a number of partners. It's a system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It manages this by sharding secrets and then storing shares on different servers. This is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
+
+Blockchain Commons's reference app for CSR is built on the [SSKR](https://developer.blockchainscommons.com) library and the [Depo Server](https://github.com/BlockchainCommons/bc-depo-rust), which uses the [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust) for communication. We expect other partners will use different servers for their share storage.
 
 <a href="images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
 ### Gordian Reference App: Seed Tool (iOS)
@@ -189,6 +182,15 @@ Several other reference apps have been released to demonstrate specific Principl
 _One of the prime goals of Blockchain Commons is to bring together different parties to educate and to create consensus on the future development of our technologies and specifications. This happens through events._
 
 <a href="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg" border=1 width=300 align="right"></a>
+
+### FROST Round Table
+
+**Website:** [Developers FROST](https://developer.blockchaincommons.com/frost/)
+**Intro:** [A Layperson's Intro to Schnorr](https://www.blockchaincommons.com/musings/Schnorr-Intro/)
+**Round Tables:** [Round Table I (November 2023)](https://developer.blockchaincommons.com/frost/meeting1/)
+
+FROST is a threshold signature scheme for Schnorr signatures that provides a next-generation resilience methodology for the control of digital assets. Blockchain Commons is running a series of round tables intended to bring together experts in the field and allow them to discuss the challenges of its implementation. 
+
 ### Silicon Salon
 
 **Website:** [Siliconsalon.info](https://www.siliconsalon.info/)
@@ -244,16 +246,10 @@ _Blockchain Commons isn't just about technological development. It also works to
 
 **Website:** [Law & Advocacy Website](https://advocacy.blockchaincommons.com)<Br>
 **Repo:** [Law & Advocacy Website Repo](https://github.com/BlockchainCommons/law-and-advocacy)<br>
-**Articles:** [Principal Authority](https://www.blockchaincommons.com/articles/Principal-Authority/), [Private Key Disclosure](https://www.blockchaincommons.com/articles/Private-Key-Disclosure/)
-
-Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
-
-### Testimony
-
+**Articles:** [Article Webpage](https://advocacy.blockchaincommons.com/articles/)
 **Repo:** [Testimony Webpage](https://advocacy.blockchaincommons.com/testimony/)
 
-Blockchain Commons has regularly provided testimony to various agencies and institutions. Much of our work has occurred in Wyoming, because they are on the cutting edge of support for blockchains and other digital technologies. This repo theoretically contains links to much of our testimony, but at the moment includes just a few of our links and needs to be filled in.
-
+Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
 
 <hr>
 

@@ -36,8 +36,6 @@ _Beyond its architectural core, Blockchain Commons also supports
 
 ## The Gordian Architecture
 
-<a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg" style="border: 2px solid blue"></a>
-
 **Developers:** [Architecture](https://developer.blockchaincommons.com/architecture/)<br>
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
 **Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)<br>
@@ -45,6 +43,10 @@ _Beyond its architectural core, Blockchain Commons also supports
 **Individual Topics:** [Animated QRs](https://www.blockchaincommons.com/devs/animated-qrs.html), [Musings of a Trust Architect](https://www.blockchaincommons.com/musings.html)
 
 _The Gordian Architecture is the heart of Blockchain Commons' work. It's a partitioned architecture and a set of backup, communication, and encoding specifications, built to support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles)._
+
+<center>
+<a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg" style="border: 2px solid blue"></a>
+</center>
 
 The Gordian Architecture supports users through those four principles.
 

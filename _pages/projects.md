@@ -22,11 +22,10 @@ _Much of this centers on an
 [**Architecture**](#the-gordian-architecture) that focuses on our
 Gordian Principles of independence, privacy, resilience, and openness
 and that encourages responsible key management. This Architecture is
-built upon [**Use Cases**](#gordian-use-cases), [**Specifications**](#gordian-specifications) that enable those Use
-Cases, and [**Developer Support**](#gordian-developer-support) for incorporating those
-Specifications including Reference Libraries and CLI Apps. [**Reference
-Apps**](#gordian-reference-apps) offer further examples to ensure that Specifications are
-integrated using best practices._
+built upon [**Specifications**](#gordian-specifications) that have been
+created in conjunction with the [**Wallet Community**](https://github.com/BlockchainCommons/Gordian-Developer-Community).
+[**Developer Support**](#gordian-developer-support) enables the usage of these
+specifications, while [**Reference Apps**](#gordian-reference-apps) further demonstrate that usage.
 
 _Beyond its architectural core, Blockchain Commons also supports
 [**Events**](#events), [**Educational Projects**](#educational-projects), [**Advocacy Projects**](#advocacy-projects), and
@@ -119,8 +118,9 @@ _The Blockchain Commons repos include libraries and apps that help developers to
 
 Reference libraries demonstrate the use of our specifications. They were originally coded in C or C++, and some have been recoded by us in Rust and Swift. Other developers have also produced conversions for Java, Python, and other languages.
 
-### Developer Apps
+### CLI & Web Apps
 
+**Developer Resources:** [Developer Website](https://developer.blockchaincommons.com/)
 **CLI Apps:** [Bytewords-CLI](https://github.com/BlockchainCommons/bc-bytewords-cli), [dCBOR-CLI](https://github.com/BlockchainCommons/bc-dcbor-cli), [Envelope-CLI-Rust](https://github.com/BlockchainCommons/bc-envelope-cli-rust), [Envelope-CLI-Swift](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool-CLI](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHash-CLI](https://github.com/BlockchainCommons/lifehash-cli), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool-CLI](https://github.com/BlockchainCommons/bc-seedtool-cli) <br>
 **iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
 **Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)

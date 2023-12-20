@@ -129,13 +129,13 @@ Apps for the command-line and for iOS and the web can aid developers in testing 
 
 Whereas Developer Apps are meant for testing, the Gordian Reference Apps offer best practices and examples of how to incorporate Reference Libraries into applies that support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
 
-### Gordian Reference App: Coordinator (iOS)
+### Gordian Coordinator (iOS)
 
 **Repo:** [Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator)
 
 Gordian Coordinator is a Multisig Bitcoin transaction coordinator for iOS. It demonstrates the use of request and response envelopes to communicate when creating multisig transactions in a way that is both resilient and easy to use.
 
-### Gordian Reference App: Depo (CSR)
+### Gordian Depo (CSR)
 
 **Repo:** [Depo](https://github.com/BlockchainCommons/bc-depo-rust)
 **API:** [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust)
@@ -147,21 +147,21 @@ Collaborative Seed Recovery, or CSR, is currently Blockchain Commons' major proj
 Blockchain Commons's reference app for CSR is built on the [SSKR](https://developer.blockchainscommons.com) library and the [Depo Server](https://github.com/BlockchainCommons/bc-depo-rust), which uses the [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust) for communication. We expect other partners will use different servers for their share storage.
 
 <a href="images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
-### Gordian Reference App: Seed Tool (iOS)
+### Gordian Seed Tool (iOS)
 
 **Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
 **Blog:** [Gordian Seed Tool Reveals the Foundations of Cryptography](https://www.blockchaincommons.com/apps/SeedTool-Release/) (7/15/21)
 
 Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It demonstrates independence and resilience by protecting your cryptographic seeds while also making them available for easy use. Using Seed Tool, you can generate seeds and store them securely on your device. You can then derive and share multi-signature signing and verification keys from those seeds or alternatively sign PSBTs directly from the app. Sophisticated backup procedures demonstrate the usage of Sharded Secret Key Reconstruction ([SSKR](https://github.com/BlockchainCommons/crypto-commons/blob/master/Docs/README.md#sharded-secret-key-reconstruction-sskr)) — which lets you split your seed into pieces and send them to trusted parties, who can send them back to you in an emergency for seed recovery. You can even use an entirely offline device (no internet access) to store your seeds and use QR codes to exchange necessary information with online devices running compatible wallet or signing software. A complete [manual](https://github.com/BlockchainCommons/GordianSeedTool-iOS/blob/master/Docs/MANUAL.md) details its functionality.
 
-### Gordian Reference App: Server (MacOS)
+### Gordian Server (MacOS)
 
 **Repo:** [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS)<br>
 
 Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/QuickConnect/README.md).
 
 <a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
-### Gordian Reference App: LetheKit (kit)
+### LetheKit (kit)
 
 **Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
 **Blog:** [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/apps/Releasing-LetheKit/) (10/28/20)

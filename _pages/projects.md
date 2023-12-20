@@ -17,8 +17,9 @@ sidebar:
 
 _Blockchain Commons produces projects that fulfill its
 [**Vision**](https://www.blockchaincommons.com/vision.html)._
+{: .notice--info}
 
-_Much of this centers on an
+Much of this centers on an
 [**Architecture**](#the-gordian-architecture) that focuses on our
 Gordian Principles of independence, privacy, resilience, and openness
 and that encourages responsible key management. This Architecture is

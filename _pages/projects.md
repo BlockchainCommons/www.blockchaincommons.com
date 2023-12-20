@@ -213,12 +213,15 @@ Rebooting the Web of Trust is a semiannual design workshop that was founded by C
 
 _Educational projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
 
-<a href="images/projects/lbtc.png"><img src="/images/projects/lbtc.png" align="right" border="1" width="500"></a>
 ### Learning Bitcoin from the Command Line
 
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
 **Future:** [Topics for v3.0](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO-30.md)<br>
 **Blog:** [Learning Bitcoin Upgrades to v2](https://www.blockchaincommons.com/courses/Learning-Bitcoin-Upgrades-to-v2/) (10/30/20)
+
+<center>
+<a href="images/projects/lbtc.png"><img src="/images/projects/lbtc.png" border="1" width="500"></a>
+</center>
 
 This is a complete twenty-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. Translations are now available for [Portuguese](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/pt/README.md), with the final iteration of [Spanish](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/tree/spanish-translation/es) pending.
 

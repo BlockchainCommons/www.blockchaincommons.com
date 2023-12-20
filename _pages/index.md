@@ -57,16 +57,18 @@ Current projects include:
 * **dCBOR.** We worked with the IETF and CBOR communities throughout 2023 to advance [dCBOR](https://developer.blockchaincommons.com/dcbor/) and are now finalizing a [draft](https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/).
 * **FROST.** Our first [FROST Implementer's Round Table](https://developer.blockchaincommons.com/frost/meeting1/) was in late 2023, with more to come.
   
-_See the complete list of Blockchain Commons' [projects](/projects/) and our [Technology Overview video](https://www.youtube.com/embed/RYgOFSdUqWY) for more._
+_See the complete list of Blockchain Commons' [projects](/projects/), its [Developer resources](https://developer.blockchaincommons.com) and our [Technology Overview video](https://www.youtube.com/embed/RYgOFSdUqWY) for more._
 
 ## More Info
 
-For more information, see our [Posts](https://www.blockchaincommons.com/posts/) and [GitHub](https://github.com/BlockchainCommons), including the following discussions areas:
-* [**Gordian Developer Community**](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions). For standards and open-source developers who want to talk about interoperable wallet specifications, please use the Discussions area of the [Gordian Developer Community repo](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions). This is where you talk about Gordian specifications such as [Gordian Envelope](https://github.com/BlockchainCommons/Gordian/tree/master/Envelope#articles), [bc-shamir](https://github.com/BlockchainCommons/bc-shamir), [Sharded Secret Key Reconstruction](https://github.com/BlockchainCommons/bc-sskr), and [bc-ur](https://github.com/BlockchainCommons/bc-ur) as well as the larger [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), its [Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness, and its macro-architectural ideas such as functional partition (including airgapping, the original name of this community).
-* [**Gordian User Community**](https://github.com/BlockchainCommons/Gordian/discussions). For users of the Gordian reference apps, including [Gordian Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator), [Gordian Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS), [Gordian Server](https://github.com/BlockchainCommons/GordianServer-macOS), [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), and [SpotBit](https://github.com/BlockchainCommons/spotbit) as well as our whole series of [CLI apps](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/Apps.md#cli-apps). This is a place to talk about bug reports and feature requests as well as to explore how our reference apps embody the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
-* [**Blockchain Commons Discussions**](https://github.com/BlockchainCommons/Community/discussions) — for developers, interns, and patrons of Blockchain Commons, please use the discussions area of the [Community repo](https://github.com/BlockchainCommons/Community) to talk about general Blockchain Commons issues, the intern program, or topics other than Gordian Development or Usage.
+For more information, see:
+* [**Posts**](https://www.blockchaincommons.com/posts/) — News items and articles.
+* [**Developers**](https://developer.blockchaincommons.com/) — Resources for our specifications.
+* [**Repos**](https://github.com/BlockchainCommons) — Our code & document repos.
+* [**Gordian Developer Community**](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions) — Discussions on our wallet specifications.
+* [**Advocacy**](https://advocacy.blockchaincommons.com/) — Advocacy articles & testimony.
 
-If you are interested in actively developing our interoperable specs such as Collaborative Seed Recovery and Gordian Envelope, please also join our [Signal groups or mailing lists](subscribe.html).
+If you are interested in actively developing our interoperable specs such as Collaborative Seed Recovery and Gordian Envelope, please also join our [Signal groups or mailing lists](/subscribe/).
 
 ## Sustaining Sponsors
 

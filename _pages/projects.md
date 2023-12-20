@@ -150,7 +150,7 @@ Collaborative Seed Recovery, or CSR, is currently Blockchain Commons' major proj
 
 Blockchain Commons's reference app for CSR is built on the [SSKR](https://developer.blockchainscommons.com) library and the [Depo Server](https://github.com/BlockchainCommons/bc-depo-rust), which uses the [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust) for communication. We expect other partners will use different servers for their share storage.
 
-<a href="/images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+<a href="/images/projects/Cosigner.png"><img src="/images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
 
 ### Gordian Seed Tool (iOS)
 
@@ -213,7 +213,7 @@ Rebooting the Web of Trust is a semiannual design workshop that was founded by C
 
 _Educational projects consist of books, tutorials, or courses, intended to teach the usage of blockchains to programmers and end users alike._
 
-<a href="images/projects/lbtc.png"><img src="images/projects/lbtc.png" align="right" border="1" width="500"></a>
+<a href="images/projects/lbtc.png"><img src="/images/projects/lbtc.png" align="right" border="1" width="500"></a>
 ### Learning Bitcoin from the Command Line
 
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
@@ -222,7 +222,7 @@ _Educational projects consist of books, tutorials, or courses, intended to teach
 
 This is a complete twenty-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. Translations are now available for [Portuguese](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/pt/README.md), with the final iteration of [Spanish](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/tree/spanish-translation/es) pending.
 
-<a href="images/projects/sc.png"><img src="images/projects/sc.jpg" align="right" border="1" width="200"></a>  
+<a href="/images/projects/sc.png"><img src="/images/projects/sc.jpg" align="right" border="1" width="200"></a>  
 ### #SmartCustody
 
 **PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>

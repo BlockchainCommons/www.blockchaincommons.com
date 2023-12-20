@@ -45,7 +45,9 @@ _The Gordian Architecture is the heart of Blockchain Commons' work. It's a parti
 <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg" style="border: 2px solid blue"></a>
 </center>
 
-<p>The Gordian Architecture supports users through those four principles.
+<br><br>
+
+The Gordian Architecture supports users through those four principles.
 
 * **Independence.** The Gordian Architecture supports self-sovereign control of digital assets. Users are in control, not centralized organizations.
 * **Privacy.** The Gordian Architecture is privacy-protecting, allowing selective protection and disclosure of data.

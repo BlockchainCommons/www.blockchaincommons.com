@@ -16,6 +16,7 @@ sidebar:
 ---
 
 Blockchain Commons' mission is to advocate for human dignity online by enabling people to control their own digital destiny. We are proudly a "not-for-profit" social benefit corporation committed to open source, open development, and defensive patents.
+{: .notice--info}
 
 ## Why Sponsor?
 

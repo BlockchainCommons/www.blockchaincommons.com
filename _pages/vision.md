@@ -15,8 +15,8 @@ sidebar:
   nav: subpages
 ---
 
-Blockchain Commons advocates for the creation of open, interoperable, secure & compassionate digital infrastructure<br>
-to enable people to control their own digital destiny and to maintain their human dignity online.
+Blockchain Commons advocates for the creation of open, interoperable, secure & compassionate digital infrastructure to enable people to control their own digital destiny and to maintain their human dignity online.
+{: .notice--info}
 
 # Objectives
 

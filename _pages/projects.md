@@ -45,7 +45,7 @@ _The Gordian Architecture is the heart of Blockchain Commons' work. It's a parti
 <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg" style="border: 2px solid blue"></a>
 </center>
 
-<br><br>
+<br>
 
 The Gordian Architecture supports users through those four principles.
 

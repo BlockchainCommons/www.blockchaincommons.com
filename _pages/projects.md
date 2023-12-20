@@ -114,7 +114,7 @@ Reference libraries demonstrate the use of our specifications. They were origina
 
 ### CLI & Web Apps
 
-**Developer Resources:** [Developer Website](https://developer.blockchaincommons.com/)
+**Developer Resources:** [Developer Website](https://developer.blockchaincommons.com/)<br>
 **CLI Apps:** [Bytewords-CLI](https://github.com/BlockchainCommons/bc-bytewords-cli), [dCBOR-CLI](https://github.com/BlockchainCommons/bc-dcbor-cli), [Envelope-CLI-Rust](https://github.com/BlockchainCommons/bc-envelope-cli-rust), [Envelope-CLI-Swift](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool-CLI](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHash-CLI](https://github.com/BlockchainCommons/lifehash-cli), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool-CLI](https://github.com/BlockchainCommons/bc-seedtool-cli) <br>
 **iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
 **Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)

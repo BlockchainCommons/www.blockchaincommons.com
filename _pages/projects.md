@@ -157,7 +157,7 @@ Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It d
 
 Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/QuickConnect/README.md).
 
-<a href="/images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
+<a href="/images/projects/lethekit.jpg"><img src="/images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
 ### LetheKit (kit)
 
 **Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>

@@ -96,7 +96,9 @@ LifeHash is used by Blockchain Commons to create distinct and unique visual repr
 
 Collaborative Seed Recovery (CSR) is a system intended to improve the resilience of seeds and other digital assets by allowing them to be split up and those shares then stored on a variety of share servers. 
 
-SSKR is Sharded Secret Key Reconstruction (SSKR). It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key, to improve Resilience.
+SSKR is Sharded Secret Key Reconstruction (SSKR). It's used by Blockchain Commons' implementation of CSR. It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key.
+
+The future of CSR involves the usage of [FROST](https://developer.blockchaincommons.com/frost/) to support Verifiable Secret Sharing (VSS) and [Collaborative Key Management (CKM)](https://developer.blockchaincommons.com/ckm/). Also see the [FROST Round Table](https://www.blockchaincommons.com/projects/#frost-round-table).
 
 ### Research Papers
 
@@ -148,7 +150,8 @@ Collaborative Seed Recovery, or CSR, is currently Blockchain Commons' major proj
 
 Blockchain Commons's reference app for CSR is built on the [SSKR](https://developer.blockchainscommons.com) library and the [Depo Server](https://github.com/BlockchainCommons/bc-depo-rust), which uses the [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust) for communication. We expect other partners will use different servers for their share storage.
 
-<a href="images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+<a href="/images/projects/Cosigner.png"><img src="images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+
 ### Gordian Seed Tool (iOS)
 
 **Repo:** [Seed Tool](https://github.com/BlockchainCommons/GordianSeedTool-iOS)<br>
@@ -162,7 +165,7 @@ Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It d
 
 Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/QuickConnect/README.md).
 
-<a href="images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
+<a href="/images/projects/lethekit.jpg"><img src="images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
 ### LetheKit (kit)
 
 **Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
@@ -182,8 +185,6 @@ Several other reference apps have been released to demonstrate specific Principl
 ## Events
 
 _One of the prime goals of Blockchain Commons is to bring together different parties to educate and to create consensus on the future development of our technologies and specifications. This happens through events._
-
-<a href="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/siliconsalon.info/master/assets/silicon-salon-1/images/silicon-salon.jpg" border=1 width=300 align="right"></a>
 
 ### FROST Round Table
 

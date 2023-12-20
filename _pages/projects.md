@@ -135,10 +135,11 @@ Gordian Coordinator is a Multisig Bitcoin transaction coordinator for iOS. It de
 
 ### Gordian Depo (CSR)
 
-**Repo:** [Depo](https://github.com/BlockchainCommons/bc-depo-rust)
-**API:** [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust)
-**Intro:** [Architectural Overview](https://developer.blockchaincommons.com/csr/architecture/)
-**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)<br>
+**Repo:** [Depo](https://github.com/BlockchainCommons/bc-depo-rust)<br>
+**API:** [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust)<br>
+**Introduction:** [CSR Overview](https://developer.blockchaincommons.com/csr/)<br>
+**CSR Architecture:** [Architectural Overview](https://developer.blockchaincommons.com/csr/architecture/)<br>
+**Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)
 
 Collaborative Seed Recovery, or CSR, is currently Blockchain Commons' major project, being developed in coordination with a number of partners. It's a system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It manages this by sharding secrets and then storing shares on different servers. This is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
 

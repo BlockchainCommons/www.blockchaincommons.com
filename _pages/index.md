@@ -49,26 +49,15 @@ The following blog posts are among our most important:
 
 See the _[complete posts archive](https://www.blockchaincommons.com/posts/)._
 
-## Projects
+## Major Projects
 
-This video overviews many of our specifications and other initiatives:
+Current projects include:
 
-<p style="margin-left:50px">
-<iframe width="400" height="225" src="https://www.youtube.com/embed/RYgOFSdUqWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-The Blockchain Commons projects are built atop the [Gordian
-Architecture](https://www.blockchaincommons.com/projects.html#the-gordian-architecture),
-the [Gordian
-Specifications](https://www.blockchaincommons.com/projects.html#gordian-specifications),
-and our [Gordian Use
-Cases](https://www.blockchaincommons.com/projects.html#gordian-use-cases). They
-include [developer
-support](https://www.blockchaincommons.com/projects.html#gordian-developer-support)
-and [reference
-apps](https://www.blockchaincommons.com/projects.html#gordian-reference-apps), plus [events](https://www.blockchaincommons.com/projects.html#events), [educational projects](https://www.blockchaincommons.com/projects.html#events), [advocacy projects](https://www.blockchaincommons.com/projects.html#advocacy-projects), and [open infrastructure projects](https://www.blockchaincommons.com/projects.html#open-infrastructure-projects).
-
-_See the complete list of Blockchain Commons' [projects](/projects/)._
+* **Collaborative Seed Recovery.** [CSR](https://developer.blockchaincommons.com/csr/) was a major topic for our Gordian Developers community in 2023, and is now advancing with initial work on our [Depo server](https://github.com/BlockchainCommons/bc-depo-rust).
+* **dCBOR.** We worked with the IETF and CBOR communities throughout 2023 to advance [dCBOR](https://developer.blockchaincommons.com/dcbor/) and are now finalizing a [draft](https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/).
+* **FROST.** Our first [FROST Implementer's Round Table](https://developer.blockchaincommons.com/frost/meeting1/) was in late 2023, with more to come.
+  
+_See the complete list of Blockchain Commons' [projects](/projects/) and our [Technology Overview video](https://www.youtube.com/embed/RYgOFSdUqWY) for more._
 
 ## More Info
 

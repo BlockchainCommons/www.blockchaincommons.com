@@ -36,6 +36,7 @@ _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
 See the _[complete posts archive](https://www.blockchaincommons.com/posts/)._
 
+
 ## Top Articles
 
 The following blog posts are among our most important:

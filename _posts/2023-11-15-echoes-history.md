@@ -6,6 +6,7 @@ categories:
 tags:
   - Advocacy
   - Self-Sovereign Identity
+  - Foremembrance
 classes:
   - wide
 author: Christopher Allen

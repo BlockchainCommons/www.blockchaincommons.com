@@ -7,6 +7,7 @@ tags:
   - Advocacy
   - Foremembrance
   - Self-Sovereign Identity
+  - Top Articles
 classes:
   - wide
 header:

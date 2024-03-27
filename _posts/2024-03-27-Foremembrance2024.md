@@ -14,7 +14,7 @@ header:
   og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg
 ---
 
-For Foremembrance Day 2024, Christopher Allen gave a Twitter Livestream discussing the tragedy of overidentification in The Netherlands in WWII, how France offered a different path, and how we must continue to wary about what identity information we collect and distribute today.
+For Foremembrance Day 2024, Christopher Allen gave a Twitter Livestream discussing the tragedy of overidentification in The Netherlands in WWII, how France offered a different path, and how we must continue to be wary about what identity information we collect and distribute today.
 
 {% include video id="R9KuIlAg4wg" provider="youtube" %}
 

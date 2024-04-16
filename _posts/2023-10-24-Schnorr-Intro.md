@@ -16,9 +16,9 @@ classes:
 categories:
   - Musings
 tags:
+  - FROST
   - Schnorr
   - Signatures
-  - Top Articles
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

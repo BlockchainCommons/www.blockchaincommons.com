@@ -129,6 +129,17 @@ from systems like the Linux kernel here:
 and reducing agility around minute 3 and 16, though the entire
 presentation (from 2016) is well worth the time.
 
+## Related Links
+
+- Thread: [[COSE] Consensus on cryptographic agility in modern COSE & JOSE](https://mailarchive.ietf.org/arch/msg/cose/wk2GnQp53zCefRDllDEbSX_LCUI/)
+- Thread: [Re: Excessive Optionality in Cryptography Anti-Pattern (was: Re: JSONWebSignature2020 vs JcsEd25519Signature2022) from Manu Sporny on 2023-03-09 (public-credentials@w3.org from March 2023)](https://lists.w3.org/Archives/Public/public-credentials/2023Mar/0043.html)
+- Thread [Re: [COSE] [Cbor] Gordian Envelope and Crypto-Agility for its Hash](https://mailarchive.ietf.org/arch/msg/cose/4HkrEz2io72eGHss5tFI-wyiQ-E/)
+- [Hypothesis #1 -- The One True Cipher Suite](https://iang.org/ssl/h1_the_one_true_cipher_suite.html)
+- [Pareto-Secure](https://iang.org/papers/pareto-secure.html)
+
+## Updates
+
+- **5/8/24.** Added list of related links.
 
 ## References
 

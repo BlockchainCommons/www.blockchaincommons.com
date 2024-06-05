@@ -15,10 +15,14 @@ sidebar:
   nav: subpages
 ---
 
+Thank you to [the HRF](https://hrf.org/hrf-bitcoin-development-fund-grants-1-billion-satoshis-to-14-projects-worldwide/) for a Bitcoin Development grant for our support of FROST. We will be holding [FROST events](https://developer.blockchaincommons.com/frost/#upcoming-events) on September 18 & December 4 for implementers and developers. Sign up to [our announcements lists](https://www.blockchaincommons.com/subscribe/) to be sure you're notified. (6/5/24)
+{: .notice--info}
+
 _Advocating for the creation of open, interoperable, secure &
 compassionate digital infrastructure to enable people to control their
 own digital destiny and to maintain their human dignity online_
-{: .notice--info}
+
+<hr>
 
 Blockchain Commons works with developer communities to design, build, and maintain secure & compassionate decentralized architectures & tools for digital assets & digital identity based on responsible key management; based on our [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness; and based on our [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md). Our goal is to reclaim human dignity & authority in the digital world. We also strive to educate & grow the blockchain community through online courses and our work with legislators and regulators.
 

@@ -15,7 +15,7 @@ sidebar:
   nav: subpages
 ---
 
-Thank you to [the HRF](https://hrf.org/hrf-bitcoin-development-fund-grants-1-billion-satoshis-to-14-projects-worldwide/) for a Bitcoin Development grant for our support of FROST. We will be holding [FROST events](https://developer.blockchaincommons.com/frost/#upcoming-events) on September 18 & December 4 for implementers and developers. Sign up to [our announcements lists](https://www.blockchaincommons.com/subscribe/) to be sure you're notified. (6/5/24)
+Thank you to [the HRF](https://hrf.org/hrf-bitcoin-development-fund-grants-1-billion-satoshis-to-14-projects-worldwide/) for a Bitcoin Development grant for our [continued support of FROST](https://developer.blockchaincommons.com/frost/). We will be holding [FROST events](https://developer.blockchaincommons.com/frost/#upcoming-events) on September 18 & December 4 for library implementers, cryptographers, and wallet developers. Sign up to [our announcements lists](https://www.blockchaincommons.com/subscribe/) to be sure you're notified. (6/5/24)
 {: .notice--info}
 
 _Advocating for the creation of open, interoperable, secure &

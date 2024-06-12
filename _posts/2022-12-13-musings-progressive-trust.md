@@ -15,6 +15,7 @@ categories:
   - Musings
 tags:
   - Trust
+  - Progressive Trust
 classes:
   - wide
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
@@ -69,3 +70,17 @@ Progressive trust offers an important new alternative to traditional and zero-tr
 [^2]: MATTR (2021) **Trust Frameworks** _MATTR Inc._ (website) Available at: <https://learn.mattr.global/docs/concepts/trust-frameworks> [Accessed 8 December 2022]
 
 [^3]: Johnson, Anna (2022) **Trinsic Basics: What Is a Trust Registry?** _Trinsic Inc._ (website). Available at <https://trinsic.id/trinsic-basics-what-is-a-trust-registry/> [Accessed 8 December 2022]
+
+* * *
+
+> _**Some other posts on the topic of Progressive Trust:**_
+>
+> <ul>
+> {% for post in site.tags["Progressive Trust"] %}
+>  {% if post.url %}
+>    {% unless post.url == page.url %}
+> <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
+>    {% endunless %}
+>  {% endif %}
+>{% endfor %}
+> </ul>

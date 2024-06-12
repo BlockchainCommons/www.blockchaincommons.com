@@ -17,6 +17,7 @@ categories:
   - Musings
 tags:
   - Trust
+  - Progressive Trust
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
@@ -118,3 +119,17 @@ There are also adjacent technologies that may allow the leverage of cryptography
 * **Secret Sharing:** This technique allows a secret to be divided into specific number of shares, sent to parties from whom a specific number of shares are required (a quorum) to reconstruct the secret. This can be used as an escrow for a Selective Disclosure. A disadvantage is that restoring original secret requires one party to be entrusted to restore the quorum.
 * **Secure Multi-Party Computation (MPC):** This technique allows multiple parties to jointly compute a function without revealing their inputs to each other. This is another method of escrow, one that solves the problems inherent to secret sharing, but at the cost of multiple rounds of interaction between the parties, and computational complexity.
 * **Homomorphic Encryption:** This technique allows computations to be performed on ciphertext, resulting in the same plaintext output as if the computation was performed on the plaintext. As a result, computations can be performed on encrypted data without decrypting it first or revealing the actual data. However, these techniques are extremely computationally expensive (by multiple orders of magnitude).
+
+* * *
+
+> _**Some other posts on the topic of Progressive Trust:**_
+>
+> <ul>
+> {% for post in site.tags["Progressive Trust"] %}
+>  {% if post.url %}
+>    {% unless post.url == page.url %}
+> <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
+>    {% endunless %}
+>  {% endif %}
+>{% endfor %}
+> </ul>

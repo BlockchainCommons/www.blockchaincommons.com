@@ -34,7 +34,7 @@ However, they're not the full story.
 
 ### MVP Biases
 
-<img src="https://www.blockchaincommons.com/images/Survivorship.png" width=300 style="float:right">
+<img src="https://www.blockchaincommons.com/images/Survivorship.png" width=350 style="float:right">
 
 Unfortunately, current literature about Minimum Viable Products suffers from [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias). We hear about the success of companies that used MVPs, but we don't know that their doing so actually led to success. In fact, the successes that we see might just be a false signal.
 
@@ -80,7 +80,7 @@ However, our more notable work in creating an MVA came from our inclusion of cip
 
 ### The Gordian System
 
-<img src="https://www.blockchaincommons.com/images/projects/gordian-logo-white.png" width=300 style="float: right">
+<img src="https://www.blockchaincommons.com/images/projects/gordian-logo-white.png" width=350 style="float: right">
 
 One of my most recent endeavors is Blockchain Commons' Gordian system[^10], which is a layered architecture for protecting digital assets and identity that has seen early successes with the protection of seeds with systems like SSKR[^sskr] and CSR[^csr] and that focuses on the Gordian Principles of independence, resilience, privacy, and openness.
 
@@ -90,7 +90,9 @@ In order to create an MVA that future-proofs the Gordian products, the Gordian a
 
 At the large-scale application level, the Gordian system achieves interoperability by the careful architecting of both discrete applications and the ways that they can interact. Airgaps are a traditional methodology for introducing security into a digital asset system[^11], but the Gordian system has expanded that to include Torgaps[^12], which is a way for making transactions between connected applications both secure and non-correlatable. This modular approach is one way to enable future-proofing, and it's only strengthed by systems such as airgaps and torgaps that tightly constrain communications between the modules.
 
-![](https://developer.blockchaincommons.com/assets/images/appmap-black.png)
+<center>
+  <img src="https://developer.blockchaincommons.com/assets/images/appmap-black.png">
+</center>
 
 At the small-scall programmatic level, the Gordian system introduces a layered stack of specifications that together enable the private and secure transmission of sensitive data. This stack includes dCBOR[^dcbor], Bytewords[^bytewords], URs[^urs], Animated QRs[^aqrs], Envelope[^envelope], Gordian Transport Protocol[^gtp], and Gordian Sealed Transaction Protocol[^gstp]. Together these specifications allow for the deterministic storage of binary data (dCBOR), the alphabetic representation of binary data (Bytewords), the tagged display of that representation with functionality to support multipart data (URs), the QR display of multipart data (animated QRs), the structured & smart storage of content (Envelope), the communication of Envelopes (GTP), and the secure communication of Envelopes (GSTP). But we didn't know what all the layers would be when we got started: this is another example of future-proofing, and one that easily arises from carefully layered specifications.
 

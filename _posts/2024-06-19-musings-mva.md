@@ -93,7 +93,7 @@ At the large-scale application level, the Gordian system achieves interoperabili
 <center>
   <img src="https://developer.blockchaincommons.com/assets/images/appmap-black.png">
 </center>
-<br><br>
+<br>
 
 At the small-scall programmatic level, the Gordian system introduces a layered stack of specifications that together enable the private and secure transmission of sensitive data. This stack includes dCBOR[^dcbor], Bytewords[^bytewords], URs[^urs], Animated QRs[^aqrs], Envelope[^envelope], Gordian Transport Protocol[^gtp], and Gordian Sealed Transaction Protocol[^gstp]. Together these specifications allow for the deterministic storage of binary data (dCBOR), the alphabetic representation of binary data (Bytewords), the tagged display of that representation with functionality to support multipart data (URs), the QR display of multipart data (animated QRs), the structured & smart storage of content (Envelope), the communication of Envelopes (GTP), and the secure communication of Envelopes (GSTP). But we didn't know what all the layers would be when we got started: this is another example of future-proofing, and one that easily arises from carefully layered specifications.
 

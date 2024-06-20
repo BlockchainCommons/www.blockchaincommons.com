@@ -14,9 +14,9 @@ excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - Gordian Architecture
+  - Musings
 tags:
-  - Trust
+  - Gordian Architecture
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

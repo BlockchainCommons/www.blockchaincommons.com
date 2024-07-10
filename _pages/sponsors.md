@@ -50,6 +50,10 @@ Sustaining patrons have made an ongoing commitment of funds for the support of B
 
 **[Foundation](https://foundationdevices.com/)** is the creator of Passport, a next-gen hardware wallet that makes it easier than ever to securely store your Bitcoin. They believe that Bitcoin and decentralized technologies will empower the individual, leading to a better world where people control their own data and their own money. Foundation is building a new category of sovereign computing devices.
 
+<img src="/images/sponsors/hrf-white.png" width=500>
+
+The **[Human Rights Foundation (HRF)](https://hrf.org/)** is a nonpartisan, nonprofit organization that promotes and protects human rights globally, with a focus on closed societies. What differentiates HRF from other human rights organizations is their singular focus on authoritarian regimes. They consider their mission essential given that today more than 4 billion people live under tyranny. That’s 54% of the world’s population in 95 countries from Cuba to Russia to Saudi Arabia to North Korea.
+
 <img src="/images/sponsors/unchained-capital-black.png" width=500>
 
 **[Unchained Capital](https://www.unchained-capital.com/)** is a new kind of financial services company. They are the first collaborative asset management firm that offers loans and vaults for your Bitcoin. It was founded by people who believe that cryptocurrencies have the potential to change the world but only if they're useful. They set out to build financial products for long-term crypto-investors to get more value from their assets today and in the future.

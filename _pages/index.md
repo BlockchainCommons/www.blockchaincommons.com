@@ -85,6 +85,7 @@ Thank you to the following companies who have become [sustaining sponsors](spons
   <a href="https://www.crossbar-inc.com/"><img src="/images/sponsors/crossbar-black.png"></a>
   <a href="https://contract.design/"><img src="/images/sponsors/dcd-logo.png"></a>
   <a href="https://foundationdevices.com/"><img src="/images/sponsors/foundation-logo-black.png"></a>
+  <a href="https://hrf.org/"><img src="/images/sponsors/hrf-white.png"></a>
   <a href="https://unchained-capital.com/"><img src="/images/sponsors/unchained-capital-black.png"></a>
 </figure>
 

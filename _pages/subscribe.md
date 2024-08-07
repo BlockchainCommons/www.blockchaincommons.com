@@ -24,6 +24,8 @@ Please join us for topics that interest you!
 
 ## Gordian Developers
 
+Blockchain Commons holds a monthly Gordian Developer Meeting, usually on the first Wednesday of the month, typically at the Europe-friendly time of 10am PT. This meeting is for wallet developers and engineers working on specs for wallet developers to exchange their newest advances and to ask their newest questions. _Please join us!_
+
 If you'd like to become a member of the Gordian Developer community, and receive announcements about upcoming meetings and the release of new resources, you can do so by  joining us on Signal, participating in our Discussions forums, or subscribing to our low-volume Gordian Developers announcement list.
 
 You can find our Signal group at:

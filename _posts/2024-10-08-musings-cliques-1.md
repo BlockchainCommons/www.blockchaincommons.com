@@ -69,11 +69,15 @@ Consider the process of a child's identity formation. They may be named "Joshua"
   <img src="/images/cliques/cliques-1a.png" width="60%" height="60%">
 </center>
 
+<br>
+
 Though unidirectional descriptors are useful to help identify someone, each link is actually bidirectional, creating an edge between two individual nodes of identity:
 
 <center>
   <img src="/images/cliques/cliques-1b.png" width="60%" height="60%">
 </center>
+
+<br>
 
 At this point we must ask: does the node really define identity or is it the edges? The most complete answer is probably that an identity is defined by an _aggregation_ of edges sufficient to identify within the current graph context: "Joshua, who is filially linked with Mary, who is filially linked with Anna."
 
@@ -86,6 +90,8 @@ To create a relational edge key, the two identities (nodes) connected by an edge
 <center>
   <img src="/images/cliques/cliques-2.png" width="60%" height="60%">
 </center>
+
+<br>
 
 Leveraging the Multi-Party Computation (MPC) of MuSig2 or FROST allows for the creation of a private key that doesn't exist on a single device. It exists only in a distributed cryptographic construct, colloquially called a "fog". Through unanimous consent, users can use this "fog" to sign collectively, allowing (even requiring) joint agreement for joint actions.
 
@@ -102,6 +108,8 @@ In our example, there is an obvious triadic clique: the nuclear family of Mary, 
 <center>
   <img src="/images/cliques/cliques-3.png" width="40%" height="40%">
 </center>
+
+<br>
 
 Remember that the term "nuclear family" comes from the word "nucleus".That's a great metaphor for a tight, strongly connected group [of this type](https://www.lifewithalacrity.com/article/dyads-triads-the-smallest-teams/). A triadic clique fosters strong social cohesion and supports a  robust, tightly-knit network. 
 
@@ -123,6 +131,8 @@ At a higher-level, we can also use this paradigm to form a clique of cliques, wh
   <img src="/images/cliques/cliques-3a.png" width="60%" height="60%">
 </center>
 
+<br>
+
 There is one clique-based design where the Relationship Signature Paradigm can't be used: fuzzy cliques, which is another variation of clique identity. But more on that in the next article.
 
 ## Higher Order Graphs
@@ -134,6 +144,8 @@ A "4-Clique" (or K4), for example, is a complete graph comprising 4 nodes, where
 <center>
   <img src="/images/cliques/cliques-4.png" width="40%" height="40%">
 </center>
+<br>
+
 
 This pattern continues with larger cliques: 
 * K5 = `(5*4)/2 = 10` edges; 

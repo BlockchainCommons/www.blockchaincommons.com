@@ -64,13 +64,13 @@ Living systems theory suggests that identity isn't just about oneself, but about
 Consider the process of a child's identity formation. They may be named "Joshua" upon birth, suggesting a unique, nodal form of identity. But, there are many Joshuas in the world. To truly define the child's identity requires [linked local names](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/linked-local-names.md) (or [pet names](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/petnames.md)) that define relationships. The father and mother say "my child", attesting to the relationship between each of them and the child. A sibling says, "My brother's child" and a grandparent says "my grandchild". 
 
 <center>
-  <img src="/images/cliques/cliques-1a.png" width="50%" height="50%">
+  <img src="/images/cliques/cliques-1a.png" width="60%" height="60%">
 </center>
 
 Though unidirectional descriptors are useful to help identify someone, each link is actually bidirectional, creating an edge between two individual nodes of identity:
 
 <center>
-  <img src="/images/cliques/cliques-1b.png" width="50%" height="50%">
+  <img src="/images/cliques/cliques-1b.png" width="60%" height="60%">
 </center>
 
 At this point we must ask: does the node really define identity or is it the edges? The most complete answer is probably that an identity is defined by an _aggregation_ of edges sufficient to identify within the current graph context: "Joshua, who is filially linked with Mary, who is filially linked with Anna."
@@ -81,7 +81,9 @@ We can model the interconnectedness of edge-based relationships in an identity s
 
 To create a relational edge key, the two identities (nodes) connected by an edge each generate a private commitment. These commitments are combined in a cryptographic ceremony to form the edge's private key. The associated public key then effectively becomes an identifier for this two-person group, indiscernible from a single user's public key thanks to Schnorr.
 
-![cliques-2](/images/cliques/cliques-2.png)
+<center>
+  <img src="/images/cliques/cliques-2.png" width="60%" height="60%">
+</center>
 
 Leveraging the Multi-Party Computation (MPC) of MuSig2 or FROST allows for the creation of a private key that doesn't exist on a single device. It exists only in a distributed cryptographic construct, colloquially called a "fog". Through unanimous consent, users can use this "fog" to sign collectively, allowing (even requiring) joint agreement for joint actions.
 
@@ -95,7 +97,9 @@ A clique in graph theory is "a fully connected subgraph where every node is adja
 
 In our example, there is an obvious triadic clique: the nuclear family of Mary, Bob, and Joshua.
 
-![cliques-3](/images/cliques/cliques-3.png)
+<center>
+  <img src="/images/cliques/cliques-3.png" width="60%" height="60%">
+</center>
 
 Remember that the term "nuclear family" comes from the word "nucleus".That's a great metaphor for a tight, strongly connected group [of this type](https://www.lifewithalacrity.com/article/dyads-triads-the-smallest-teams/). A triadic clique fosters strong social cohesion and supports a  robust, tightly-knit network. 
 
@@ -113,7 +117,9 @@ Individually, we might use the Relationship Signature Paradigm to create an indi
 
 At a higher-level, we can also use this paradigm to form a clique of cliques, where each member is not a participant or even an edge, but instead a clique itself! Because we already recognized cliques as being formed by relational groups when we defined a first-order clique as a collection of edges, we can similarly define a clique as a collection of cliques (or even a collection of edges and cliques), creating a fully recursive paradigm for identity.
 
-![cliques-3a](/images/cliques/cliques-3a.png)
+<center>
+  <img src="/images/cliques/cliques-3a.png" width="60%" height="60%">
+</center>
 
 There is one clique-based design where the Relationship Signature Paradigm can't be used: fuzzy cliques, which is another variation of clique identity. But more on that in the next article.
 
@@ -123,7 +129,9 @@ There is no reason to limit cryptographic cliques to three edges. However, the 
 
 A "4-Clique" (or K4), for example, is a complete graph comprising 4 nodes, where each node is interconnected with every other node, resulting in a total of `(4*3)/2 = 6` edges. 
 
-![cliques-4](/images/cliques/cliques-4.png)
+<center>
+  <img src="/images/cliques/cliques-4.png" width="60%" height="60%">
+</center>
 
 This pattern continues with larger cliques: 
 * K5 = `(5*4)/2 = 10` edges; 

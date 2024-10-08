@@ -34,7 +34,9 @@ Identity management has long  centered on the use of single-signature cryptograp
   <img src="/images/cliques/cliques-0.png">
 </center>
 
-<p>The security of this model hinges on the confidentiality of the private key: a compromise  of the key means a compromise of security. To reduce this threat, standards often require private keys be stored in specialized hardware, providing a fortified environment. This model is the cornerstone of security strategies endorsed and required by entities such as the National Institute of Standards and Technology (NIST), European Union government standards, and various international standards groups such as the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C).
+<br>
+
+The security of this model hinges on the confidentiality of the private key: a compromise  of the key means a compromise of security. To reduce this threat, standards often require private keys be stored in specialized hardware, providing a fortified environment. This model is the cornerstone of security strategies endorsed and required by entities such as the National Institute of Standards and Technology (NIST), European Union government standards, and various international standards groups such as the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C).
 
 There has been very limited success in strengthening this fundamental methodology through protocols such as key rotation. Meanwhile, the Single Signature Paradigm has many flaws, the most serious of which are Single Point of Compromise (where a key can be stolen) or Single Point of Failure (where a key can be lost). If anything, these problems are worsening, as demonstrated by recent side-channel attacks that can extract keys from older hardware. Other issues include scalability limitations, hardware dependency, operational inflexibility, and numerous legal, compliance, and regulatory issues.
 
@@ -82,7 +84,7 @@ We can model the interconnectedness of edge-based relationships in an identity s
 To create a relational edge key, the two identities (nodes) connected by an edge each generate a private commitment. These commitments are combined in a cryptographic ceremony to form the edge's private key. The associated public key then effectively becomes an identifier for this two-person group, indiscernible from a single user's public key thanks to Schnorr.
 
 <center>
-  <img src="/images/cliques/cliques-2.png" width="40%" height="40%">
+  <img src="/images/cliques/cliques-2.png" width="60%" height="60%">
 </center>
 
 Leveraging the Multi-Party Computation (MPC) of MuSig2 or FROST allows for the creation of a private key that doesn't exist on a single device. It exists only in a distributed cryptographic construct, colloquially called a "fog". Through unanimous consent, users can use this "fog" to sign collectively, allowing (even requiring) joint agreement for joint actions.
@@ -98,7 +100,7 @@ A clique in graph theory is "a fully connected subgraph where every node is adja
 In our example, there is an obvious triadic clique: the nuclear family of Mary, Bob, and Joshua.
 
 <center>
-  <img src="/images/cliques/cliques-3.png" width="60%" height="60%">
+  <img src="/images/cliques/cliques-3.png" width="40%" height="40%">
 </center>
 
 Remember that the term "nuclear family" comes from the word "nucleus".That's a great metaphor for a tight, strongly connected group [of this type](https://www.lifewithalacrity.com/article/dyads-triads-the-smallest-teams/). A triadic clique fosters strong social cohesion and supports a  robust, tightly-knit network. 
@@ -118,7 +120,7 @@ Individually, we might use the Relationship Signature Paradigm to create an indi
 At a higher-level, we can also use this paradigm to form a clique of cliques, where each member is not a participant or even an edge, but instead a clique itself! Because we already recognized cliques as being formed by relational groups when we defined a first-order clique as a collection of edges, we can similarly define a clique as a collection of cliques (or even a collection of edges and cliques), creating a fully recursive paradigm for identity.
 
 <center>
-  <img src="/images/cliques/cliques-3a.png" width="40%" height="40%">
+  <img src="/images/cliques/cliques-3a.png" width="60%" height="60%">
 </center>
 
 There is one clique-based design where the Relationship Signature Paradigm can't be used: fuzzy cliques, which is another variation of clique identity. But more on that in the next article.
@@ -130,7 +132,7 @@ There is no reason to limit cryptographic cliques to three edges. However, the 
 A "4-Clique" (or K4), for example, is a complete graph comprising 4 nodes, where each node is interconnected with every other node, resulting in a total of `(4*3)/2 = 6` edges. 
 
 <center>
-  <img src="/images/cliques/cliques-4.png" width="60%" height="60%">
+  <img src="/images/cliques/cliques-4.png" width="40%" height="40%">
 </center>
 
 This pattern continues with larger cliques: 

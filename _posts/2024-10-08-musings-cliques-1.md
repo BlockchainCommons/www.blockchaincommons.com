@@ -30,7 +30,9 @@ _We now stand at another crossroads in digital identity. The current paradigm, w
 
 Identity management has long  centered on the use of single-signature cryptographic keys. Operating on a straightforward principle, this "Single Signature Paradigm" requires the possession of a unique private key for cryptographic signatures, allowing actions such as authentication, data encryption, and transaction validation. 
 
-![cliques-0](/images/cliques/cliques-0.png)
+<center>
+  <img src="/images/cliques/cliques-0.png">
+</center>
 
 The security of this model hinges on the confidentiality of the private key: a compromise  of the key means a compromise of security. To reduce this threat, standards often require private keys be stored in specialized hardware, providing a fortified environment. This model is the cornerstone of security strategies endorsed and required by entities such as the National Institute of Standards and Technology (NIST), European Union government standards, and various international standards groups such as the Internet Engineering Task Force (IETF) and the World Wide Web Consortium (W3C).
 
@@ -61,11 +63,15 @@ Living systems theory suggests that identity isn't just about oneself, but about
 
 Consider the process of a child's identity formation. They may be named "Joshua" upon birth, suggesting a unique, nodal form of identity. But, there are many Joshuas in the world. To truly define the child's identity requires [linked local names](https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/linked-local-names.md) (or [pet names](https://github.com/WebOfTrustInfo/rwot6-santabarbara/blob/master/topics-and-advance-readings/petnames.md)) that define relationships. The father and mother say "my child", attesting to the relationship between each of them and the child. A sibling says, "My brother's child" and a grandparent says "my grandchild". 
 
-![cliques-1a](/images/cliques/cliques-1a.png)
+<center>
+  <img src="/images/cliques/cliques-1a.png" width="50%" height="50%">
+</center>
 
 Though unidirectional descriptors are useful to help identify someone, each link is actually bidirectional, creating an edge between two individual nodes of identity:
 
-![cliques-1b](/images/cliques/cliques-1b.png)
+<center>
+  <img src="/images/cliques/cliques-1b.png" width="50%" height="50%">
+</center>
 
 At this point we must ask: does the node really define identity or is it the edges? The most complete answer is probably that an identity is defined by an _aggregation_ of edges sufficient to identify within the current graph context: "Joshua, who is filially linked with Mary, who is filially linked with Anna."
 

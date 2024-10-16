@@ -84,7 +84,7 @@ At this point we must ask: does the node really define identity or is it the edg
 
 ## Relational Edge Keys
 
-We can model the interconnectedness of edge-based relationships in an identity system by using [Schnorr-based](https://www.blockchaincommons.com/musings/Schnorr-Intro/) aggregated multisig systems that support Multi-Party Computing (MPC), such as MuSig2 or FROST (see the Appendix in the next article for more on the technology and the differences between the two systems). Schnorr-based systems are an excellent match for edge identity because their peer-based key construction technique matches the peer-based model of an identity graph: two users come together to create a joint private key.
+We can model the interconnectedness of edge-based relationships in an identity system by using [Schnorr-based](https://www.blockchaincommons.com/musings/Schnorr-Intro/) aggregatable multisig systems that support Multi-Party Computing (MPC), such as MuSig2 or FROST (see the Appendix in the next article for more on the technology and the differences between the two systems). Schnorr-based systems are an excellent match for edge identity because their peer-based key construction technique matches the peer-based model of an identity graph: two users come together to create a joint private key.
 
 To create a relational edge key, the two identities (nodes) connected by an edge each generate a private commitment. These commitments are combined in a cryptographic ceremony to form the edge's private key. The associated public key then effectively becomes an identifier for this two-person group, indiscernible from a single user's public key thanks to Schnorr.
 
@@ -169,11 +169,11 @@ Other advantages of using clique-based keys and identities include:
 1. **Identity Validation**. Peer-based identifiers help to authenticate social identities, creating trust.
 1. **Resilience Against Single Points of Failure**: Distributing control among multiple parties in a clique guards against single points of failure.
 1. **Secure Group Decision Making**. Relations or groups can securely and irrevocably made decisions together.
-1. **Enhanced Privacy in Group Interactions**. Aggregated Schnorr-based signatures keep the identities of the members of a relationship or a clique private.
+1. **Enhanced Privacy in Group Interactions**. Aggregatable Schnorr-based signatures keep the identities of the members of a relationship or a clique private.
 
 Cliques can be quite useful for a number of specific fields:
 
-1. **Blockchains**. The use of aggregated signatures creates smaller transactions on blockchains. 
+1. **Blockchains**. The use of aggregatable signatures creates smaller transactions on blockchains. 
 1. **Collaborative Projects**. Collaborative projects and joint ventures can use clique keys to authenticate shared resource usage and other decisions.
 1. **Financial Fields.** Dual-key control is often required in financial fields, and that's an implicit element of relational edge keys. 
 1. **Internet of Things (IoT) & Other Smart Networks.** Relational edge keys can ensure secure and efficient communication among diverse devices that have paired together.

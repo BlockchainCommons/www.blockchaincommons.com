@@ -1,14 +1,24 @@
 ---
+header:
+  overlay_color: "#00f"
+  overlay_filter: "0.35"
+  overlay_image: /images/blueprints.jpg
+  og_image: /images/musings-card.jpg
+  actions:
+    - label: "See All Musings"
+      url: /musings.html
 tagline: "Does the fault lie not in SSI, but in ourselves?"
 title: "Musings of a Trust Architect: Has our SSI Ecosystem Become Morally Bankrupt?"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
   - Musings
 tags:
-  - Identity
   - Self-Sovereign Identity
+  - Identity
+image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
 _This topic was presented at IIWXXXIX Fall 2024 on October 29, 2024._

@@ -1,0 +1,21 @@
+sequenceDiagram
+    actor First Party
+    participant Validator
+    actor Second Party
+    First Party->Second Party: 0. Context [⁉️]
+    First Party->Second Party: 1. Introduction [🗒️]
+    Second Party->>Validator: 2. Wholeness [🗒️]
+    Validator->>Second Party: [☑️]
+    Second Party->>Validator: 3. Proofs [🗒️]
+    Validator->>Second Party: [☑️]
+    Second Party->>Validator: 4. References [🗒️]
+    Validator->>Second Party: [📚]
+    Second Party->>Community: 5. Requirements : [🗒️📚]
+    Community->>Second Party: [☑️]
+    Second Party->>Second Party: 6. Approval [☑️]
+    Second Party-->>Approver: 7. Agreement
+    Approver-->>Second Party: [☑️]
+    First Party->Second Party: 8. Fulfillment [📕]
+    Community-->>Inspector: 9. Escalation [📕]
+    Inspector-->>Community: [☑️]
+    Second Party-->>Community: 10. Dispute [📖]

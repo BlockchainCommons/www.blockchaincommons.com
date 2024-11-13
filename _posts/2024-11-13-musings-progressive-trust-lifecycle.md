@@ -122,6 +122,8 @@ _This phase safeguards both parties, providing a structured way to resolve disag
 
 ![progressivetrust](https://www.blockchaincommons.com/assets/mermaid/progressivetrust.png)
 
+_Interactions are actually mirrored by both parties, but this diagram simplifies things in most places by focusing on party two._
+
 ## Beyond Binary Trust: How Progressive Trust Can Transform the Internet
 
 Progressive Trust offers a way to **return agency to individuals** in a world increasingly dominated by centralized systems. Instead of clicking “OK” on trust agreements handed down by big corporations, users regain control over who they trust and to what degree, over time. Imagine a digital ecosystem where browsers, websites, or social media platforms gradually allowed users to choose what information they revealed and what they kept private, based on their own evolving trust models.

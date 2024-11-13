@@ -115,7 +115,7 @@ If issues arise, the final, optional phase of **Dispute** involves resolving con
 
 > *Example:* If a cabinet installed by Carla collapses, Hank may initiate a dispute to assess liability. An independent arbitrator reviews the contract, Carla’s compliance with installation standards, and any relevant inspection reports, ultimately deciding if Carla is responsible for repairs or damages.
 
-_This phase safeguards both parties, providing a structured way to resolve disagreements that may impact future interactions or reputations._
+This phase safeguards both parties, providing a structured way to resolve disagreements that may impact future interactions or reputations.
 
 
 ## The Progressive Trust Life Cycle

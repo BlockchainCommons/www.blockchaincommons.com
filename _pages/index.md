@@ -15,7 +15,7 @@ sidebar:
   nav: subpages
 ---
 
-Two more Gordian Meetings planned for this year! November 7th (10am PT) will be focused on the latest Gordian advances. December 4th (10am PT) will then be our big FROST Developer's Meeting where we'll have presentations on how to implement FROST in your hardware wallet! Be sure to sign up for our [Gordian Developers](https://www.blockchaincommons.com/subscribe/) announcements-only mailing list and/or Signal channel to receive the invites for these meetings. (10/15/24) Our newest technological advancement is [cliques](https://www.blockchaincommons.com/musings/musings-cliques-1/)! (10/8/24)
+Our next Gordian Meetings will be November 7th (10am PT) and will be focused on FROST. We'll have presentations on how to implement FROST in your hardware wallets! Be sure to sign up for our [Gordian Developers](https://www.blockchaincommons.com/subscribe/) announcements-only mailing list and/or Signal channel to receive the invites for these meetings. (10/15/24) Our newest technological advancement is [cliques](https://www.blockchaincommons.com/musings/musings-cliques-1/)! (10/8/24)
 {: .notice--info}
 
 _Advocating for the creation of open, interoperable, secure &

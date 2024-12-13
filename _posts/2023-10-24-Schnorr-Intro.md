@@ -42,12 +42,14 @@ Digital signatures function similarly to a seal of authenticity on a physical do
 
 Claus-Peter Schnorr introduced Schnorr signatures in the early 1990s. They were not the first digital signature, but they had a strong mathematical foundation: they were provably secure under specific assumptions. They were invented later that other systems like RSA, but they provided a number of new benefits including:
 
-* **Compactness** — Schnorr signatures are small, even when there are multiple signers.
-* **Signature Aggregation** — Multiple signatures can be aggregated together and look exactly like a single signature.
-* **Faster Verification** — Because of their small size (and the fact that aggregating multisigs doesn't increase that size), Schnorr signatures can be verified quickly.
-* **Threshold Signatures** — Multisignatures requiring a certain quorum of participants are possible.
-* **Blind Signatures** — Signatures can be made while hiding the content.
-* **Adapter Signatures** — Signatures can be hidden by other values.
+- **Mathematical Simplicity** — Schnorr signatures rely on straightforward mathematical principles, making them easier to implement correctly and reducing the risk of mistakes compared to alternatives like ECDSA.
+- **Linearity** — Schnorr signatures follow predictable math rules: you can add signatures together, and their public keys add up in the same way. These rules also ensure that multiplying a signature or key by a number behaves consistently, enabling powerful and flexible cryptographic tools.
+- **Signature and Key Aggregation** — Linearity allows multiple signatures to be combined into one compact signature, and multiple public keys into a single aggregated key. This simplifies transactions, saves space, and improves scalability.
+- **Compact and Scalable** — Schnorr signatures are small and efficient, reducing storage and bandwidth requirements. With aggregation, they help blockchains handle more transactions per block.
+- **Adapter and Threshold Signatures** — Schnorr’s linearity enables signatures to be modified in reversible ways, such as by adding or subtracting a secret value. This supports advanced tools like adapter signatures (used in atomic swaps) and threshold signatures, where only some participants need to sign.
+- **Privacy Enhancements** — Aggregated signatures make transactions with multiple signers indistinguishable from those with a single signer, enhancing privacy in multi-signature setups.
+- **Blind Signatures** — Schnorr supports signing a message without revealing its content to the signer. This enables privacy-preserving technologies like anonymous credentials, Chaumian eCash, and secure voting systems.
+- **Efficient and Batch Verification** — Schnorr signatures are fast to verify, especially when multiple signatures are checked at once. This reduces computational costs for transactions.
 
 ## Beyond the Fields We Know
 
@@ -171,3 +173,5 @@ Schnorr is an incredibly powerful toolbox. Techniques such as signature aggregat
 Now that MuSig and FROST are increasingly mature, these many dynamics and use cases, which have been waiting in the wings for more than 20 years, can finally be a reality.
 
 I believe that it's truly a cryptographic revolution, as important as many of the ones that have come before.
+
+(UPDATED: 2024-12-13)

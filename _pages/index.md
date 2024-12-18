@@ -29,9 +29,7 @@ Blockchain Commons is proudly a “not-for-profit” social benefit corporation,
 
 _Read more about Blockchain Commons' [vision & objectives](vision.md)._
 
-## News
-
-<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+## News <a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
 
 <ul>
 {% for post in site.posts limit: 7 %}

@@ -22,8 +22,8 @@ minimal_mistakes_skin: dark
 search: true
 
 ## Feed Variables
-blog_name: Blockchain Commons Blog
-blog_url: https://www.blockchaincommons.com/posts/
+blog_title: Blockchain Commons Blog
+url: https://www.blockchaincommons.com/
 
 # Build settings
 markdown: kramdown

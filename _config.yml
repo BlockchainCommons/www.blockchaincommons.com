@@ -23,7 +23,7 @@ search: true
 
 ## Feed Variables
 blog_title: Blockchain Commons Blog
-url: https://www.blockchaincommons.com/
+url: https://www.blockchaincommons.com
 
 # Build settings
 markdown: kramdown

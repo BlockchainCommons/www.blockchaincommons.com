@@ -8,7 +8,7 @@ header:
     - label: "See All Musings"
       url: /musings.html
 tagline: "The Design Pipeline, from Values to Deployment"
-title: "Musings of a Trust Architect: How My Values Inform Design
+title: "Musings of a Trust Architect: How My Values Inform Design"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:

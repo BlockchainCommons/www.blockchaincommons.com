@@ -21,9 +21,9 @@ tags:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
-![values-inform-design](/images/values-design.svg)
-
   > **ABSTRACT:** By grounding technical decisions in ethical values, we can create compassionate digital architectures. This article examines how core human values such as dignity, autonomy, and human rights inform the design of trustworthy digital systems to enable progressive trust, safeguard privacy, promote individual choice, and build resilient systems resistant to coercion. 
+
+![values-inform-design](/images/values-design.svg)
 
 As we enter 2025, I'm reflecting on a journey of decades that has been dedicated to advancing privacy, security, and human autonomy in the digital age. My body of work dates back to the 1990s, which saw my early contributions with cryptographic pioneers and my co-authorship of the IETF TLS 1.0 standard. But this year marks the 10th anniversary of the first ["Rebooting Web of Trust" workshop](https://www.weboftrust.info/), which was a real milestone for my leadership role in shaping secure technologies such as [Self-Sovereign Identity](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) and the [W3C Decentralized Identifiers standard](https://www.w3.org/TR/did-core/). 
 

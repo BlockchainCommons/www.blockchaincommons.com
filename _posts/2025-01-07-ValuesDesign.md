@@ -18,6 +18,7 @@ categories:
 tags:
   - Progressive Trust
   - Trust
+  - Values
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

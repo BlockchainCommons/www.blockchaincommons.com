@@ -5,9 +5,8 @@ categories:
   - Videos
 tags:
   - Advocacy
-  - Foremembrance
   - Self-Sovereign Identity
-  - Top Articles
+  - Podcasts
 author: "Christopher Allen"
 classes:
   - wide

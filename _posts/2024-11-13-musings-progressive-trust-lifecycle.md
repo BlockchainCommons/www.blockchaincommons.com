@@ -83,7 +83,7 @@ After personal and third-party validation, the parties consider whether the inte
 This phase adds another layer of credibility through its confirmation that the interaction aligns with expected practices and requirements.
 
 ### 6. **Approval** – _Risk Calculated_
-With community compliance confirmed, each party calculates the risk of proceeding and provides a tentative **Approval**. This step involves a personal assessment, comparing the accumulated trust to any potential risks or liabilities. It’s a decision point where each party considers their own risk model and goals, assessing whether the interaction is likely to fulfill their needs without exposing them to undue harm. Approval may involve internal checks or may require formal documentation of agreed-upon terms.
+With community compliance confirmed, each party calculates the risk of proceeding and provides a tentative **Approval**. This step involves a personal assessment, comparing the accumulated trust to any potential risks or liabilities. It’s a decision point where each party considers their own risk model and goals, determining whether the interaction is likely to fulfill their needs without exposing them to undue harm. Approval may involve internal checks or may require formal documentation of agreed-upon terms.
 
 > *Example:* Hank and Carla both review the project’s terms and risk factors, ensuring they feel comfortable with potential liabilities. When ready, they formalize their commitment by signing a contract, each confident that the project aligns with their risk model and is mutually beneficial.
 
@@ -111,7 +111,7 @@ In high-stakes or sensitive interactions, the **Escalation** phase optionally in
 This phase helps protect each party, providing an additional level of assurance when risk is high or when the interaction has lasting implications.
 
 ### 10. **Dispute** – _Independently Arbitrated_ (Optional)
-If issues arise, the final, optional phase of **Dispute** involves resolving conflicts through independent arbitration. In cases where fulfillment does not meet expectations, each party may bring forth additional data or reveal previously concealed information to support their case. An arbitrator then assesses the evidence, reviewing both parties’ original commitments, agreements, and standards, to determine a fair resolution. 
+If issues arise, the final, optional phase of **Dispute** involves resolving conflicts through independent arbitration. In cases where fulfillment does not meet expectations, each party may bring forth additional data or reveal previously concealed information to support their case. An arbitrator then considers the evidence, reviewing both parties’ original commitments, agreements, and standards, to determine a fair resolution. 
 
 > *Example:* If a cabinet installed by Carla collapses, Hank may initiate a dispute to assess liability. An independent arbitrator reviews the contract, Carla’s compliance with installation standards, and any relevant inspection reports, ultimately deciding if Carla is responsible for repairs or damages.
 

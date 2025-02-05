@@ -68,12 +68,12 @@ With data integrity confirmed, the next step is **Proofs**, where parties delve 
 
 This phase confirms that both parties’ assertions are backed by a proof, to establish a more secure foundation for the interaction.
 
-### 4. **References** – _Trust Aggregated_
-Building on the established proofs, the **References** phase broadens trust by gathering endorsements, certificates, or additional validation from external sources. This step goes beyond just authenticating the source of any assertions. It's about gathering the good word from others, including testimonials, reviews, licenses, or certificates. Cryptographic methods may also be used to assure the validity of the references. Parties don't necessarily gather every reference: they collect until they feel they have enough corroborating information to proceed. 
+### 4. **References** – _Trust Affirmed_
+Building on the established proofs, the **References** phase affirms trust by gathering endorsements, certificates, or additional validation from external sources. This step goes beyond just authenticating the source of any assertions. It's about gathering the good word from others, including testimonials, reviews, licenses, or certificates. Cryptographic methods may also be used to assure the validity of the references. Parties don't necessarily gather every reference: they collect until they feel they have enough corroborating information to proceed. 
 
 > *Example:* Hank checks Carla’s contractor license in a state registry and reads online reviews. Carla, in turn, verifies Hank’s reputation or credibility within her professional network, gaining confidence that his project is legitimate and that he can be trusted to honor financial commitments.
 
-This phase provides a composite view of the other party’s trustworthiness based on diverse sources, making trust more holistic. It creates a comprehensive picture without oversimplifying the credibility of each party into a binary “yes” or “no.”
+This phase provides a composite affirmation of the other party’s trustworthiness based on diverse sources, making trust more holistic. It creates a comprehensive picture without oversimplifying the credibility of each party into a binary “yes” or “no.”
 
 ### 5. **Requirements** – _Community Compliance_
 After personal and third-party validation, the parties consider whether the interaction meets broader **Community Standards and Requirements**. Here, each party assesses if the interaction complies with external guidelines, legal standards, or industry norms, which may vary by context. Compliance might involve revealing additional data, following guidelines for quality or safety, or meeting regulatory requirements, which helps each party feel confident that their involvement is appropriate and sanctioned.

@@ -76,7 +76,7 @@ Building on the established proofs, the **References** phase affirms trust by ga
 This phase provides a composite affirmation of the other party’s trustworthiness based on diverse sources, making trust more holistic. It creates a comprehensive picture without oversimplifying the credibility of each party into a binary “yes” or “no.”
 
 ### 5. **Requirements** – _Community Compliance_
-After personal and third-party validation, the parties consider whether the interaction meets broader **Community Standards and Requirements**. Here, each party assesses if the interaction complies with external guidelines, legal standards, or industry norms, which may vary by context. Compliance might involve revealing additional data, following guidelines for quality or safety, or meeting regulatory requirements, which helps each party feel confident that their involvement is appropriate and sanctioned.
+After personal and third-party validation, the parties consider whether the interaction meets broader **Community Standards and Requirements**. Here, each party performs an audit to see if the interaction complies with external guidelines, legal standards, or industry norms, which may vary by context. Compliance might involve revealing additional data, following guidelines for quality or safety, or meeting regulatory requirements, which helps each party feel confident that their involvement is appropriate and sanctioned.
 
 > *Example:* Hank ensures that Carla’s contractor license and project quote meet legal requirements and industry standards, such as fair pricing and warranty expectations. Carla might consult her network or a local building authority to verify that Hank’s project is feasible and professionally compliant.
 

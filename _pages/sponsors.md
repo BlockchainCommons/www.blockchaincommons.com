@@ -24,7 +24,15 @@ Our mission is funded entirely by donations and collaborative partnerships with 
 
 Your personal or corporate patronage can help us to further the development of these projects. Together, we can ensure that digital data is personally controlled in a way that supports independence, privacy, resilience, and openness and that protects technology & digital civil rights; with your gift, we also can remain independent while doing so. 
 
-Please consider becoming a Patron of Blockchain Commons though ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
+Please consider becoming a Patron of Blockchain Commons though ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also work with us directly on your priorities: email us at <a href="mailto:team@blockchaincommons.com">team@blockchaincommons.com</a>.
+
+## Quotes from Sponsors
+
+> "Under the hood, we’re relying on Blockchain Commons’ Gordian Sealed Transport Protocol. We were aware of this for a while, but it didn’t support post-quantum encryption. But we started talking with Blockchain Commons and it seemed like it wasn’t going to be that much effort to add that, and so we engaged with them and provided some more financial support to add this post-quantum capabilities to GSTP. We’ve been a sustaining sponsor for Blockchain Commons for several years. We know them well and we’ve worked with them before, and so this process went very smoothly as usual. They delivered above and beyond. This change was very quick to get implemented. As always, Wolf has an amazing architecture and testing and everything just worked."<br>—Ken Carpenter, Foundation
+
+>"Blockchain Commons is great for defining common language, common dictionaries, and common ways for everyone to do the same thing. It offers standards-like work, but not bogged down like some standards bodies. Given how quickly things are changing in the cryptography, blockchain, digital-asset, and related spaces, getting everyone thinking in the same way, so that there is some hope of interoperability, is invaluable. It’s like they’re the adult in the room.
+
+>"But, Blockchain Commons isn’t a traditional industry association that only organizes, where all the work is contributed by the member companies. They’re producing their own architectures and reference libraries and sample applications. So in a way they are co-developing their standards, remaining independent while working among industry companies. They provide specifications that actually exist and have been tested and vetted. This is especially important for a startup, since we’re benefiting the most from having standardized and interoperable work, as well as from having access to work of an additional engineering team.<br>—Simon R., Proxy (since acquired by ŌURA)
 
 ## Sustaining Sponsors
 

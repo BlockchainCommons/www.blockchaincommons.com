@@ -33,12 +33,14 @@ Please consider becoming a Patron of Blockchain Commons though ongoing monthly p
 >"We’ve been a sustaining sponsor for Blockchain Commons for several years. We know them well and we’ve worked with them before, and so this process went very smoothly as usual. They delivered above and beyond. This change was very quick to get implemented. As always, Wolf has an amazing architecture and testing and everything just worked."
 
 —Ken Carpenter, Foundation
+{: .text-right}
 
 >"Blockchain Commons is great for defining common language, common dictionaries, and common ways for everyone to do the same thing. It offers standards-like work, but not bogged down like some standards bodies. Given how quickly things are changing in the cryptography, blockchain, digital-asset, and related spaces, getting everyone thinking in the same way, so that there is some hope of interoperability, is invaluable. It’s like they’re the adult in the room.
 >
 >"But, Blockchain Commons isn’t a traditional industry association that only organizes, where all the work is contributed by the member companies. They’re producing their own architectures and reference libraries and sample applications. So in a way they are co-developing their standards, remaining independent while working among industry companies. They provide specifications that actually exist and have been tested and vetted. This is especially important for a startup, since we’re benefiting the most from having standardized and interoperable work, as well as from having access to work of an additional engineering team.
 
 —Simon R., Proxy (since acquired by ŌURA)
+{: .text-right}
 
 ## Sustaining Sponsors
 

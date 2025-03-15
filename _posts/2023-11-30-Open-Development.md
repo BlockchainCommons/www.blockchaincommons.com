@@ -9,6 +9,11 @@ tags:
 classes:
   - wide
 og_image: https://developer.blockchaincommons.com/assets/images/open-dev-wc.png
+redirect_from:
+  - /Open-Development
+  - /open-development
+  - /opendevelopment
+  - /OpenDevelopment
 ---
 
 <center>

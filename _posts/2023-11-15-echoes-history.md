@@ -12,6 +12,9 @@ classes:
 author: Christopher Allen
 header:
   og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg
+redirect_from:
+  - /Foremembrance
+  - /foremembrance
 ---
 
 ![](https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg)

@@ -24,6 +24,10 @@ When can you trust a software release? How do you know that a software repo is s
 
 Obviously, Git lays the foundation for trust in software releases with its ability to sign commits, but the trust of the system is unfortunately shallow. Untrusted content can be merged into a trusted repo, commit histories can be rewritten, and trust can't be reliably extended into the future. These are crucial issues to solve if we are trusting software that originates in Git ... and some pretty crucial software originates with Git, from [Microsoft's vscode](https://github.com/microsoft/vscode) or the [OpenSSL project](https://github.com/openssl/openssl) to the [vue.js framework](https://github.com/vuejs/core). Which is what led me to the design of the Open Integrity system. Though Git may _look_ like to the average user like it offers a strong level of trust, it's a dangerous mirage. Open Integrity makes repo trust a reality.
 
+<center>
+  <img src="/images/openintegrity-darkbg.png">
+</center>
+
 Open Integrity is still built with Git, meaning that it can be used on GitHub, GitLab, or whatever other Git tool that you prefer. There are no additions required other than the Open Integrity scripts themselves. However, Open Integrity makes trust the default rather than an add-on, establishing a root of trust when a repo is created, defending it against inappropriate additions, and extending that trust to new users and new keys as a project evolves. 
 
 Beyond that, Open Integrity's root of trust can also be used as a DID (decentralized identifier) identity, supporting [self-sovereign identity](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) for a user or a project. But taking advantage of that might be the next step. For the moment, let me dive a bit further into the problems of Git's current trust framework and how I designed the architecture of Open Integrity to resolve them.

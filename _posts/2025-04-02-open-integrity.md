@@ -60,8 +60,6 @@ Solving Git's trust issues are relatively easy in theory:
 4. Strong warnings are needed when these conditions aren't met.
 
 However, nothing is ever that simple in practice. To practically solve the problems required designing an Open Integrity architecture that resolved each of the highlighted problems:
-
-<center>
     
 | Problem | Solution |
 |---------|----------|
@@ -71,8 +69,6 @@ However, nothing is ever that simple in practice. To practically solve the probl
 | Signing Not Required | Scripted Functions<br>Defined Settings |
 | Merging Issues | Scripted Functions<br>Data Preservation<br>Defined Settings |
 | History Issues | Improved Logging<br>Defined Settings |
-
-</center>
 
 Here's how each of these architectural elements work:
 

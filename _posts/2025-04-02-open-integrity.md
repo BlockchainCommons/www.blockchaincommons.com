@@ -139,7 +139,7 @@ The original author's signature is not currently preserved due to the complexity
 
 ## Using Open Integrity Now
 
-Open Integrity is available at the [openintegrityproject repo](https://github.com/openintegrityproject). Though it's still in development, you can get started with it right now.
+Open Integrity is available at the [OpenIntegrityProject repo](https://github.com/OpenIntegrityProject). Though it's still in development, you can get started with it right now.
 
 You should do so if you have a use case for Open Integrity such as:
 

@@ -36,19 +36,19 @@ Beyond that, Open Integrity's root of trust can also be used as a DID (decentral
 
 The foundation of trust in Git is signing commits with a signing key that is registered with a Git account, but that turns out to be a fragile level of trust because it leaves a number of loopholes.
 
-___Signing isn't required.___ Even if an account has a legitimate signing key, use of that key isn't required. Even if a Git hosting service enforces commit signing, unsigned commits can typically still be merged from branches.
+* ___Signing isn't required.___ Even if an account has a legitimate signing key, use of that key isn't required. Even if a Git hosting service enforces commit signing, unsigned commits can typically still be merged from branches.
 
-___Merging doesn't guarantee signatures.___ Generally, merging offers one of the biggest gaps in signing security. It's not just that merged commits can be unsigned, but that a branch can be deleted after merging, leaving no trace as to whether its commits were signed or not.
+* ___Merging doesn't guarantee signatures.___ Generally, merging offers one of the biggest gaps in signing security. It's not just that merged commits can be unsigned, but that a branch can be deleted after merging, leaving no trace as to whether its commits were signed or not.
 
 Things don't necessarily get better when signing actually occurs.
 
-___Repo origin can't be verified.___ Though you can verify signed commits belong to the person who currently controls a repo, there's no way to verify that they haven't illegitimately taken over the repo since its inception.
+* ___Repo origin can't be verified.___ Though you can verify signed commits belong to the person who currently controls a repo, there's no way to verify that they haven't illegitimately taken over the repo since its inception.
 
-___Chain of trust functionality is non-existant.___ On the flipside, there's no way to show a legitimate transfer of authority between a repo's originator and its current controller.
+* ___Chain of trust functionality is non-existant.___ On the flipside, there's no way to show a legitimate transfer of authority between a repo's originator and its current controller.
 
-___Key revocation is weak.___ Though keys can be manually revoked, there's no way to automatically do so, and there are no warnings if a revoked key was used for signing.
+* ___Key revocation is weak.___ Though keys can be manually revoked, there's no way to automatically do so, and there are no warnings if a revoked key was used for signing.
 
-___History can be rewritten.___ Finally, Git includes a [purposeful tool](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) to allow you to rewrite commit history: editing commit messages, rebasing at a large scale, and even removing or changing files! This will change SHA-1 checksums, but as with other dangers here, there's inadequate messaging to warn of this issue.
+* ___History can be rewritten.___ Finally, Git includes a [purposeful tool](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History) to allow you to rewrite commit history: editing commit messages, rebasing at a large scale, and even removing or changing files! This will change SHA-1 checksums, but as with other dangers here, there's inadequate messaging to warn of this issue.
 
 ## Solving the Problems
 

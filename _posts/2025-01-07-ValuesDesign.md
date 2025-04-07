@@ -19,6 +19,9 @@ tags:
   - Progressive Trust
   - Trust
   - Values
+redirect_from:
+  - /ValuesDesign
+  - /valuesdesign
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

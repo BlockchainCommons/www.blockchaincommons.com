@@ -59,8 +59,9 @@ The Gordian Architecture is a future-looking design that covers everything that 
 
 The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs. They are broken into three main categories: [the core stack](https://developer.blockchaincommons.com/#the-core-stack), [the UX stack](https://developer.blockchaincommons.com/#the-ux-stack), and [the crypto stack](https://developer.blockchaincommons.com/#the-crypto-stack).
 
-![](https://developer.blockchaincommons.com/assets/images/bc-stack.png)
-
+<center>
+<a href="https://developer.blockchaincommons.com"><img src="https://developer.blockchaincommons.com/assets/images/bc-stack.png"></a>
+</center>
 ### Core Stack Specifications
 
 **Identifiers:** [Cliques](https://developer.blockchaincommons.com/cliques/), [Self-Sovereign Identity (SSI)](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), [XIDs](https://developer.blockchaincommons.com/xid/)<br>

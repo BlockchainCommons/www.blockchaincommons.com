@@ -246,47 +246,10 @@ _Blockchain Commons isn't just about technological development. It also works to
 
 Our Law & Advocacy repo includes both research that we've done on the current state of the law and advocacy that we've done to _change_ that status. 
 
-## Open Infrastructure Projects
-
-_Open infrastructure projects create resources that can be used by the entire internet community._
-
-### Esplora Server
-
-**HTML Address:** http://esplora.blockchaincommons.com/<br>
-**Onion Address (http):** http://pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion<br>
-**Onion Address (electrs):** pf4awrbzt3ohrtukpq6xx6y73gxqlnon4zh35ik7ald3kwfb5iedogad.onion:50001<br>
-
-Blockchain Commons Esplora server.
-
-### Spotbit Server
-
-**Onion Address:** h6zwwkcivy2hjys6xpinlnz2f74dsmvltzsd4xb42vinhlcaoe7fdeqd.onion<br>
-**Related Repo:** [spotbit](https://github.com/BlockchainCommons/spotbit)
-
-An instance of Blockchain Commons' Spotbit Bitcoin price-aggregation server, available for public usage.
-
-### Testnet Public Node
-
-**Testnet Node IP Address:** 45.56.94.106:18333<br>
-**Testnet Node Onion Address:** 71e355f8e097857c932cc315f321eb4a@ftemeyifladknw3cpdhilomt7fhb3cquebzczjb7hslia77khc7cnwid.onion:1309<br>
-**Related Repo:** [GordianWallet-iOS](https://github.com/BlockchainCommons/GordianWallet-iOS)
-
-Blockchain Commons maintains a public Bitcoin testnet node, primarily for use as an optional server for use with GordianWallet.
-
-### Tor Exit Node
-
-**Tor Node:**<br> [644074F47257F9A906F9AA5C6B8926C1540A1DA8](https://metrics.torproject.org/rs.html#details/644074F47257F9A906F9AA5C6B8926C1540A1DA8)
-
-Blockchain Commons supports the open infrastructure of Tor by running its own exit node.
-
-<center>
-<img align="center" src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/tor-graph.png" width="100%">
-  </center>
-
 ## How to Get Involved
 
 _Want to become involved in Blockchain Commons' projects? Here's how!_
 
 * **Participate in the Gordian Developer Community.** Join our [Developer Discussions on GitHub](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions). If you want more, [talk with us](mailto:team@blockchaincommons.com) to get access to our Gordian Signal group.
 * **Contribute to Projects.** Submit Issues to Projects or (even better) PRs, offering clear improvements. We welcome them on all our repos!
-* **Become a Sponsor.** Support Blockchain Commons by becoming a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). We welcome all donations, as they allow us to continue our industry-supporting work. If you're a company interested in becoming more involved [talk with us](mailto:team@blockchaincommons.com) about becoming a Project Sponsor or a Sustaining Sponsor!
+* **Become a Sponsor.** Support Blockchain Commons by becoming a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). We welcome all donations, as they allow us to continue our industry-supporting work. If you're a company interested in becoming more involved, [talk with us](mailto:team@blockchaincommons.com) about becoming a Project Sponsor or a Sustaining Sponsor! We're happy to work with you on your specific interests!

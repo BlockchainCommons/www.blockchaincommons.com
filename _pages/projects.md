@@ -64,12 +64,12 @@ The Gordian architecture is built on specifications that empower our [Vision](ht
 ### Core Stack Specifications
 
 **Identifiers:** [Cliques](https://developer.blockchaincommons.com/cliques/), [Self-Sovereign Identity (SSI)](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), [XIDs](https://developer.blockchaincommons.com/xid/)<br>
-**Collaborative Seed Recovery:** [CSR](https://developer.blockchaincommons.com/csr/)
-  * **Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)
+**Collaborative Seed Recovery:** [CSR](https://developer.blockchaincommons.com/csr/)<br>
+  * **Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)<br>
   * **Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)<br>
-**Envelope:** [Envelope](https://developer.blockchaincommons.com/envelope/), [Request/Response](https://developer.blockchaincommons.com/envelope/request/), [Gordian Sealed Transaction Protocol (GSTP)](https://developer.blockchaincommons.com/envelope/gstp/), [Encrypted State Continuations (ESC)](https://developer.blockchaincommons.com/envelope/esc/)
-   * **Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)
-**CBOR:** [dCBOR](https://developer.blockchaincommons.com/dcbor/)
+**Envelope:** [Envelope](https://developer.blockchaincommons.com/envelope/), [Request/Response](https://developer.blockchaincommons.com/envelope/request/), [Gordian Sealed Transaction Protocol (GSTP)](https://developer.blockchaincommons.com/envelope/gstp/), [Encrypted State Continuations (ESC)](https://developer.blockchaincommons.com/envelope/esc/)<br>
+   * **Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)<br>
+**CBOR:** [dCBOR](https://developer.blockchaincommons.com/dcbor/)<br>
    * **dCBOR IETF Draft:** [dCBOR I-D](https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/)
 
 Blockchain Commons’ Core Stack includes its major user-facing innovations, as well as the foundational encoding that allows them:
@@ -81,10 +81,10 @@ Blockchain Commons’ Core Stack includes its major user-facing innovations, as 
 
 ### UX Stack Specifications
 
-**Object Identity Block:** [OIB](https://developer.blockchaincommons.com/oib/), [LifeHash](https://developer.blockchaincommons.com/lifehash/)
-   * **Lifehash Explainer Video:** https://www.youtube.com/watch?v=cu0K__KLxKo
-   * **Lifehash Website Demo:** [Lifehash.info](https://lifehash.info/)
-**Uniform Resources:** [ByteWords](https://developer.blockchaincommons.com/bytewords/), [URs](https://developer.blockchaincommons.com/ur/). [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/)
+**Object Identity Block:** [OIB](https://developer.blockchaincommons.com/oib/), [LifeHash](https://developer.blockchaincommons.com/lifehash/)<br>
+   * **Lifehash Explainer Video:** [Video](https://www.youtube.com/watch?v=cu0K__KLxKo)<br>
+   * **Lifehash Website Demo:** [Lifehash.info](https://lifehash.info/)<br>
+**Uniform Resources:** [ByteWords](https://developer.blockchaincommons.com/bytewords/), [URs](https://developer.blockchaincommons.com/ur/). [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/)<br>
    * **Multipart URs:** [MUR Implementation Guide](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2024-001-multipart-ur.md)
 
 Blockchain Commons' OIB helps users to identify digital assets:

@@ -28,8 +28,7 @@ created in conjunction with the [**Wallet Community**](https://github.com/Blockc
 specifications, while [**Reference Apps**](#gordian-reference-apps) further demonstrate that usage.
 
 Beyond its architectural core, Blockchain Commons also supports
-[**Events**](#events), [**Educational Projects**](#educational-projects), [**Advocacy Projects**](#advocacy-projects), and
-[**Open Infrastructure Projects**](#open-infrastructure-projects).
+[**Events**](#events), [**Educational Projects**](#educational-projects), and [**Advocacy Projects**](#advocacy-projects).
 
 ## The Gordian Architecture
 
@@ -58,7 +57,9 @@ The Gordian Architecture is a future-looking design that covers everything that 
 
 ## Gordian Specifications
 
-The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs. They are broken into three main category: [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Sovereign & Society Recovery](https://developer.blockchaincommons.com/seedrecovery/), and [UX Design](https://developer.blockchaincommons.com/ux/).
+The Gordian architecture is built on specifications that empower our [Vision](https://www.blockchaincommons.com/vision.html). These specifications are what create the independence, privacy, resilience, and openness of our designs. They are broken into three main categories: [the core stack](https://developer.blockchaincommons.com/#the-core-stack), [the UX stack](https://developer.blockchaincommons.com/#the-ux-stack), and [the crypto stack](https://developer.blockchaincommons.com/#the-crypto-stack).
+
+![](https://developer.blockchaincommons.com/assets/images/bc-stack.png)
 
 ### Data Format Specifications
 

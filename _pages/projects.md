@@ -61,38 +61,48 @@ The Gordian architecture is built on specifications that empower our [Vision](ht
 
 ![](https://developer.blockchaincommons.com/assets/images/bc-stack.png)
 
-### Data Format Specifications
+### Core Stack Specifications
 
-**Developers:** [Data Formats](https://developer.blockchaincommons.com/dataformat/), [Envelopes](https://developer.blockchaincommons.com/envelope/), [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/), [URs](https://developer.blockchaincommons.com/ur/), [dCBOR](https://developer.blockchaincommons.com/dcbor/), [QuickConnect](https://developer.blockchaincommons.com/quickconnect/)<br>
-**Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)<br>
-**Libraries:** [Library Listing](https://developer.blockchaincommons.com/libraries/)<br>
+**Identifiers:** [Cliques](https://developer.blockchaincommons.com/cliques/), [Self-Sovereign Identity (SSI)](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), [XIDs](https://developer.blockchaincommons.com/xid/)<br>
+**Collaborative Seed Recovery:** [CSR](https://developer.blockchaincommons.com/csr/)
+  * **Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)
+  * **Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)<br>
+**Envelope:** [Envelope](https://developer.blockchaincommons.com/envelope/), [Request/Response](https://developer.blockchaincommons.com/envelope/request/), [Gordian Sealed Transaction Protocol (GSTP)](https://developer.blockchaincommons.com/envelope/gstp/), [Encrypted State Continuations (ESC)](https://developer.blockchaincommons.com/envelope/esc/)
+   * **Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)
+**CBOR:** [dCBOR](https://developer.blockchaincommons.com/dcbor/)
+   * **dCBOR IETF Draft:** [dCBOR I-D](https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/)
 
-Blockchain Commons has produced a number of specifications that are intended to support interoperability among wallet developers and other digital-asset holders as well as resilience, privacy, and independence. 
+Blockchain Commons’ Core Stack includes its major user-facing innovations, as well as the foundational encoding that allows them:
 
-* [Envelope](https://developer.blockchaincommons.com/envelope/) allows for the compact storage and transmission of data, as well as hashed elision and encryption.
-* [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/) support the transmission of larger amounts of data across air gaps.
+* **Identifiers** support SSI by allowing users to control their identity.
+* [**Collaborative Seed Recovery (CSR)**](https://developer.blockchaincommons.com/envelope/) is a system intended to improve the resilience of seeds and other digital assets by allowing them to be split up and then stored on a variety of share servers. 
+* [**Envelope**](https://developer.blockchaincommons.com/envelope/) allows for the compact storage and transmission of data, as well as hashed elision and encryption.
+* [**dCBOR**](https://developer.blockchaincommons.com/dcbor/) defines a deterministic version of CBOR, crucial for a variety of tasks including the hashed storage of data.
+
+### UX Stack Specifications
+
+**Object Identity Block:** [OIB](https://developer.blockchaincommons.com/oib/), [LifeHash](https://developer.blockchaincommons.com/lifehash/)
+   * **Lifehash Explainer Video:** https://www.youtube.com/watch?v=cu0K__KLxKo
+   * **Lifehash Website Demo:** [Lifehash.info](https://lifehash.info/)
+**Uniform Resources:** [ByteWords](https://developer.blockchaincommons.com/bytewords/), [URs](https://developer.blockchaincommons.com/ur/). [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/)
+   * **Multipart URs:** [MUR Implementation Guide](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2024-001-multipart-ur.md)
+
+Blockchain Commons' OIB helps users to identify digital assets:
+
+* [OIB](https://developer.blockchaincommons.com/oib/) is a standardized block of info to identify a digital asset.
+* [Lifehash](https://developer.blockchaincommons.com/oib/) LifeHash is a method of hash visualization that creates beautiful icons that are deterministic, yet distinct and unique given the input data.
+Blockchain Commons UR stack allows for the encoding of CBOR binary strings as text strings or as QRs:
+
+* [Bytewords](https://developer.blockchaincommons.com/bytewords/) is a method for encoding binary data as four-letter words, used by URs.
 * [URs](https://developer.blockchaincommons.com/ur/) underlie Envelope and Animated QRs and ensure interoperability.
-* [dCBOR](https://developer.blockchaincommons.com/dcbor/) defines a deterministic version of CBOR, crucial for a variety of tasks including the hashed storage of data.
-* [QuickConnect](https://developer.blockchaincommons.com/quickconnect/) defines a deep-link URI to provide further interoperability. 
+* [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/) support the transmission of larger amounts of data across air gaps.
 
-### Lifehash & OIB Specifications
-
-**Developers:** [UX Design](https://developer.blockchaincommons.com/ux/), [LifeHash](https://developer.blockchaincommons.com/lifehash/), [OIB](https://developer.blockchaincommons.com/oib/)<br>
-**Online Demo:** [Lifehash.info](https://lifehash.info/)<br>
-**Video:** [Explainer Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
-
-LifeHash is a method of hash visualization based on Conway's Game of Life that creates beautiful icons that are deterministic, yet distinct and unique given the input data. The basic concept is to take a SHA256 hash of the input data (which can be any data including another hash) and then use the 256-bit digest as a 16x16 pixel "seed" for running Conway’s Game of Life.
-
-LifeHash is used by Blockchain Commons to create distinct and unique visual representations for your seeds and keys, so that you can recognize them at a glance. It appears as part of the Object Identity Block (OIB), which supplements that LifeHash with additional information on a digital object.
 
 ### CSR & SSKR Specification
 
 **Developers:** [Sovereign & Social Recovery](https://developer.blockchaincommons.com/seedrecovery/), [Collaborative Seed Recovery](https://developer.blockchaincommons.com/csr/), [SSKR](https://developer.blockchaincommons.com/sskr/)<br>
-**Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)<br>
-**Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)<br>
 **SSKR Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
 
-Collaborative Seed Recovery (CSR) is a system intended to improve the resilience of seeds and other digital assets by allowing them to be split up and those shares then stored on a variety of share servers. 
 
 SSKR is Sharded Secret Key Reconstruction (SSKR). It's used by Blockchain Commons' implementation of CSR. It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key.
 

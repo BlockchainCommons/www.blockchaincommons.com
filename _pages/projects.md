@@ -64,13 +64,13 @@ The Gordian architecture is built on specifications that empower our [Vision](ht
 </center>
 ### Core Stack Specifications
 
-**Identifiers:** [Cliques](https://developer.blockchaincommons.com/cliques/), [Self-Sovereign Identity (SSI)](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), [XIDs](https://developer.blockchaincommons.com/xid/)<br>
-**Collaborative Seed Recovery:** [CSR](https://developer.blockchaincommons.com/csr/)<br>
-  * **Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)<br>
-  * **Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)<br>
-**Envelope:** [Envelope](https://developer.blockchaincommons.com/envelope/), [Request/Response](https://developer.blockchaincommons.com/envelope/request/), [Gordian Sealed Transaction Protocol (GSTP)](https://developer.blockchaincommons.com/envelope/gstp/), [Encrypted State Continuations (ESC)](https://developer.blockchaincommons.com/envelope/esc/)<br>
-   * **Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)<br>
-**CBOR:** [dCBOR](https://developer.blockchaincommons.com/dcbor/)<br>
+* **Identifiers:** [Cliques](https://developer.blockchaincommons.com/cliques/), [Self-Sovereign Identity (SSI)](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), [XIDs](https://developer.blockchaincommons.com/xid/)
+* **Collaborative Seed Recovery:** [CSR](https://developer.blockchaincommons.com/csr/)
+  * **Blockchain Commons Depo:** [bc-depo-rust](https://github.com/BlockchainCommons/bc-depo-rust)
+  * **Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)
+* **Envelope:** [Envelope](https://developer.blockchaincommons.com/envelope/), [Request/Response](https://developer.blockchaincommons.com/envelope/request/), [Gordian Sealed Transaction Protocol (GSTP)](https://developer.blockchaincommons.com/envelope/gstp/), [Encrypted State Continuations (ESC)](https://developer.blockchaincommons.com/envelope/esc/)
+   * **Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)
+* **CBOR:** [dCBOR](https://developer.blockchaincommons.com/dcbor/)
    * **dCBOR IETF Draft:** [dCBOR I-D](https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/)
 
 Blockchain Commons’ Core Stack includes its major user-facing innovations, as well as the foundational encoding that allows them:
@@ -82,10 +82,10 @@ Blockchain Commons’ Core Stack includes its major user-facing innovations, as 
 
 ### UX Stack Specifications
 
-**Object Identity Block:** [OIB](https://developer.blockchaincommons.com/oib/), [LifeHash](https://developer.blockchaincommons.com/lifehash/)<br>
-   * **Lifehash Explainer Video:** [Video](https://www.youtube.com/watch?v=cu0K__KLxKo)<br>
-   * **Lifehash Website Demo:** [Lifehash.info](https://lifehash.info/)<br>
-**Uniform Resources:** [ByteWords](https://developer.blockchaincommons.com/bytewords/), [URs](https://developer.blockchaincommons.com/ur/). [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/)<br>
+* **Object Identity Block:** [OIB](https://developer.blockchaincommons.com/oib/), [LifeHash](https://developer.blockchaincommons.com/lifehash/)
+   * **Lifehash Explainer Video:** [Video](https://www.youtube.com/watch?v=cu0K__KLxKo)
+   * **Lifehash Website Demo:** [Lifehash.info](https://lifehash.info/)
+* **Uniform Resources:** [ByteWords](https://developer.blockchaincommons.com/bytewords/), [URs](https://developer.blockchaincommons.com/ur/). [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/)
    * **Multipart URs:** [MUR Implementation Guide](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2024-001-multipart-ur.md)
 
 Blockchain Commons' OIB helps users to identify digital assets:
@@ -98,16 +98,18 @@ Blockchain Commons UR stack allows for the encoding of CBOR binary strings as te
 * [URs](https://developer.blockchaincommons.com/ur/) underlie Envelope and Animated QRs and ensure interoperability.
 * [Animated QRs](https://developer.blockchaincommons.com/animated-qrs/) support the transmission of larger amounts of data across air gaps.
 
+### Crypto Stack Specifications
 
-### CSR & SSKR Specification
+* **CKM:** [CKM](https://developer.blockchaincommons.com/ckm/), [FROST](https://developer.blockchaincommons.com/frost/), [MuSig2](https://developer.blockchaincommons.com/musig/)
+* **Sharding:** [SSKR](https://developer.blockchaincommons.com/sskr/)
+   * **SSKR Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
 
-**Developers:** [Sovereign & Social Recovery](https://developer.blockchaincommons.com/seedrecovery/), [Collaborative Seed Recovery](https://developer.blockchaincommons.com/csr/), [SSKR](https://developer.blockchaincommons.com/sskr/)<br>
-**SSKR Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
+The Crypto Layer supports the resilience and independence of digital assets through cryptographic protections that allow users to use and maintain those assets.
 
-
-SSKR is Sharded Secret Key Reconstruction (SSKR). It's used by Blockchain Commons' implementation of CSR. It currently implements Shamir's Secret Sharing, allowing for sharding and reconstruction of a key.
-
-The future of CSR involves the usage of [FROST](https://developer.blockchaincommons.com/frost/) to support Verifiable Secret Sharing (VSS) and [Collaborative Key Management (CKM)](https://developer.blockchaincommons.com/ckm/). Also see the [FROST Round Table](https://www.blockchaincommons.com/projects/#frost-round-table).
+* [CKM](https://developer.blockchaincommons.com/clm/) is a next-generation system of collaborative key management.
+* [FROST](https://developer.blockchaincommons.com/frost/) is one of the multi-sig methods that could be used for CKM.
+* [MuSig](https://developer.blockchaincommons.com/frost/) is another multi-sig method that can be used for CKM.
+* [SSKR](https://developer.blockchaincommons.com/sskr/) is Sharded Secret Key Reconstruction, which is our current methodology for sharding and reconstructing a key.
 
 ### Research Papers
 

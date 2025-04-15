@@ -16,7 +16,7 @@ classes:
 categories:
   - Musings
 tags:
-  - Values
+  - Open Integrity
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

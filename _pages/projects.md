@@ -193,6 +193,15 @@ LetheKit is a do-it-youself platform for performing various sensitive cryptograp
 
 Several other reference apps have been released to demonstrate specific Principles. Some of these apps have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
 
+## Open Integrity
+
+<img src="https://www.blockchaincommons.com/images/openintegrity.png" style="float: right" width="150px">
+
+**Repo:** [Open Integrity Project](https://github.com/openintegrityproject)
+**Documents:** [Architecture](https://www.blockchaincommons.com/musings/open-integrity/), [Problem Statement](https://github.com/OpenIntegrityProject/core/blob/main/docs/Open_Integrity_Problem_Statement.md), [Script Snippets](https://github.com/OpenIntegrityProject/core/blob/main/docs/Open_Integrity_Script_Snippets.md)
+
+Open Integrity seeks to increase the trust of Git repos by creating a foundational root of trust with an inception commit and by creating a chain of trust from that point, allowing the rotation of keys and authorized users. It does so with scripts and aliases that don't replace Git, but instead supplement it.
+
 ## Events
 
 _One of the prime goals of Blockchain Commons is to bring together different parties to educate and to create consensus on the future development of our technologies and specifications. This happens through events._

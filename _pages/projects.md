@@ -62,6 +62,7 @@ The Gordian architecture is built on specifications that empower our [Vision](ht
 <center>
 <a href="https://developer.blockchaincommons.com"><img src="https://developer.blockchaincommons.com/assets/images/bc-stack.png"></a>
 </center>
+
 ### Core Stack Specifications
 
 * **Identifiers:** [Cliques](https://developer.blockchaincommons.com/cliques/), [Self-Sovereign Identity (SSI)](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), [XIDs](https://developer.blockchaincommons.com/xid/)
@@ -70,6 +71,7 @@ The Gordian architecture is built on specifications that empower our [Vision](ht
   * **Depo API:** [bc-depo-api](https://github.com/BlockchainCommons/bc-depo-api-rust)
 * **Envelope:** [Envelope](https://developer.blockchaincommons.com/envelope/), [Request/Response](https://developer.blockchaincommons.com/envelope/request/), [Gordian Sealed Transaction Protocol (GSTP)](https://developer.blockchaincommons.com/envelope/gstp/), [Encrypted State Continuations (ESC)](https://developer.blockchaincommons.com/envelope/esc/)
    * **Envelope IETF Draft:** [Envelope I-D](https://datatracker.ietf.org/doc/draft-mcnally-envelope/)
+   * **Introduction to Envelope Videos:** [Teaser](https://www.youtube.com/watch?v=uDI5ihfTB2Y&list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG), [Understanding Envelope](https://www.youtube.com/watch?v=-vcLCFKQvik&list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG), [Understanding Extensions](https://www.youtube.com/watch?v=uFxStP3ATkw&list=PLCkrqxOY1FbooYwJ7ZhpJ_QQk8Az1aCnG)
 * **CBOR:** [dCBOR](https://developer.blockchaincommons.com/dcbor/)
    * **dCBOR IETF Draft:** [dCBOR I-D](https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/)
 

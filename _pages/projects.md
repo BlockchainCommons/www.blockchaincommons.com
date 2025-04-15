@@ -103,6 +103,8 @@ Blockchain Commons UR stack allows for the encoding of CBOR binary strings as te
 ### Crypto Stack Specifications
 
 * **CKM:** [CKM](https://developer.blockchaincommons.com/ckm/), [FROST](https://developer.blockchaincommons.com/frost/), [MuSig2](https://developer.blockchaincommons.com/musig/)
+   * **FROST Implementer Meetings:** [November 2023](https://developer.blockchaincommons.com/frost/meeting1/), [September 2024](https://developer.blockchaincommons.com/frost/meeting2/)
+   * **FROST Developer Meetings:** [April 2024](https://developer.blockchaincommons.com/frost/developers1/), [December 2024](https://developer.blockchaincommons.com/frost/developers2/)
 * **Sharding:** [SSKR](https://developer.blockchaincommons.com/sskr/)
    * **SSKR Security Review:** [2021 Review](https://github.com/BlockchainCommons/bc-sskr/blob/master/SECURITY-REVIEW.md)<br>
 

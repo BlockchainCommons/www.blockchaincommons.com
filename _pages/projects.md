@@ -135,21 +135,16 @@ Reference libraries demonstrate the use of our specifications. They were origina
 ### CLI & Web Apps
 
 **Developer Resources:** [Developer Website](https://developer.blockchaincommons.com/)<br>
-**CLI Apps:** [Bytewords-CLI](https://github.com/BlockchainCommons/bc-bytewords-cli), [dCBOR-CLI](https://github.com/BlockchainCommons/bc-dcbor-cli), [Envelope-CLI-Rust](https://github.com/BlockchainCommons/bc-envelope-cli-rust), [Envelope-CLI-Swift](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool-CLI](https://github.com/BlockchainCommons/bc-keytool-cli), [LifeHash-CLI](https://github.com/BlockchainCommons/lifehash-cli), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool-CLI](https://github.com/BlockchainCommons/bc-seedtool-cli) <br>
+**CLI Apps:** [Bytewords-CLI](https://github.com/BlockchainCommons/bc-bytewords-cli), [dCBOR-CLI](https://github.com/BlockchainCommons/bc-dcbor-cli), [Envelope-CLI-Rust](https://github.com/BlockchainCommons/bc-envelope-cli-rust), [LifeHash-CLI](https://github.com/BlockchainCommons/lifehash-cli), [Provenance-Mark-CLI-Rust](https://github.com/BlockchainCommons/provenance-mark-cli-rust), [Seedtool-CLI-Rust](https://github.com/BlockchainCommons/seedtool-cli-rust) <br>
+**Older CLIs:** [Envelope-CLI-Swift](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool-CLI](https://github.com/BlockchainCommons/bc-keytool-cli), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool-CLI-Swift](https://github.com/BlockchainCommons/bc-seedtool-cli)
 **iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
-**Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit]([spotbit](https://github.com/BlockchainCommons/spotbit)
+**Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit](https://github.com/BlockchainCommons/spotbit)
 
 Apps for the command-line and for iOS and the web can aid developers in testing out their work.
 
 ## Gordian Reference Apps
 
 Whereas Developer Apps are meant for testing, the Gordian Reference Apps offer best practices and examples of how to incorporate Reference Libraries into applies that support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
-
-### Gordian Coordinator (iOS)
-
-**Repo:** [Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator)
-
-Gordian Coordinator is a Multisig Bitcoin transaction coordinator for iOS. It demonstrates the use of request and response envelopes to communicate when creating multisig transactions in a way that is both resilient and easy to use.
 
 ### Gordian Depo (CSR)
 
@@ -178,17 +173,11 @@ Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It d
 
 Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/QuickConnect/README.md).
 
-<a href="/images/projects/lethekit.jpg"><img src="/images/projects/lethekit.jpg" align="right" border="1" width="200"></a>
-### LetheKit (kit)
-
-**Repo:** [lethekit](https://github.com/BlockchainCommons/lethekit)<br>
-**Blog:** [Blockchain Commons Releases Feature-complete LetheKit](https://www.blockchaincommons.com/apps/Releasing-LetheKit/) (10/28/20)
-
-LetheKit is a do-it-youself platform for performing various sensitive cryptographic operations on an offline airgapped device. It uses no WiFi or Bluetooth which could leak information and contains no local storage, and when the device is turned off it forgets any sensitive data stored in RAM. Thus the name Lethe (lee-thee), from the [mythological river](https://en.wikipedia.org/wiki/Lethe) of forgetfulness and oblivion.
 
 ### Other Gordian Reference Apps
 
-**Legacy Repos:** [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
+**Legacy Repos:** [Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator), [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
+**Hardware Repos:** [Lethekit](https://github.com/BlockchainCommons/lethekit)<br>
 **Research Repos:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli), [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
 
 Several other reference apps have been released to demonstrate specific Principles. Some of these apps have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.

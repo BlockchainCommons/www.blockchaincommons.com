@@ -20,10 +20,10 @@ _Blockchain Commons produces projects that fulfill its
 
 Much of this centers on an
 [**Architecture**](#the-gordian-architecture) that focuses on our
-Gordian Principles of independence, privacy, resilience, and openness
+[Gordian Principles](https://developer.blockchaincommons.com/principles/) of independence, privacy, resilience, and openness
 and that encourages responsible key management. This Architecture is
 built upon [**Specifications**](#gordian-specifications) that have been
-created in conjunction with the [**Wallet Community**](https://github.com/BlockchainCommons/Gordian-Developer-Community).
+created in conjunction with the [**Wallet Community**](https://www.blockchaincommons.com/subscribe/#gordian-developers).
 [**Developer Support**](#gordian-developer-support) enables the usage of these
 specifications, while [**Reference Apps**](#gordian-reference-apps) further demonstrate that usage.
 

@@ -154,11 +154,11 @@ Whereas Developer Apps are meant for testing, the Gordian Reference Apps offer b
 **CSR Architecture:** [Architectural Overview](https://developer.blockchaincommons.com/csr/architecture/)<br>
 **Next Step:** [CKM Overview](https://github.com/BlockchainCommons/Gordian/blob/master/CKM/README.md)
 
-Collaborative Seed Recovery, or CSR, is currently Blockchain Commons' major project, being developed in coordination with a number of partners. It's a system intended to automate the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It manages this by sharding secrets and then storing shares on different servers. This is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
+Collaborative Seed Recovery, or CSR,  automates the recovery of seeds and other sensitive digital data in a way that is safe, secure, and simple to use. It manages this by sharding secrets and then storing shares on different servers. This is not a methodology to prevent compromise, but simply to add resilience to recovery in the case of failure or loss. It is an exemplar for how to introduce a key management role into a Gordian Architecture.
 
 Blockchain Commons's reference app for CSR is built on the [SSKR](https://developer.blockchainscommons.com) library and the [Depo Server](https://github.com/BlockchainCommons/bc-depo-rust), which uses the [Depo API](https://github.com/BlockchainCommons/bc-depo-api-rust) for communication. We expect other partners will use different servers for their share storage.
 
-<a href="/images/projects/Cosigner.png"><img src="/images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
+<a href="/images/projects/SeedTool.png"><img src="/images/projects/SeedTool.png" style="border: 1px solid black; float: left; margin-right: 1em" width="110"></a>
 
 ### Gordian Seed Tool (iOS)
 

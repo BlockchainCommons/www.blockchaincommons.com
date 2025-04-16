@@ -34,11 +34,10 @@ Beyond its architectural core, Blockchain Commons also supports
 
 **Developers:** [Architecture](https://developer.blockchaincommons.com/architecture/)<br>
 **Repo:** [Gordian](https://github.com/BlockchainCommons/Gordian)<br>
-**Introduction:** [Gordian Architecture](https://github.com/BlockchainCommons/Gordian/blob/master/Architecture/README.md), [Roles](https://github.com/BlockchainCommons/Gordian/Architecture/Roles.md)<br>
 **Q&A:** [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/)<br>
 **Individual Topics:** [Animated QRs](https://www.blockchaincommons.com/devs/animated-qrs.html), [Musings of a Trust Architect](https://www.blockchaincommons.com/musings.html)
 
-_The Gordian Architecture is the heart of Blockchain Commons' work. It's a partitioned architecture and a set of backup, communication, and encoding specifications, built to support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles)._
+_The Gordian Architecture is the heart of Blockchain Commons' work. It's a partitioned architecture and a set of backup, communication, and encoding specifications, built to support the [Gordian Principles](https://developer.blockchaincommons.com/principles/)._
 
 <center>
 <a href="https://www.youtube.com/watch?v=RYgOFSdUqWY"><img src="https://img.youtube.com/vi/RYgOFSdUqWY/hqdefault.jpg" style="border: 2px solid blue"></a>
@@ -126,6 +125,15 @@ Most of our specifications begin with "BCR" Research papers, which describe and 
 
 _The Blockchain Commons repos include libraries and apps that help developers to develop and test the Gordian specifications._
 
+### Open Integrity
+
+<img src="https://www.blockchaincommons.com/images/openintegrity.png" style="float: right" width="150px">
+
+**Repo:** [Open Integrity Project](https://github.com/openintegrityproject)<br>
+**Documents:** [Architecture](https://www.blockchaincommons.com/musings/open-integrity/), [Problem Statement](https://github.com/OpenIntegrityProject/core/blob/main/docs/Open_Integrity_Problem_Statement.md), [Script Snippets](https://github.com/OpenIntegrityProject/core/blob/main/docs/Open_Integrity_Script_Snippets.md)
+
+Open Integrity seeks to increase the trust of Git repos by creating a foundational root of trust with an inception commit and by creating a chain of trust from that point, allowing the rotation of keys and authorized users. It does so with scripts and aliases that don't replace Git, but instead supplement it. This is something that we recommend for all developers.
+
 ### Developer Libraries
 
 **Developers:** [Library Listing](https://developer.blockchaincommons.com/libraries/)
@@ -182,14 +190,6 @@ Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, 
 
 Several other reference apps have been released to demonstrate specific Principles. Some of these apps have since become outdated or superceded by other applications. Several research reference apps have been written to test out new technologies and new ways to demonstrate our Vision, but haven't been upgraded to full reference status.
 
-## Open Integrity
-
-<img src="https://www.blockchaincommons.com/images/openintegrity.png" style="float: right" width="150px">
-
-**Repo:** [Open Integrity Project](https://github.com/openintegrityproject)<br>
-**Documents:** [Architecture](https://www.blockchaincommons.com/musings/open-integrity/), [Problem Statement](https://github.com/OpenIntegrityProject/core/blob/main/docs/Open_Integrity_Problem_Statement.md), [Script Snippets](https://github.com/OpenIntegrityProject/core/blob/main/docs/Open_Integrity_Script_Snippets.md)
-
-Open Integrity seeks to increase the trust of Git repos by creating a foundational root of trust with an inception commit and by creating a chain of trust from that point, allowing the rotation of keys and authorized users. It does so with scripts and aliases that don't replace Git, but instead supplement it.
 
 ## Events
 

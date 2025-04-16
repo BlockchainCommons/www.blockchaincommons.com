@@ -197,7 +197,7 @@ Several other reference apps have been released to demonstrate specific Principl
 
 <img src="https://www.blockchaincommons.com/images/openintegrity.png" style="float: right" width="150px">
 
-**Repo:** [Open Integrity Project](https://github.com/openintegrityproject)
+**Repo:** [Open Integrity Project](https://github.com/openintegrityproject)<br>
 **Documents:** [Architecture](https://www.blockchaincommons.com/musings/open-integrity/), [Problem Statement](https://github.com/OpenIntegrityProject/core/blob/main/docs/Open_Integrity_Problem_Statement.md), [Script Snippets](https://github.com/OpenIntegrityProject/core/blob/main/docs/Open_Integrity_Script_Snippets.md)
 
 Open Integrity seeks to increase the trust of Git repos by creating a foundational root of trust with an inception commit and by creating a chain of trust from that point, allowing the rotation of keys and authorized users. It does so with scripts and aliases that don't replace Git, but instead supplement it.
@@ -206,13 +206,21 @@ Open Integrity seeks to increase the trust of Git repos by creating a foundation
 
 _One of the prime goals of Blockchain Commons is to bring together different parties to educate and to create consensus on the future development of our technologies and specifications. This happens through events._
 
+### Gordian Meetings
+
+**Meetings Website:** [Meetings List](https://developer.blockchaincommons.com/meetings/)
+**Announcements List:** [Sign Up](https://www.blockchaincommons.com/subscribe/)
+
+Blockchain Commons holds monthly meetings, usually on the first Wednesday of the month, that support wallet developers in advancing their work in an interoperable way. There are often discussions of updates to interoperable Blockchain Commons technologies, plus special presentations from other developers in the field highlighting their own work and advancements.
+
 ### FROST Round Table
 
-**Website:** [Developers FROST](https://developer.blockchaincommons.com/frost/)
-**Intro:** [A Layperson's Intro to Schnorr](https://www.blockchaincommons.com/musings/Schnorr-Intro/)
-**Round Tables:** [Round Table I (November 2023)](https://developer.blockchaincommons.com/frost/meeting1/)
+**FROST Website:** [Developers FROST](https://developer.blockchaincommons.com/frost/)<br>
+**Intro:** [A Layperson's Intro to Schnorr](https://www.blockchaincommons.com/musings/Schnorr-Intro/)<br>
+**Implementer Round Tables:** [November 2023](https://developer.blockchaincommons.com/frost/meeting1/), [September 2024](https://developer.blockchaincommons.com/frost/meeting2/)<br>
+**Developer Meetings:** [April 2024](https://developer.blockchaincommons.com/frost/developers1/), [December 2024](https://developer.blockchaincommons.com/frost/developers2/)
 
-FROST is a threshold signature scheme for Schnorr signatures that provides a next-generation resilience methodology for the control of digital assets. Blockchain Commons is running a series of round tables intended to bring together experts in the field and allow them to discuss the challenges of its implementation. 
+FROST is a threshold signature scheme for Schnorr signatures that provides a next-generation resilience methodology for the control of digital assets. Blockchain Commons has run a series of meetings to support its roll-out. Impementer Round Tables have brought together experts in the field and allowed them to discuss the challenges of implementation. Developer Meetings have supported wallet cerators in incorporating FROST into their own work.
 
 ### Silicon Salon
 

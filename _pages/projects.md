@@ -273,6 +273,6 @@ Our Law & Advocacy repo includes both research that we've done on the current st
 
 _Want to become involved in Blockchain Commons' projects? Here's how!_
 
-* **Participate in the Gordian Developer Community.** Join our [Developer Discussions on GitHub](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions). If you want more, [talk with us](mailto:team@blockchaincommons.com) to get access to our Gordian Signal group.
+* **Participate in the Gordian Developer Community.** Join our [meeting announcement lists and Signal groups](https://www.blockchaincommons.com/subscribe/).
 * **Contribute to Projects.** Submit Issues to Projects or (even better) PRs, offering clear improvements. We welcome them on all our repos!
 * **Become a Sponsor.** Support Blockchain Commons by becoming a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). We welcome all donations, as they allow us to continue our industry-supporting work. If you're a company interested in becoming more involved, [talk with us](mailto:team@blockchaincommons.com) about becoming a Project Sponsor or a Sustaining Sponsor! We're happy to work with you on your specific interests!

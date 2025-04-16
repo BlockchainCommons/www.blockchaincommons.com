@@ -34,7 +34,7 @@ Beyond its architectural core, Blockchain Commons also supports
 
 **Overview:** [Architecture](https://developer.blockchaincommons.com/architecture/), [Principles](https://developer.blockchaincommons.com/principles/), [Roles](https://developer.blockchaincommons.com/architecture/roles/)<br>
 **Topics:** [Why CBOR?](https://www.blockchaincommons.com/introduction/Why-CBOR/), [Progressive Trust Life Cycle](https://developer.blockchaincommons.com/progressive-trust/)<br>
-**Articles::** [Musings of a Trust Architect](https://www.blockchaincommons.com/musings.html)
+**Articles:** [Musings of a Trust Architect](https://www.blockchaincommons.com/musings.html)
 
 _The Gordian Architecture is the heart of Blockchain Commons' work. It's a partitioned architecture and a set of backup, communication, and encoding specifications, built to support the [Gordian Principles](https://developer.blockchaincommons.com/principles/)._
 

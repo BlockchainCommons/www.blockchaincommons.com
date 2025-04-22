@@ -15,9 +15,9 @@ classes:
   - wide
 categories:
   - Musings
-  - Top Articles
 tags:
   - Open Integrity
+  - Top Articles
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

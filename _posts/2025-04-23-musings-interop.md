@@ -1,7 +1,7 @@
 ---
 header:
   overlay_color: "#00f"
-  overlay_filter: "0.15"
+  overlay_filter: "0.5"
   overlay_image: /images/blueprints-linked.jpg
   og_image: /images/musings-card.jpg
   actions:

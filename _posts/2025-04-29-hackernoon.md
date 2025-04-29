@@ -1,5 +1,8 @@
 ---
 header:
+  overlay_color: "#00f"
+  overlay_filter: "0.5"
+  overlay_image: /images/qr-background.jpg
   actions:
     - label: "Read the Article"
       url: https://hackernoon.com/the-co-writer-of-tls-says-weve-lost-the-privacy-plot

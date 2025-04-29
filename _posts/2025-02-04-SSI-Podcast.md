@@ -7,7 +7,6 @@ tags:
   - Advocacy
   - Self-Sovereign Identity
   - Podcasts
-author: "Christopher Allen"
 classes:
   - wide
 ---

@@ -8,7 +8,7 @@ header:
     - label: "See All Musings"
       url: /musings.html
 tagline: "ZCash & The Advantages of Interoperability"
-title: "Musings of a Trust Architect:<br>Interop, What Is It Good For?"
+title: "Musings of a Trust Architect: Interop, What Is It Good For?"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:

@@ -56,6 +56,41 @@ Obviously, a one-off migrator could have been created, likely linking zcashd wit
 
 That was the [ZeWIF proposal](https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/3) that we put forth. It called for one month of studying Zcash wallet data as it currently exists, then another two months of developing the spec and writing libraries to convert among different wallets using that spec. (That timeline turned out to be a bit ambitious, but we're closing out the initial design with a fourth month of work.)
 
+```mermaid
+graph TD
+    A[(<b>zcashd</b><br><i>wallet.dat</i>)]
+    B[<b>zewif-zcashd</b><br><b>zewif-zingo</b><br><b>zewif-zecwallet</b><br>...<br><i>front-ends</i>]
+    C[(...)]
+    D[(<b>zecwallet</b><br><i>wallet.dat</i>)]
+    E[(...)]
+    G[<b>zewif</b><br><i>in-memory structures</i>]
+    H[(<b>zewif</b><br><i>interchange<br>format</i>)]
+    I[(<b>zewif</b><br><i>interchange<br>format</i>)]
+    J[(<b>zecwallet</b><br><i>wallet.dat</i>)]
+    K[(...)]
+    L[(...)]
+    M[<b>zewif-zcashd</b><br><b>zewif-zingo</b><br><b>zewif-zecwallet</b><br>...<br><i>back-ends</i>]
+    N[/<b>zmigrate</b><br><i>CLI tool</i>/]
+
+    A --> B
+    D --> B
+    C --> B
+    E --> B
+
+    H --> G
+    B --> G
+    G --> I
+    G --> M
+    M --> J
+    M --> K
+    M --> L
+
+    N --> G
+    N --> B
+    N --> M
+```
+As the above diagram shows, the `zewif` Rust crate lies at the center of the ZeWIF system. It creates in-memory representations of data from a variety of inputs and can output that abstracted data in a numbers of forms. Obviously, it can accept input from ZeWIF files and it can output to ZeWIF files. However, that's just part of the process. Individual developers can also choose to use create front ends that import data from their wallets to `zewif` and back ends that export the data from `zewif` to their wallets.
+
 As we release ZeWIF into the ecosystem, we should see advancements in accordance with the Gordian principles:
 
 * ***Independence.*** Users will be able to move their funds easily among Zcash wallets.

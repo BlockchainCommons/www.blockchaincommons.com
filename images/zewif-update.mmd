@@ -1,0 +1,31 @@
+flowchart TD
+    A[(<b>zcashd</b><br><i>wallet.dat</i>)]
+    B[<b>zewif-zcashd</b><br><b>zewif-zingo</b><br><b>zewif-zecwallet</b><br>...<br><i>front-ends</i>]
+    C[(...)]
+    D[(<b>zecwallet</b><br><i>wallet.dat</i>)]
+    E[(...)]
+    G[<b>zewif</b><br><i>in-memory structures</i>]
+    H[(<b>zewif</b><br><i>interchange<br>format</i>)]
+    I[(<b>zewif</b><br><i>interchange<br>format</i>)]
+    J[(<b>zecwallet</b><br><i>wallet.dat</i>)]
+    K[(...)]
+    L[(...)]
+    M[<b>zewif-zcashd</b><br><b>zewif-zingo</b><br><b>zewif-zecwallet</b><br>...<br><i>back-ends</i>]
+    N[/<b>zmigrate</b><br><i>CLI tool</i>/]
+
+    A --> B
+    D --> B
+    C --> B
+    E --> B
+
+    H --> G
+    B --> G
+    G --> I
+    G --> M
+    M --> J
+    M --> K
+    M --> L
+
+    N --> G
+    N --> B
+    N --> M

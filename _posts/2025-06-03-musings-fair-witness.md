@@ -2,7 +2,7 @@
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
-  overlay_image: /images/blueprints-linked.jpg
+  overlay_image: /images/blueprints.jpg
   og_image: /images/musings-card.jpg
   actions:
     - label: "See All Musings"
@@ -32,7 +32,7 @@ This misunderstanding revealed a deeper problem: how do we represent what someon
 
 ### A Heinleinian Inspiration
 
-<img src="https://www.blockchaincommons.com/images/posts/fw-stranger.jpg" style="float: right" width=350">
+<img src="https://www.blockchaincommons.com/images/posts/fw-stranger.jpg" style="float: right" width=350>
 
 Iin _Stranger in a Strange Land_, Robert Heinlein described a special profession: the Fair Witness. A Fair Witness would be trained to observe carefully, report precisely, make no assumptions, and avoid bias. If asked what color a house was, a Fair Witness would respond, “It appears to be white on this side.”
 

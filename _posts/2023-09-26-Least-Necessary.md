@@ -17,7 +17,7 @@ categories:
   - Musings
 tags:
   - Self-Sovereign Identity
-  - Verifiable Credentials
+  - Credentials
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

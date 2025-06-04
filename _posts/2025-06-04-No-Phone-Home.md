@@ -13,7 +13,7 @@ classes:
   - wide
 ---
 
-<a href="https://nophonehome.com"><img src="/images/nph.png" width=250px style="float: right"></a>
+<a href="https://nophonehome.com"><img src="/images/nph.png" width=200px style="float: right; margin-left: 10px;"></a>
 
 At Blockchain Commons, we design open infrastructure that prioritizes privacy, autonomy, and human dignity. That’s why I support and personally signed the **[No Phone Home Initiative](https://nophonehome.com)**. It is not just a position, it’s a call to preserve a foundational principle of decentralized identity: ***Credentials must be verifiable without enabling surveillance!***.
 

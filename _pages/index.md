@@ -55,11 +55,7 @@ See the _[complete posts archive](https://www.blockchaincommons.com/posts/)._
 
 ## Major Projects
 
-Current projects include:
-
-* **Collaborative Seed Recovery.** [CSR](https://developer.blockchaincommons.com/csr/) was a major topic for our Gordian Developers community in 2023, and is now advancing with initial work on our [Depo server](https://github.com/BlockchainCommons/bc-depo-rust).
-* **dCBOR.** We worked with the IETF and CBOR communities throughout 2023 to advance [dCBOR](https://developer.blockchaincommons.com/dcbor/) and are now finalizing a [draft](https://datatracker.ietf.org/doc/draft-mcnally-deterministic-cbor/).
-* **FROST.** Our first [FROST Implementer's Round Table](https://developer.blockchaincommons.com/frost/meeting1/) was in late 2023, with more to come.
+{% include news-projects.md %}
   
 _See the complete list of Blockchain Commons' [projects](/projects/), its [Developer resources](https://developer.blockchaincommons.com) and our [Technology Overview video](https://www.youtube.com/embed/RYgOFSdUqWY) for more._
 

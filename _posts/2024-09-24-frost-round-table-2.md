@@ -6,7 +6,6 @@ categories:
 tags:
   - FROST
   - Round Table
-  - Top Articles
 classes:
   - wide
 ---

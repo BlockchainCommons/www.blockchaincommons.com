@@ -18,7 +18,6 @@ categories:
 tags:
   - Zcash
   - Standards
-  - Top Articles
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

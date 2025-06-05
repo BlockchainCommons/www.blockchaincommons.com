@@ -14,6 +14,7 @@ categories:
 tags:
   - Advocacy
   - Self-Sovereign Identity
+  - Top Articles
 classes:
   - wide
 ---

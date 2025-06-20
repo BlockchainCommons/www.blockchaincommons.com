@@ -15,6 +15,11 @@ classes:
   - wide
 categories:
   - Musings
+redirect_from:
+  - /RightToTransact
+  - /righttotransact
+  - /FreedomToTransact
+  - /freedomtotransact
 tags:
   - Values
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png

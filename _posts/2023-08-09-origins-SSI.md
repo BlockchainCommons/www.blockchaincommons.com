@@ -16,8 +16,8 @@ classes:
 categories:
   - Musings
 redirect_from:
-  - /OriginsSSI
-  - /originsssi
+  - /Origins-SSI
+  - /origins-ssi
 tags:
   - Self-Sovereign Identity
   - RWOT

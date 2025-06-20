@@ -16,8 +16,8 @@ classes:
 categories:
   - Musings
 redirect_from:
-  - /RightToTransact
-  - /righttotransact
+  - /RightTransact
+  - /righttransact
   - /FreedomToTransact
   - /freedomtotransact
 tags:

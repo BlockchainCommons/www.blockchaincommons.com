@@ -17,7 +17,6 @@ categories:
   - Musings
 tags:
   - Cliques
-  - Self-Sovereign Identity
   - Identity
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---

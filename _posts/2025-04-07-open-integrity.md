@@ -1,13 +1,24 @@
 ---
-tagline: "Economic Agency is the Foundation for Human Rights"
+header:
+  overlay_color: "#00f"
+  overlay_filter: "0.35"
+  overlay_image: /images/blueprints.jpg
+  og_image: /images/musings-card.jpg
+  actions:
+    - label: "See All Musings"
+      url: /musings.html
+tagline: "Launching Open Integrity for Git"
 title: "Musings of a Trust Architect: Architecting Trust in Software Releases"
+author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - article
+  - Musings
 tags:
-  - Musings of a Trust Architect
+  - Open Integrity
+  - Top Articles
+image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
 When can you trust a software release? How do you know that a software repo is safe, that it represents the intent of its creators? On the 20th anniversary of Git, these questions are more important than ever.

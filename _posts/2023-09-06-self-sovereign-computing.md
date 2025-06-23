@@ -80,3 +80,6 @@ Are you ready to seize control and chart your own course on this digital ocean? 
 Together, we can navigate toward a future where technology serves us unconditionally, and our devices, our data, and our digital experiences truly belong to us. 
 
 The helm is in your hands. The journey towards self-sovereignty begins now. Will you join us?
+
+{% include ssi-links.md %}
+

@@ -82,3 +82,6 @@ This is becoming particularly important today, when we are seeing DIDs and VCs b
 I became involved in the identity field in large part because I believe that identity can be a double-edged sword, usable for both beneficial and maleficent purposes. To remain beneficial to its participants, an identity system must balance transparency, fairness and support of the common good with protection for the individual. Even with the use of DIDs and VCs, we must remain vigilant.
 
 Despite these qualms, I am thrilled by how far self-sovereign identity has come in five years. I’m thrilled to have advocated for the term and to have suggested some principles and that these have found acceptance in our communities. I’m thrilled to have worked with folks from <a href="https://www.weboftrust.info/">Rebooting the Web of Trust</a>, from <a href="https://internetidentityworkshop.com/">IIW</a>, from <a href="https://www.w3.org/">W3C</a>, from <a href="https://identity.foundation/">DIF</a>, from <a href="https://www.hyperledger.org/use/hyperledger-indy">Hyperledger Indy</a>, and from any number of companies to advance these foundational ideas into a real industry, and I’m thrilled to see what comes next!
+
+{% include ssi-links.md %}
+

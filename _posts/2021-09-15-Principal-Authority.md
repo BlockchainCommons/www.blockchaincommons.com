@@ -412,3 +412,6 @@ and once more Clare Sullivan and Dazza Greenwood. Thanks to their hard
 work, Wyoming now offers the first definitions of personal digital
 identity in the United States, laying the foundation for these
 additional ideas.
+
+{% include ssi-links.md %}
+

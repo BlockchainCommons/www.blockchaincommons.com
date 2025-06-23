@@ -27,3 +27,5 @@ Perhaps most importantly, Christopher answers the question: what would be non-ne
 
 Privacy is one of the fundamental [Gordian Principles](https://developer.blockchaincommons.com/principles/), but probably the one we talk about the least, as so much of our focus is on resilience (such as [#SmartCustody](https://www.smartcustody.com/)) or on independence and openness (as reflected in our attention to [interoperability](https://www.blockchaincommons.com/musings/musings-interop/)). Read ["The Co-Writer of TLS Says We’ve Lost the Privacy Plot"](https://hackernoon.com/the-co-writer-of-tls-says-weve-lost-the-privacy-plot) for much more on why privacy is important and what exactly it is!
 
+{% include ssi-links.md %}
+

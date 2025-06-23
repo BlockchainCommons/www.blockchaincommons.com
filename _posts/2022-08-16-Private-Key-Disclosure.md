@@ -149,3 +149,7 @@ Ultimately, our new world of digital assets and digital information will succeed
 Properly protecting private keys (and using public keys and other tools for legitimate judicial needs) is a keystone that will help us to build a sturdy edifice.
 
 _This article was also published by [Bitcoin Magazine as "Saving Private Keys from the Courts"](https://bitcoinmagazine.com/legal/saving-bitcoin-private-keys-from-courts)._
+
+
+{% include ssi-links.md %}
+

@@ -35,16 +35,4 @@ Unfortunately, we've seen what happens if we walk this path. Jacobus Lentz's ent
 
 We need to talk more about all of these aspects of identity, so that the digital identity of the 21st century protects our basic human rights. I hope you'll join me in discussion here or in the Youtube comments. 
 
-> "Articulate your values, your own principles, and begin to evaluate your work, your priorities through those lenses. You may find that a very small difference in the choices you make could have big impact because they were informed by your values."
-
-If you prefer text articles, I've linked to a number of my articles on these topics below:
-
-* [Echoes from History](https://www.lifewithalacrity.com/article/echoes-history/)
-   * [Echoes from History II](https://www.lifewithalacrity.com/article/eidas/)
-* [Has our SSI Ecosystem Become Morally Bankrupt?](https://www.lifewithalacrity.com/article/ssi-bankruptcy/)
-* [How My Values Inform Design](https://www.lifewithalacrity.com/article/ValuesDesign/)
-* [The Origins of Self-Sovereign Identity](https://www.lifewithalacrity.com/article/origins-SSI/)
-* [The Path to Self-Sovereign Identity](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/)
-* [Edge Identifiers & Cliques](https://www.lifewithalacrity.com/article/cliques-1/
-)
-   * [Open & Fuzzy Cliques](https://www.lifewithalacrity.com/article/cliques-2/)
+{% include ssi-links.md %}

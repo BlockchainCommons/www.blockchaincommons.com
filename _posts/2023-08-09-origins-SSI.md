@@ -158,3 +158,5 @@ Today, it is apparent that as self-sovereign systems are being deployed in the E
 The upcoming Rebooting Web of Trust conference in [Cologne, Germany](https://www.weboftrust.info/events/rwot12/), starting September 18th, presents an excellent platform for this undertaking. I urge you to [contribute advance readings](https://github.com/WebOfTrustInfo/rwot12-cologne/blob/main/advance-readings/advance-reading-primer.md) with your own perspectives on self-sovereign idenity or your own constructive questions. These will allow you to participate in the discussions during an event where we can refine and expand the self-sovereign identity principles.
 
 This is my call to action: let's collaborate together to ensure that the digital future we're building is rooted in respecting individual sovereignty and the fundamental human rights of all individuals.
+
+{% include ssi-links.md %}

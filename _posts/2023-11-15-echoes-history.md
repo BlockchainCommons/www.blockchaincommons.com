@@ -105,6 +105,8 @@ But there's another path, one that normalizes the minimization of information. A
 
 We are a crucial crossroads in the design of digital identity. When the next history books are written, we must be Carmille, not Lentz.
 
+{% include ssi-links.md %}
+
 ---
 
 ### Footnotes

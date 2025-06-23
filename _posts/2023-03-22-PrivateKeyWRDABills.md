@@ -37,3 +37,6 @@ We think that this codification of digital assets' legal status will in the shor
 [CowboyStateDaily](https://cowboystatedaily.com/2023/01/20/supporters-say-bill-will-help-wyoming-lead-the-nation-in-digital-asset-registration/) has an extensive article detailing the bill.
 
 Successes like this are why Blockchain Commons has regularly advocated to various governments [over the last five years](https://advocacy.blockchaincommons.com/testimony/): we believe that it's crucial to create a new foundation for identity and property in the digital world that protects the rights of individuals. Our respect and appreciation goes out to the legislators in Wyoming who are doing so, and who are creating a model for the rest of the world.
+
+{% include ssi-links.md %}
+

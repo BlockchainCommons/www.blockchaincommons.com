@@ -45,6 +45,8 @@ This is the real reason the SSI ecosystem may be faltering: _not due to market f
 
 The question is not whether SSI has "worked" in the marketplace. It is whether we have remained true to its ethical foundation and core principles, as envisioned from the start.
 
+{% include ssi-links.md %}
+
 ---
 
 _For another rebuttal to Riley Hughes' Medium article, please see [gabe's "The Greatly Exaggerated Demise of SSI: A Rebuttal to Premature Eulogies"](https://decentralgabe.xyz/the-greatly-exaggerated-demise-of-ssi-a-rebuttal-to-premature-eulogies/)._

@@ -33,7 +33,7 @@ To accomplish this Vision, Blockchain Commons has laid out four objectives:
 
    * We design, build and maintain secure & compassionate decentralized architectures & tools for digital assets and digital identity.
    * We ensure that everyone can use our tools, anyone can improve them, and no one can take them away. 
-   * We focus on the best practices of responsible key management, [Smart Custody](https://www.smartcustody.com/), and the [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) as well as the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles) of independence, privacy, resilience, and openness.
+   * We focus on the best practices of responsible key management, [Smart Custody](https://www.smartcustody.com/), and the [Self-Sovereign Identity Principles](https://github.com/WebOfTrustInfo/self-sovereign-identity/blob/master/self-sovereign-identity-principles.md) as well as the [Gordian Principles](https://developer.blockchaincommons.com/principles/) of independence, privacy, resilience, and openness.
    * Our [Research Papers](https://github.com/BlockchainCommons/Research), our [developer resources](https://developer.blockchaincommons.com/), our Gordian reference apps, and our [reference libraries](https://developer.blockchaincommons.com/libraries/) represent our architectural work. They provide a foundation that developers can use to create wallets and other tool that embody these best practices.
 
 3. **Demand:** Define and advocate a new techno-social contract of decentralized infrastructure, based on human dignity, respect for the individual, and mutual benefit for all contributors.

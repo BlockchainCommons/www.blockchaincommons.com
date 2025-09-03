@@ -22,5 +22,7 @@ subpages:
       url: /projects/
     - title: "Posts"
       url: /posts/
+    - title: "Sponsors"
+      url: /sponsors/
     - title: "About"
       url: /about/

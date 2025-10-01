@@ -82,7 +82,7 @@ Thank you to the following companies who have become [sustaining sponsors](spons
   <a href="https://foundationdevices.com/"><img src="/images/sponsors/foundation-logo-black.png"></a>
   <a href="https://hrf.org/"><img src="/images/sponsors/hrf-white.png"></a>
   <a href="https://unchained-capital.com/"><img src="/images/sponsors/unchained-capital-black.png"></a>
-  <a href="https://zcashcommunitygrants.org/"><img src="/images/sponsors/zcg-block.png"></a>
+  <a href="https://zcashcommunitygrants.org/"><img src="/images/sponsors/zcg-block.jpg"></a>
 </figure>
 
 <br><br>

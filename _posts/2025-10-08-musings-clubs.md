@@ -112,7 +112,7 @@ None of this is just a theory. I have a working [library](https://github.com/Blo
 
 There's also a full [log of the demo](https://github.com/BlockchainCommons/clubs-cli-rust/blob/master/demo-log.md), which you can use to follow along, using the `clubs-cli-rust` app.
 
-Take a look, but more importantly let me know _how will you use Gordian clubs?_ What use cases will be served by ACOs? And are Gordian Clubs the right answer or do you need something more (or less)? I'd love to get your feedback as we continue work on this crucial new technology.
+Take a look, but more importantly let me know [_how will you use Gordian clubs?_](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions/138) What use cases will be served by ACOs? And are Gordian Clubs the right answer or do you need something more (or less)? I'd love to get [your feedback](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions/138) as we continue work on this crucial new technology.
 
 For more on Gordian Clubs, take a look at our developer pages:
 

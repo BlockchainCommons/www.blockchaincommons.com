@@ -121,3 +121,7 @@ For more on Gordian Clubs, take a look at our developer pages:
 * [Gordian Technology](https://developer.blockchaincommons.com/clubs/technology/)
 * [ocaps and Delegation](https://developer.blockchaincommons.com/clubs/ocaps/)
 * [Project Xanadu History](https://developer.blockchaincommons.com/clubs/history/)
+
+Also see the "Beyond Bitcoin" presentation from [TABConf 7](https://developer.blockchaincommons.com/meetings/2025-10-tabconf/):
+
+* ["Beyond Bitcoin"](https://developer.blockchaincommons.com/assets/pdfs/2025-10-tabconf-bb.pdf)

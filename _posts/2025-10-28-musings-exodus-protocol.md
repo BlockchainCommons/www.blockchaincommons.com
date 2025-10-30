@@ -22,6 +22,8 @@ tags:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
+> **ABSTRACT:** Digital infrastructure is built on sand due to its control by centralized entities, most of which are focused on profit over service. We need Exodus Protocol services that build infrastructure without centralization, ensuring its continuation into the far future. Bitcoin offers our prime example to date. Five design patterns suggest how to create similar services for coordination, collaboraiton, and identity.
+ 
 It's 2025. Digital infrastructure has become the heart of not just our economy, but our culture. 
 
 But it can be taken from  us in a heart beat.

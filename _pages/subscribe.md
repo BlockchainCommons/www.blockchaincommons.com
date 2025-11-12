@@ -45,24 +45,9 @@ If you are a FROST implementer who is working on the spec and/or libraries or ap
 
 ## SSI Tenth Anniversary
 
-It's the tenth anniversary of self-sovereign identity (SSI) and its [ten principles](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/#ten-principles-of-self-sovereign-identity). We are recognizing that with the 10-year SSI Revision Project, an effort to revisit and refine the original SSI principles, not as a rigid standard, but as a living framework for people designing, governing, and deploying identity infrastructure that respects and protects the people it serves. We will be holding open online calls to support this revisions and would love to have your collaboration. Sign up here to learn when they are happening!
-
+It's the tenth anniversary of self-sovereign identity (SSI) and its [ten principles](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/#ten-principles-of-self-sovereign-identity). We are recognizing that with the 10-year SSI Revision Project, an effort to revisit and refine the original SSI principles, not as a rigid standard, but as a living framework for people designing, governing, and deploying identity infrastructure that respects and protects the people it serves. We will be holding open online calls to support this revision and would love to have your collaboration. Sign up here to learn when they are happening!
 
 <iframe width="100%" height="860" src="https://4c957a4c.sibforms.com/serve/MUIFAINsTGqmXVo5hy7hyE01jQbSumgbTe4T83Ql1r2F8XtDA9jcLp1aItbGVuAn3JP5I4YoPWkkQmubvc4F_ZDXhN60Ucxw-yJtdb7o55YUV2WznUWP1Osr2EauoZkXWzfIJHR7Xv3NhkqfLTk6k6RO1q54g3yqjS3sTpkpD8jta0hS8xdRugzwvgu8QVyZHyf8rO6uHE_aph2O" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
-
-## Silicon Salon
-
-If you'd like to participate in our quarterly Silicon Salons to talk about the future of cryptography and semiconductor technology, you can do so by either  joining us on Signal or subscribing to our low-volume Silicon Salon announcement list.
-
-You can find our Signal group at: [https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a94HouFQSXSreoQR6pbtc6JpRrEhBw2-O2uDKu7XjB_RupXaSy](https://signal.group/#CjQKINQTJeLo7ee3-i4qX6a94HouFQSXSreoQR6pbtc6JpRrEhBw2-O2uDKu7XjB_RupXaSy).
-
-You can also sign up for our low-volume Silicon Salon announcement list using the following form:
-
-<iframe width="100%" height="690" src="https://4c957a4c.sibforms.com/serve/MUIEAC0l33cvDr_mXfSxoWnaUq0U7ThdG0rfp2HMv7k_nAzBvzrBdHsP_laHPtt59NZJ5_QYOzsjFkkRO0SJHAC8KMaj1Vnf_fEzGTYiKl6RfZqdF98oZ5v2kV5yfEu8vOWAmcScs7Jvdono-Dt_rltOS9-QNxr0VnIdimLsHBMeTzfIjgr-ctA0G4qpZBcY66FdKkG8vEKRrNR6" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
-
-<br>
-
-_For more on Silicon Salon, see the [Silicon Salon website](https://www.siliconsalon.info) and to make a proposal for a future Salon, see our [Call for Proposals](https://www.siliconsalon.info/proposals/)._
 
 ## Blockchain Commons Community
 

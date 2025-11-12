@@ -43,6 +43,13 @@ If you are a FROST implementer who is working on the spec and/or libraries or ap
 
 <iframe width="100%" height="860" src="https://4c957a4c.sibforms.com/serve/MUIFAK88gEX--AHKU4zv2-vJCoQUDzQoVv067YA9mW7Y37nP5QYrwE6TSvYw3F6y4RQhbsldGGZX38rZJn7duDSVA--HuFD6oY9M9WBen3HtrzlXVlBVVxcOgKxS9BvBd4cMfINpZ7-MtRg7NfahvD5k2_WMQK3DhS8FoPIwSZbqmze3T87vauFElXbEALjFOgMBnJ1GZbg4O2-h" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
 
+## SSI Tenth Anniversary
+
+It's the tenth anniversary of self-sovereign identity (SSI) and its [ten principles](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/#ten-principles-of-self-sovereign-identity). We are recognizing that with the 10-year SSI Revision Project, an effort to revisit and refine the original SSI principles, not as a rigid standard, but as a living framework for people designing, governing, and deploying identity infrastructure that respects and protects the people it serves. We will be holding open online calls to support this revisions and would love to have your collaboration. Sign up here to learn when they are happening!
+
+
+<iframe width="540" height="305" src="https://4c957a4c.sibforms.com/serve/MUIFAINsTGqmXVo5hy7hyE01jQbSumgbTe4T83Ql1r2F8XtDA9jcLp1aItbGVuAn3JP5I4YoPWkkQmubvc4F_ZDXhN60Ucxw-yJtdb7o55YUV2WznUWP1Osr2EauoZkXWzfIJHR7Xv3NhkqfLTk6k6RO1q54g3yqjS3sTpkpD8jta0hS8xdRugzwvgu8QVyZHyf8rO6uHE_aph2O" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%;"></iframe>
+
 ## Silicon Salon
 
 If you'd like to participate in our quarterly Silicon Salons to talk about the future of cryptography and semiconductor technology, you can do so by either  joining us on Signal or subscribing to our low-volume Silicon Salon announcement list.

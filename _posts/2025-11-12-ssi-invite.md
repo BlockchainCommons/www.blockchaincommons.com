@@ -1,0 +1,73 @@
+---
+title: "Announcing the 10-Year SSI Revision Project"
+tagline: "Self-Sovereign Identity, 10 Years Later"
+author: "Christopher Allen"
+excerpt_separator: "<!--more-->"
+categories:
+  - News
+tags:
+  - Advocacy
+  - Self-Sovereign Identity
+classes:
+  - wide
+image: https://www.blockchaincommons.com/images/2025-Q3-Report.jpg
+---
+
+In 2016, I published [The Path to Self-Sovereign Identity](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) and with it proposed ten foundational principles for digital identity systems. These principles were centered on human dignity, agency, and consent and quickly became a touchstone in the emerging world of Self-Sovereign Identity.
+
+At the time, I asked for support in refining those principals. And, we tried: at ID2020, Rebooting the Web of Trust, IIW, and elsewhere. But for nearly a decade, the original principles have remained largely unchanged, inspirational yet sometimes misunderstood.
+
+Now, in 2025, as the **Self-Sovereign Identity movement turns ten next year**, I’m renewing that invitation. And I'm asking for your participation.
+
+## 📌 The 10-Year Revision Project  
+
+The 10-year SSI Revision Project is an effort to revisit and refine the original SSI principles, not as a rigid standard, but as a **living framework** for people designing, governing, and deploying identity infrastructure that respects and protects the people it serves.
+
+SSI is no longer a theory. It’s infrastructure adopted by governments, companies, communities, and protocols. As that adoption accelerates, the **foundational values must evolve** to meet today’s ethical, legal, and technical challenges including coercion, use of biometrics, AI agency, exclusion by design, and gamified behavioral manipulation.
+
+The goal is ultimately to revisit old principles and to propose new ones while making a renewed call to protect the dignity of all identity holders.
+
+## 📅 Join the Collaboration
+
+To support this project, I’ll be hosting a series of **open online calls** over the next year to co-develop and discuss revised principles, new proposals, and system guidance. These sessions will welcome technologists, designers, researchers, regulators, and community stewards from across the SSI and identity ecosystem.
+
+Please let me know that you're interested in joining!
+
+You can email me directly and let me know you'd like to be involved or [sign up for an announcements-only SSI list](https://www.blockchaincommons.com/subscribe/#ssi-tenth-anniversary) or alternatively a [Signal group](https://signal.group/#CjQKIGvXAxLVq2z08-ckRWSlUIdRvX95lFh2APQaE0Oh_KFvEhB1R_7kkWDa9Oi3fh7R_I-a) (as you prefer!), which I'll use to coordinate the calls.
+
+## 🧭 Team Topics
+
+If we get enough participation, I expect we may split up into teams, to cover some of the various topics that bear discussion as we rethink SSI.
+
+The broad topics that I'm considering currently are:
+
+1. **Beyond Property: Principal Authority and the Legal Foundation of SSI.** Agency law, principal authority, and revamping or expanding the SSI principles based on them.
+2. **Anti-Coercive Design and Cognitive Liberty.** Avoiding coercive design, which will likely include more academic discussions of philosophy and may reveal new principles.
+3. **From Principles to Properties: Operationalizing SSI with CSSPS.** A look at the 42-property framework published in [IEEE Access](https://ieeexplore.ieee.org/document/9875265) and how that might contribute to SSI.
+4. **More Than a Digital Shadow: Rewriting Principle 1 – Existence.**  Reclaiming the original intent of the first principle, that **every person has identity that precedes any digital system**, by drawing on Ubuntu philosophy, decolonial theory, legal personhood guarantees, and real-world harms.
+
+The intent is to write articles on each of these topics by May, in time for the anniversary and possibly to use those articles to revise, revamp, and expand the original principles. But to get there from here, we need to start coordinating now!
+
+## 🌱 Why This Matters
+
+SSI has always been more than a technical spec. It’s a movement for restoring **dignity, agency, and trust** in a digital world that too often erodes all three. As its adoption spreads, we must ensure that the principles at its foundation still serve the people they were meant to protect.
+
+Let’s not let another ten years pass before we act.
+
+## 📙 Requested Reading
+
+I've written a number of articles about SSI over the years. I think three of them are particularly important to these discussions, and I suggest that people read them as part of this process:
+
+**📄 [The Path to Self-Sovereign Identity](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/)** (2016). My original article, which lays out the pre-history of SSI and the 10 principles.
+ 
+**📄 [Origins of Self-Sovereign Identity](https://www.blockchaincommons.com/musings/origins-SSI/)** (2021). A look at the philosophical and political roots of SSI, including its lineage in civil liberties, cryptographic activism, and human rights frameworks.
+
+**📄 [Principal Authority: A New Perspective on Self-Sovereign Identity](https://www.blockchaincommons.com/articles/Principal-Authority/)** (2021). How identity should not be framed as property, but as a domain of agency governed by fiduciary duty and inalienable rights.
+
+## 🤝🏼 Join Us
+
+Sign up for the [announcement list](https://www.blockchaincommons.com/subscribe/#ssi-tenth-anniversary) or the [Signal group](https://signal.group/#CjQKIGvXAxLVq2z08-ckRWSlUIdRvX95lFh2APQaE0Oh_KFvEhB1R_7kkWDa9Oi3fh7R_I-a) or let me know personally that you'd like to join.
+
+No longer commitment is required! Hopefully you'll join us on the calls. Hopefully you'll support us in writing some papers on the topic! But the most important thing is ultimately that your ideas and your feedback help to shape the continued development of Self-Sovereign Identity.
+
+**So join us!**

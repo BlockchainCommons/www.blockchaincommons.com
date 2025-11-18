@@ -62,8 +62,8 @@ Let’s not let another ten years pass before we act.
 I've written a number of articles about SSI over the years. I think three of them are particularly important to these discussions, and I suggest that people read them as part of this process:
 
 * [**The Path to Self-Sovereign Identity**](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) (2016). My original article, which lays out the pre-history of SSI and the initial 10 principles.
-* [**Origins of Self-Sovereign Identity**](https://www.lifewithalacrity.com/article/origins-SSI/) (2021). A look at the philosophical and political roots of SSI, including its lineage in civil liberties, cryptographic activism, and human rights frameworks.
-* [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.lifewithalacrity.com/article/Principal-Authority/) (2021). How identity should not be framed as property, but as a domain of agency governed by fiduciary duty and inalienable rights.
+* [**Origins of Self-Sovereign Identity**](https://www.blockchaincommons.com/musings/origins-SSI/) (2021). A look at the philosophical and political roots of SSI, including its lineage in civil liberties, cryptographic activism, and human rights frameworks.
+* [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.blockchaincommons.com/articles/Principal-Authority/) (2021). How identity should not be framed as property, but as a domain of agency governed by fiduciary duty and inalienable rights.
 
 I am also working on an annotated syllabus of some of the most important papers and articles published the last 9 years. I'll share my initial pass before our first meeting in December.
 

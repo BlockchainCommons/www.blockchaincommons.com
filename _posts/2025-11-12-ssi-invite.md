@@ -30,7 +30,13 @@ The goal is ultimately to revisit old principles and to propose new ones while m
 
 To support this project, I’ll be hosting a series of open online calls over the next year to co-develop and discuss revised principles, new proposals, and system guidance. These sessions will welcome technologists, designers, researchers, regulators, and community stewards from across the SSI and identity ecosystem.
 
-The first of these will be December 2nd, at 10am PT (7pm CET) for maximum availability from EU to West Coast. Another session friendlier to Asia/Pacific time zones is planned for the second week of December (time TBD based on participants).
+**Kickoff Meeting 1 — EU/US time compromise**
+- **Tuesday, December 2nd, 2025**
+- **10:00am PT / 7:00pm CET**
+
+**Kickoff Meeting 2 — EU/Tokyo time compromise**
+- **Tuesday, December 9th, 2025 (Tokyo local)**
+- **3:00pm Tokyo / 7:00am CET / (10:00pm PT Monday for the host)**
 
 The goal of these first two meetings is to discuss opportunities for different topics, with the goal of writing up some initial rough "concept papers" (ala RWOT's "topic papers") to scope some of ideas that people have of what needs to be done.
 
@@ -66,6 +72,8 @@ I've written a number of articles about SSI over the years. I think three of the
 * [**Principal Authority: A New Perspective on Self-Sovereign Identity**](https://www.blockchaincommons.com/articles/Principal-Authority/) (2021). How identity should not be framed as property, but as a domain of agency governed by fiduciary duty and inalienable rights.
 
 I am also working on an annotated syllabus of some of the most important papers and articles published the last 9 years. I'll share my initial pass before our first meeting in December.
+
+For more info on everything, see the [Revisiting SSI website](https://revisitingssi.com/).
 
 ## 🤝🏼 Join Us
 

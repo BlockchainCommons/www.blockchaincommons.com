@@ -29,7 +29,7 @@ Blockchain Commons holds a monthly Gordian Developer Meeting, usually on the fir
 If you'd like to become a member of the Gordian Developer community, and receive announcements about upcoming meetings and the release of new resources, you can do so by  joining us on Signal, participating in our Discussions forums, or subscribing to our low-volume Gordian Developers announcement list.
 
 You can find our Signal group at:
-[https://signal.group/#CjQKIL_aIHnJME16vZetIVkfUKtbGj0I-0HWS4VjbVQ-nbnqEhA43xkXc67FKwMi3G3HiUTc](https://signal.group/#CjQKIL_aIHnJME16vZetIVkfUKtbGj0I-0HWS4VjbVQ-nbnqEhA43xkXc67FKwMi3G3HiUTc)
+[https://signal.group/#CjQKIL_aIHnJME16vZetIVkfUKtbGj0I-0HWS4VjbVQ-nbnqEhDH8DY3xBCrEkQ518qDym0k](https://signal.group/#CjQKIL_aIHnJME16vZetIVkfUKtbGj0I-0HWS4VjbVQ-nbnqEhDH8DY3xBCrEkQ518qDym0k)
 
 You can find our GitHub Discussions forum at: [https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions](https://github.com/BlockchainCommons/Gordian-Developer-Community/discussions)
 

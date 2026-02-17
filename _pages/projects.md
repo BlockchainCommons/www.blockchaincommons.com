@@ -143,7 +143,7 @@ Reference libraries demonstrate the use of our specifications. They were origina
 
 **Developer Resources:** [Developer Website](https://developer.blockchaincommons.com/)<br>
 **CLI Apps:** [Bytewords-CLI](https://github.com/BlockchainCommons/bc-bytewords-cli), [dCBOR-CLI](https://github.com/BlockchainCommons/bc-dcbor-cli), [Envelope-CLI-Rust](https://github.com/BlockchainCommons/bc-envelope-cli-rust), [LifeHash-CLI](https://github.com/BlockchainCommons/lifehash-cli), [Provenance-Mark-CLI-Rust](https://github.com/BlockchainCommons/provenance-mark-cli-rust), [Seedtool-CLI-Rust](https://github.com/BlockchainCommons/seedtool-cli-rust) <br>
-**Older CLIs:** [Envelope-CLI-Swift](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool-CLI](https://github.com/BlockchainCommons/bc-keytool-cli), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool-CLI-Swift](https://github.com/BlockchainCommons/bc-seedtool-cli)
+**Older CLIs:** [Envelope-CLI-Swift](https://github.com/BlockchainCommons/envelope-cli-swift), [Keytool-CLI](https://github.com/BlockchainCommons/bc-keytool-cli), [Musign-CLI](https://github.com/BlockchainCommons/musign-cli), [Seedtool-CLI-Swift](https://github.com/BlockchainCommons/bc-seedtool-cli)<br>
 **iOS Apps:** [URDemo](https://github.com/BlockchainCommons/URDemo)<br>
 **Web Apps:** [lifehash.info](https://lifehash.info/), [seedtool.info](https://seedtool.info/), [Spotbit](https://github.com/BlockchainCommons/spotbit)
 
@@ -152,6 +152,13 @@ Apps for the command-line and for iOS and the web can aid developers in testing 
 ## Gordian Reference Apps
 
 Whereas Developer Apps are meant for testing, the Gordian Reference Apps offer best practices and examples of how to incorporate Reference Libraries into applies that support the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles).
+
+### Garner
+
+**Repo:** [garner-rust](https://github.com/BlockchainCommons/garner-rust)<br>
+**Introduction:** [Garner Overview](https://developer.blockchaincommons.com/garner/)
+
+Garner is a developer tool that provides a Tor endpoint for self-sovereign identity. It serves static files over HTTP to allow the retrieval of authenticated identity documents. The Garner CLI tool can be used to create Ed25519 keypairs for use with garner, to run a Garner server to distribute identity documents, and to run a Garner client for retrieving them. Garner has advantages over other methods in self-sovereignty, accessibility, privacy, authentication, and security.
 
 ### Gordian Depo (CSR)
 
@@ -180,6 +187,13 @@ Gordian Seed Tool is Blockchain Commons' most fully featured reference app. It d
 
 Gordian Server installs a self-sovereign Bitcoin Core server, protected by Tor, on your Mac computer. This gives you complete control over your Bitcoin destiny, and supports easy connectivity with [Gordian Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS), [Fully Noded](https://apps.apple.com/us/app/fully-noded/id1436425586), and other wallets that support the [QuickConnect API](https://github.com/BlockchainCommons/Gordian/blob/master/QuickConnect/README.md).
 
+### Hubert
+
+**Repo:** [hubert-rust](https://github.com/BlockchainCommons/hubert-rust)<br>
+**FROST Client Demo:** [frost-hubert-rust](https://github.com/BlockchainCommons/frost-hubert-rust)<br>
+**Introduction:** [Garner Overview](https://developer.blockchaincommons.com/hubert/)
+
+Hubert provides a distributed infrastructure for secure multiparty transactions, such as FROST threshold signature ceremonies, enabling participants to communicate bidirectionally with complete opacity to outsiders. By leveraging write-once distributed storage with cryptographic identifiers, Hubert creates a trustless coordination layer where parties can exchange encrypted messages without relying on centralized servers or exposing sensitive information to network observers.
 
 ### Other Gordian Reference Apps
 
@@ -230,14 +244,22 @@ _Educational projects consist of books, tutorials, or courses, intended to teach
 ### Learning Bitcoin from the Command Line
 
 **Repo:** [Learning-Bitcoin-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)<br>
+**Current Work Branch:**
 **Future:** [Topics for v3.0](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/TODO-30.md)<br>
-**Blog:** [Learning Bitcoin Upgrades to v2](https://www.blockchaincommons.com/courses/Learning-Bitcoin-Upgrades-to-v2/) (10/30/20)
+**Blog:** [Learning Bitcoin Upgrades to v2](https://www.blockchaincommons.com/courses/Learning-Bitcoin-Upgrades-to-v2/) (10/30/20), [Blockchain Commons Receives 2026 Learning Bitcoin Grant from HRF](https://www.blockchaincommons.com/news/Learning-Bitcoin-Grant/) (1/13/26)
 
 <center>
 <a href="images/projects/lbtc.png"><img src="/images/projects/lbtc.png" border="1" width="500"></a>
 </center>
 
 This is a complete twenty-chapter course intended to teach system administrators, developers, and engineers who are already acquainted with the UNIX command line interface how to work with Bitcoin. It uses this methodology to teach the fundamentals of Bitcoin, from RPC communications to how transactions work and how scripts work. The majority of the course is focused on `bitcoin-cli`, but there's also information on scripting, on programming with the RPC interface, and on using other command-line programs, beginning with `lightning-cli`. Translations are now available for [Portuguese](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/blob/master/pt/README.md), with the final iteration of [Spanish](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/tree/spanish-translation/es) pending.
+
+### Learning FROST from the Command Line
+
+**Course:** [Learning Frost from the Command Line](https://learningfrost.blockchaincommons.com/)<br>
+**Repo:** [Learning-FROST-from-the-Command-Line](https://github.com/BlockchainCommons/Learning-FROST-from-the-Command-Line)<br>
+
+Learning FROST from the Command Line is a short course the explains FROST, how it works, and why you'd want to use it, before diving into a hands-on command-line course that creates FROST signatures, verifies FROST signatures, and signs Bitcoin transactions.
 
 <a href="/images/projects/sc.png"><img src="/images/projects/sc.jpg" align="right" border="1" width="200"></a>  
 ### #SmartCustody

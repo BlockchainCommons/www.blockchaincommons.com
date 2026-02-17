@@ -11,7 +11,7 @@ classes:
   - wide
 ---
 
-<a href="https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line">< img src="https://www.blockchaincommons.com/images/projects/lbtc-screen.png" width=300 style="float: right"></a>
+<a href="https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line"><img src="https://www.blockchaincommons.com/images/projects/lbtc-screen.png" width=300 style="float: right"></a>
 
 In previous years, Blockchain Commons has won grants from the [Human Rights Foundation (HRF)](https://hrf.org/) to support our [internship program](https://www.coindesk.com/tech/2020/09/23/blockchain-commons-internship-introduces-new-developers-to-open-source) and our work on [FROST](https://developer.blockchaincommons.com/frost/). We were delighted to [win another grant in 2026](https://hrf.org/latest/hrfs-bitcoin-development-fund-announces-support-for-22-projects-worldwide/) to support a large-scale revamp of [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line).
 

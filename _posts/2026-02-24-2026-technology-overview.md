@@ -71,7 +71,7 @@ _All of our technologies are references. These apps show how many of them work._
 
 * **[dCBOR-CLI](https://github.com/BlockchainCommons/bc-dcbor-cli).** An app for investigating dCBOR, including powerful dCBOR pattern expressions.
 * **[envelope-CLI](https://github.com/BlockchainCommons/bc-envelope-cli-rust).** An app demonstrating extensive envelope and XID functionality.
-* **[Seedtool-CLI](seedtool-cli-rust).** A command-line app that demonstrates data encoding and other low-level protocols.
+* **[Seedtool-CLI](https://github.com/BlockchainCommons/seedtool-cli-rust).** A command-line app that demonstrates data encoding and other low-level protocols.
 * **[Gordian Seedtool](https://apps.apple.com/us/app/gordian-seed-tool/id1545088229).** An iOS seed vault that mirrors seedtool-CLI in a graphical environment.
 
 ## Information Repositories

@@ -6,7 +6,6 @@ excerpt_separator: "<!--more-->"
 categories:
   - News
 tags:
-  - Top Articles
   - Advocacy
   - Credentials
 classes:

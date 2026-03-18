@@ -10,7 +10,7 @@ classes:
   - wide
 ---
 
-Blockchain Commons has been selected to join the Advocacy Co-Organizers Group for the Global Digital Collaboration Conference 2026 in Geneva, Switzerland. It joins a diverse group of four other digital advocacy organizations in this role: Blockchain Governance Initiative Network (BGIN);  Centre for Digital Public Infrastructure; PolicyLab Africa; and the International Federation for Economic Development.
+Blockchain Commons has been selected to join the Advocacy Co-Organizers Group for the [Global Digital Collaboration Conference 2026](https://globaldigitalcollaboration.org/) in Geneva, Switzerland. It joins a diverse group of four other digital advocacy organizations in this role: Blockchain Governance Initiative Network (BGIN);  Centre for Digital Public Infrastructure; PolicyLab Africa; and the International Federation for Economic Development.
 
 The Global Digital Collaboration Conference debuted in 2025 as a meeting place to promote interoperable infrastructure for digital identity. It uniquely includes not just open-source and standards organizations, but also many governments that are even now deploying government-sponsored digital identity systems.
 

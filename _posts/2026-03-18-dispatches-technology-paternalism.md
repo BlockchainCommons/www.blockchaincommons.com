@@ -6,7 +6,7 @@ header:
   og_image: /images/musings-card.jpg
   actions:
     - label: "See All Dispatches"
-      url: /dispatches.html
+      url: /dispatches/
 tagline: "Martina Kolpondinos Takes on Coercive Patterns"
 title: "Dispatches of a Trust Architect: Fighting Technology Paternalism"
 author: "Christopher Allen"

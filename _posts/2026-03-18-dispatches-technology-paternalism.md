@@ -22,7 +22,7 @@ classes:
   - wide
 ---
 
-In 2016, I chose the term "self-sovereign identity" to describe what identity systems should protect. But the community I helped to build has been [getting captured](/musings/musings-gdc25/), as evidenced by [EU wallet regulations](/musings/eidas/) and ISO standards that are consolidating around the same platform gatekeepers we set out to displace. I've been looking for the right word to describe the issues with what's happening to digital identity for a long time.
+In 2016, I chose the term "self-sovereign identity" to describe what identity systems should protect. But the community I helped to build has been [getting captured](/musings/gdc25/), as evidenced by [EU wallet regulations](/articles/eidas/) and ISO standards that are consolidating around the same platform gatekeepers we set out to displace. I've been looking for the right word to describe the issues with what's happening to digital identity for a long time.
 
 "Privacy" doesn't name the problem any more because it [means something different](https://www.lifewithalacrity.com/article/the-four-kinds-of-privacy/) to every regulator in the room. "Decentralization" became a buzzword, but it no longer prevents coercion due to compromises. "Interoperability" has been similarly corrupted by EUDI wallets that claim the term while depending on Apple and Google attestation infrastructures.
 

@@ -3,7 +3,7 @@ header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
   overlay_image: /images/blueprints-letters.jpg
-  og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg
+  og_image: /images/dispatches-card.jpg
   actions:
     - label: "See All Dispatches"
       url: /dispatches/
@@ -23,8 +23,6 @@ redirect_from:
   - /foremembrance
   - /articles/echoes-history/
 ---
-
-![](https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg)
 
 _This article was originally published as an advance reading for [RWOT12 in Köln, Germany](https://www.weboftrust.info/events/#rwot-12-cologne-2023) on August 9, 2023. It has been slightly edited for this reprint._
 

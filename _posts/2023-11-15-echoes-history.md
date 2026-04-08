@@ -8,6 +8,7 @@ header:
     - label: "See All Dispatches"
       url: /dispatches/
 author: Christopher Allen
+tagline: "SSI Discussions from RWOT12"
 title: "Echoes from History: Designing Self-Sovereign Identity with Care"
 categories:
   - Dispatches

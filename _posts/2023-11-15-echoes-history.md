@@ -1,8 +1,16 @@
 ---
+header:
+  overlay_color: "#00f"
+  overlay_filter: "0.5"
+  overlay_image: /images/blueprints-letters.jpg
+  og_image: /images/dispatches-card.jpg
+  actions:
+    - label: "See All Dispatches"
+      url: /dispatches/
 title: "Echoes from History: Designing Self-Sovereign Identity with Care"
 excerpt_separator: "<!--more-->"
 categories:
-  - Articles
+  - Dispatches
 tags:
   - Advocacy
   - Self-Sovereign Identity
@@ -15,6 +23,7 @@ header:
 redirect_from:
   - /Foremembrance
   - /foremembrance
+  - /articles/echoes-history/
 ---
 
 ![](https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg)

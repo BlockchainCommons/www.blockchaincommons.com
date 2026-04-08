@@ -3,7 +3,7 @@ header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
   overlay_image: /images/blueprints-letters.jpg
-  og_image: /images/dispatches-card.jpg
+  og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg
   actions:
     - label: "See All Dispatches"
       url: /dispatches/
@@ -18,8 +18,6 @@ tags:
 classes:
   - wide
 author: Christopher Allen
-header:
-  og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg
 redirect_from:
   - /Foremembrance
   - /foremembrance

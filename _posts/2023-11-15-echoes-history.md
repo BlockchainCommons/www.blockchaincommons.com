@@ -2,26 +2,25 @@
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
-  overlay_image: /images/blueprints-letters.jpg
+  overlay_image: /images/posts/amsterdam.jpg
   og_image: /images/dispatches-card.jpg
   actions:
     - label: "See All Dispatches"
       url: /dispatches/
+author: Christopher Allen
 title: "Echoes from History: Designing Self-Sovereign Identity with Care"
-excerpt_separator: "<!--more-->"
 categories:
   - Dispatches
 tags:
   - Advocacy
   - Self-Sovereign Identity
   - Foremembrance
-classes:
-  - wide
-author: Christopher Allen
 redirect_from:
   - /Foremembrance
   - /foremembrance
   - /articles/echoes-history/
+classes:
+  - wide
 ---
 
 _This article was originally published as an advance reading for [RWOT12 in Köln, Germany](https://www.weboftrust.info/events/#rwot-12-cologne-2023) on August 9, 2023. It has been slightly edited for this reprint._

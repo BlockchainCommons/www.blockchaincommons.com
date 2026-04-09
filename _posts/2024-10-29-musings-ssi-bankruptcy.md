@@ -1,24 +1,25 @@
 ---
 header:
   overlay_color: "#00f"
-  overlay_filter: "0.35"
-  overlay_image: /images/blueprints.jpg
-  og_image: /images/musings-card.jpg
+  overlay_filter: "0.5"
+  overlay_image: /images/blueprints-letters.jpg
+  og_image: /images/dispatches-card.jpg
   actions:
-    - label: "See All Musings"
-      url: /musings.html
+    - label: "See All Dispatches"
+      url: /dispatches/
 tagline: "Does the fault lie not in SSI, but in ourselves?"
-title: "Musings of a Trust Architect: Has our SSI Ecosystem Become Morally Bankrupt?"
+title: "Dispatches of a Trust Architect: Has our SSI Ecosystem Become Morally Bankrupt?"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - Musings
+  - Dispatches
 tags:
   - Self-Sovereign Identity
   - Identity
-image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
+redirect_from:
+  - /musings/musings-ssi-bankruptcy/
 ---
 
 _This topic was presented at IIWXXXIX Fall 2024 on October 29, 2024._

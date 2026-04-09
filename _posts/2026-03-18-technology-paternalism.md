@@ -20,6 +20,8 @@ tags:
   - Self-Sovereign Identity
 classes:
   - wide
+redirect_from:
+  - /dispatches/dispatches-technology-paternalism/
 ---
 
 In 2016, I chose the term "self-sovereign identity" to describe what identity systems should protect. But the community I helped to build has been [getting captured](/musings/gdc25/), as evidenced by [EU wallet regulations](/articles/eidas/) and ISO standards that are consolidating around the same platform gatekeepers we set out to displace. I've been looking for the right word to describe the issues with what's happening to digital identity for a long time.

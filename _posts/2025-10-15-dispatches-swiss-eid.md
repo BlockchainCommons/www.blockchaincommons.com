@@ -2,23 +2,24 @@
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
-  overlay_image: /images/blueprints.jpg
-  og_image: /images/musings-card.jpg
+  overlay_image: /images/blueprints-letters.jpg
+  og_image: /images/dispatches-card.jpg
   actions:
-    - label: "See All Musings"
-      url: /musings.html
+    - label: "See All Dispatches"
+      url: /dispatches/
 tagline: "Solutions for Swiss e-ID and Other Digital Identity Systems"
-title: "Musings of a Trust Architect: Five Anchors to Preserve Autonomy & Sovereignty"
+title: "Dispatches of a Trust Architect: Five Anchors to Preserve Autonomy & Sovereignty"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - Musings
+  - Dispatches
 tags:
   - Advocacy
   - Self-Sovereign Identity
-image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
+redirect_from:
+  - /musings/musings-swiss-eid/
 ---
 
 > **ABSTRACT:** How do you protect autonomy and democratic sovereignty in digital identity systems? This article suggests five foundations: protecting choice by design; building for an extended future; maintaining platform independence; requiring duties; and implementing institutional safeguards.

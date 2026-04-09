@@ -2,26 +2,27 @@
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
-  overlay_image: /images/blueprints.jpg
-  og_image: /images/musings-card.jpg
+  overlay_image: /images/blueprints-letters.jpg
+  og_image: /images/dispatches-card.jpg
   actions:
-    - label: "See All Musings"
-      url: /musings.html
+    - label: "See All Dispatches"
+      url: /dispatches/
 tagline: "Great Identity Legislative in Utah SB 275 Draft -- It Needs Your Support!"
-title: "Musings of a Trust Architect: Progress toward a State-Endorsed Identity (SEDI) in Utah"
+title: "Dispatches of a Trust Architect: Progress toward a State-Endorsed Identity (SEDI) in Utah"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - Musings
+  - Dispatches
 tags:
   - Advocacy
   - Legislation
   - Self-Sovereign Identity
 classes:
   - wide
-image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
+redirect_from:
+  - /musings/Musings-SEDI/
 ---
 
 <img style="float: right" width="350" src="/images/utah.jpg">

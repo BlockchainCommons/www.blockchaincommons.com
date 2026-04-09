@@ -20,7 +20,7 @@ Dispatches of a Trust Architect is a series of articles by [Life with Alacrity a
 <ul>
   {% for post in site.categories.Dispatches %}
     {% if post.url %}
-       {% if post.url contains ":" %}
+       {% if post.title contains ":" %}
            <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
        {% elsif post.tagline %}
            <li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}: {{ post.tagline }}</a></li>  

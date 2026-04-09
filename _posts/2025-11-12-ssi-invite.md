@@ -1,10 +1,18 @@
 ---
+header:
+  overlay_color: "#00f"
+  overlay_filter: "0.5"
+  overlay_image: /images/blueprints-letters.jpg
+  og_image: /images/dispatches-card.jpg
+  actions:
+    - label: "See All Dispatches"
+      url: /dispatches/
 title: "Announcing the 10-Year SSI Revision Project"
 tagline: "Self-Sovereign Identity, 10 Years Later"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 categories:
-  - News
+  - Dispatches
 tags:
   - Advocacy
   - Self-Sovereign Identity

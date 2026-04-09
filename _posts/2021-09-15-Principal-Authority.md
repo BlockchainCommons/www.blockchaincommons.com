@@ -1,16 +1,26 @@
 ---
-title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
+header:
+  overlay_color: "#00f"
+  overlay_filter: "0.5"
+  overlay_image: /images/blueprints-letters.jpg
+  og_image: /images/dispatches-card.jpg
+  actions:
+    - label: "See All Dispatches"
+      url: /dispatches/
+tagline: "A New Perspective on Self-Sovereign Identity"      
+title: "Principal Authority"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 categories:
-  - Articles
+  - Dispatches
 tags:
   - Advocacy
   - Legislation
   - Self-Sovereign Identity
 classes:
   - wide
-image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
+redirect_from:
+  - /articles/Principal-Authority/
 ---
 
 _This summer, we’ve been iterating through an article intended to talk

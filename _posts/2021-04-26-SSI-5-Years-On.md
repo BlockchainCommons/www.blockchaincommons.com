@@ -1,12 +1,12 @@
 ---
 header:
   overlay_color: "#00f"
-  overlay_filter: "0.35"
-  overlay_image: /images/blueprints.jpg
-  og_image: /images/musings-card.jpg
+  overlay_filter: "0.5"
+  overlay_image: /images/blueprints-letters.jpg
+  og_image: /images/dispatches-card.jpg
   actions:
-    - label: "See All Musings"
-      url: /musings.html
+    - label: "See All Dispatches"
+      url: /dispatches/
 tagline: "The Initial Design, Development, and Deployment of SSI"
 title: "Self-Sovereign Identity: 5 Years On"
 author: "Christopher Allen"
@@ -14,11 +14,12 @@ excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - Musings
+  - Dispatches
 tags:
   - Self-Sovereign Identity
   - RWOT
-image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
+redirect_from:
+  - /musings/SSI-5-Years-On/
 ---
 
 _Musings of a Trust Architect is a series of articles by [Life with Alacrity author](http://www.lifewithalacrity.com/) and Blockchain Commons founder Christopher Allen that lays out some of the foundational ideas and philosophies behind the technology of Blockchain Commons._

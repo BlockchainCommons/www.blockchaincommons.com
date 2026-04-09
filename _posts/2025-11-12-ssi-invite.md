@@ -18,6 +18,8 @@ tags:
   - Self-Sovereign Identity
 classes:
   - wide
+redirect_from:
+  - /news/ssi-invite/
 ---
 
 In 2016, I published The Path to Self-Sovereign Identity (https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) and with it proposed ten foundational principles for digital identity systems. These principles were centered on human dignity, agency, and consent and quickly became a touchstone in the emerging world of Self-Sovereign Identity.

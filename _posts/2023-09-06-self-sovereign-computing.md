@@ -1,21 +1,30 @@
 ---
+header:
+  overlay_color: "#00f"
+  overlay_filter: "0.5"
+  overlay_image: /images/self-sovereign-computing.jpg
+  og_image: /images/self-sovereign-computing.jpg
+  actions:
+    - label: "See All Dispatches"
+      url: /dispatches/
+tagline: "Become the Captain of your Digital Voyage"
 title: "Self-Sovereign Computing"
 author: "Christopher Allen"
-header:
-  og_image: /images/self-sovereign-computing.jpg
 excerpt_separator: "<!--more-->"
 categories:
   - Articles
 tags:
   - Self-Sovereign Computing
-  - Self-Sovereign Identit
+  - Self-Sovereign Identity
 classes:
   - wide
+redirect_from:
+  - /articles/self-sovereign-computing/
 ---
 
 ![](https://www.blockchaincommons.com/images/self-sovereign-computing.jpg)
 
-> ***ABSTRACT:*** Self-Sovereign Computing is a transformative paradigm designed to empower individuals to take command of their digital journey and to uphold their dignity, human rights, and resilience online. It encourages proactive collaboration among individuals, collectives, and platforms to enhance digital autonomy and to mitigate vulnerabilities. Building on Christopher’s initial ideas of self-sovereign identity, self-sovereign computing introduces an allegory that revisits some foundational influences and recognizes self-sovereignty not just as a personal choice but as something that’s part of a larger ecosystem._
+> ***ABSTRACT:*** Self-Sovereign Computing is a transformative paradigm designed to empower individuals to take command of their digital journey and to uphold their dignity, human rights, and resilience online. It encourages proactive collaboration among individuals, collectives, and platforms to enhance digital autonomy and to mitigate vulnerabilities. Building on Christopher’s initial ideas of self-sovereign identity, self-sovereign computing introduces an allegory that revisits some foundational influences and recognizes self-sovereignty not just as a personal choice but as something that’s part of a larger ecosystem.
 
 _In 2016, Christopher Allen authored ["The Path to Self-Sovereign Identity"](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html), where he introduced the concept of “Self-Sovereignty” to the world, with its ten principles. Five years later, he offered an [update](https://www.blockchaincommons.com/musings/SSI-5-Years-On/) on its progress. Today, the self-sovereign community continues to evolve, with recent successes including [the ratification of DIDs](https://www.blockchaincommons.com/news/specifications/DIDs-Ratified/) and the passage of [laws in Wyoming](https://www.blockchaincommons.com/articles/Principal-Authority/) that recognized self-sovereignty. Given the time that had passed, Christopher also wrote an article talking about [The Origins of Self-Sovereign Identity](https://www.blockchaincommons.com/musings/origins-SSI/)._
 

@@ -7,7 +7,7 @@ header:
   actions:
     - label: "See All Dispatches"
       url: /dispatches/
-tagline: "Great Identity Legislative in Utah SB 275 Draft -- It Needs Your Support!"
+tagline: "Great Identity Legislative Signed into Law March 25"
 title: "Dispatches of a Trust Architect: Progress toward a State-Endorsed Identity (SEDI) in Utah"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
@@ -27,6 +27,8 @@ redirect_from:
 
 <img style="float: right" width="350" src="/images/utah.jpg">
 
+> **UPDATE, March 25, 2026:** SB 275 signed into law by Governor.
+> 
 > **UPDATE, March 5, 2026:** SB 275 has passed the Utah legislature unanimously — the Senate voted 25-0 and the House 70-0 — and has been sent to the governor for signature. It takes effect May 6, 2026. This is a huge win. If you're in Utah, thank your representatives. If you're in another state, point your legislators at [SB 275](https://le.utah.gov/~2026/bills/static/SB0275.html) and [Wyoming SF39](https://wyoleg.gov/Legislation/2021/SF0039) as model legislation. The fight now shifts to preservation — watch for future amendments that weaken the Duty of Loyalty or selective disclosure protections.
 
 Most of my identity advocacy work in the United States has been in Wyoming. They've been very open to the goals of self-sovereignty and as a result we've passed laws such as [private key protection](https://www.blockchaincommons.com/news/PrivateKeyWRDABills/) and we've defined digital identity as being controlled by an individual's [principal authority](https://www.blockchaincommons.com/articles/Principal-Authority/).

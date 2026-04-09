@@ -12,7 +12,7 @@ title: "Self-Sovereign Computing"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 categories:
-  - Musings
+  - Dispatches
 tags:
   - Self-Sovereign Computing
   - Self-Sovereign Identity

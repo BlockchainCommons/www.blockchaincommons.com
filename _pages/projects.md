@@ -191,7 +191,7 @@ Hubert provides a distributed infrastructure for secure multiparty transactions,
 
 ### Other Gordian Reference Apps
 
-**Legacy Repos:** [Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator), [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
+**Legacy Repos:** [Coordinator](https://github.com/BlockchainCommons/iOS-GordianCoordinator), [Cosigner iOS](https://github.com/BlockchainCommons/GordianCosigner-iOS), [Cosigner Android](https://github.com/BlockchainCommons/GordianSigner-Android), or [Cosigner macOS](https://github.com/BlockchainCommons/GordianSigner-macOS), [Server](https://github.com/BlockchainCommons/GordianServer-macOS), [Wallet](https://github.com/BlockchainCommons/GordianWallet-iOS)<br>
 **Hardware Repos:** [Lethekit](https://github.com/BlockchainCommons/lethekit)<br>
 **Research Repos:** [Mori-CLI](https://github.com/BlockchainCommons/mori-cli), [Sweeptool](https://github.com/BlockchainCommons/sweeptool-cli)
 
@@ -255,7 +255,16 @@ This is a complete twenty-chapter course intended to teach system administrators
 
 Learning FROST from the Command Line is a short course the explains FROST, how it works, and why you'd want to use it, before diving into a hands-on command-line course that creates FROST signatures, verifies FROST signatures, and signs Bitcoin transactions.
 
+### Learning XIDs from the Command Line
+
+**Course:** [Learning XIDs from the Command Line](http://learningxids.blockchaincommons.com/)<br>
+**Repo:** [XID-Quickstart](https://github.com/BlockchainCommons/XID-Quickstart)<br>
+**Article:** ["How XIDs Demonstrate a True Self-Sovereign Identity"](https://www.blockchaincommons.com/musings/XIDs-True-SSI/)
+
+Learning XIDs from the Command Line is a short course that explains the Blockchain Commons identifier, how it returns to the core principles of self-sovereign identity, and shows how to use it with hands-on demonstrations.
+
 <a href="/images/projects/sc.png"><img src="/images/projects/sc.jpg" align="right" border="1" width="200"></a>  
+
 ### #SmartCustody
 
 **PDF:** [#SC v1.01](https://bit.ly/SmartCustodyBookV101)<br>

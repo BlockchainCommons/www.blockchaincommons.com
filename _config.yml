@@ -26,7 +26,8 @@ blog_title: Blockchain Commons Blog
 url: https://www.blockchaincommons.com
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+markdown: GFM
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/

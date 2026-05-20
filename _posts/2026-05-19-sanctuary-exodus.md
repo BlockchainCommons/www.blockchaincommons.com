@@ -113,8 +113,7 @@ We must use that opportunity to build a foundation that won't fall.
 
     > "Today we are publishing the EF Mandate, a document that serves as part constitution, part manifesto, and part guide for the Ethereum Foundation. … We are here to uncapture the individual, and to entrench their freedoms of association."
 
-[^Aue2026]: ***co-ED Announcement*** (2026). \[X post\]. *Aue, Bastian.* @aerugoettinea
-, February 13, 2026. Retrieved 2026-05-19 from: <https://x.com/aerugoettinea/status/2022318885047779576>
+[^Aue2026]: ***co-ED Announcement*** (2026). \[X post\]. *Aue, Bastian.* @aerugoettinea, February 13, 2026. Retrieved 2026-05-19 from: <https://x.com/aerugoettinea/status/2022318885047779576>
 
     > "The mandate of the EF is to make sure that real permissionless infrastructure, cypherpunk at its core, is what gets built." — Bastian Aue, on his appointment as Co-Executive Director.
 

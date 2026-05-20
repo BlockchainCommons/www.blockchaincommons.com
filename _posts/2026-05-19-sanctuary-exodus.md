@@ -117,15 +117,15 @@ We must use that opportunity to build a foundation that won't fall.
 
     > "The mandate of the EF is to make sure that real permissionless infrastructure, cypherpunk at its core, is what gets built." — Bastian Aue, on his appointment as Co-Executive Director.
 
-[^AllenExodus]: ***The Exodus Protocol*** (2025). \[blog post\]. *Allen, Christopher.* Life with Alacrity, October 28, 2025. Retrieved 2026-05-19 from: https://www.lifewithalacrity.com/article/musings-exodus.protocol/. 
+[^AllenExodus]: ***The Exodus Protocol*** (2025). \[blog post\]. *Allen, Christopher.* Life with Alacrity, October 28, 2025. Retrieved 2026-05-19 from: <https://www.lifewithalacrity.com/article/musings-exodus.protocol/>
 
     > "An Exodus Protocol is only successful if it’s designed to actually empower through autonomous service. We don’t want to just create a new digital prison. To design for success requires five architectural principles that help to create the architecture of autonomy itself."
     
-[^AllenRSSI]: ***Revisiting SSI*** (2025-2026). \[web site\]. Retrieved 2026-05-19 from: https://revisitingssi.com/.
+[^AllenRSSI]: ***Revisiting SSI*** (2025-2026). \[web site\]. Retrieved 2026-05-19 from: <https://revisitingssi.com/>
 
     > "In the decade since their publication, SSI has evolved from a provocative idea into infrastructure deployed by governments, companies, communities, and open protocols. At the same time, the sociotechnical environment around identity has been transformed by new technologies and new platform models that challenge the assumptions of 2016."
 
-[^AllenSSI]: ***The Path to Self-Sovereign Identity*** (2016). \[blog post\]. *Allen, Christopher.* Life with Alacrity, April 26, 2016. Retrieved 2026-05-19 from: https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/. 
+[^AllenSSI]: ***The Path to Self-Sovereign Identity*** (2016). \[blog post\]. *Allen, Christopher.* Life with Alacrity, April 26, 2016. Retrieved 2026-05-19 from: <https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/> 
 
     > "Self-sovereign identity is the next step beyond user-centric identity and that means it begins at the same place: the user must be central to the administration of identity. That requires not just the interoperability of a user’s identity across multiple locations, with the user’s consent, but also true user control of that digital identity, creating user autonomy. To accomplish this, a self-sovereign identity must be transportable; it can’t be locked down to one site or locale."
 

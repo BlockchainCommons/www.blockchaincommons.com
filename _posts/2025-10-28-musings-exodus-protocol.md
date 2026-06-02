@@ -18,7 +18,6 @@ categories:
 tags:
   - Clubs
   - Exodus Protocol
-  - Top Articles
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 

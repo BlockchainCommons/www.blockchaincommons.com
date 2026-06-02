@@ -15,7 +15,7 @@ classes:
 
 Amira is a use case for pseudonymous identity that has grown over time, and today is available as a fully featured demo, showing the power of what was imagined almost a decade ago.
 
-If you're already familiar with the Amira use case, you'll be most interested in [how we've made Amira a reality with XIDs](). Jump to that!
+If you're already familiar with the Amira use case, you'll be most interested in [how we've made Amira a reality with XIDs](#xid-amira-demo-may-2026). Jump to that!
 
 ## Original Issue (January 2017)
 

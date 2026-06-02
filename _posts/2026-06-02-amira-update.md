@@ -70,7 +70,7 @@ XIDs take a step beyond W3C DIDs, which ended up [compromised](https://www.block
 
 Our newest version of the Amira story therefore demonstrates not just the ideas of pseudonmyous identity that Christopher first imagined back in 2017, but also how they can apply to true self-sovereignty.
 
-### The Amira 1.0.0 Requirements
+### Amira 1.0.0 Requirements
 
 Amira was always intended as a use case that could lay out requirements that would define real-world usage of pseudonymous identity. Here's a run-down of some of the most important requirements identified in the Amira 1.0.0 white paper, referenced with the step numbers in the engagement model.
 

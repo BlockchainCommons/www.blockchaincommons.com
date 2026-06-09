@@ -99,10 +99,10 @@ See our videos <a href="https://www.youtube.com/watch?v=-vcLCFKQvik">Understandi
 
 ## Related Reading
 
-- BCR-2024-006, *Envelope as a Universal Graph Substrate* — https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2024-006-envelope-graph.md
-- *Problems of Cryptographic Agility* — https://www.blockchaincommons.com/musings/musings-agility/
-- *Data Minimization & Selective Disclosure* — https://www.blockchaincommons.com/musings/musings-data-minimization/
-- *Progressive Trust* — https://www.blockchaincommons.com/musings/musings-progressive-trust/
-- *Progress Trust Life Cycle* — https://www.blockchaincommons.com/musings/musings-progressive-trust-lifecycle/
-- *Minimum Viable Architecture* — https://www.blockchaincommons.com/musings/musings-mva/
-- *When Technical Standards Meet Geopolitical Reality* — https://www.blockchaincommons.com/musings/gdc25/
+- BCR-2024-006, *Envelope as a Universal Graph Substrate* — [https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2024-006-envelope-graph.md](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2024-006-envelope-graph.md)
+- *Problems of Cryptographic Agility* — [https://www.blockchaincommons.com/musings/musings-agility/](https://www.blockchaincommons.com/musings/musings-agility/)
+- *Data Minimization & Selective Disclosure* — [https://www.blockchaincommons.com/musings/musings-data-minimization/](https://www.blockchaincommons.com/musings/musings-data-minimization/)
+- *Progressive Trust* — [https://www.blockchaincommons.com/musings/musings-progressive-trust/](https://www.blockchaincommons.com/musings/musings-progressive-trust/)
+- *Progress Trust Life Cycle* — [https://www.blockchaincommons.com/musings/musings-progressive-trust-lifecycle/](https://www.blockchaincommons.com/musings/musings-progressive-trust-lifecycle/)
+- *Minimum Viable Architecture* — [https://www.blockchaincommons.com/musings/musings-mva/](https://www.blockchaincommons.com/musings/musings-mva/)
+- *When Technical Standards Meet Geopolitical Reality* — [https://www.blockchaincommons.com/musings/gdc25/](https://www.blockchaincommons.com/musings/gdc25/)

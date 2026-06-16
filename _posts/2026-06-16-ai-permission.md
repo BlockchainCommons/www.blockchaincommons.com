@@ -55,7 +55,7 @@ This is where my own framing comes in, because the shape is not new. When I co-a
 
 Permissioned AI is the biggest such hole yet. It is the inversion I have spent years naming: a right quietly rewritten as a revocable privilege. The test is simple: when a capability depends on someone’s approval, it is not a right. It is permission.
 
-<h2>The way out is the one that has always worked: Exit</h2>h2>
+<h2>The way out is the one that has always worked: Exit</h2>
 
 As I say in ["The Exodus Protocol"](/musings/musings-exodus-protocol/):
 

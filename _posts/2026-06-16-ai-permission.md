@@ -7,7 +7,7 @@ header:
   actions:
     - label: "See All Dispatches"
       url: /dispatches/
-tagline: "..."
+tagline: '"We are human beings, not digital serfs."'
 title: "Dispatches of a Trust Architect: When Intelligence Becomes a Permission"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"

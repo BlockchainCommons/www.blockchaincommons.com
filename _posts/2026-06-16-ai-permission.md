@@ -17,6 +17,8 @@ categories:
   - Dispatches
 tags:
   - AI
+  - Self-Sovereign Computing
+  - Exodus Protocol
 classes:
   - wide
 ---

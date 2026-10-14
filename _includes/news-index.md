@@ -1,2 +1,5 @@
-**Latest News:** [Second quarter report](https://www.blockchaincommons.com/quarterlies/Q2-2026-Report/) published (7/22/26). Released phase 1 (resources, technology) of [Developer Pages](https://developer.blockchaincommons.com/) update (7/21/26). [Learning XIDs chapter 5 "Manging Your Keys" published](https://learningxids.blockchaincommons.com/05_0_Keys/) (5/12/26). Updated work on [Learning Bitcoin](https://learningbitcoin.blockchaincommons.com/) made available as a mkdocs (4/30/26). [Learning XIDs chapters 1-4 published](http://learningxids.blockchaincommons.com/) (4/8/26). New [Technology Overview video](https://www.youtube.com/watch?v=f7MFW8RfcOE) published for 2026. (2/24/26). 
+**Latest News:** Completed full draft of new [dev pages](https://developer.blockchaincommons.com/) (10/14/26).
+[Third quarter report](https://www.blockchaincommons.com/quarterlies/Q3-2026-Report/) released (10/7/26).
+Demoed ["Sharding Secrets to Protect Your Bitcoin"](https://developer.blockchaincommons.com/meetings/2026-08-resilience/) from ongoing update of [Learning Bitcoin](https://learningbitcoin.blockchaincommons.com/) (8/5/26).
+[Second quarter report](https://www.blockchaincommons.com/quarterlies/Q2-2026-Report/) published (7/22/26). 
 {: .notice--info}

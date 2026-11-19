@@ -21,15 +21,15 @@ tags:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
-> **ABSTRACT:** Unencrypted data isn't safe. Centralized servers aren't reliable. Gordian Club offer an alternative: the autonomous cryptographic object (ACO). Self-contained objects protected by cryptography can be passed around with minimal possibility of surveillance or censorship. It's great for a number of use cases where infrastructure is unreliable, from work in politically unstable regions to disaster response.
+> **ABSTRACT:** Unencrypted data isn't safe. Centralized servers aren't reliable. Gordian Clubs offer an alternative: the autonomous cryptographic object (ACO). Self-contained objects protected by cryptography can be passed around with minimal possibility of surveillance or censorship. It's great for a number of use cases where infrastructure is unreliable, from work in politically unstable regions to disaster response.
 
 ___Imagine:___ A reporter maintains a list of sources and the information they provided for an article critical of the federal government. This is a requirement for fact-checking any serious news story or for later defending it in a court of law. But the federal government illegally seizes the list and jails the sources.
 
-___Imagine:___ A protest group uses a supposedly secure messaging app to coordinate, but the government threatens the app store, who substitutes a version that records all of the information that should be encrypted. The government then begin arresting participants at home, before the protests even begin.
+___Imagine:___ A protest group uses a supposedly secure messaging app to coordinate, but the government threatens the app store, who substitutes a version that records all of the information that should be encrypted. The government then begins arresting participants at home, before the protests even begin.
 
 ___Imagine:___ An immigrant flees a totalitarian regime. They carry with them a digital cache of their identity credentials, which will be necessary to immigrate elsewhere. But a border patrol catches them exiting their country and confiscates their records. The government uses their control of internet infrastructure to block future attempts to verify the credentials, which all [phone home](https://www.blockchaincommons.com/news/No-Phone-Home/). The emigrant is let go, but now not only cannot immigrate, but will also have problems proving their identity in their own country.
 
-These stories are unfortunately no longer restricted to problematic countries on the edge of global democratic society: authoritarianism is spreading across the entire world. In the United States alone, unwarranted searches and seizures, violations of free speech rights, and illegal use of military forces for domestic peacekeeping are  on the rise. As a result: unencrypted data is no long safe, because we can't be certain it won't be illegally seized; centralized services are no longer trustworthy, because they have shown that they will bow to dictatorial whims; and centralized servers are no longer reliable, because their usage could be censored through infrastructural control.
+These stories are unfortunately no longer restricted to problematic countries on the edge of global democratic society: authoritarianism is spreading across the entire world. In the United States alone, unwarranted searches and seizures, violations of free speech rights, and illegal use of military forces for domestic peacekeeping are on the rise. As a result: unencrypted data is no longer safe, because we can't be certain it won't be illegally seized; centralized services are no longer trustworthy, because they have shown that they will bow to dictatorial whims; and centralized servers are no longer reliable, because their usage could be censored through infrastructural control.
 
 Protecting data, especially in a world of services that profit off of user content, is a serious problem that I've long struggled with. Unfortunately, the problem is coming to a head. In a globally connected society, we can no longer trust data, servers, or services that are outside of our personal control. New solutions are required, not just to ensure our human rights, but to ensure our personal safety.
 
@@ -48,11 +48,11 @@ This might be the most important part of an ACO because it creates a number of f
 * **Disaster Resilience.** Available during infrastructure failure.
 * **Censorship Resistance.** No fiat controlling access.
 
-**The Power of Cryptography:** Meanwhile, cryptography is the math. The "C" in ACO says that your autonomous control of the object is dependent upon set mathematical rules rather the arbitrary decision of some external force. It's what allows you to escape the fragility of centralized servers: math doesn't bow to authoritarian dictates.
+**The Power of Cryptography:** Meanwhile, cryptography is the math. The "C" in ACO says that your autonomous control of the object is dependent upon set mathematical rules rather than the arbitrary decision of some external force. It's what allows you to escape the fragility of centralized servers: math doesn't bow to authoritarian dictates.
 
 **The Power of Objects:** Finally, the "O" in ACO isn't just a neutral descriptor. It says that an ACO is a discrete (and, yes, autonomous) thing that can be stored or passed around as users see fit, without the need for a specific network. Calling it an object differentiates it from a client or a server or something else dependent on a global communication infrastructure.
 
-Using ACOs is a paradigm shift. Traditionally, access control was at the whim of administrators. With ACOs, access control (and the information they protect) is determined by the pure math of cryptography instead. It's a change from the serfdom of asking "Mother, May I?" to the agency of saying "Yes, I Can." It creates infrastructure that you control, rather than infastructure that controls you.
+Using ACOs is a paradigm shift. Traditionally, access control was at the whim of administrators. With ACOs, access control (and the information they protect) is determined by the pure math of cryptography instead. It's a change from the serfdom of asking "Mother, May I?" to the agency of saying "Yes, I Can." It creates infrastructure that you control, rather than infrastructure that controls you.
 
 ## Join the Gordian Club
 
@@ -89,7 +89,7 @@ Gordian Clubs make ACOs concrete by following five principles that I've develope
 
 1. **Operate Without External Dependencies.** Everything you need is within the Gordian Club: data and permissions truly operate autonomously.
 2. **Encode Rules in Mathematics, Not Policy.** Permits are accessed through mathematical (cryptographic) constructs such as private keys or secret shares.
-3. **Make Constraints Load-Bearing.** Members can't be removed from a Gordian Club Edition, but that also means permissions can't be unilaterally revoked. Gordon Clubs don't have live interactivity, but that means they can't be censored by a network.
+3. **Make Constraints Load-Bearing.** Members can't be removed from a Gordian Club Edition, but that also means permissions can't be unilaterally revoked. Gordian Clubs don't have live interactivity, but that means they can't be censored by a network.
 4. **Preserve Exit Through Portability.** An ACO that can be freely passed around without network infrastructure is the definition of portability.
 5. **Work Offline and Across Time.** Gordian Clubs are meant to be used offline; archival is a major use case, allowing access across a large span of time.
 
@@ -117,7 +117,7 @@ Take a look, but more importantly let me know [_how will you use Gordian clubs?_
 
 For more on Gordian Clubs, take a look at our developer pages:
 
-* [Gordina Clubs Overview](https://developer.blockchaincommons.com/clubs/)
+* [Gordian Clubs Overview](https://developer.blockchaincommons.com/clubs/)
 * [The Power of Autonomy](https://developer.blockchaincommons.com/clubs/autonomy/)
 * [Gordian Technology](https://developer.blockchaincommons.com/clubs/technology/)
 * [ocaps and Delegation](https://developer.blockchaincommons.com/clubs/ocaps/)
